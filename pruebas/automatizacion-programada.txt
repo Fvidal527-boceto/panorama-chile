@@ -1,0 +1,4 @@
+PANORAMA - prueba de escritura desde tarea programada
+Fecha y hora de ejecución: 2026-10-24 20:57:37 (America/Santiago, UTC-03:00)
+Prueba de escritura desde tarea programada
+Archivo de verificación: no modifica ediciones ni portada pública.
