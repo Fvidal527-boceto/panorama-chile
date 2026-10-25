@@ -4,11 +4,73 @@
 <body><header><div class="top"><div class="brand">PANORAMA</div><div class="date" id="update">Una publicación independiente</div></div><div class="kicker">Periodismo · Contexto · Análisis</div></header>
 <main><div class="strap"><span>Chile · América · Europa · Mundo</span><span>Dos miradas sobre un mismo día</span></div><p class="intro">Una edición para comprender lo que ocurre. Otra para seguir lo que cambió.</p>
 <section class="edition-grid" aria-label="Ediciones"><article class="edition"><span>Al comenzar el día</span><h2>Edición matinal</h2><p id="matmeta">Lectura con contexto, fuentes y análisis.</p><button id="matbtn" type="button">Leer edición matinal</button></article><article class="edition"><span>Al avanzar la jornada</span><h2>Edición vespertina</h2><p id="vesmeta">Los hechos nuevos, los cambios y las preguntas abiertas.</p><button id="vesbtn" type="button" disabled>Próximamente</button></article></section>
-<div class="reading-head"><h2 id="reading-title">Edición matinal</h2><a id="direct" href="ediciones/actual/matinal.html" target="_blank" rel="noopener noreferrer">Abrir edición en pestaña completa</a></div>
-<div class="reader"><iframe id="reader" title="Lector de PANORAMA" src="ediciones/actual/matinal.html" loading="eager"></iframe></div>
+<p class="note" id="publication-status" role="status" aria-live="polite"></p>
+<div class="reading-head"><h2 id="reading-title">Edición matinal</h2><a id="direct" href="ediciones/2026-10-24/matinal.html" target="_blank" rel="noopener noreferrer">Abrir edición en pestaña completa</a></div>
+<div class="reader"><iframe id="reader" title="Lector de PANORAMA" src="ediciones/2026-10-24/matinal.html" loading="eager"></iframe></div>
 <p class="note">Los enlaces a fuentes originales dentro de cada edición abren una pestaña independiente. Las ediciones anteriores se conservan en el archivo.</p>
 <section class="archive"><h2>Archivo de ediciones</h2><ul id="archive"><li><a href="ediciones/2026-10-24/matinal.html">Matinal · 24 de octubre de 2026</a></li></ul></section>
 </main><footer>PANORAMA · Publicación personal e independiente. Las fuentes se identifican dentro de cada edición.</footer>
 <script>
-(function(){const $=id=>document.getElementById(id);function read(v,type){if(!v||!v.url)return;const u=new URL(v.url,location.href);if(u.origin!==location.origin)return;$('reader').src=u.href;$('direct').href=u.href;$('reading-title').textContent=type==='matinal'?'Edición matinal':'Edición vespertina';$('reader').scrollIntoView({behavior:'smooth',block:'start'});}fetch('ediciones/indice.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('No disponible');return r.json()}).then(d=>{if(!d.latest)return;const m=d.latest.matinal,v=d.latest.vespertina;$('matmeta').textContent=m?.titulo||'Matinal pendiente';$('vesmeta').textContent=v?.titulo||'La próxima edición vespertina se publicará cuando esté disponible';$('matbtn').disabled=!m;$('matbtn').onclick=()=>read(m,'matinal');$('vesbtn').disabled=!v;$('vesbtn').textContent=v?'Leer edición vespertina':'Próximamente';$('vesbtn').onclick=()=>read(v,'vespertina');if(m){$('reader').src=new URL(m.url,location.href).href;$('direct').href=new URL(m.url,location.href).href;}$('update').textContent='Última actualización: '+(d.updated_at||'sin fecha');if(Array.isArray(d.archivo)){$('archive').replaceChildren();for(const item of d.archivo){if(!item.url)continue;const li=document.createElement('li'),a=document.createElement('a');a.href=new URL(item.url,location.href).href;a.textContent=item.titulo||item.fecha;li.appendChild(a);$('archive').appendChild(li);}}}).catch(()=>{$('matbtn').onclick=()=>read({url:'ediciones/actual/matinal.html'},'matinal');});})();
+(function(){
+'use strict';
+const $=id=>document.getElementById(id);
+let selected=false;
+function safeURL(value){
+  if(typeof value!=='string')return null;
+  try{const u=new URL(value,document.baseURI),base=new URL('.',document.baseURI);
+    if(u.origin!==base.origin||!u.pathname.startsWith(base.pathname+'ediciones/')||!/^ediciones\/\d{4}-\d{2}-\d{2}\/(matinal|vespertina)\.html$/.test(u.pathname.slice(base.pathname.length))||u.search||u.hash)return null;
+    return u.href;
+  }catch{return null;}
+}
+function edition(item,type){
+  if(!item||!/^\d{4}-\d{2}-\d{2}$/.test(item.fecha)||!['matinal','vespertina'].includes(type))return null;
+  const url=safeURL('ediciones/'+item.fecha+'/'+type+'.html');
+  return url?{...item,tipo:type,url}:null;
+}
+function read(item,scroll){
+  if(!item||!safeURL(item.url))return;
+  selected=true;
+  $('reader').src=item.url;
+  $('direct').href=item.url;
+  $('reading-title').textContent=item.titulo||('Edición '+item.tipo+' · '+item.fecha);
+  $('reader').title=$('reading-title').textContent;
+  for(const [type,id] of [['matinal','matbtn'],['vespertina','vesbtn']])$(id).setAttribute('aria-pressed',String(type===item.tipo));
+  if(scroll)$('reading-title').scrollIntoView({behavior:'smooth',block:'start'});
+}
+async function refresh(){
+  try{
+    const r=await fetch('pruebas/indice-validacion.json?v='+Date.now(),{cache:'no-store'});
+    if(!r.ok)throw Error('Índice no disponible');
+    const d=await r.json();
+    if(!d.latest||!Array.isArray(d.archivo))throw Error('Índice inválido');
+    const m=edition(d.latest.matinal,'matinal'),v=edition(d.latest.vespertina,'vespertina');
+    if(!m&&!v)throw Error('Sin ediciones disponibles');
+    for(const [item,meta,btn,type] of [[m,'matmeta','matbtn','matinal'],[v,'vesmeta','vesbtn','vespertina']]){
+      $(meta).textContent=item?.titulo||'La próxima edición se mostrará cuando esté publicada';
+      $(btn).disabled=!item;$(btn).textContent=item?'Leer edición '+type:'Próximamente';
+      $(btn).onclick=()=>read(item,true);
+    }
+    const archive=d.archivo.map(x=>edition(x,x.tipo)).filter(Boolean).sort((a,b)=>b.fecha.localeCompare(a.fecha)||(a.tipo===b.tipo?0:a.tipo==='vespertina'?-1:1));
+    $('archive').replaceChildren();
+    const seen=new Set();
+    for(const item of archive){if(seen.has(item.url))continue;seen.add(item.url);
+      const li=document.createElement('li'),a=document.createElement('a');a.href=item.url;a.textContent=item.titulo||item.fecha;
+      a.onclick=e=>{if(e.button||e.ctrlKey||e.metaKey||e.shiftKey||e.altKey)return;e.preventDefault();read(item,true);};
+      li.appendChild(a);$('archive').appendChild(li);
+    }
+    if(!selected){const wanted=new URLSearchParams(location.search).get('edicion');
+      const candidates=[m,v].filter(Boolean).sort((a,b)=>b.fecha.localeCompare(a.fecha)||(a.tipo==='vespertina'?-1:1));
+      read((wanted==='matinal'?m:wanted==='vespertina'?v:null)||candidates[0],false);
+    }
+    const date=new Date(d.updated_at);
+    $('update').textContent=Number.isNaN(date.getTime())?'Ediciones disponibles':'Última actualización: '+new Intl.DateTimeFormat('es-CL',{dateStyle:'long',timeStyle:'short',timeZone:'America/Santiago'}).format(date)+' · Santiago';
+    $('publication-status').textContent='';
+  }catch{
+    $('publication-status').textContent='No pudimos actualizar el listado. Puedes leer la edición ya cargada o volver a intentar más tarde.';
+    if(!selected)$('matbtn').onclick=()=>read({url:new URL('ediciones/2026-10-24/matinal.html',document.baseURI).href,tipo:'matinal',fecha:'2026-10-24',titulo:'Matinal · 24 de octubre de 2026'},true);
+  }
+}
+refresh();
+setInterval(()=>{if(!document.hidden)refresh();},300000);
+})();
 </script></body></html>
