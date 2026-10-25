@@ -40,18 +40,6 @@ html,body{background:#f5efe4!important;color:#293633!important}a{color:#7d4b35!i
 .lead-side .side-rail .story{margin-bottom:5mm!important}
 .feature-unit{display:grid!important;grid-template-columns:1.25fr .75fr!important}
 .feature-viz{break-inside:avoid!important}
-
-/* Composición 2.3: principal a todo el ancho + dos noticias en paralelo. */
-.balanced-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px 34px;align-items:start}
-.balanced-grid>.story{min-width:0;margin:0;padding-top:16px;border-top:1px solid var(--line)}
-.balanced-grid>.story:first-child{grid-column:1/-1;padding-top:0;border-top:0;padding-bottom:24px;border-bottom:3px solid var(--copper)}
-.balanced-grid>.story:first-child>h3{font-size:clamp(28px,3.2vw,36px);max-width:940px}
-.balanced-grid>.story:first-child>.change{max-width:940px;margin-bottom:16px}
-.balanced-grid .story-flow{columns:2;column-gap:34px;column-rule:1px solid var(--line)}
-.balanced-grid .story-flow>p{orphans:3;widows:3}
-.balanced-grid .story-flow>.why,.balanced-grid .story-flow>.sources{break-inside:avoid}
-@media(max-width:800px){.balanced-grid{display:block}.balanced-grid>.story{margin-bottom:24px}.balanced-grid .story-flow{columns:auto}.balanced-grid>.story:first-child{padding-bottom:18px}}
-
 </style><style media="print">
 #brasil .feature-unit{display:block!important;}
 #brasil .feature-viz{display:block!important;margin:3mm 0;padding:2.4mm 4mm!important;min-height:0!important;}
@@ -63,31 +51,7 @@ html,body{background:#f5efe4!important;color:#293633!important}a{color:#7d4b35!i
 #brasil .feature-copy .story h3{font-size:22pt!important;}
 #brasil .stories{display:grid!important;grid-template-columns:1fr 1fr!important;gap:6mm!important;columns:auto!important;}
 #brasil .stories .story:not(:first-child){border-top:0!important;padding-top:0!important;}
-
-/* Composición 2.3: principal a todo el ancho + dos noticias en paralelo. */
-.balanced-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px 34px;align-items:start}
-.balanced-grid>.story{min-width:0;margin:0;padding-top:16px;border-top:1px solid var(--line)}
-.balanced-grid>.story:first-child{grid-column:1/-1;padding-top:0;border-top:0;padding-bottom:24px;border-bottom:3px solid var(--copper)}
-.balanced-grid>.story:first-child>h3{font-size:clamp(28px,3.2vw,36px);max-width:940px}
-.balanced-grid>.story:first-child>.change{max-width:940px;margin-bottom:16px}
-.balanced-grid .story-flow{columns:2;column-gap:34px;column-rule:1px solid var(--line)}
-.balanced-grid .story-flow>p{orphans:3;widows:3}
-.balanced-grid .story-flow>.why,.balanced-grid .story-flow>.sources{break-inside:avoid}
-@media(max-width:800px){.balanced-grid{display:block}.balanced-grid>.story{margin-bottom:24px}.balanced-grid .story-flow{columns:auto}.balanced-grid>.story:first-child{padding-bottom:18px}}
-
-</style><style media="print">#mundo{break-before:page!important;margin-top:0!important}
-/* Composición 2.3: principal a todo el ancho + dos noticias en paralelo. */
-.balanced-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px 34px;align-items:start}
-.balanced-grid>.story{min-width:0;margin:0;padding-top:16px;border-top:1px solid var(--line)}
-.balanced-grid>.story:first-child{grid-column:1/-1;padding-top:0;border-top:0;padding-bottom:24px;border-bottom:3px solid var(--copper)}
-.balanced-grid>.story:first-child>h3{font-size:clamp(28px,3.2vw,36px);max-width:940px}
-.balanced-grid>.story:first-child>.change{max-width:940px;margin-bottom:16px}
-.balanced-grid .story-flow{columns:2;column-gap:34px;column-rule:1px solid var(--line)}
-.balanced-grid .story-flow>p{orphans:3;widows:3}
-.balanced-grid .story-flow>.why,.balanced-grid .story-flow>.sources{break-inside:avoid}
-@media(max-width:800px){.balanced-grid{display:block}.balanced-grid>.story{margin-bottom:24px}.balanced-grid .story-flow{columns:auto}.balanced-grid>.story:first-child{padding-bottom:18px}}
-
-</style><style media="print">
+</style><style media="print">#mundo{break-before:page!important;margin-top:0!important}</style><style media="print">
 .cover{padding:12mm 17mm 13mm!important}
 .cover-top{padding:1.5mm 0 2mm!important}
 .mast{font-size:59pt!important;margin:3mm 0 1mm!important}
@@ -110,18 +74,6 @@ html,body{background:#f5efe4!important;color:#293633!important}a{color:#7d4b35!i
 .matinal-changes p{font-size:7.7pt!important;line-height:1.35!important;margin-bottom:1.4mm!important}
 .cover-bottom{padding-top:2mm!important;font-size:6.7pt!important;line-height:1.28!important}
 #brasil .feature-viz{margin:2.8mm 0!important}
-
-/* Composición 2.3: principal a todo el ancho + dos noticias en paralelo. */
-.balanced-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px 34px;align-items:start}
-.balanced-grid>.story{min-width:0;margin:0;padding-top:16px;border-top:1px solid var(--line)}
-.balanced-grid>.story:first-child{grid-column:1/-1;padding-top:0;border-top:0;padding-bottom:24px;border-bottom:3px solid var(--copper)}
-.balanced-grid>.story:first-child>h3{font-size:clamp(28px,3.2vw,36px);max-width:940px}
-.balanced-grid>.story:first-child>.change{max-width:940px;margin-bottom:16px}
-.balanced-grid .story-flow{columns:2;column-gap:34px;column-rule:1px solid var(--line)}
-.balanced-grid .story-flow>p{orphans:3;widows:3}
-.balanced-grid .story-flow>.why,.balanced-grid .story-flow>.sources{break-inside:avoid}
-@media(max-width:800px){.balanced-grid{display:block}.balanced-grid>.story{margin-bottom:24px}.balanced-grid .story-flow{columns:auto}.balanced-grid>.story:first-child{padding-bottom:18px}}
-
 </style></head>
 <body>
 <div class="shell" id="inicio">
