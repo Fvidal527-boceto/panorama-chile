@@ -31,3 +31,6 @@ Exclusiones acordadas: PDF, audio, Cuerpo D de El Mercurio y servicios de pago.
 node tests/portada.test.cjs
 La portada usa URLs históricas, abre la edición más reciente y permite elegir ambos turnos y el archivo. Actualiza metadatos cada cinco minutos sin cambiar la lectura elegida.
 portada-prueba.html usa exclusivamente pruebas/indice-validacion.json para validar la interfaz con las dos ediciones originales del 24. No es una edición nueva.
+
+## Equilibrio de composición (ajuste del 25-10-2026)
+Evitar columnas rígidas que enfrenten una noticia con otras dos apiladas y dejen media sección vacía. En secciones de tres noticias, usar una principal a todo el ancho (cuerpo en dos columnas equilibradas) y dos noticias secundarias debajo en paralelo; en móvil, una sola columna. Revisar el resultado con la longitud real de los textos. Mantener titulares, párrafos, recuadros y fuentes íntegros; ajustar la distribución, no rellenar con contenido inventado ni aumentar artificialmente los espacios. La vespertina del 24-10-2026 conserva este ajuste como referencia de diseño 2.3.
