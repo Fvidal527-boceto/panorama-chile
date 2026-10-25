@@ -1,15 +1,25 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T21:00:00-03:00",
+  "updated_at": "2026-10-25T02:05:54-03:00",
   "latest": {
     "matinal": {
       "fecha": "2026-10-24",
-      "url": "ediciones/actual/matinal.html",
+      "url": "ediciones/2026-10-24/matinal.html",
       "titulo": "Edición matinal · 24 de octubre de 2026"
     },
-    "vespertina": null
+    "vespertina": {
+      "fecha": "2026-10-24",
+      "url": "ediciones/2026-10-24/vespertina.html",
+      "titulo": "Edición vespertina · 24 de octubre de 2026"
+    }
   },
   "archivo": [
+    {
+      "fecha": "2026-10-24",
+      "tipo": "vespertina",
+      "url": "ediciones/2026-10-24/vespertina.html",
+      "titulo": "Vespertina · 24 de octubre de 2026"
+    },
     {
       "fecha": "2026-10-24",
       "tipo": "matinal",
