@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updated_at": "2026-10-24T21:00:00-03:00",
+  "latest": {
+    "matinal": {
+      "fecha": "2026-10-24",
+      "url": "ediciones/actual/matinal.html",
+      "titulo": "Edición matinal · 24 de octubre de 2026"
+    },
+    "vespertina": null
+  },
+  "archivo": [
+    {
+      "fecha": "2026-10-24",
+      "tipo": "matinal",
+      "url": "ediciones/2026-10-24/matinal.html",
+      "titulo": "Matinal · 24 de octubre de 2026"
+    }
+  ]
+}
