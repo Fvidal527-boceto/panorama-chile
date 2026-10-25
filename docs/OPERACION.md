@@ -25,7 +25,7 @@ Matinal: marfil, verde y terracota; portada jerarquizada, cuatro entradas, edito
 Vespertina: marfil, terracota y cobre; portada jerarquizada, cuatro entradas, editorial; novedades y cambios identificados; cierre «Para seguir mañana».
 Usar las ediciones originales del 24-10-2026 como referencia verificable. No copiar sus noticias como información nueva.
 Los lunes: suplemento de educación superior, IA e innovación para 3Educativo.
-Exclusiones acordadas: PDF, audio, Cuerpo D de El Mercurio y servicios de pago.
+Exclusiones acordadas: PDF, archivos de audio pregrabado, Cuerpo D de El Mercurio y servicios de pago. La lectura por voz del navegador está habilitada y debe conservarse.
 
 ## Comprobación técnica
 node tests/portada.test.cjs
@@ -34,3 +34,8 @@ portada-prueba.html usa exclusivamente pruebas/indice-validacion.json para valid
 
 ## Equilibrio de composición (ajuste del 25-10-2026)
 Evitar columnas rígidas que enfrenten una noticia con otras dos apiladas y dejen media sección vacía. En secciones de tres noticias, usar una principal a todo el ancho (cuerpo en dos columnas equilibradas) y dos noticias secundarias debajo en paralelo; en móvil, una sola columna. Revisar el resultado con la longitud real de los textos. Mantener titulares, párrafos, recuadros y fuentes íntegros; ajustar la distribución, no rellenar con contenido inventado ni aumentar artificialmente los espacios. La vespertina del 24-10-2026 conserva este ajuste como referencia de diseño 2.3.
+
+## Lectura por voz (restaurada el 25-10-2026)
+Incluir lectura por voz en cada noticia cuyo tiempo de lectura sea de 3 minutos o más (umbral inclusivo). Conservar metadatos de minutos en .reading, .readtime, .reading-time, .story-meta o .top, o añadir data-reading-minutes al article.story. No confundir lectura sintetizada con archivos de audio pregrabado: la primera es obligatoria; no se requieren MP3, APIs de pago ni despliegues Netlify.
+Incorporar el contenido íntegro de assets/lectura-voz.js al final del HTML, dentro de <script id="panorama-lectura-voz">, para que la edición sea autónoma. No reescribir ni omitir el lector al generar la edición. Verificar que estén disponibles Escuchar, Pausar/Continuar y Detener, y que se lea título, bajada, cuerpo y recuadro editorial, excluyendo enlaces a fuentes y navegación. La reproducción comienza con un clic del lector, nunca al cargar la página. Solo una noticia a la vez; cambiar de edición detiene la voz. Preferir voces en español disponibles en el dispositivo; la disponibilidad y timbre dependen del navegador/sistema. Mostrar un mensaje claro si el navegador no puede iniciar la voz. Mantener estilos y controles accesibles en móvil y escritorio.
+Comprobación: node --test tests/lectura-voz.test.cjs. Validar que todos los artículos >=3 min reciban controles y los de <3 min no, tanto en el HTML directo como desde el lector. No declarar audio audible verificado si solo se probaron controles o un motor simulado.
