@@ -1,0 +1,10 @@
+/* PANORAMA 2.3 — franja compacta, sin dependencias ni consultas al abrirla. */
+.panorama-service{margin:12px 0 21px;background:#edf1e7;border-top:1px solid #a9bead;border-bottom:1px solid #a9bead;color:var(--ink,#273b35);font:11px/1.35 Arial,Helvetica,sans-serif}
+.ps-heading,.ps-foot{display:flex;justify-content:space-between;flex-wrap:wrap;gap:3px 12px;padding:5px 10px;color:#536a5b;font-size:10px}
+.ps-heading b{text-transform:uppercase;letter-spacing:1.2px;font-size:9px}
+.ps-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1.2fr)) repeat(4,minmax(0,1fr))}
+.ps-cell{display:flex;flex-direction:column;justify-content:center;gap:3px;padding:7px 5px;text-align:center;border-left:1px solid #becdbd;color:inherit;text-decoration:none;min-width:0}
+.ps-cell:first-child{border-left:0}.ps-cell:hover{background:#e0e9db;color:inherit}
+.ps-name{font-size:11px;font-weight:700}.ps-cell strong{font-size:16px;line-height:1.25;color:#315b47;white-space:nowrap;font-variant-numeric:tabular-nums}.ps-cell em{font:10px Arial,sans-serif;color:#60735e}.ps-detail{font-size:9px;line-height:1.25}.ps-foot{border-top:1px solid #d1dbcb;font-size:9px}
+@media(max-width:800px){.ps-grid{grid-template-columns:repeat(12,minmax(0,1fr))}.ps-weather{grid-column:span 4}.ps-economic{grid-column:span 3;border-top:1px solid #becdbd}.ps-economic:nth-child(4){border-left:0}.ps-cell strong{font-size:14px}.ps-heading,.ps-foot{font-size:9px}}
+@media(max-width:420px){.ps-economic{grid-column:span 6}.ps-economic:nth-child(6){border-left:0}.ps-cell strong{font-size:15px}}
