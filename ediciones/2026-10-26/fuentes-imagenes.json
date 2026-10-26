@@ -1,0 +1,66 @@
+{
+  "edition": "2026-10-26/matinal",
+  "updated_at": "2026-10-26T09:18:23-03:00",
+  "images": [
+    {
+      "key": "lula",
+      "source": "https://commons.wikimedia.org/wiki/File:25.10.2026_-_Lula_%C3%A9_reeleito_Presidente_do_Brasil_(55612491788).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/25.10.2026_-_Lula_%C3%A9_reeleito_Presidente_do_Brasil_%2855612491788%29.jpg/960px-25.10.2026_-_Lula_%C3%A9_reeleito_Presidente_do_Brasil_%2855612491788%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20261026023027",
+      "bytes": 153685,
+      "author": "Ricardo Stuckert / Lula Oficial",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Lula celebra en São Paulo, 25 oct. 2026.",
+      "local_path": "ediciones/2026-10-26/imagenes/lula.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    },
+    {
+      "key": "bolsa",
+      "source": "https://commons.wikimedia.org/wiki/File:BolsaComercioSCL.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/BolsaComercioSCL.jpg/330px-BolsaComercioSCL.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "bytes": 34353,
+      "author": "Falmazan",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Bolsa de Comercio de Santiago · archivo, 2009.",
+      "local_path": "ediciones/2026-10-26/imagenes/bolsa.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    },
+    {
+      "key": "serbia",
+      "source": "https://commons.wikimedia.org/wiki/File:Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_(54296637155).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_%2854296637155%29.jpg/960px-Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_%2854296637155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250130164531",
+      "bytes": 153539,
+      "author": "Dejan Krsmanovic",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "Protesta en Čačak, Serbia · archivo, 26 ene. 2025.",
+      "local_path": "ediciones/2026-10-26/imagenes/serbia.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    },
+    {
+      "key": "voto",
+      "source": "https://commons.wikimedia.org/wiki/File:Vote_by_mail_3_(46207094551).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Vote_by_mail_3_%2846207094551%29.jpg/500px-Vote_by_mail_3_%2846207094551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20200214054402",
+      "bytes": 123848,
+      "author": "League of Women Voters of California",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "Voto por correo en California · archivo, 18 oct. 2018.",
+      "local_path": "ediciones/2026-10-26/imagenes/voto.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    },
+    {
+      "key": "educacion",
+      "source": "https://commons.wikimedia.org/wiki/File:Facultad_de_Ciencias_Sociales,_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Facultad_de_Ciencias_Sociales%2C_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.jpg/500px-Facultad_de_Ciencias_Sociales%2C_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260319182944",
+      "bytes": 191667,
+      "author": "Pvelascof",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Facultad de Ciencias Sociales, UC · archivo, feb. 2026.",
+      "local_path": "ediciones/2026-10-26/imagenes/educacion.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    }
+  ]
+}

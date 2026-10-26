@@ -1,37 +1,88 @@
 {
   "edition_date": "2026-10-26",
-  "updated_at": "2026-10-26T07:47:00-03:00",
+  "updated_at": "2026-10-26T09:18:23-03:00",
   "weather": [
     {
       "city": "Santiago",
-      "summary": "Sin dato verificado"
+      "date": "2026-10-26",
+      "source": "Yr.no · NRK / Meteorologisk institutt",
+      "source_url": "https://www.yr.no/nb/værvarsel/daglig-tabell/2-3871336/Chile/Santiago%20Metropolitan/Provincia%20de%20Santiago/Santiago%20de%20Chile",
+      "queried_at": "2026-10-26T09:18:23-03:00",
+      "min_c": 12,
+      "max_c": 17,
+      "precipitation_mm": 19.0,
+      "summary": "Lluvia y chubascos",
+      "source_symbols": [
+        "Morgen: skyet",
+        "Ettermiddag: regn",
+        "Kveld: kraftige regnbyger"
+      ],
+      "verification": "dailyWeatherListItem0, fecha 2026-10-26; HTML de la tabla diaria"
     },
     {
       "city": "Concepción",
-      "summary": "Sin dato verificado"
+      "date": "2026-10-26",
+      "source": "Yr.no · NRK / Meteorologisk institutt",
+      "source_url": "https://www.yr.no/nb/værvarsel/daglig-tabell/2-3893894/Chile/Biobio/Provincia%20de%20Concepción/Concepción",
+      "queried_at": "2026-10-26T09:18:23-03:00",
+      "min_c": 13,
+      "max_c": 19,
+      "precipitation_mm": 0.1,
+      "summary": "Nubes y claros",
+      "source_symbols": [
+        "Morgen: skyet",
+        "Ettermiddag: delvis skyet",
+        "Kveld: lettskyet"
+      ],
+      "verification": "dailyWeatherListItem0, fecha 2026-10-26; HTML de la tabla diaria"
     },
     {
       "city": "Casablanca",
-      "summary": "Sin dato verificado"
+      "date": "2026-10-26",
+      "source": "Yr.no · NRK / Meteorologisk institutt",
+      "source_url": "https://www.yr.no/nb/værvarsel/daglig-tabell/2-3896410/Chile/Región%20de%20Valparaíso/Provincia%20de%20Valparaíso/Casablanca",
+      "queried_at": "2026-10-26T09:18:23-03:00",
+      "min_c": 13,
+      "max_c": 18,
+      "precipitation_mm": 2.1,
+      "summary": "Chubascos por la tarde",
+      "source_symbols": [
+        "Morgen: skyet",
+        "Ettermiddag: regnbyger",
+        "Kveld: delvis skyet"
+      ],
+      "verification": "dailyWeatherListItem0, fecha 2026-10-26; HTML de la tabla diaria"
     }
   ],
   "indicators": [
     {
-      "label": "Dólar observado",
-      "display": "Sin dato verificado"
+      "label": "Dólar",
+      "display": "$986,58",
+      "date_label": "Observado · 23 oct. 2026",
+      "source_url": "https://si3.bcentral.cl/Bdemovil/BDE/Series/MOV_SC_TC1",
+      "verification_note": "Valor conservado de la edición publicada; sin actualización económica en esta revisión gráfica y meteorológica."
     },
     {
       "label": "UF",
-      "display": "Sin dato verificado"
+      "display": "$41.221,08",
+      "date_label": "26 oct. 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "verification_note": "Valor conservado de la edición publicada; sin actualización económica en esta revisión gráfica y meteorológica."
     },
     {
       "label": "Euro",
-      "display": "Sin dato verificado"
+      "display": "$1.107,27",
+      "date_label": "23 oct. 2026",
+      "source_url": "https://si3.bcentral.cl/Indicadoressiete/secure/Indicadoresdiarios.aspx",
+      "verification_note": "Valor conservado de la edición publicada; sin actualización económica en esta revisión gráfica y meteorológica."
     },
     {
       "label": "UTM",
-      "display": "Sin dato verificado"
+      "display": "$72.151",
+      "date_label": "Octubre 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "verification_note": "Valor conservado de la edición publicada; sin actualización económica en esta revisión gráfica y meteorológica."
     }
   ],
-  "evidence_note": "Se conservan los campos sin cifras cuando no puede verificarse la fuente en esta ejecución."
+  "evidence_note": "Pronóstico diario de las tres páginas Yr.no suministradas, consultadas en la actualización indicada; datos económicos conservados con sus fechas originales."
 }
