@@ -1,0 +1,66 @@
+{
+  "edition": "2026-10-26/vespertina",
+  "verified_at": "2026-10-26T16:02:56-03:00",
+  "images": [
+    {
+      "key": "lula",
+      "source": "https://commons.wikimedia.org/wiki/File:25.10.2026_-_Lula_%C3%A9_reeleito_Presidente_do_Brasil_(55612491788).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/25.10.2026_-_Lula_%C3%A9_reeleito_Presidente_do_Brasil_%2855612491788%29.jpg/960px-25.10.2026_-_Lula_%C3%A9_reeleito_Presidente_do_Brasil_%2855612491788%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20261026023027",
+      "bytes": 153685,
+      "author": "Ricardo Stuckert / Lula Oficial",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Lula celebra en São Paulo, 25 oct. 2026.",
+      "local_path": "ediciones/2026-10-26/imagenes/lula.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    },
+    {
+      "source": "https://commons.wikimedia.org/wiki/File:Moneda_Palace.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Moneda_Palace.jpg/960px-Moneda_Palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20071215195517",
+      "author": "Kyle Simourd",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "date": "2006-08-26",
+      "bytes": 131025,
+      "key": "moneda",
+      "local_path": "ediciones/2026-10-26/imagenes/moneda.jpg",
+      "caption": "Palacio de La Moneda · archivo, 26 ago. 2006."
+    },
+    {
+      "key": "bolsa",
+      "source": "https://commons.wikimedia.org/wiki/File:BolsaComercioSCL.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/BolsaComercioSCL.jpg/330px-BolsaComercioSCL.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+      "bytes": 34353,
+      "author": "Falmazan",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Bolsa de Comercio de Santiago · archivo, 2009.",
+      "local_path": "ediciones/2026-10-26/imagenes/bolsa.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    },
+    {
+      "key": "serbia",
+      "source": "https://commons.wikimedia.org/wiki/File:Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_(54296637155).jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_%2854296637155%29.jpg/960px-Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_%2854296637155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20250130164531",
+      "bytes": 153539,
+      "author": "Dejan Krsmanovic",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "Protesta en Čačak, Serbia · archivo, 26 ene. 2025.",
+      "local_path": "ediciones/2026-10-26/imagenes/serbia.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    },
+    {
+      "key": "educacion",
+      "source": "https://commons.wikimedia.org/wiki/File:Facultad_de_Ciencias_Sociales,_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.jpg",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Facultad_de_Ciencias_Sociales%2C_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.jpg/500px-Facultad_de_Ciencias_Sociales%2C_Pontificia_Universidad_Cat%C3%B3lica_de_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260319182944",
+      "bytes": 191667,
+      "author": "Pvelascof",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Facultad de Ciencias Sociales, UC · archivo, feb. 2026.",
+      "local_path": "ediciones/2026-10-26/imagenes/educacion.jpg",
+      "changes": "Miniatura publicada por Wikimedia, sin modificación del archivo; encuadre CSS adaptable"
+    }
+  ]
+}

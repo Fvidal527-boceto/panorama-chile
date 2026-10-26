@@ -1,0 +1,84 @@
+{
+  "edition_date": "2026-10-26",
+  "updated_at": "2026-10-26T16:02:56-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "date": "2026-10-26",
+      "summary": "Chubascos intensos",
+      "min_c": 12,
+      "max_c": 17,
+      "source_url": "https://www.yr.no/nb/værvarsel/daglig-tabell/2-3871336/Chile/Santiago%20Metropolitan/Provincia%20de%20Santiago/Santiago%20de%20Chile",
+      "source": "Yr.no / MET Norway",
+      "queried_at": "2026-10-26T16:02:56-03:00",
+      "source_symbols": [
+        "Ettermiddag: kraftige regnbyger",
+        "Kveld: kraftige regnbyger"
+      ],
+      "verification": "Tabla diaria del 26 consultada en esta producción; rango informado por Yr, no calculado de una serie parcial."
+    },
+    {
+      "city": "Concepción",
+      "date": "2026-10-26",
+      "summary": "Nubes y claros",
+      "min_c": 13,
+      "max_c": 20,
+      "source_url": "https://www.yr.no/nb/værvarsel/daglig-tabell/2-3893894/Chile/Biobio/Provincia%20de%20Concepción/Concepción",
+      "source": "Yr.no / MET Norway",
+      "queried_at": "2026-10-26T16:02:56-03:00",
+      "source_symbols": [
+        "Ettermiddag: lettskyet",
+        "Kveld: delvis skyet"
+      ],
+      "verification": "Tabla diaria del 26 consultada en esta producción; rango informado por Yr, no calculado de una serie parcial."
+    },
+    {
+      "city": "Casablanca",
+      "date": "2026-10-26",
+      "summary": "Lluvia débil; luego nubes",
+      "min_c": 12,
+      "max_c": 17,
+      "source_url": "https://www.yr.no/nb/værvarsel/daglig-tabell/2-3896410/Chile/Región%20de%20Valparaíso/Provincia%20de%20Valparaíso/Casablanca",
+      "source": "Yr.no / MET Norway",
+      "queried_at": "2026-10-26T16:02:56-03:00",
+      "source_symbols": [
+        "Ettermiddag: lett regn",
+        "Kveld: delvis skyet"
+      ],
+      "verification": "Tabla diaria del 26 consultada en esta producción; rango informado por Yr, no calculado de una serie parcial."
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Dólar",
+      "display": "$990,35",
+      "date_label": "Observado · 26 oct.",
+      "source_url": "https://si3.bcentral.cl/Indicadoressiete/secure/Indicadoresdiarios.aspx",
+      "verified_at": "2026-10-26T16:02:56-03:00"
+    },
+    {
+      "label": "UF",
+      "display": "$41.221,08",
+      "date_label": "26 oct. 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "verified_at": "2026-10-26T16:02:56-03:00"
+    },
+    {
+      "label": "Euro",
+      "display": "$1.108,39",
+      "date_label": "26 oct. 2026",
+      "source_url": "https://si3.bcentral.cl/Indicadoressiete/secure/Indicadoresdiarios.aspx",
+      "verified_at": "2026-10-26T16:02:56-03:00"
+    },
+    {
+      "label": "UTM",
+      "display": "$72.151",
+      "date_label": "Octubre 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "verified_at": "2026-10-26T16:02:56-03:00"
+    }
+  ],
+  "evidence_note": "Yr: tabla diaria del 26; Banco Central: fecha seleccionada 26 Oct 2026; SII: UF del 26 y UTM de octubre, comprobados durante esta producción.",
+  "edition": "vespertina",
+  "queried_at": "2026-10-26T16:02:56-03:00"
+}
