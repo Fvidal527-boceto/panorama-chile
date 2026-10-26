@@ -1,0 +1,54 @@
+name: PANORAMA - control editorial y publicacion
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'ediciones/**'
+      - 'index.html'
+      - 'tests/**'
+      - '.github/workflows/panorama-control.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 11 * * *'
+    - cron: '0 19 * * *'
+permissions:
+  contents: read
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Verificar portada y lector
+        run: |
+          node tests/portada.test.cjs
+          node --test tests/lectura-voz.test.cjs
+      - name: Verificar indice y archivos publicados
+        run: |
+          python3 - <<'PY'
+          import json,pathlib,sys
+          root=pathlib.Path('.')
+          data=json.loads((root/'ediciones/indice.json').read_text(encoding='utf-8'))
+          print('Indice leido correctamente')
+          for tipo in ('matinal','vespertina'):
+              item=data.get('latest',{}).get(tipo)
+              if not item:
+                  print(f'{tipo}: sin ultima edicion')
+                  continue
+              rel=item.get('url','')
+              target=root/rel
+              if not rel.startswith('ediciones/') or not target.is_file():
+                  sys.exit(f'Archivo ausente o ruta invalida: {rel}')
+              html=target.read_text(encoding='utf-8')
+              if '<html' not in html.lower() or '</html>' not in html.lower():
+                  sys.exit(f'HTML incompleto: {rel}')
+              print(f'{tipo}: {rel} OK')
+          PY
+      - name: Confirmar arquitectura gratuita
+        run: |
+          echo 'Control sobre GitHub Actions. GitHub Pages publica los commits.'
+          echo 'Este flujo NO ejecuta builds, hooks ni deploys en Netlify.'
+          echo 'Este flujo NO redacta ni crea ediciones: comprueba archivos existentes.'
