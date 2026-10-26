@@ -1,0 +1,37 @@
+{
+  "edition_date": "2026-10-26",
+  "updated_at": "2026-10-26T07:47:00-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "summary": "Sin dato verificado"
+    },
+    {
+      "city": "Concepción",
+      "summary": "Sin dato verificado"
+    },
+    {
+      "city": "Casablanca",
+      "summary": "Sin dato verificado"
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Dólar observado",
+      "display": "Sin dato verificado"
+    },
+    {
+      "label": "UF",
+      "display": "Sin dato verificado"
+    },
+    {
+      "label": "Euro",
+      "display": "Sin dato verificado"
+    },
+    {
+      "label": "UTM",
+      "display": "Sin dato verificado"
+    }
+  ],
+  "evidence_note": "Se conservan los campos sin cifras cuando no puede verificarse la fuente en esta ejecución."
+}
