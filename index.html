@@ -14,7 +14,12 @@
 (function(){
 'use strict';
 const $=id=>document.getElementById(id);
-let selected=false;
+let selected=false,activeURL=null,activeRevision=null;
+function revisionURL(url,revision){
+  const u=new URL(url,document.baseURI);
+  if(typeof revision==='string'&&Number.isFinite(Date.parse(revision)))u.searchParams.set('rev',revision);
+  return u.href;
+}
 function safeURL(value){
   if(typeof value!=='string')return null;
   try{const u=new URL(value,document.baseURI),base=new URL('.',document.baseURI);
@@ -30,8 +35,11 @@ function edition(item,type){
 function read(item,scroll){
   if(!item||!safeURL(item.url))return;
   selected=true;
-  $('reader').src=item.url;
-  $('direct').href=item.url;
+  activeURL=item.url;activeRevision=item.revision||null;
+  const source=revisionURL(item.url,activeRevision);
+  $('reader').src=source;
+  $('direct').href=source;
+  $('publication-status').textContent='';
   $('reading-title').textContent=item.titulo||('Edición '+item.tipo+' · '+item.fecha);
   $('reader').title=$('reading-title').textContent;
   for(const [type,id] of [['matinal','matbtn'],['vespertina','vesbtn']])$(id).setAttribute('aria-pressed',String(type===item.tipo));
@@ -43,14 +51,14 @@ async function refresh(){
     if(!r.ok)throw Error('Índice no disponible');
     const d=await r.json();
     if(!d.latest||!Array.isArray(d.archivo))throw Error('Índice inválido');
-    const m=edition(d.latest.matinal,'matinal'),v=edition(d.latest.vespertina,'vespertina');
+    const m=edition({...d.latest.matinal,revision:d.updated_at},'matinal'),v=edition({...d.latest.vespertina,revision:d.updated_at},'vespertina');
     if(!m&&!v)throw Error('Sin ediciones disponibles');
     for(const [item,meta,btn,type] of [[m,'matmeta','matbtn','matinal'],[v,'vesmeta','vesbtn','vespertina']]){
       $(meta).textContent=item?.titulo||'La próxima edición se mostrará cuando esté publicada';
       $(btn).disabled=!item;$(btn).textContent=item?'Leer edición '+type:'Próximamente';
       $(btn).onclick=()=>read(item,true);
     }
-    const archive=d.archivo.map(x=>edition(x,x.tipo)).filter(Boolean).sort((a,b)=>b.fecha.localeCompare(a.fecha)||(a.tipo===b.tipo?0:a.tipo==='vespertina'?-1:1));
+    const archive=d.archivo.map(x=>edition({...x,revision:d.updated_at},x.tipo)).filter(Boolean).sort((a,b)=>b.fecha.localeCompare(a.fecha)||(a.tipo===b.tipo?0:a.tipo==='vespertina'?-1:1));
     $('archive').replaceChildren();
     const seen=new Set();
     for(const item of archive){if(seen.has(item.url))continue;seen.add(item.url);
@@ -64,7 +72,8 @@ async function refresh(){
     }
     const date=new Date(d.updated_at);
     $('update').textContent=Number.isNaN(date.getTime())?'Ediciones disponibles':'Última actualización: '+new Intl.DateTimeFormat('es-CL',{dateStyle:'long',timeStyle:'short',timeZone:'America/Santiago'}).format(date)+' · Santiago';
-    $('publication-status').textContent='';
+    const changed=[m,v,...archive].find(item=>item&&item.url===activeURL&&item.revision!==activeRevision);
+    $('publication-status').textContent=changed?'Hay una actualización de esta edición. Vuelve a seleccionarla para cargarla; tu lectura actual se mantiene.':'';
   }catch{
     $('publication-status').textContent='No pudimos actualizar el listado. Puedes leer la edición ya cargada o volver a intentar más tarde.';
     if(!selected)$('matbtn').onclick=()=>read({url:new URL('ediciones/2026-10-24/matinal.html',document.baseURI).href,tipo:'matinal',fecha:'2026-10-24',titulo:'Matinal · 24 de octubre de 2026'},true);
