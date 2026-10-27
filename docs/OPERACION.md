@@ -68,3 +68,29 @@ Si la edición de hoy ya existe, verificarla antes de regenerar. Una recuperaci�
 
 ## Alcance vigente de publicación: ambas ediciones
 El acuerdo inicial de publicar por ahora solo la matinal en Netlify fue sustituido por la autorización de Felipe de producir y publicar automáticamente MATINAL y VESPERTINA mediante GitHub Pages, manteniendo Netlify como puente fijo y conservando la condición de no activar servicios pagados. No usar aquel acuerdo inicial para bloquear la producción o publicación vespertina. La publicación rutinaria autorizada comprende el HTML histórico del turno y fecha, su alias idéntico, su evidencia de servicio y la actualización correspondiente de ediciones/indice.json, conservando otro turno, histórico previo y campos desconocidos. No requiere una aprobación individual de Felipe en cada edición dentro de ese alcance. Esto no elimina las revisiones y permisos de la plataforma ni autoriza cambios de diseño de portada, que siguen requiriendo aprobación previa. No desplegar Netlify para cada edición. Un rótulo antiguo «Matinal» en el puente no limita los turnos servidos por la portada de GitHub.
+
+
+## Control editorial y compaginación profesional — acuerdo 27-10-2026
+
+Estas condiciones son permanentes para AMBOS turnos y complementan el diseño 2.3, sin sustituir las obligaciones de fuentes, lectura por voz, franja de servicio, archivo y transparencia. No implican contratar servicios: presupuesto y facturación adicional = CERO, condición inalterable. La producción y publicación diaria de matinal y vespertina también es obligatoria; una tarea programada o iniciada no equivale a edición publicada.
+
+### Calidad informativa — puerta de salida
+- Investigar y contrastar fuentes originales accesibles y fechadas; comprobar que cada enlace existe y respalda las afirmaciones centrales, especialmente cifras y resultados. Evitar noticias recicladas y actualizar la selección según hechos del turno. Separar hechos, interpretación y editorial. No fabricar noticias para llenar la maqueta.
+- Mantener la profundidad de los artículos y la pluralidad geográfica y temática acordadas. Releer titulares, bajadas, cronologías, pies de foto y cifras antes del commit; asegurar consistencia entre portada y desarrollo.
+- Si una fuente no puede verificarse, sustituir la nota o indicar la limitación con precisión; nunca declarar verificación no realizada.
+
+### Composición gráfica — tres patrones alternables, no una cuadrícula rígida
+- Referencias obligatorias: ediciones/2026-10-24/vespertina.html y pruebas/imagen-portada.html. Mantener la identidad 2.3 aprobada; no copiar noticias históricas.
+- Patrón A, gran reportaje: noticia principal a todo el ancho, fotografía o gráfica protagonista y texto en dos columnas equilibradas cuando la longitud lo permita.
+- Patrón B, mosaico informativo: noticia dominante, dos secundarias y una entrada breve con jerarquías distintas; evitar tarjetas idénticas y alturas fijas.
+- Patrón C, historia con lateral: cuerpo principal más recuadro útil de cifras, cronología, contexto o claves, sin lateral vacío ni relleno ornamental.
+- Alternar patrones por extensión y jerarquía real de los artículos. En escritorio, evitar grid rows con estiramiento que creen grandes vacíos: preferir align-items:start, alturas automáticas, bloques independientes y reordenamiento editorial. En móvil, apilar sin cortes, desbordes ni imágenes deformadas.
+- La portada debe tener una imagen protagonista pertinente y autorizada, salvo imposibilidad documentada; en ese caso usar una ilustración original identificada o una solución tipográfica editorial, sin simular fotografía. Distribuir imágenes en interiores según relevancia, no como relleno.
+- Revisar los archivos de imagen usados en las dos ediciones anteriores; no repetir fotografía de un día a otro salvo necesidad editorial excepcional, identificada como archivo y explicada. Una fotografía del mismo tema no obliga a usar el mismo archivo. Guardar créditos, origen y licencia comprobada; usar únicamente material reproducible legítimamente.
+- Antes de publicar, comprobar visualmente portada e interiores en ancho de escritorio y móvil cuando haya un navegador disponible: jerarquía, espacios en blanco, saltos de columnas, pie de foto, contraste, ritmo y legibilidad. Si no hay navegador, hacer comprobaciones estáticas y DECLARAR que la inspección visual no se realizó; no presentarla como aprobada.
+
+### Horarios, verificación y recuperación
+- Inicio matinal 07:00 y vespertina 15:00 America/Santiago; disponibilidad objetivo 07:30 y 15:30 respectivamente. Control 08:00 y 16:00. Son objetivos sujetos a ejecución real, no garantías de plataforma.
+- Para cada turno, registrar estado explícito: (1) investigación y edición completas, (2) HTML histórico y alias idénticos en GitHub, (3) índice actualizado, (4) URL pública accesible. No marcar publicado si solo se activó una tarea.
+- El control verifica fecha local, SHA del histórico y alias, índice y accesibilidad pública. Si falta edición, emitir alerta con diagnóstico concreto y proponer recuperación inmediata; no reemplazarla con noticias antiguas, plantillas vacías ni una falsa fecha.
+- No desplegar Netlify por edición ni activar gastos. No alterar la portada general sin aprobación; estos criterios sí autorizan ajustar la composición interior y añadir imágenes pertinentes dentro del diseño existente.
