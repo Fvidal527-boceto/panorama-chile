@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-27T11:24:18-03:00",
+  "updated_at": "2026-10-27T16:55:00-03:00",
   "latest": {
     "matinal": {
       "fecha": "2026-10-27",
@@ -8,12 +8,18 @@
       "titulo": "Edición matinal · 27 de octubre de 2026"
     },
     "vespertina": {
-      "fecha": "2026-10-26",
-      "url": "ediciones/2026-10-26/vespertina.html",
-      "titulo": "Edición vespertina · 26 de octubre de 2026"
+      "fecha": "2026-10-27",
+      "url": "ediciones/2026-10-27/vespertina.html",
+      "titulo": "Edición vespertina · 27 de octubre de 2026"
     }
   },
   "archivo": [
+    {
+      "fecha": "2026-10-27",
+      "tipo": "vespertina",
+      "url": "ediciones/2026-10-27/vespertina.html",
+      "titulo": "Vespertina · 27 de octubre de 2026"
+    },
     {
       "fecha": "2026-10-27",
       "tipo": "matinal",

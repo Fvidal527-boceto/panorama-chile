@@ -1,0 +1,11 @@
+{
+  "fecha": "2026-10-27",
+  "tipo": "vespertina",
+  "estado": "sin_datos_verificados",
+  "nota": "Edición extraordinaria: no se publican valores meteorológicos ni financieros no comprobados.",
+  "fuentes": [
+    "https://www.meteochile.gob.cl/",
+    "https://www.bcentral.cl/",
+    "https://www.sii.cl/valores_y_fechas/"
+  ]
+}
