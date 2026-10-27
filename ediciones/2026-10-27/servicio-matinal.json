@@ -1,0 +1,87 @@
+{
+  "edition_date": "2026-10-27",
+  "edition": "matinal",
+  "queried_at": "2026-10-27T07:20:54-03:00",
+  "updated_at": "2026-10-27T07:20:54-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "Martes 27 oct.",
+      "date": "2026-10-27",
+      "max_c": 21,
+      "min_c": 10,
+      "summary": "Nubes al amanecer; luego despeja",
+      "source": "DMC según Megatiempo (reporte del 26 oct.)",
+      "source_url": "https://www.megatiempo.cl/pronostico/14943-lluvias-manana-martes-valparaiso-santiago-1ab.html",
+      "verified_at": "2026-10-27T07:20:54-03:00",
+      "verification": "Pronóstico diario DMC citado por Megatiempo el 26 oct. a las 13:02, no observación parcial."
+    },
+    {
+      "city": "Concepción",
+      "period": "Martes 27 oct.",
+      "date": "2026-10-27",
+      "max_c": null,
+      "min_c": null,
+      "summary": "Sin dato verificado",
+      "source": "Yr.no / MET Norway · sin tabla verificada",
+      "source_url": "https://www.yr.no/nb/værvarsel/daglig-tabell/2-3893894/Chile/Biobio/Provincia%20de%20Concepción/Concepción",
+      "verified_at": "2026-10-27T07:20:54-03:00",
+      "verification": "No se logró obtener tabla DMC o Yr comprobable para esta localidad."
+    },
+    {
+      "city": "Casablanca",
+      "period": "Martes 27 oct.",
+      "date": "2026-10-27",
+      "max_c": null,
+      "min_c": null,
+      "summary": "Sin dato verificado",
+      "source": "Yr.no / MET Norway · sin tabla verificada",
+      "source_url": "https://www.yr.no/nb/værvarsel/daglig-tabell/2-3896410/Chile/Región%20de%20Valparaíso/Provincia%20de%20Valparaíso/Casablanca",
+      "verified_at": "2026-10-27T07:20:54-03:00",
+      "verification": "No se confirmó directamente tabla DMC o Yr, y una publicación secundaria mostró inconsistencias de fecha."
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Dólar observado",
+      "display": "$994,29",
+      "date_label": "27 oct. 2026",
+      "source": "Banco Central",
+      "source_url": "https://www.bcentral.cl/web/banco-central",
+      "validity": "2026-10-27",
+      "verified_at": "2026-10-27T07:20:54-03:00",
+      "unit": "CLP por USD"
+    },
+    {
+      "label": "UF",
+      "display": "$41.226,39",
+      "date_label": "27 oct. 2026",
+      "source": "Banco Central y SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "validity": "2026-10-27",
+      "verified_at": "2026-10-27T07:20:54-03:00",
+      "unit": "CLP por UF"
+    },
+    {
+      "label": "Euro",
+      "display": "$1.112,80",
+      "date_label": "27 oct. 2026",
+      "source": "Banco Central",
+      "source_url": "https://www.bcentral.cl/web/banco-central",
+      "validity": "2026-10-27",
+      "verified_at": "2026-10-27T07:20:54-03:00",
+      "unit": "CLP por EUR"
+    },
+    {
+      "label": "UTM",
+      "display": "$72.151",
+      "date_label": "Octubre 2026",
+      "source": "SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "validity": "2026-10",
+      "verified_at": "2026-10-27T07:20:54-03:00",
+      "unit": "CLP por UTM"
+    }
+  ],
+  "evidence_note": "Banco Central consultado 27 oct. 2026 con fecha visible; SII UF diaria y UTM mensual; Santiago pronóstico de DMC reportado por fuente secundaria; falta confirmación meteorológica directa para Concepción y Casablanca."
+}

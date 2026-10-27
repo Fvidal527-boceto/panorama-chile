@@ -1,0 +1,41 @@
+{
+  "edition": "2026-10-27/matinal",
+  "verified_at": "2026-10-27T07:20:54-03:00",
+  "images": [
+    {
+      "key": "lula",
+      "reused_from": "ediciones/2026-10-26/imagenes/lula.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:25.10.2026_-_Lula_%C3%A9_reeleito_Presidente_do_Brasil_(55612491788).jpg",
+      "author": "Ricardo Stuckert / Lula Oficial",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Imagen preexistente en el archivo del 26 de octubre; reutilizada en portada interior sin duplicar binario.",
+      "kind": "Documental 25 octubre 2026"
+    },
+    {
+      "key": "moneda",
+      "reused_from": "ediciones/2026-10-26/imagenes/moneda.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Moneda_Palace.jpg",
+      "author": "Kyle Simourd",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Imagen preexistente en el archivo del 26 de octubre; reutilizada en portada interior sin duplicar binario.",
+      "kind": "Fotografía de archivo agosto 2006"
+    },
+    {
+      "key": "serbia",
+      "reused_from": "ediciones/2026-10-26/imagenes/serbia.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Protests_in_Serbia_regarding_the_fall_of_a_concrete_canopy_(54296637155).jpg",
+      "author": "Dejan Krsmanovic",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Imagen preexistente en el archivo del 26 de octubre; reutilizada en portada interior sin duplicar binario.",
+      "kind": "Fotografía de archivo enero 2025"
+    }
+  ],
+  "illustration": {
+    "type": "SVG original conceptual",
+    "placement": "portada",
+    "caption": "No representa fotografía del hecho"
+  }
+}
