@@ -1,0 +1,72 @@
+{
+  "fecha": "2026-10-28",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "cierre": "2026-10-28T18:06:00-03:00",
+  "updated_at": "2026-10-28T18:11:31-03:00",
+  "display_updated": "Cierre 18:06 · 28 oct. · Santiago",
+  "weather_note": "DMC: máximo horario de la serie completa del jueves 29, no observación. Casablanca: Yr.no de las 08:32 del miércoles, sin actualización vespertina confirmada.",
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "Jueves 29 de octubre de 2026, 00:00 a 23:00 de la tabla",
+      "max_c": 22,
+      "max_hourly_c": 21.7,
+      "summary": "Modelo sin lluvia",
+      "source": "DMC / MeteoChile, estación Quinta Normal 330020",
+      "source_url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "queried_at": "2026-10-28T18:01:00-03:00",
+      "hourly_temperatures_c": [15.5,15.3,15.2,14.5,13.4,12.4,12,12.2,11.8,12.6,14.2,15.8,17.7,19.4,20.5,21.2,21.6,21.7,21.2,20.4,18.6,16.9,15.6,14.8],
+      "verification": "Serie de 24 horas del 29 leída en tabla pública; precipitación modelada 0 mm en ese período; máximo redondeado para la franja. No se usa el mínimo de una serie parcial como mínima diaria.",
+      "source_generation_label": "La página indica 28-10-2026 20:00 sin explicitar zona horaria; no se interpreta esa etiqueta como hora local de consulta."
+    },
+    {
+      "city": "Concepción",
+      "period": "Jueves 29 de octubre de 2026, 00:00 a 23:00 de la tabla",
+      "max_c": 18,
+      "max_hourly_c": 18,
+      "summary": "Modelo sin lluvia",
+      "source": "DMC / MeteoChile, Carriel Sur 360019",
+      "source_url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "queried_at": "2026-10-28T18:01:00-03:00",
+      "hourly_temperatures_c": [13.7,13.8,13.6,13.1,13,13.2,13.1,12.8,12.6,12.8,13.4,14.7,16.4,18,17.6,17,16.4,16.1,16.3,16.1,15.3,14.3,12.7,11.5],
+      "verification": "Serie de 24 horas del 29 leída en tabla pública; precipitación modelada 0 mm en ese período. No se presenta como observación.",
+      "source_generation_label": "La página indica 28-10-2026 20:00 sin explicitar zona horaria; no se interpreta esa etiqueta como hora local de consulta."
+    },
+    {
+      "city": "Casablanca",
+      "region": "Región de Valparaíso, Chile",
+      "period": "Jueves 29 de octubre de 2026",
+      "max_c": 21,
+      "summary": "Parcialmente nublado",
+      "source": "Yr.no / MET Norway",
+      "source_url": "https://www.yr.no/",
+      "queried_at": "2026-10-28T08:32:00-03:00",
+      "verification": "Captura de Yr.no aportada por Felipe en esta conversación, columna Thursday. La consulta en vivo de Yr.no no estuvo accesible; se declara la referencia de la mañana y no se simula una actualización vespertina."
+    }
+  ],
+  "indicators": [
+    {"label":"Dólar observado","display":"$985,14","value":985.14,"date_label":"28 oct. 2026","validity":"2026-10-28","unit":"CLP por USD","source":"Banco Central de Chile","source_url":"https://www.bcentral.cl/inicio","queried_at":"2026-10-28T18:04:00-03:00"},
+    {"label":"UF","display":"$41.231,70","value":41231.70,"date_label":"28 oct. 2026","validity":"2026-10-28","unit":"CLP por UF","source":"SII / Banco Central de Chile","source_url":"https://www.sii.cl/valores_y_fechas/uf/uf2026.htm","crosscheck_url":"https://www.bcentral.cl/inicio","queried_at":"2026-10-28T18:04:00-03:00"},
+    {"label":"Euro","display":"$1.097,16","value":1097.16,"date_label":"28 oct. 2026","validity":"2026-10-28","unit":"CLP por EUR","source":"Banco Central de Chile","source_url":"https://www.bcentral.cl/inicio","queried_at":"2026-10-28T18:04:00-03:00"},
+    {"label":"UTM","display":"$72.151","value":72151,"date_label":"Octubre 2026","validity":"2026-10","unit":"CLP por UTM","source":"SII","source_url":"https://www.sii.cl/valores_y_fechas/utm/utm2026.htm","crosscheck_url":"https://www.bcentral.cl/inicio","queried_at":"2026-10-28T18:04:00-03:00"}
+  ],
+  "images": [
+    {"id":"santiago","author":"Pablo García Saldaña","date":"2015-09-06","license":"CC0","license_url":"https://creativecommons.org/publicdomain/zero/1.0/","source":"https://commons.wikimedia.org/wiki/File:Skyline_of_Santiago,_Chile.jpg","url":"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Skyline_of_Santiago%2C_Chile.jpg/960px-Skyline_of_Santiago%2C_Chile.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org","width":960,"height":640,"use":"Fotografía de archivo; contexto urbano, no evento ENADE.","transformation":"Miniatura proporcionada por Wikimedia; sin fotomontaje."},
+    {"id":"justicia","author":"Julia Sumangil","date":"2022-12-10","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/","source":"https://commons.wikimedia.org/wiki/File:Palacio_de_los_Tribunales_de_Justicia_de_Santiago.jpg","url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Palacio_de_los_Tribunales_de_Justicia_de_Santiago.jpg/960px-Palacio_de_los_Tribunales_de_Justicia_de_Santiago.jpg","width":960,"height":632,"use":"Fotografía de archivo; no sesión del pleno.","transformation":"Reducción de dimensiones proporcionada por Wikimedia; sin recorte editorial ni otras alteraciones."},
+    {"id":"biotren","author":"WikiAlexCcp","date":"2024-11-08","license":"CC0","license_url":"https://creativecommons.org/publicdomain/zero/1.0/","source":"https://commons.wikimedia.org/wiki/File:Nuevos_trenes_Biotren.jpg","url":"https://upload.wikimedia.org/wikipedia/commons/b/b5/Nuevos_trenes_Biotren.jpg","width":764,"height":392,"original_size_reported":"93 KB según la ficha de Wikimedia","use":"Contexto de integración modal; no representa los nuevos buses eléctricos."},
+    {"id":"miami","author":"Wilfredor","date":"2025-04-18","license":"CC0","license_url":"https://creativecommons.org/publicdomain/zero/1.0/","source":"https://commons.wikimedia.org/wiki/File:Miami,_Florida_skyline.jpg","url":"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Miami%2C_Florida_skyline.jpg/960px-Miami%2C_Florida_skyline.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org","width":960,"height":405,"use":"Fotografía de archivo; no llegada de Bolsonaro.","transformation":"Miniatura proporcionada por Wikimedia; sin fotomontaje."}
+  ],
+  "quality_record": {
+    "model":"Modelo Edición N°2",
+    "articles":12,
+    "manuscript_words_including_titles_decks_and_context":4635,
+    "stage_1":"Manuscrito periodístico completo antes de diagramar. Hechos contrastados con fuentes específicas enlazadas en cada nota; análisis identificado.",
+    "stage_2":"HTML con CSS y JS incorporados, texto íntegro, franja compacta, cuatro fotos de archivo, créditos de 10 px, justificación de cuerpo en escritorio y una columna en móvil.",
+    "voice_blob_sha":"0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "local_browser":"Chromium, anchos 1280 y 390: 12 artículos, 3 lectores elegibles, desborde horizontal 0, créditos 10 px. El entorno local no pudo cargar recursos fotográficos remotos; comprobación pública mediante control existente pendiente al preparar esta evidencia.",
+    "audio_audible_tested":false,
+    "paid_services_enabled":false,
+    "netlify_deployment_requested":false
+  }
+}
