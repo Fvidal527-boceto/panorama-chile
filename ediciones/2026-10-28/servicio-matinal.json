@@ -3,31 +3,37 @@
   "tipo": "matinal",
   "zona": "America/Santiago",
   "queried_at": "2026-10-28T08:20:00-03:00",
-  "updated_at": "2026-10-28T08:20:00-03:00",
+  "updated_at": "2026-10-28T08:49:00-03:00",
   "weather": [
     {
       "city": "Santiago",
-      "period": "Miércoles 28 oct.",
-      "summary": "Sin dato verificado",
-      "source": "DMC / MeteoChile",
-      "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
-      "verification": "Sin dato verificado directamente; no extrapolar"
+      "period": "Miércoles 28 oct. 2026",
+      "summary": "Soleado",
+      "max_c": 25,
+      "source": "Yr.no / MET Norway",
+      "source_url": "https://www.yr.no/",
+      "verified_at": "2026-10-28T08:32:00-03:00",
+      "verification": "Captura de Yr.no proporcionada por la dirección editorial. Consulta independiente en vivo de Yr.no no disponible mediante herramientas de consulta."
     },
     {
       "city": "Concepción",
-      "period": "Miércoles 28 oct.",
-      "summary": "Sin dato verificado",
-      "source": "MET Norway / Yr",
-      "url": "https://www.yr.no/",
-      "verification": "Sin dato verificado directamente; no extrapolar"
+      "period": "Miércoles 28 oct. 2026",
+      "summary": "Soleado",
+      "max_c": 27,
+      "source": "Yr.no / MET Norway",
+      "source_url": "https://www.yr.no/",
+      "verified_at": "2026-10-28T08:32:00-03:00",
+      "verification": "Captura de Yr.no proporcionada por la dirección editorial. Consulta independiente en vivo de Yr.no no disponible mediante herramientas de consulta."
     },
     {
       "city": "Casablanca",
-      "period": "Miércoles 28 oct.",
-      "summary": "Sin dato verificado",
-      "source": "MET Norway / Yr",
-      "url": "https://www.yr.no/",
-      "verification": "Sin dato verificado directamente; no extrapolar"
+      "period": "Miércoles 28 oct. 2026",
+      "summary": "Soleado",
+      "max_c": 24,
+      "source": "Yr.no / MET Norway",
+      "source_url": "https://www.yr.no/",
+      "verified_at": "2026-10-28T08:32:00-03:00",
+      "verification": "Captura de Yr.no proporcionada por la dirección editorial. Consulta independiente en vivo de Yr.no no disponible mediante herramientas de consulta."
     }
   ],
   "indicators": [
@@ -84,6 +90,22 @@
       "date": "2014",
       "license": "CC BY-SA 3.0",
       "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "moneda",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio_de_la_Moneda,_Santiago_de_Chile.jpg?width=800",
+      "author": "Juan Carlos Saavedra Vergara",
+      "date": "2012",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Moneda,_Santiago_de_Chile.jpg"
+    },
+    {
+      "id": "vina",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vi%C3%B1a_del_Mar,_Chile.JPG?width=800",
+      "author": "Ashoka Jegroo",
+      "date": "2013",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vi%C3%B1a_del_Mar%2C_Chile.JPG"
     }
   ],
   "sources": [
@@ -107,5 +129,75 @@
     "https://commons.wikimedia.org/wiki/File:Plaza_de_Requinoa.jpg",
     "https://creativecommons.org/licenses/by-sa/3.0/"
   ],
-  "notes": "Edición de recuperación. La fuente meteorológica fue identificada, pero el pronóstico local no se pudo comprobar. Imágenes documentales de archivo y no de hechos de la jornada."
+  "notes": "Modelo N2, segunda versión: 16 noticias, información climática respaldada en captura Yr.no, compaginación sin filas de tarjetas de alturas desiguales, textos justificados cuando permiten buena legibilidad; fotos históricas, créditos verificados. No se ha realizado inspección visual en navegador.",
+  "new_articles": [
+    {
+      "id": "rebajas",
+      "title": "Rebajas de condenas: el Gobierno busca modificar el procedimiento entre críticas y exigencias de control",
+      "sources": [
+        "https://www.cooperativa.cl/noticias/site/artic/20261027/pags-amp/20261027123517.html"
+      ]
+    },
+    {
+      "id": "fondo-e",
+      "title": "Fondo E: sesión del Senado revela la complejidad de las pérdidas por swaps y la supervisión de las AFP",
+      "sources": [
+        "https://www.emol.com/noticias/Economia/2026/10/27/1215370/senado-sesion-especial-fondo-e.html"
+      ]
+    },
+    {
+      "id": "enap",
+      "title": "ENAP Aconcagua enfrenta cargos gravísimos por reportes de emisiones: el expediente está abierto",
+      "sources": [
+        "https://portal.sma.gob.cl/index.php/sma-formula-cargos-gravisimos-contra-enap-refineria-aconcagua-por-entrega-de-informacion-falsa-e-incompleta/",
+        "https://snifa.sma.gob.cl/Sancionatorio/Ficha/4693"
+      ]
+    },
+    {
+      "id": "aluviones",
+      "title": "Quebradas y rutas: los trabajos de recuperación en Las Condes y Lo Barnechea siguen abiertos",
+      "sources": [
+        "https://www.cnnchile.com/pais/sistema-frontal-alcaldesa-de-las-condes-pide-mas-maquinarias-y-advierte-que-si-vuelve-la-lluvia-podria-ocurrir-un-nuevo-aluvion/",
+        "https://www.cnnchile.com/pais/ruta-g-21-recupera-conectividad-tras-sistema-frontal-continuan-trabajos-para-restablecer-el-transito-unidireccional/",
+        "https://www.cnnchile.com/pais/sistema-frontal-que-afecto-al-pais-senapred-reporta-59-albergados-y-233-viviendas-con-danos-o-en-evaluacion-tras-fuerte-lluvia-en-la-zona-centro-y-sur/"
+      ]
+    },
+    {
+      "id": "incendios",
+      "title": "Gobierno presenta el plan contra incendios 2026–2027 con mayor despliegue y foco en escuelas y comunidades",
+      "sources": [
+        "https://www.cnr.gob.cl/gobierno-lanza-plan-de-proteccion-contra-incendios-forestales-2026-2027-con-presupuesto-de-166-600-millones/"
+      ]
+    },
+    {
+      "id": "apuestas",
+      "title": "Apuestas en línea: se discuten prohibición publicitaria, protección de menores y carga tributaria",
+      "sources": [
+        "https://www.emol.com/noticias/Economia/2026/10/27/1215319/apuestas-online-indicaciones-publicidad.html",
+        "https://www.emol.com/noticias/Economia/2026/10/27/1215339/debate-apuestas-online-congreso.html"
+      ]
+    },
+    {
+      "id": "las-salinas",
+      "title": "Las Salinas inicia trámites para un proyecto de US$1.000 millones en Viña del Mar",
+      "sources": [
+        "https://www.emol.com/noticias/Economia/2026/10/27/1215365/las-salinas-proyecto-vina.html"
+      ]
+    },
+    {
+      "id": "ucrania",
+      "title": "Rusia y Ucrania inician una tregua humanitaria localizada en Oleshky mientras continúan ataques en otras zonas",
+      "sources": [
+        "https://www.investing.com/news/world-news/russia-ukraine-begin-oleshky-ceasefire-but-keep-up-strikes-elsewhere-4974577"
+      ]
+    },
+    {
+      "id": "caribe",
+      "title": "Carlos III viaja al Caribe en medio de demandas por reparaciones históricas y debate sobre la monarquía",
+      "sources": [
+        "https://www.investing.com/news/world-news/king-charles-heads-to-caribbean-as-calls-for-slavery-reparations-grow-4974277",
+        "https://apnews.com/article/9bae0e7264c39ae574729449f530b4b0"
+      ]
+    }
+  ]
 }
