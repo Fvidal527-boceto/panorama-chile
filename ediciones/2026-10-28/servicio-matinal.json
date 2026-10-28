@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-10-28",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "queried_at": "2026-10-28T08:20:00-03:00",
+  "updated_at": "2026-10-28T08:20:00-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "Miércoles 28 oct.",
+      "summary": "Sin dato verificado",
+      "source": "DMC / MeteoChile",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+      "verification": "Sin dato verificado directamente; no extrapolar"
+    },
+    {
+      "city": "Concepción",
+      "period": "Miércoles 28 oct.",
+      "summary": "Sin dato verificado",
+      "source": "MET Norway / Yr",
+      "url": "https://www.yr.no/",
+      "verification": "Sin dato verificado directamente; no extrapolar"
+    },
+    {
+      "city": "Casablanca",
+      "period": "Miércoles 28 oct.",
+      "summary": "Sin dato verificado",
+      "source": "MET Norway / Yr",
+      "url": "https://www.yr.no/",
+      "verification": "Sin dato verificado directamente; no extrapolar"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$985,14",
+      "validity": "28 oct. 2026",
+      "unit": "CLP por USD",
+      "url": "https://www.bcentral.cl/inicio/-/detalle/1026-6",
+      "source": "Banco Central"
+    },
+    {
+      "name": "UF",
+      "value": "$41.231,70",
+      "validity": "28 oct. 2026",
+      "unit": "CLP por UF",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "source": "SII"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.097,16",
+      "validity": "28 oct. 2026",
+      "unit": "CLP por EUR",
+      "url": "https://www.bcentral.cl/inicio/-/detalle/1026-6",
+      "source": "Banco Central"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.151",
+      "validity": "Octubre 2026",
+      "unit": "CLP por UTM",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "source": "SII"
+    }
+  ],
+  "images": [
+    {
+      "id": "banco",
+      "source": "https://commons.wikimedia.org/wiki/File:Edificio_del_Banco_Central_de_Chile_(2007).jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio_del_Banco_Central_de_Chile_(2007).jpg?width=960",
+      "alt": "Fachada del edificio del Banco Central de Chile, imagen de archivo de 2007",
+      "author": "Banco Central de Chile",
+      "date": "2007",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/"
+    },
+    {
+      "id": "requinoa",
+      "source": "https://commons.wikimedia.org/wiki/File:Plaza_de_Requinoa.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plaza_de_Requinoa.jpg?width=800",
+      "alt": "Plaza central de Requínoa, fotografía de archivo de 2014; no retrata el tornado",
+      "author": "Marco Antonio Correa Flores",
+      "date": "2014",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "sources": [
+    "https://www.bcentral.cl/contenido/-/detalle/prensa/comunicados-rpm/comunicado-reunion-de-politica-monetaria-octubre-2026",
+    "https://www.bcentral.cl/inicio/-/detalle/1026-6",
+    "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+    "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+    "https://www.hacienda.cl/index.php/noticias-y-eventos/noticias/hacienda-valora-respaldo-de-la-camara-a-reforma-que-busca-abrir-nuevas",
+    "https://votos.cochid.cl/votacion/735079",
+    "https://www.emol.com/noticias/Economia/2026/10/27/1215376/camara-despacha-reforma-mercado-capitales.html",
+    "https://radioallen.cl/requinoa-ministro-poduje-afirma-que-viviendas-afectadas-por-tornado-seran-recuperadas/",
+    "https://www.24horas.cl/internacional/noticias/flavio-bolsonaro-ingreso-sin-problemas-a-argentina-y-se-dirige-a-ee-uu-",
+    "https://gbm.com/media/noticia/flavio-bolsonaro-y-su-familia-embarcan-en-un-avion-con-destino-a-ecuador-segun-argentina/",
+    "https://www.rte.ie/news/world/2026/1028/1597051-spain-train-crash/",
+    "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
+    "https://apnews.com/article/52c6f5a0a720a4ffc08633229e796415",
+    "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+    "https://apnews.com/article/5f332b601c451636a5261099de447dee",
+    "https://apnews.com/article/2f949ea7aa0f34757f8efab3f78b700d",
+    "https://commons.wikimedia.org/wiki/File:Edificio_del_Banco_Central_de_Chile_(2007).jpg",
+    "https://commons.wikimedia.org/wiki/File:Plaza_de_Requinoa.jpg",
+    "https://creativecommons.org/licenses/by-sa/3.0/"
+  ],
+  "notes": "Edición de recuperación. La fuente meteorológica fue identificada, pero el pronóstico local no se pudo comprobar. Imágenes documentales de archivo y no de hechos de la jornada."
+}
