@@ -160,15 +160,78 @@
     ]
   },
   "stage2": {
-    "status": "comprobación estática OK",
-    "html_bytes": 53221,
+    "status": "OK",
+    "controls": [
+      {
+        "number": 1,
+        "control": "portada_jerarquia",
+        "status": "OK",
+        "evidence": "Portada con historia dominante, secundarias diferenciadas y editorial."
+      },
+      {
+        "number": 2,
+        "control": "imagen_principal",
+        "status": "OK",
+        "evidence": "Fotografía autorizada de Chuquicamata, Berg2 / CC BY-SA 4.0; identificada como archivo."
+      },
+      {
+        "number": 3,
+        "control": "imagenes_pertinentes",
+        "status": "OK",
+        "evidence": "Cuatro fotografías autorizadas y dos gráficas originales; cinco recursos en interiores. No repiten las fotografías del 28."
+      },
+      {
+        "number": 4,
+        "control": "creditos_subordinados",
+        "status": "OK",
+        "evidence": "Seis pies de imagen, 10 px en escritorio y móvil, autor/procedencia/licencia y archivo cuando corresponde."
+      },
+      {
+        "number": 5,
+        "control": "compaginacion_ABC",
+        "status": "OK",
+        "evidence": "Gran reportaje en dos columnas, mosaico jerarquizado de portada y noticias con recuadro contextual."
+      },
+      {
+        "number": 6,
+        "control": "sin_blancos_accidentales",
+        "status": "OK",
+        "evidence": "Eliminadas las filas con laterales cortos; artículos independientes, columnas equilibradas, imágenes sin deformación."
+      },
+      {
+        "number": 7,
+        "control": "legibilidad",
+        "status": "OK",
+        "evidence": "Cuerpo de 16 px; justificado en escritorio, alineado a la izquierda y una columna en móvil."
+      },
+      {
+        "number": 8,
+        "control": "identidad_cromatica",
+        "status": "OK",
+        "evidence": "Marfil, verde y terracota; editorial y servicios diferenciados."
+      },
+      {
+        "number": 9,
+        "control": "integridad_etapa1",
+        "status": "OK",
+        "evidence": "Once artículos: títulos, bajadas, todos los párrafos y fuentes idénticos al original. Código de voz idéntico."
+      },
+      {
+        "number": 10,
+        "control": "revision_escritorio_movil",
+        "status": "OK",
+        "evidence": "Inspección visual en navegador: escritorio 1363 px; marcos móviles de 360 y 390 px y tableta de 768 px. Sin desbordes; portada, primera sección, noticia extensa, interiores y servicios comprobados."
+      }
+    ],
+    "verified_at": "2026-10-29T08:08:01-03:00",
+    "html_bytes": 60039,
     "article_integrity": true,
     "valid_anchors": true,
     "external_links_safe": true,
     "voice_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
     "voice_inline": true,
-    "visual_browser_verified": false,
-    "original_cover_illustration": true
+    "visual_browser_verified": true,
+    "review_report": "control-etapa2-matinal.json"
   },
   "weather": [
     {
@@ -235,17 +298,74 @@
   ],
   "image_evidence": [
     {
-      "id": "hero-original",
-      "type": "svg-conceptual-original",
+      "key": "mineria",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Chuquicamata_Mine_Panorama.jpg/960px-Chuquicamata_Mine_Panorama.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chuquicamata_Mine_Panorama.jpg",
+      "author": "Berg2",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Chuquicamata · archivo, 27 mayo 2015. Contexto minero; no documenta el cambio legislativo.",
+      "path": "ediciones/2026-10-29/imagenes/mineria.jpg",
+      "bytes": 110299,
+      "width": 960,
+      "height": 377,
+      "changes": "Reducción y compresión JPEG; sin recorte. Derivado bajo la misma licencia."
+    },
+    {
+      "key": "mexico",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Palacio_Nacional_Mexico.jpg/1280px-Palacio_Nacional_Mexico.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Mexico.jpg",
+      "author": "Visente",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Palacio Nacional, México · archivo, 25 septiembre 2011. No corresponde a las negociaciones actuales.",
+      "path": "ediciones/2026-10-29/imagenes/mexico.jpg",
+      "bytes": 120511,
+      "width": 1067,
+      "height": 800,
+      "changes": "Reducción y compresión JPEG; sin recorte. Derivado bajo la misma licencia."
+    },
+    {
+      "key": "fed",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/US_Federal_Reserve_Eccles_Building_1937.jpg/960px-US_Federal_Reserve_Eccles_Building_1937.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:US_Federal_Reserve_Eccles_Building_1937.jpg",
+      "author": "Federal Reserve",
+      "license": "Dominio público",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Federal_Reserve",
+      "caption": "Edificio Eccles, Washington · archivo histórico, 20 octubre 1937. Sede de la Reserva Federal.",
+      "path": "ediciones/2026-10-29/imagenes/fed.jpg",
+      "bytes": 159187,
+      "width": 960,
+      "height": 726,
+      "changes": "Reducción y compresión JPEG; sin recorte. Derivado bajo la misma licencia."
+    },
+    {
+      "key": "toledo",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Toledo-Estaci%C3%B3n_de_Renfe-1.jpg/1280px-Toledo-Estaci%C3%B3n_de_Renfe-1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toledo-Estaci%C3%B3n_de_Renfe-1.jpg",
+      "author": "Javi Guerra Hernando",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Estación de Toledo · archivo, 16 noviembre 2008. Imagen de contexto; no muestra el accidente ni su ubicación exacta.",
+      "path": "ediciones/2026-10-29/imagenes/toledo.jpg",
+      "bytes": 146681,
+      "width": 1067,
+      "height": 800,
+      "changes": "Reducción y compresión JPEG; sin recorte. Derivado bajo la misma licencia."
+    },
+    {
+      "type": "SVG original",
       "author": "PANORAMA",
-      "date": "2026-10-29",
-      "rights": "Ilustración original creada para la edición; no fotografía del hecho",
-      "source": "https://www.emol.com/noticias/Economia/2026/10/28/1215476/ley-patentes-mineria-despacho-pymes.html"
+      "placements": [
+        "patentes",
+        "israel"
+      ],
+      "rights": "Gráficas originales; datos ya contenidos y enlazados en la edición."
     }
   ],
   "notes": [
-    "La portada y artículo no emplean fotografías de terceros ni ilustraciones de acontecimientos simuladas.",
-    "Inspección visual en navegador no disponible, validación de CSS móvil/escritorio solamente estática.",
-    "Sin dato verificado en el campo meteorológico Casablanca: dato no reciclado."
+    "Etapa 1 conservada íntegramente.",
+    "Etapa 2 revisada visualmente en navegador antes del commit.",
+    "Casablanca conserva Sin dato verificado; no se inventa ni recicla pronóstico."
   ]
 }

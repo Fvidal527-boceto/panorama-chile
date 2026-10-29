@@ -1,0 +1,58 @@
+[
+  {
+    "key": "mineria",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Chuquicamata_Mine_Panorama.jpg/960px-Chuquicamata_Mine_Panorama.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Chuquicamata_Mine_Panorama.jpg",
+    "author": "Berg2",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Chuquicamata · archivo, 27 mayo 2015. Contexto minero; no documenta el cambio legislativo.",
+    "path": "ediciones/2026-10-29/imagenes/mineria.jpg",
+    "bytes": 110299,
+    "width": 960,
+    "height": 377,
+    "changes": "Reducción y compresión JPEG; sin recorte. Derivado bajo la misma licencia."
+  },
+  {
+    "key": "mexico",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Palacio_Nacional_Mexico.jpg/1280px-Palacio_Nacional_Mexico.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Mexico.jpg",
+    "author": "Visente",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "caption": "Palacio Nacional, México · archivo, 25 septiembre 2011. No corresponde a las negociaciones actuales.",
+    "path": "ediciones/2026-10-29/imagenes/mexico.jpg",
+    "bytes": 120511,
+    "width": 1067,
+    "height": 800,
+    "changes": "Reducción y compresión JPEG; sin recorte. Derivado bajo la misma licencia."
+  },
+  {
+    "key": "fed",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/US_Federal_Reserve_Eccles_Building_1937.jpg/960px-US_Federal_Reserve_Eccles_Building_1937.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:US_Federal_Reserve_Eccles_Building_1937.jpg",
+    "author": "Federal Reserve",
+    "license": "Dominio público",
+    "license_url": "https://commons.wikimedia.org/wiki/Template:PD-USGov-Federal_Reserve",
+    "caption": "Edificio Eccles, Washington · archivo histórico, 20 octubre 1937. Sede de la Reserva Federal.",
+    "path": "ediciones/2026-10-29/imagenes/fed.jpg",
+    "bytes": 159187,
+    "width": 960,
+    "height": 726,
+    "changes": "Reducción y compresión JPEG; sin recorte. Derivado bajo la misma licencia."
+  },
+  {
+    "key": "toledo",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Toledo-Estaci%C3%B3n_de_Renfe-1.jpg/1280px-Toledo-Estaci%C3%B3n_de_Renfe-1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Toledo-Estaci%C3%B3n_de_Renfe-1.jpg",
+    "author": "Javi Guerra Hernando",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Estación de Toledo · archivo, 16 noviembre 2008. Imagen de contexto; no muestra el accidente ni su ubicación exacta.",
+    "path": "ediciones/2026-10-29/imagenes/toledo.jpg",
+    "bytes": 146681,
+    "width": 1067,
+    "height": 800,
+    "changes": "Reducción y compresión JPEG; sin recorte. Derivado bajo la misma licencia."
+  }
+]

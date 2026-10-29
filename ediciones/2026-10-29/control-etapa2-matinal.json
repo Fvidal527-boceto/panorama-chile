@@ -1,0 +1,358 @@
+{
+  "edition": "2026-10-29/matinal",
+  "reviewed_at": "2026-10-29T08:08:01-03:00",
+  "revision": "2026-10-29-etapa2-r1",
+  "status": "OK",
+  "controls": [
+    {
+      "number": 1,
+      "control": "portada_jerarquia",
+      "status": "OK",
+      "evidence": "Portada con historia dominante, secundarias diferenciadas y editorial."
+    },
+    {
+      "number": 2,
+      "control": "imagen_principal",
+      "status": "OK",
+      "evidence": "Fotografía autorizada de Chuquicamata, Berg2 / CC BY-SA 4.0; identificada como archivo."
+    },
+    {
+      "number": 3,
+      "control": "imagenes_pertinentes",
+      "status": "OK",
+      "evidence": "Cuatro fotografías autorizadas y dos gráficas originales; cinco recursos en interiores. No repiten las fotografías del 28."
+    },
+    {
+      "number": 4,
+      "control": "creditos_subordinados",
+      "status": "OK",
+      "evidence": "Seis pies de imagen, 10 px en escritorio y móvil, autor/procedencia/licencia y archivo cuando corresponde."
+    },
+    {
+      "number": 5,
+      "control": "compaginacion_ABC",
+      "status": "OK",
+      "evidence": "Gran reportaje en dos columnas, mosaico jerarquizado de portada y noticias con recuadro contextual."
+    },
+    {
+      "number": 6,
+      "control": "sin_blancos_accidentales",
+      "status": "OK",
+      "evidence": "Eliminadas las filas con laterales cortos; artículos independientes, columnas equilibradas, imágenes sin deformación."
+    },
+    {
+      "number": 7,
+      "control": "legibilidad",
+      "status": "OK",
+      "evidence": "Cuerpo de 16 px; justificado en escritorio, alineado a la izquierda y una columna en móvil."
+    },
+    {
+      "number": 8,
+      "control": "identidad_cromatica",
+      "status": "OK",
+      "evidence": "Marfil, verde y terracota; editorial y servicios diferenciados."
+    },
+    {
+      "number": 9,
+      "control": "integridad_etapa1",
+      "status": "OK",
+      "evidence": "Once artículos: títulos, bajadas, todos los párrafos y fuentes idénticos al original. Código de voz idéntico."
+    },
+    {
+      "number": 10,
+      "control": "revision_escritorio_movil",
+      "status": "OK",
+      "evidence": "Inspección visual en navegador: escritorio 1363 px; marcos móviles de 360 y 390 px y tableta de 768 px. Sin desbordes; portada, primera sección, noticia extensa, interiores y servicios comprobados."
+    }
+  ],
+  "integrity": {
+    "articles": [
+      {
+        "id": "patentes",
+        "heading": "Chile rebaja las patentes mineras: el alivio abre una discusión sobre inversión y territorio",
+        "deck": "La Cámara despachó a ley una fórmula que reemplaza el cobro progresivo de hasta 12 UTM por 0,4 UTM por hectárea. La menor carga beneficia a productores y abre preguntas sobre la actividad efectiva de las concesiones.",
+        "paragraphs": [
+          "El Congreso cerró el miércoles 28 una discusión con importantes consecuencias para la pequeña y mediana minería. La Cámara de Diputados aprobó las modificaciones del Senado y despachó a ley el proyecto que cambia el sistema de patentes mineras. La votación general en tercer trámite registró 103 apoyos, nueve rechazos y 29 abstenciones; la modificación más controvertida del artículo 142 bis obtuvo 89 votos a favor, 46 en contra y cinco abstenciones. El consenso mayoritario no borró el desacuerdo sobre el incentivo que debieran generar las patentes.",
+          "El texto sustituye una tarifa progresiva que podía alcanzar 12 UTM por hectárea por un monto base de 0,4 UTM. A valores de octubre, Emol traduce esa comparación en $865.812 frente a $28.860 por hectárea. Se amplían las situaciones que pueden acceder a 0,1 UTM, entre ellas proyectos ambientales en tramitación y titulares que acrediten información geológica ante Sernageomin. La rebaja alcanzaría, bajo condiciones, a arrendatarios o explotadores legítimos de la concesión.",
+          "Para minería artesanal, la superficie beneficiada pasa de 50 a 100 hectáreas; para pequeños productores, de 100 a 150. Además, se aplaza el pago de las patentes correspondientes a 2026 hasta el 28 de febrero de 2027 y se incorporan disposiciones vinculadas a remates y mora. Esos cambios pueden aliviar las obligaciones de operadores regionales. No significan que los nuevos montos estén cobrando vigencia esta mañana: la ley requiere promulgación y publicación, y ciertos cambios reglamentarios deben aprobarse primero.",
+          "Los partidarios de la iniciativa sostienen que una carga progresiva elevada obstaculizaba exploración e inversión, especialmente entre empresas pequeñas. Los críticos temen que una tarifa más baja facilite mantener concesiones sin actividad y reduzca ingresos asociados a municipios. La controversia se traslada ahora del Parlamento a la aplicación: cuántas pertenencias exploran o producen, qué recaudación queda en territorios mineros y cómo se publicará la información regional de Sernageomin.",
+          "El control posterior será más útil que una etiqueta de éxito o fracaso anticipada. Si aumentan los proyectos efectivos sin estimular acaparamiento, la reforma podrá mostrar resultados. Si se abarata simplemente la retención de derechos, reaparecerá la discusión que motivó el esquema progresivo. El dato nuevo del 28 fue el despacho legislativo; la comprobación relevante vendrá después."
+        ],
+        "sources": [
+          [
+            "Emol · detalle legislativo y montos, 28 oct.",
+            "https://www.emol.com/noticias/Economia/2026/10/28/1215476/ley-patentes-mineria-despacho-pymes.html",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "Registro de la votación general de Cámara",
+            "https://www.quieneseljefe.cl/votacion/90747/modifica-el-codigo-de-mineria-y-las-leyes-numeros-21-420-y-21-649-en-materia-de-amparo-minero-y",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "antofagasta",
+        "heading": "Antofagasta mantiene la atención sobre las tormentas y nevadas previstas en sectores de altura",
+        "deck": "Un aviso meteorológico y la alerta preventiva de Senapred alcanzan este jueves a sectores precordilleranos y cordilleranos; no describen el tiempo de todas las ciudades costeras.",
+        "paragraphs": [
+          "Las condiciones de la cordillera del norte vuelven a exigir atención diferenciada. La alerta preventiva difundida el lunes 26 para la provincia de El Loa y las comunas de Antofagasta y Taltal responde a avisos de la Dirección Meteorológica de Chile por posibles tormentas eléctricas y nevadas en sectores de altura, con ventanas de ocurrencia que abarcan el miércoles 28 y el jueves 29 de octubre. El reporte indicó posibilidades de acumulación de nieve en determinados sectores, no una medición confirmada de nieve caída.",
+          "Una advertencia regional no equivale a afirmar que toda Antofagasta enfrente las mismas condiciones. Las mayores consecuencias operativas se producen en rutas de montaña, faenas de altura y zonas de tránsito cordillerano; las localidades de la costa pueden vivir un tiempo muy distinto. Identificar la franja geográfica es fundamental para evitar una alarma excesivamente amplia o una falsa sensación de seguridad donde sí existe exposición.",
+          "Para desplazamientos y trabajos de hoy, lo apropiado es consultar la actualización de la DMC y la información vial correspondiente. No hay en las fuentes comprobadas de esta edición un balance nuevo de daños por este episodio y PANORAMA no lo supone. El seguimiento vespertino deberá determinar si se registraron precipitaciones, incidencias de tránsito o modificación del aviso."
+        ],
+        "sources": [
+          [
+            "SoyAntofagasta · alerta y período previsto, 26 oct.",
+            "https://www.soychile.cl/antofagasta/sociedad/2026/10/26/970261/alerta-tormenta-antofagasta.html",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "MeteoChile · consulta meteorológica",
+            "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "brasil",
+        "heading": "Brasil entra en la fase diplomática: la reelección de Lula reordena las relaciones de la región",
+        "deck": "Concluida la segunda vuelta, las reacciones de Washington y Buenos Aires, y la salida de Flávio Bolsonaro a Estados Unidos, pasan al primer plano.",
+        "paragraphs": [
+          "El resultado de la elección presidencial brasileña ya está establecido. Según el registro de Agência Brasil, Luiz Inácio Lula da Silva logró 64.256.232 votos válidos, equivalentes al 51,79%, frente a 59.826.041 votos de Flávio Bolsonaro, el 48,21%. La diferencia supera los cuatro millones de sufragios. El seguimiento dejó de ser el escrutinio diario y se convierte en un análisis de las consecuencias políticas e institucionales de un cuarto período de Lula.",
+          "Flávio Bolsonaro viajó a Miami después de la derrota y continuó sosteniendo acusaciones de fraude sin pruebas verificables. The Guardian informó el jueves 29 que Donald Trump cuestionó la elección, aunque sin anunciar sanciones concretas vinculadas al resultado. Las declaraciones pueden tensar el clima político, pero será necesario observar actos de gobierno y decisiones comerciales antes de inferir un deterioro material de la relación entre Brasil y Estados Unidos.",
+          "Argentina ofrece otra señal regional. UOL informó el miércoles 28 que el presidente Javier Milei evitó mencionar la salida de Flávio en un discurso posterior a las elecciones. La falta de una felicitación protocolar a Lula refleja diferencias políticas y un enfriamiento del tono entre mandatarios; por sí sola no constituye ruptura diplomática ni comercial, especialmente en dos socios relevantes del Mercosur.",
+          "El ex canciller Celso Amorim defendió, según la prensa internacional, un enfoque exterior pragmático y equilibrado. Ese argumento será probado por la agenda real: negociaciones comerciales, respuestas de Estados Unidos, coordinación del Mercosur y capacidad para sostener vínculos con líderes de orientación ideológica distinta.",
+          "Para esta etapa, PANORAMA observará decisiones verificables sobre gabinete, gobernabilidad y política exterior. No convertiremos nuevas declaraciones de campaña o disputas personales en un supuesto nuevo recuento electoral."
+        ],
+        "sources": [
+          [
+            "Agência Brasil · resultado final, 26 oct.",
+            "https://agenciabrasil.ebc.com.br/es/politica/noticia/2026-10/remontada-historia-lula-sera-presidente-por-cuarta-vez",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "The Guardian · consecuencias internacionales, 29 oct.",
+            "https://www.theguardian.com/world/2026/oct/29/bolsonaro-defeat-trump-orange-wave",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "UOL · Milei y reacción argentina, 28 oct.",
+            "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/28/milei-evita-citar-fuga-de-bolsonaro-em-discurso-apos-eleicao-no-brasil.ghtm",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "mexico",
+        "heading": "México negocia un acuerdo parcial con Estados Unidos antes de las legislativas",
+        "deck": "Sheinbaum habla de conversaciones para aliviar aranceles sobre automóviles, acero y aluminio. Un acuerdo todavía no está cerrado y el tratado norteamericano sigue bajo revisión.",
+        "paragraphs": [
+          "La presidenta mexicana Claudia Sheinbaum confirmó el miércoles 28 que México y Estados Unidos estudian la viabilidad de un entendimiento comercial antes de las elecciones legislativas estadounidenses de noviembre. Reuters informó que la conversación se orienta a un acuerdo temporal bilateral, mientras continúa una negociación más compleja acerca del tratado de libre comercio con Estados Unidos y Canadá, el T-MEC.",
+          "Entre las prioridades declaradas por el gobierno mexicano está reducir aranceles que afectan a la industria automotriz, al acero y al aluminio. Son actividades con cadenas de suministro integradas a través de la frontera: una barrera comercial puede encarecer partes y materiales, alterar contratos y demorar decisiones de inversión en más de un país.",
+          "El calendario político proporciona un incentivo para obtener un anuncio, pero no reemplaza las condiciones jurídicas y económicas de un pacto. Sheinbaum señaló avances en asuntos de interés compartido y evitó presentar como acordado un documento que todavía se negocia. Tampoco queda resuelto el papel de Canadá en la revisión del instrumento trilateral.",
+          "Para América Latina, el episodio permite observar la estrategia de una economía profundamente vinculada a Estados Unidos: lograr alivios sectoriales sin abandonar, por ahora, las ventajas de un marco regional más amplio. La próxima noticia será la publicación de condiciones, cifras y plazos, si se alcanza un acuerdo. La sola expectativa no constituye todavía una rebaja arancelaria vigente."
+        ],
+        "sources": [
+          [
+            "Reuters vía Investing.com · negociaciones, 28 oct.",
+            "https://www.investing.com/news/economy-news/mexico-us-assess-viability-of-trade-deal-before-midterms-4980220",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "fed",
+        "heading": "La Reserva Federal deja su tasa entre 3,75% y 4% y registra dos votos por subirla",
+        "deck": "La decisión del 28 de octubre fue de 10 contra 2; el desacuerdo apunta a una inflación persistente y no a una propuesta de recorte.",
+        "paragraphs": [
+          "La Reserva Federal de Estados Unidos mantuvo el rango objetivo para la tasa de los fondos federales entre 3,75% y 4,00%. El comunicado oficial del miércoles 28 describe una economía que sigue creciendo a ritmo sólido, gasto interno resistente, inversión fuerte y una inflación todavía elevada. El comité advierte, además, sobre la incertidumbre derivada de los acontecimientos internacionales.",
+          "La votación fue 10 a 2. Lisa D. Cook y Beth M. Hammack se opusieron porque preferían elevar la tasa en 0,25 punto porcentual. La distinción es importante: la mayoría no autorizó un alza, y tampoco decidió una rebaja. El desacuerdo interno revela un debate sobre cuánto riesgo representa la inflación residual frente a los beneficios de esperar datos adicionales.",
+          "Las tasas de política monetaria no fijan automáticamente cada interés que pagan empresas y hogares. Influyen sobre el costo del crédito y las expectativas, pero las condiciones financieras concretas dependen de riesgo, plazo y otros mercados. Para Chile también importan la reacción del dólar y la diferencia de trayectorias macroeconómicas, sin que un solo comunicado determine todo ese movimiento.",
+          "El Banco Central de Chile había mantenido su TPM en 4,5%, decisión cubierta en el turno anterior. La novedad ahora es la posición documentada del FOMC estadounidense, no una segunda noticia sobre la misma determinación chilena. Esta tarde corresponderá evaluar las declaraciones complementarias y los cambios económicos que efectivamente se produzcan."
+        ],
+        "sources": [
+          [
+            "Reserva Federal · comunicado oficial completo y disensos, 28 oct.",
+            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "Banco Central de Chile · referencia comparativa",
+            "https://www.bcentral.cl/inicio",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "pentagono",
+        "heading": "Un cambio en el Estado Mayor del Pentágono llega mientras Washington evalúa operaciones contra Irán",
+        "deck": "AP informa que el general Brett Sylvia fue removido del cargo de planificación estratégica; el Departamento de Defensa no explicó oficialmente su salida.",
+        "paragraphs": [
+          "El secretario de Defensa de Estados Unidos, Pete Hegseth, destituyó al teniente general Brett Sylvia como director de estrategia, planes y política del Estado Mayor Conjunto, el puesto conocido como J5. Associated Press informó el jueves que no había una explicación oficial de los motivos ni se había identificado inmediatamente un reemplazante. La posición afecta la coordinación de la planificación militar de alto nivel.",
+          "El momento explica la relevancia pública de una decisión administrativa. La administración de Donald Trump considera posibles nuevas operaciones militares contra Irán. Según el reporte de AP, aliados de la región han recibido advertencias acerca de posibles ataques y represalias, mientras Estados Unidos aumenta su presencia militar, incluida la movilización de otro portaaviones.",
+          "Son hechos de categorías diferentes. La remoción del oficial está reportada; la preparación y evaluación de opciones militares son asuntos en desarrollo; no existía una confirmación en las fuentes consultadas de que Trump hubiera decidido lanzar nuevos ataques. Presentar una posibilidad operativa como un hecho consumado alteraría el sentido de la noticia.",
+          "Los cambios reiterados en la cúpula militar intensifican una discusión sobre experiencia institucional, continuidad y control democrático. El gobierno defiende la reorganización de mandos; sectores críticos del Congreso cuestionan sus efectos. El seguimiento más relevante no será solamente la cifra de oficiales removidos, sino el nombramiento de reemplazantes y las decisiones formalmente anunciadas."
+        ],
+        "sources": [
+          [
+            "Associated Press · J5, Hegseth y contexto de Irán, 29 oct.",
+            "https://apnews.com/article/hegseth-general-firing-iran-war-strikes-6726895f0c7fe93c7cbc94cae0ff7621",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "espana",
+        "heading": "España inicia tres días de duelo por la colisión ferroviaria; la investigación apunta a una orden de circulación",
+        "deck": "El balance provisional alcanza 68 muertos y decenas de hospitalizados. Los investigadores deberán reconstruir por qué un tren pudo avanzar tras la falla del sistema de seguridad.",
+        "paragraphs": [
+          "España comenzó el jueves 29 de octubre tres días de luto nacional tras el choque de trenes de alta velocidad del miércoles cerca de Urda, provincia de Toledo. Associated Press reportó al menos 68 personas fallecidas, 53 hospitalizadas, de ellas 15 en estado crítico. Esas cifras son provisionales: las tareas de rescate y búsqueda entre vagones seguían en curso.",
+          "El accidente involucró servicios operados por Iryo y Renfe. El ministro de Transportes, Óscar Puente, explicó una secuencia preliminar: una falla informática dejó sin operación un sistema de seguridad en un tramo ferroviario de aproximadamente 63 kilómetros, los trenes debieron detenerse y posteriormente desde un centro de control se habría autorizado que uno continuase sin limitación de velocidad pese a señales de detención.",
+          "Esa explicación inicial no constituye aún una atribución judicial de responsabilidades. Habrá que establecer qué información recibió cada operador, cuáles eran los protocolos vigentes, qué elementos de protección fallaron y quién impartió cada instrucción. Las barreras ferroviarias de seguridad están pensadas precisamente para evitar que un error aislado desemboque en una colisión.",
+          "Es la segunda gran tragedia mortal en la alta velocidad española durante 2026. Otro accidente en enero había dejado 46 fallecidos, aunque las autoridades indicaron que las causas no parecían idénticas. La línea Madrid-Sevilla quedó interrumpida y miles de pasajeros debieron modificar sus desplazamientos. El hecho coincide con la proximidad de elecciones nacionales, aumentando la presión por explicaciones públicas.",
+          "El duelo no debería postergar una investigación rigurosa. Honrar a las víctimas incluye establecer con evidencia qué decisiones técnicas y humanas precedieron al choque y qué medidas de seguridad deben cambiar. La cobertura continuará con los balances oficiales y los resultados de la investigación, evitando convertir las primeras hipótesis en conclusiones definitivas."
+        ],
+        "sources": [
+          [
+            "Associated Press · balance e investigación, 29 oct.",
+            "https://apnews.com/article/spain-train-crash-election-sanchez-aeb1c22ee6ddfe3733f3371bbf39ed0e",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "The Guardian · duelo y búsqueda, 29 oct.",
+            "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "volkswagen",
+        "heading": "Volkswagen anota pérdidas y exhibe las dificultades de la transformación industrial alemana",
+        "deck": "La pérdida trimestral de 5.800 millones de euros combina un deterioro contable en Porsche con presión competitiva, aranceles y costos de transición tecnológica.",
+        "paragraphs": [
+          "Volkswagen informó el jueves 29 una pérdida neta de 5.800 millones de euros en el tercer trimestre de 2026. Según Associated Press, la facturación del período bajó 6,3% hasta 80.300 millones de euros, y una depreciación de 6.400 millones de euros de su inversión en Porsche explicó gran parte del resultado contable.",
+          "La compañía enfrenta presiones simultáneas: la competencia en China, los aranceles estadounidenses, la complejidad de producir vehículos eléctricos rentables y la necesidad de renovar modelos y tecnologías. Una gran pérdida contable no describe por sí sola todos los flujos operacionales, pero revela el estrechamiento de los márgenes para financiar una reconversión de largo plazo.",
+          "El proceso de ajuste podría contemplar hasta 100.000 recortes de empleos y cierres de plantas, de acuerdo con el reporte. Esa cifra se refiere a medidas previstas o consideradas, no a 100.000 despidos ya materializados. Los sindicatos, las autoridades y los proveedores tienen interés directo en cómo se escalonará la transformación.",
+          "Para Europa, el caso muestra que la competencia global no se explica exclusivamente por barreras comerciales. También cuentan el diseño de los vehículos, la productividad, la escala industrial, los costos energéticos y las decisiones de inversión. La prueba será sostener una base productiva competitiva mientras se reparte socialmente el costo de la transición."
+        ],
+        "sources": [
+          [
+            "Associated Press · resultados de Volkswagen, 29 oct.",
+            "https://apnews.com/article/379b30141c099afffec03b6a972091f7",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "israel",
+        "heading": "Israel queda sin una mayoría clara: las fuerzas árabes ganan relevancia en el Parlamento",
+        "deck": "Proyecciones sitúan al bloque de Netanyahu en 53 escaños, la oposición en 48 y partidos árabes en 19; cualquier coalición necesita 61.",
+        "paragraphs": [
+          "El recuento de las elecciones israelíes dibuja un Parlamento sin mayoría para ninguno de los bloques tradicionales. Las estimaciones citadas por AP y The Guardian asignan 53 escaños al bloque del primer ministro Benjamin Netanyahu, 48 a las fuerzas opositoras principales y 19 a partidos encabezados por ciudadanos árabes de Israel. La Knéset tiene 120 asientos y se requieren al menos 61 para contar con una mayoría parlamentaria.",
+          "El reparto puede cambiar ligeramente mientras se incorporan votos pendientes y se formalizan resultados. Además, las sumas aritméticas no son acuerdos de gobierno. Algunos dirigentes de la oposición han rechazado depender de partidos árabes; otros defienden una fórmula de cooperación política más amplia para formar Ejecutivo.",
+          "El aumento de la representación árabe abre una discusión sobre participación, ciudadanía y legitimidad de las coaliciones. Estos partidos podrían influir mediante acuerdos de investidura o negociaciones legislativas aun sin integrarse a un gabinete. El presidente Isaac Herzog deberá consultar a las fuerzas y encargar la formación de gobierno al candidato que parezca capaz de reunir apoyos suficientes.",
+          "La campaña estuvo marcada por seguridad, guerra y tensiones institucionales. La elección determina el peso relativo de las fuerzas, no automáticamente quién gobernará. El seguimiento se concentrará en recuentos formalizados, negociaciones y compromisos públicos, y no en proclamar vencedora a una coalición que todavía no existe."
+        ],
+        "sources": [
+          [
+            "Associated Press · perspectivas de coalición, 29 oct.",
+            "https://apnews.com/article/9a0620a1314fdc127245ba1a7f0aa762",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "The Guardian · escrutinio y fuerzas, 28 oct.",
+            "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "haiti",
+        "heading": "La ONU alerta que el hambre en Haití puede alcanzar a 6,35 millones de personas en 2027",
+        "deck": "La proyección del Programa Mundial de Alimentos corresponde al período marzo-junio próximo; la violencia y los desplazamientos agravan una emergencia prolongada.",
+        "paragraphs": [
+          "El Programa Mundial de Alimentos advirtió el miércoles 28 de octubre que la inseguridad alimentaria aguda en Haití podría afectar a 6,35 millones de personas entre marzo y junio de 2027. La cifra procede de una proyección vinculada a la clasificación internacional IPC de seguridad alimentaria y no significa que hoy se haya contabilizado exactamente esa cantidad de personas en idénticas condiciones.",
+          "El organismo estima que cerca de dos millones de personas podrían enfrentar la fase 4, catalogada como Emergencia, en el período evaluado. Los riesgos se relacionan con violencia de grupos armados, desplazamientos, dificultades de circulación de mercancías, aumentos de precios y amenazas climáticas, incluidos posibles efectos de El Niño.",
+          "La inseguridad actúa sobre toda la cadena alimentaria. Cuando familias rurales abandonan campos, cae la producción; cuando las carreteras quedan sometidas a violencia, incluso los alimentos disponibles pueden encarecerse o no llegar a los mercados. Las intervenciones humanitarias deben convivir con programas de protección de la actividad agrícola y de las rutas de abastecimiento.",
+          "La dimensión regional del episodio suele quedar eclipsada por crisis políticas inmediatas. Sin embargo, el pronóstico exige decisiones anticipadas sobre financiamiento, acceso seguro y logística. El seguimiento debe comprobar cuánto apoyo se moviliza y qué capacidad real existe para distribuirlo, separando siempre las estimaciones futuras del balance actual."
+        ],
+        "sources": [
+          [
+            "Programa Mundial de Alimentos · advertencia e IPC, 28 oct.",
+            "https://www.wfp.org/news/wfp-warnings-become-reality-food-insecurity-haiti-track-reach-record-highs",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      },
+      {
+        "id": "editorial",
+        "heading": "Las decisiones importan cuando sus resultados pueden comprobarse",
+        "deck": "Una reforma minera, una tragedia ferroviaria y una negociación comercial tienen consecuencias distintas. Las tres exigen instituciones que expliquen sus decisiones, dejen registros y acepten su evaluación.",
+        "paragraphs": [
+          "La nueva ley de patentes mineras de Chile promete aliviar a productores y estimular la exploración. Un cambio de costos puede ser razonable; lo que justificará su éxito será el aumento de actividades efectivas, el impacto en los territorios y la transparencia de la recaudación. El despacho en el Congreso es una decisión, no su evaluación.",
+          "En España, el choque de trenes obliga a mirar un asunto todavía más grave. Cuando falla un sistema automatizado, las órdenes humanas y los procedimientos de respaldo deben poder reconstruirse sin ambigüedades. El respeto a las víctimas exige una investigación independiente sobre la secuencia de hechos y las responsabilidades, no solamente una sucesión de declaraciones públicas.",
+          "México, entretanto, negocia con Estados Unidos ante presiones arancelarias y un calendario electoral. Es válido explorar soluciones parciales, pero sus beneficios reales dependen de textos concretos y condiciones conocidas. Una conversación diplomática puede ser una oportunidad; todavía no es un acuerdo en vigor.",
+          "El punto común es una exigencia de rendición de cuentas. En una sociedad saturada de titulares, los gobiernos tienden a reclamar reconocimiento por lo que anuncian. El periodismo y la ciudadanía necesitan preguntar qué se decidió, con qué información, quién asumirá los costos y qué evidencia permitirá juzgar los resultados."
+        ],
+        "sources": [
+          [
+            "Reforma minera · información legislativa",
+            "https://www.emol.com/noticias/Economia/2026/10/28/1215476/ley-patentes-mineria-despacho-pymes.html",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "España · investigación ferroviaria",
+            "https://apnews.com/article/spain-train-crash-election-sanchez-aeb1c22ee6ddfe3733f3371bbf39ed0e",
+            "_blank",
+            "noopener noreferrer"
+          ],
+          [
+            "México · negociación comercial",
+            "https://www.investing.com/news/economy-news/mexico-us-assess-viability-of-trade-deal-before-midterms-4980220",
+            "_blank",
+            "noopener noreferrer"
+          ]
+        ]
+      }
+    ],
+    "article_count": 11,
+    "identical": true,
+    "voice_sha256": "ca0cd927b07c6bce3df308c38dbe9e4178e6afe9754c376a951302f1fdceb965",
+    "html_bytes": 60039
+  },
+  "browser_checks": {
+    "desktop_css_width": 1363,
+    "mobile_frame_widths": [
+      360,
+      390
+    ],
+    "tablet_frame_width": 768,
+    "horizontal_overflow": false,
+    "desktop_alignment": "justify",
+    "mobile_alignment": "left",
+    "caption_font_px": 10,
+    "images_loaded": 4,
+    "figures": 6
+  },
+  "html_sha256": "180baf32030aca14c5882973f06072e354d199001a30291ff01d1709f176fd4b",
+  "costs_added": 0,
+  "netlify_deployments": 0
+}
