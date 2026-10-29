@@ -1,0 +1,224 @@
+{
+  "fecha": "2026-10-29",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "queried_at": "2026-10-29T15:13:10.616-03:00",
+  "updated_at": "2026-10-29T15:13:10.616-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "SIN DATO VERIFICADO",
+      "period": "tarde/noche del 29",
+      "source": "DMC Quinta Normal",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "note": "Se consultó el meteograma, sin poder aislar de forma fiable la previsión vespertina específica.",
+      "verified": false,
+      "queried_at": "2026-10-29T15:13:10.616-03:00"
+    },
+    {
+      "city": "Concepción",
+      "value": "SIN DATO VERIFICADO",
+      "period": "tarde/noche del 29",
+      "source": "DMC Carriel Sur",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "note": "Se consultó el meteograma, sin poder aislar de forma fiable la previsión vespertina específica.",
+      "verified": false,
+      "queried_at": "2026-10-29T15:13:10.616-03:00"
+    },
+    {
+      "city": "Casablanca",
+      "value": "SIN DATO VERIFICADO",
+      "period": "tarde/noche del 29",
+      "source": "MET Norway / Yr",
+      "url": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "note": "No se obtuvo un pronóstico específico de la localidad con hora y valores comprobables.",
+      "verified": false,
+      "queried_at": "2026-10-29T15:13:10.616-03:00"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$981,08",
+      "date": "29 oct. 2026 · CLP/USD",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+      "verified": true,
+      "source": "Banco Central / SII",
+      "queried_at": "2026-10-29T15:13:10.616-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.237,01",
+      "date": "29 oct. 2026 · CLP/UF",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+      "verified": true,
+      "source": "Banco Central / SII",
+      "queried_at": "2026-10-29T15:13:10.616-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.093,25",
+      "date": "29 oct. 2026 · CLP/EUR",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+      "verified": true,
+      "source": "Banco Central / SII",
+      "queried_at": "2026-10-29T15:13:10.616-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.151",
+      "date": "octubre 2026 · CLP/UTM",
+      "url": "https://www.gslb.cndp.cl/web/banco-central",
+      "verified": true,
+      "source": "Banco Central / SII",
+      "queried_at": "2026-10-29T15:13:10.616-03:00"
+    }
+  ],
+  "comparison": "ediciones/2026-10-29/matinal.html",
+  "sources": [
+    "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026",
+    "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economistas-coinciden-en-necesidad-de-acuerdos-para-enfrentar-crisis-de/2026-10-29/112310.html",
+    "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026",
+    "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economistas-coinciden-en-necesidad-de-acuerdos-para-enfrentar-crisis-de/2026-10-29/112310.html",
+    "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026",
+    "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/29/apos-eleicoes-tse-tem-mais-de-20-acoes-para-julgar-entre-flavio-e-lula.ghtm",
+    "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-determina-esclarecimentos-antes-de-analisar-pedidos-de-flavio-contra-lula-e-janones",
+    "https://www.jornada.com.mx/2026/10/29/economia/024n2eco",
+    "https://uk.marketscreener.com/news/mexico-us-assess-viability-of-trade-deal-before-midterms-ce785cd2d18bf122",
+    "https://www.bea.gov/index.php/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+    "https://apnews.com/article/ca48d86b723cc52fe14d142ee033316a",
+    "https://apnews.com/article/c7df622f1e87de6035173be8fb8c4add",
+    "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.mt.html",
+    "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.it.html",
+    "https://elpais.com/economia/2026-10-29/christine-lagarde-dejara-la-presidencia-del-bce-el-7-de-febrero-y-abre-la-carrera-por-su-sucesion.html",
+    "https://apnews.com/article/aeb1c22ee6ddfe3733f3371bbf39ed0e",
+    "https://www.rtve.es/noticias/20261029/primeras-victimas-identificadas-accidente-tren-urda-toledo/17288245.shtml",
+    "https://es.euronews.com/2026/10/29/accidente-tren-urda-toledo-17-minutos-clave-que-fallo-investigacion",
+    "https://efe.com/mundo/2026-10-29/elecciones-israel-escrutinio/",
+    "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+    "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026",
+    "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economistas-coinciden-en-necesidad-de-acuerdos-para-enfrentar-crisis-de/2026-10-29/112310.html"
+  ],
+  "images": [
+    {
+      "type": "infografia",
+      "author": "PANORAMA",
+      "source": "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026",
+      "license": "Gráfica original"
+    },
+    {
+      "type": "foto_archivo",
+      "file": "Santiago de Chile, Desde Cerro San Cristóbal (cropped panorama).jpg",
+      "author": "Omnespsx",
+      "date": "2014-02-01",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Santiago_de_Chile,_Desde_Cerro_San_Crist%C3%B3bal_(cropped_panorama).jpg"
+    },
+    {
+      "type": "foto_archivo",
+      "file": "Palacio Nacional de la Ciudad de Mexico.JPG",
+      "author": "IvanRosas",
+      "date": "2012-09-14",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_de_la_Ciudad_de_Mexico.JPG"
+    }
+  ],
+  "articles": [
+    {
+      "id": "empleo",
+      "title": "Chile llega al 9,8% de desempleo: el crecimiento prometido aún no alcanza a los hogares",
+      "source_urls": [
+        "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026",
+        "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economistas-coinciden-en-necesidad-de-acuerdos-para-enfrentar-crisis-de/2026-10-29/112310.html"
+      ]
+    },
+    {
+      "id": "territorios",
+      "title": "La caída del empleo formal pone a prueba a la industria y a los servicios tecnológicos",
+      "source_urls": [
+        "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026"
+      ]
+    },
+    {
+      "id": "acuerdos",
+      "title": "Economistas reclaman acuerdos frente al desempleo mientras Hacienda privilegia reactivar proyectos",
+      "source_urls": [
+        "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/economistas-coinciden-en-necesidad-de-acuerdos-para-enfrentar-crisis-de/2026-10-29/112310.html",
+        "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026"
+      ]
+    },
+    {
+      "id": "brasil",
+      "title": "Después del balotaje brasileño quedan 21 investigaciones electorales pendientes",
+      "source_urls": [
+        "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/29/apos-eleicoes-tse-tem-mais-de-20-acoes-para-julgar-entre-flavio-e-lula.ghtm",
+        "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/tse-determina-esclarecimentos-antes-de-analisar-pedidos-de-flavio-contra-lula-e-janones"
+      ]
+    },
+    {
+      "id": "mexico",
+      "title": "México sostiene la negociación con Washington: los aranceles industriales siguen sin acuerdo",
+      "source_urls": [
+        "https://www.jornada.com.mx/2026/10/29/economia/024n2eco",
+        "https://uk.marketscreener.com/news/mexico-us-assess-viability-of-trade-deal-before-midterms-ce785cd2d18bf122"
+      ]
+    },
+    {
+      "id": "pib",
+      "title": "La economía estadounidense crece 3,4% anualizado impulsada por consumo e inversión",
+      "source_urls": [
+        "https://www.bea.gov/index.php/news/2026/gdp-advance-estimate-3rd-quarter-2026",
+        "https://apnews.com/article/ca48d86b723cc52fe14d142ee033316a"
+      ]
+    },
+    {
+      "id": "iran",
+      "title": "Washington advierte a aliados sobre posibles operaciones contra Irán después del 3 de noviembre",
+      "source_urls": [
+        "https://apnews.com/article/c7df622f1e87de6035173be8fb8c4add"
+      ]
+    },
+    {
+      "id": "bce",
+      "title": "El BCE mantiene los tipos y Christine Lagarde anuncia su salida anticipada",
+      "source_urls": [
+        "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.mt.html",
+        "https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.it.html",
+        "https://elpais.com/economia/2026-10-29/christine-lagarde-dejara-la-presidencia-del-bce-el-7-de-febrero-y-abre-la-carrera-por-su-sucesion.html"
+      ]
+    },
+    {
+      "id": "toledo",
+      "title": "Toledo: el balance sube a 69 muertos y crecen las preguntas sobre señalización y control",
+      "source_urls": [
+        "https://apnews.com/article/aeb1c22ee6ddfe3733f3371bbf39ed0e",
+        "https://www.rtve.es/noticias/20261029/primeras-victimas-identificadas-accidente-tren-urda-toledo/17288245.shtml",
+        "https://es.euronews.com/2026/10/29/accidente-tren-urda-toledo-17-minutos-clave-que-fallo-investigacion"
+      ]
+    },
+    {
+      "id": "israel",
+      "title": "El recuento israelí supera el 90% y sigue sin entregar una mayoría de gobierno",
+      "source_urls": [
+        "https://efe.com/mundo/2026-10-29/elecciones-israel-escrutinio/",
+        "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
+      ]
+    }
+  ],
+  "quality": {
+    "articles": 11,
+    "paragraphs": 66,
+    "manuscript_html_equal": true,
+    "ids_unique": true,
+    "all_anchors_valid": true,
+    "voice_embed": true,
+    "footer_exact": true,
+    "bytes": 56988
+  },
+  "visual_review": "Verificación estática; no hubo navegador visual disponible en la ejecución.",
+  "notes": [
+    "Nuevas noticias investigadas el 29 de octubre con medios y documentos oficiales de la fecha.",
+    "La meteorología de tarde/noche se declara sin dato verificado, conservando los tres campos y sus fuentes de consulta.",
+    "HTML conserva los textos completos redactados y el lector de voz original; sin servicios externos de pago."
+  ]
+}
