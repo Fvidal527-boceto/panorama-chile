@@ -1,0 +1,232 @@
+{
+  "fecha": "2026-10-30",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "editorial_close_at": "2026-10-30T15:14:00-03:00",
+  "queried_at": "2026-10-30T15:14:00-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "SIN DATO VERIFICADO",
+      "period": "tarde/noche 30 octubre 2026",
+      "source": "DMC",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020"
+    },
+    {
+      "city": "Concepción",
+      "value": "SIN DATO VERIFICADO",
+      "period": "tarde/noche 30 octubre 2026",
+      "source": "DMC",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019"
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "value": "SIN DATO VERIFICADO",
+      "period": "tarde/noche 30 octubre 2026",
+      "source": "DMC",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$993,22",
+      "validity": "30 oct. 2026 · CLP/USD",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UF",
+      "value": "$41.242,32",
+      "validity": "30 oct. 2026 · CLP/UF",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.109,37",
+      "validity": "30 oct. 2026 · CLP/EUR",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.151",
+      "validity": "Octubre 2026 · CLP/UTM",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage1": {
+    "status": "OK",
+    "manuscript_blob_sha": "153b631cead697ae34b3140a6c10121569417213",
+    "articles": [
+      {
+        "id": "presupuesto",
+        "title": "El Presupuesto entra a su negociación decisiva con 3.845 indicaciones y una disputa regional sin resolver",
+        "source_urls": [
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/30/presupuesto-2027-suma-3-845-indicaciones-salud-educacion-y-gobiernos-regionales-lideran-disputas.shtml"
+        ],
+        "paragraphs": 6
+      },
+      {
+        "id": "biobio",
+        "title": "La informalidad laboral alcanza al 27,3% en el Biobío y revela el costo oculto del deterioro del empleo",
+        "source_urls": [
+          "https://www.diarioconcepcion.cl/economia/2026/10/30/falsa-contencion-desempleo-informalidad-biobio.html"
+        ],
+        "paragraphs": 5
+      },
+      {
+        "id": "iva",
+        "title": "El SII reglamenta una devolución especial de IVA para determinadas viviendas nuevas",
+        "source_urls": [
+          "https://www.sii.cl/noticias/2026/301026noti01smn.htm"
+        ],
+        "paragraphs": 4
+      },
+      {
+        "id": "brasil",
+        "title": "La deuda pública federal brasileña se acerca a R$ 9,4 billones al abrirse la negociación fiscal posterior a la elección",
+        "source_urls": [
+          "https://agenciabrasil.ebc.com.br/es/economia/noticia/2026-10/la-deuda-publica-sube-un-097-y-se-acerca-los-r-94-billones",
+          "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/candidaturas-e-partidos-tem-ate-3-de-novembro-para-prestar-contas-do-1o-turno"
+        ],
+        "paragraphs": 5
+      },
+      {
+        "id": "mexico",
+        "title": "México crece 0,9% en el tercer trimestre y busca sostener la recuperación ante la presión arancelaria",
+        "source_urls": [
+          "https://elpais.com/mexico/economia/2026-10-30/el-pib-mexico-crece-un-09-en-el-tercer-trimestre.html",
+          "https://www.investing.com/news/economy-news/mexico-us-assess-viability-of-trade-deal-before-midterms-4980220"
+        ],
+        "paragraphs": 5
+      },
+      {
+        "id": "eeuu",
+        "title": "Más de 43 millones de estadounidenses ya votaron antes del 3 de noviembre",
+        "source_urls": [
+          "https://apnews.com/article/election-early-voting-midterms-3f7d5c378b3d9bff5cde4604a55b9c9a"
+        ],
+        "paragraphs": 5
+      },
+      {
+        "id": "papa",
+        "title": "León XIV vota por correo y se convierte en el primer papa conocido que participa en una elección general estadounidense",
+        "source_urls": [
+          "https://apnews.com/article/vatican-pope-vote-us-election-cebcf71652c254383a39113c71aedace"
+        ],
+        "paragraphs": 4
+      },
+      {
+        "id": "espana",
+        "title": "España identifica a los fallecidos del choque de Toledo y admite una crisis de confianza en el tren de alta velocidad",
+        "source_urls": [
+          "https://efe.com/castilla-la-mancha/2026-10-30/en-directo-accidente-de-tren-en-toledo/",
+          "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
+        ],
+        "paragraphs": 5
+      },
+      {
+        "id": "israel",
+        "title": "Israel confirma un Parlamento sin mayoría: 53 escaños para Netanyahu, 48 para la oposición y 19 para las fuerzas árabes",
+        "source_urls": [
+          "https://apnews.com/article/israel-elections-netanyahu-results-eisenkot-arabs-3a793c0d07fdfe515390524b849d8674"
+        ],
+        "paragraphs": 5
+      },
+      {
+        "id": "ucrania",
+        "title": "Comienzan evacuaciones desde la ciudad ocupada de Oleshky bajo una pausa humanitaria localizada",
+        "source_urls": [
+          "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates"
+        ],
+        "paragraphs": 4
+      }
+    ],
+    "editorial": "Una negociación seria necesita cifras comparables",
+    "compared_with": [
+      "ediciones/2026-10-30/matinal.html",
+      "ediciones/2026-10-29/vespertina.html"
+    ]
+  },
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "controls": [
+      {
+        "id": 1,
+        "control": "Portada con jerarquía principal, cuatro entradas, editorial y tiempos",
+        "status": "OK en comprobación estática"
+      },
+      {
+        "id": 2,
+        "control": "Imagen principal pertinente: infografía original",
+        "status": "corregido con alternativa"
+      },
+      {
+        "id": 3,
+        "control": "Imágenes interiores: cuatro infografías originales y vinculadas",
+        "status": "corregido con alternativa"
+      },
+      {
+        "id": 4,
+        "control": "Créditos de material original y fuentes verificables",
+        "status": "OK en comprobación estática"
+      },
+      {
+        "id": 5,
+        "control": "Composición A/B/C: reportaje, mosaico y lateral",
+        "status": "OK en comprobación estática"
+      },
+      {
+        "id": 6,
+        "control": "Blancos: alturas automáticas/columnas balanceadas, revisión estática",
+        "status": "OK en comprobación estática"
+      },
+      {
+        "id": 7,
+        "control": "Legibilidad: texto justificado escritorio, izquierda móvil",
+        "status": "OK en comprobación estática"
+      },
+      {
+        "id": 8,
+        "control": "Identidad marfil, terracota y cobre; franja de servicio",
+        "status": "OK en comprobación estática"
+      },
+      {
+        "id": 9,
+        "control": "Integridad: manuscrito y HTML verificados; voz inline",
+        "status": "OK en comprobación estática"
+      },
+      {
+        "id": 10,
+        "control": "Inspección visual escritorio/móvil no disponible; revisión estática",
+        "status": "no disponible"
+      }
+    ],
+    "images_original_svg": 5,
+    "third_party_photos": 0,
+    "alternatives": [
+      "gráficas propias basadas en datos publicados en lugar de fotos sin licencia comprobada"
+    ],
+    "visual_inspection": "NO DISPONIBLE",
+    "html_integrity": {
+      "stories": 10,
+      "missing_content": [],
+      "broken_anchors": [],
+      "inline_voice": true,
+      "bytes": 59042
+    }
+  },
+  "sources": [
+    "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/30/presupuesto-2027-suma-3-845-indicaciones-salud-educacion-y-gobiernos-regionales-lideran-disputas.shtml",
+    "https://www.diarioconcepcion.cl/economia/2026/10/30/falsa-contencion-desempleo-informalidad-biobio.html",
+    "https://www.sii.cl/noticias/2026/301026noti01smn.htm",
+    "https://agenciabrasil.ebc.com.br/es/economia/noticia/2026-10/la-deuda-publica-sube-un-097-y-se-acerca-los-r-94-billones",
+    "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/candidaturas-e-partidos-tem-ate-3-de-novembro-para-prestar-contas-do-1o-turno",
+    "https://elpais.com/mexico/economia/2026-10-30/el-pib-mexico-crece-un-09-en-el-tercer-trimestre.html",
+    "https://www.investing.com/news/economy-news/mexico-us-assess-viability-of-trade-deal-before-midterms-4980220",
+    "https://apnews.com/article/election-early-voting-midterms-3f7d5c378b3d9bff5cde4604a55b9c9a",
+    "https://apnews.com/article/vatican-pope-vote-us-election-cebcf71652c254383a39113c71aedace",
+    "https://efe.com/castilla-la-mancha/2026-10-30/en-directo-accidente-de-tren-en-toledo/",
+    "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+    "https://apnews.com/article/israel-elections-netanyahu-results-eisenkot-arabs-3a793c0d07fdfe515390524b849d8674"
+  ]
+}
