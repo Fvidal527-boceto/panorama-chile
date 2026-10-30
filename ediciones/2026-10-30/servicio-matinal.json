@@ -1,0 +1,307 @@
+{
+  "fecha": "2026-10-30",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "cierre_editorial": "2026-10-30T07:08:39-03:00",
+  "stage1": {
+    "status": "OK",
+    "stories": 11,
+    "editorial": true,
+    "cover_entries": 4,
+    "coverage": [
+      "Chile y regiones",
+      "Brasil",
+      "México",
+      "Estados Unidos",
+      "Europa",
+      "Ucrania e Israel",
+      "China"
+    ],
+    "sources": [
+      {
+        "id": "regiones",
+        "fuentes": [
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/29/orrego-asegura-que-gobernadores-y-gobierno-estan-ad-portas-de-acuerdo-para-mantener-fondos-regionales.shtml"
+        ]
+      },
+      {
+        "id": "empleo",
+        "fuentes": [
+          "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026"
+        ]
+      },
+      {
+        "id": "brasil-fiscal",
+        "fuentes": [
+          "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/instituto-preve-impacto-fiscal-de-r-40-bilhoes-com-medidas-de-lula"
+        ]
+      },
+      {
+        "id": "brasil-derechos",
+        "fuentes": [
+          "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/denuncias-de-assedio-eleitoral-no-trabalho-disparam-75-apos-2-turno"
+        ]
+      },
+      {
+        "id": "mexico",
+        "fuentes": [
+          "https://www.jornada.com.mx/2026/10/29/economia/024n2eco",
+          "https://elpais.com/mexico/economia/2026-10-29/mexico-espera-impaciente-la-reduccion-de-los-aranceles-de-trump-para-los-automoviles.html"
+        ]
+      },
+      {
+        "id": "eeuu",
+        "fuentes": [
+          "https://apnews.com/article/trump-iran-strikes-midterm-elections-c7df622f1e87de6035173be8fb8c4add"
+        ]
+      },
+      {
+        "id": "espana",
+        "fuentes": [
+          "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox"
+        ]
+      },
+      {
+        "id": "centrosdatos",
+        "fuentes": [
+          "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres"
+        ]
+      },
+      {
+        "id": "dnipro",
+        "fuentes": [
+          "https://www.afp.com/en/horrific-russian-drone-strike-kills-14-ukraine-train-station-kyiv",
+          "https://www.theguardian.com/world/2026/oct/30/ukraine-war-briefing-russian-drone-attack-dnipro-rail-platform"
+        ]
+      },
+      {
+        "id": "israel",
+        "fuentes": [
+          "https://apnews.com/article/9a0620a1314fdc127245ba1a7f0aa762"
+        ]
+      },
+      {
+        "id": "china",
+        "fuentes": [
+          "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
+        ]
+      }
+    ],
+    "manuscript_word_count": 3789,
+    "previous_edition": "2026-10-29 vespertina; novedades contrastadas, no reproducción de titulares históricos"
+  },
+  "weather": [
+    {
+      "name": "Santiago",
+      "display": "≈24 °C",
+      "period": "2026-10-30",
+      "description": "Máximo horario modelado · 30 oct. · lluvia escasa",
+      "source": "DMC · Quinta Normal",
+      "source_url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "verification": "Modelo DMC consultado 30 oct.; máximo horario aprox. 23,6 °C del tramo disponible, no medición observada ni mínima diaria.",
+      "queried_at": "2026-10-30T07:08:39-03:00"
+    },
+    {
+      "name": "Concepción",
+      "display": "≈21 °C",
+      "period": "2026-10-30",
+      "description": "Máximo horario modelado · 30 oct. · sin lluvia",
+      "source": "DMC · Carriel Sur",
+      "source_url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "verification": "Modelo DMC consultado 30 oct.; máximo horario 20,6 °C del tramo disponible, no medición observada.",
+      "queried_at": "2026-10-30T07:08:39-03:00"
+    },
+    {
+      "name": "Casablanca",
+      "display": "SIN DATO VERIFICADO",
+      "period": "2026-10-30",
+      "description": "30 oct. · pronóstico local no comprobado",
+      "source": "DMC · ficha estación",
+      "source_url": "https://climatologia.meteochile.gob.cl/application/informacion/fichaDeEstacion/330221",
+      "verification": "No se obtuvo meteograma local confiable actualizado; no se reutiliza pronóstico antiguo ni se atribuye otro proveedor.",
+      "queried_at": "2026-10-30T07:08:39-03:00"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "display": "$993,22",
+      "period": "30 oct. · CLP/USD",
+      "source": "Banco Central de Chile",
+      "source_url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+      "queried_at": "2026-10-30T07:08:39-03:00"
+    },
+    {
+      "name": "UF",
+      "display": "$41.242,32",
+      "period": "30 oct. · CLP/UF",
+      "source": "SII / Banco Central",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-10-30T07:08:39-03:00"
+    },
+    {
+      "name": "Euro",
+      "display": "$1.109,37",
+      "period": "30 oct. · CLP/EUR",
+      "source": "Banco Central de Chile",
+      "source_url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+      "queried_at": "2026-10-30T07:08:39-03:00"
+    },
+    {
+      "name": "UTM",
+      "display": "$72.151",
+      "period": "octubre · CLP/UTM",
+      "source": "SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-10-30T07:08:39-03:00"
+    }
+  ],
+  "imagery": [
+    {
+      "id": "regional",
+      "source": "https://commons.wikimedia.org/wiki/File:Gobierno_Regional_Biobio.JPG",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gobierno_Regional_Biobio.JPG?width=960",
+      "author": "Farisori",
+      "date": "26 julio 2012",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "Edificio del Gobierno Regional del Biobío en Concepción, archivo de 2012",
+      "use": "Gobierno Regional del Biobío, Concepción · fotografía de archivo. No corresponde a las conversaciones presupuestarias.",
+      "transformation": "Miniatura de Wikimedia, sin fotomontaje"
+    },
+    {
+      "id": "brasil",
+      "source": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_Brasil.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Congresso_Nacional_Brasil.jpg?width=900",
+      "author": "Leandro Ciuffo",
+      "date": "9 julio 2011",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "Vista del Congreso Nacional de Brasil, fotografía de 2011",
+      "use": "Congreso Nacional de Brasil, archivo de 2011. Imagen institucional, no de la presentación fiscal.",
+      "transformation": "Miniatura de Wikimedia, sin fotomontaje"
+    },
+    {
+      "id": "mexico",
+      "source": "https://commons.wikimedia.org/wiki/File:Mexico_City_Reforma_skyline.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mexico_City_Reforma_skyline.jpg?width=900",
+      "author": "Jonathan Salvador",
+      "date": "15 septiembre 2016",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Panorama del Paseo de la Reforma de Ciudad de México en una fotografía de 2016",
+      "use": "Paseo de la Reforma, Ciudad de México · archivo de 2016. No muestra la negociación comercial.",
+      "transformation": "Miniatura de Wikimedia, sin fotomontaje"
+    },
+    {
+      "id": "dnipro",
+      "source": "https://commons.wikimedia.org/wiki/File:Dnipro_railway_station._Buses.jpg",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Dnipro_railway_station._Buses.jpg?width=900",
+      "author": "Alex Blokha",
+      "date": "26 mayo 2025",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Vista del entorno de la estación ferroviaria de Dnipró en 2025",
+      "use": "Entorno de la estación ferroviaria de Dnipró, archivo de 2025. No representa el ataque del 29 de octubre.",
+      "transformation": "Miniatura de Wikimedia, sin fotomontaje"
+    },
+    {
+      "id": "labor-svg",
+      "source": "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026",
+      "license": "Gráfica original PANORAMA",
+      "use": "Datos oficiales INE"
+    },
+    {
+      "id": "israel-svg",
+      "source": "https://apnews.com/article/9a0620a1314fdc127245ba1a7f0aa762",
+      "license": "Gráfica original PANORAMA",
+      "use": "Proyecciones atribuidas AP"
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "template": "ediciones/2026-10-29/matinal.html @ 631e709373a12bf9a454f3661bc8581ebcfa617b; CSS etapa2 aprobado",
+    "checks": [
+      {
+        "control": 1,
+        "label": "Jerarquía de portada, principal, cuatro entradas, editorial y tiempo de lectura",
+        "status": "OK",
+        "method": "estática"
+      },
+      {
+        "control": 2,
+        "label": "Imagen principal pertinente y con origen y licencia documentados",
+        "status": "OK",
+        "method": "metadatos de Wikimedia"
+      },
+      {
+        "control": 3,
+        "label": "Fotografía e imágenes en interiores, vinculadas a artículos",
+        "status": "OK",
+        "method": "4 fotografías y 2 gráficos editoriales originales; URLs remotas no renderizadas"
+      },
+      {
+        "control": 4,
+        "label": "Créditos, autoría, procedencia y licencias 9–10 px",
+        "status": "OK",
+        "method": "CSS, enlaces y metadatos; archivo señalado"
+      },
+      {
+        "control": 5,
+        "label": "Composición A/B/C y contenido íntegro",
+        "status": "OK",
+        "method": "HTML con gran reportaje, entradas jerarquizadas, artículos con lateral"
+      },
+      {
+        "control": 6,
+        "label": "Sin blancos accidentales o filas estiradas",
+        "status": "OK",
+        "method": "revisión de CSS: altura automática, columnas equilibradas; limitación visual"
+      },
+      {
+        "control": 7,
+        "label": "Lectura escritorio y móvil, justificación y cuerpos no justificados en móvil",
+        "status": "OK",
+        "method": "media queries, hyphens y columnas"
+      },
+      {
+        "control": 8,
+        "label": "Paleta marfil/verde/terracota y servicio compacto",
+        "status": "OK",
+        "method": "CSS aprobado y franja"
+      },
+      {
+        "control": 9,
+        "label": "Integridad manuscrito HTML, fuentes, lector de voz y pie exacto",
+        "status": "OK",
+        "method": "comparación automática por título, bajada y párrafo, enlaces, anclas y script íntegro"
+      },
+      {
+        "control": 10,
+        "label": "Revisión real en navegador de escritorio y móvil",
+        "status": "no disponible",
+        "method": "inspección visual no disponible; revisión estática de HTML/CSS; no se afirma revisión gráfica en navegador"
+      }
+    ],
+    "review": "inspección visual no disponible",
+    "alternatives": [
+      "Casablanca se informa SIN DATO VERIFICADO",
+      "2 gráficos SVG originales para complementar fotos de archivo",
+      "imágenes de archivo identificadas como contexto, no como eventos"
+    ],
+    "photo_remote_loading": "pendiente de comprobación en navegador; no se afirma que todas las imágenes carguen",
+    "content_integrity": true,
+    "article_count": 11,
+    "missing_internal_anchors": [],
+    "invalid_external_link_attrs": 0,
+    "html_size_chars": 68523,
+    "voice_script_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "paid_services": false,
+    "netlify_changes": false
+  },
+  "stage3": {
+    "status": "preparado para commit",
+    "snapshot_head": "38ded674cf0f47d1b3ca09ce50ee07709eecebe7",
+    "commit_status": "pendiente"
+  }
+}

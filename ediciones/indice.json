@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updated_at": "2026-10-29T15:13:10.616-03:00",
+  "updated_at": "2026-10-30T07:08:39-03:00",
   "latest": {
     "matinal": {
-      "fecha": "2026-10-29",
-      "url": "ediciones/2026-10-29/matinal.html",
-      "titulo": "Edición matinal · 29 de octubre de 2026",
+      "fecha": "2026-10-30",
+      "url": "ediciones/2026-10-30/matinal.html",
+      "titulo": "Edición matinal · 30 de octubre de 2026",
       "revision": "2026-10-29T08:08:01-03:00"
     },
     "vespertina": {
@@ -15,6 +15,12 @@
     }
   },
   "archivo": [
+    {
+      "fecha": "2026-10-30",
+      "tipo": "matinal",
+      "url": "ediciones/2026-10-30/matinal.html",
+      "titulo": "Matinal · 30 de octubre de 2026"
+    },
     {
       "fecha": "2026-10-29",
       "tipo": "vespertina",
