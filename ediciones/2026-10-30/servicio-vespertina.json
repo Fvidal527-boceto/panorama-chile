@@ -148,6 +148,92 @@
     ]
   },
   "stage2": {
+    "status": "OK; revisión gráfica con fotografías e inspección visual",
+    "reviewed_at": "2026-10-30T17:45:17-03:00",
+    "controls": [
+      {
+        "id": 1,
+        "control": "Portada jerarquizada",
+        "status": "OK"
+      },
+      {
+        "id": 2,
+        "control": "Fotografía principal autorizada",
+        "status": "OK"
+      },
+      {
+        "id": 3,
+        "control": "Fotos pertinentes en interiores",
+        "status": "OK"
+      },
+      {
+        "id": 4,
+        "control": "Créditos discretos con autor, archivo y licencia",
+        "status": "OK"
+      },
+      {
+        "id": 5,
+        "control": "Composición variada y columnas equilibradas",
+        "status": "OK"
+      },
+      {
+        "id": 6,
+        "control": "Sin blancos accidentales de columnas desiguales",
+        "status": "OK"
+      },
+      {
+        "id": 7,
+        "control": "Texto legible: justificado escritorio, izquierda móvil",
+        "status": "OK"
+      },
+      {
+        "id": 8,
+        "control": "Paleta vespertina conservada",
+        "status": "OK"
+      },
+      {
+        "id": 9,
+        "control": "Diez noticias, editorial, fuentes y voz íntegros",
+        "status": "OK"
+      },
+      {
+        "id": 10,
+        "control": "Inspección visual real escritorio y móvil",
+        "status": "OK"
+      }
+    ],
+    "third_party_photos": 4,
+    "images_original_svg": 3,
+    "visual_inspection": "Realizada en navegador; escritorio 1363 px y marcos móviles 360/390 px",
+    "integrity": {
+      "articles_identical": true,
+      "articles": 10,
+      "editorial_identical": true,
+      "voice_identical": true,
+      "html_bytes": 60545,
+      "html_sha256": "4a3a41ec315486ffcbd2e2c981291fbfb1308128c6838db006c50ba942e86366"
+    },
+    "automation_changes": false,
+    "notes": [
+      "No se cambió Etapa 1 ni las tareas programadas.",
+      "Se usan fotos de archivo claramente identificadas; derechos consultados en Wikimedia Commons."
+    ]
+  },
+  "sources": [
+    "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/30/presupuesto-2027-suma-3-845-indicaciones-salud-educacion-y-gobiernos-regionales-lideran-disputas.shtml",
+    "https://www.diarioconcepcion.cl/economia/2026/10/30/falsa-contencion-desempleo-informalidad-biobio.html",
+    "https://www.sii.cl/noticias/2026/301026noti01smn.htm",
+    "https://agenciabrasil.ebc.com.br/es/economia/noticia/2026-10/la-deuda-publica-sube-un-097-y-se-acerca-los-r-94-billones",
+    "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/candidaturas-e-partidos-tem-ate-3-de-novembro-para-prestar-contas-do-1o-turno",
+    "https://elpais.com/mexico/economia/2026-10-30/el-pib-mexico-crece-un-09-en-el-tercer-trimestre.html",
+    "https://www.investing.com/news/economy-news/mexico-us-assess-viability-of-trade-deal-before-midterms-4980220",
+    "https://apnews.com/article/election-early-voting-midterms-3f7d5c378b3d9bff5cde4604a55b9c9a",
+    "https://apnews.com/article/vatican-pope-vote-us-election-cebcf71652c254383a39113c71aedace",
+    "https://efe.com/castilla-la-mancha/2026-10-30/en-directo-accidente-de-tren-en-toledo/",
+    "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
+    "https://apnews.com/article/israel-elections-netanyahu-results-eisenkot-arabs-3a793c0d07fdfe515390524b849d8674"
+  ],
+  "stage2_previous": {
     "status": "realizada; revisión estática",
     "controls": [
       {
@@ -215,18 +301,62 @@
       "bytes": 59042
     }
   },
-  "sources": [
-    "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/30/presupuesto-2027-suma-3-845-indicaciones-salud-educacion-y-gobiernos-regionales-lideran-disputas.shtml",
-    "https://www.diarioconcepcion.cl/economia/2026/10/30/falsa-contencion-desempleo-informalidad-biobio.html",
-    "https://www.sii.cl/noticias/2026/301026noti01smn.htm",
-    "https://agenciabrasil.ebc.com.br/es/economia/noticia/2026-10/la-deuda-publica-sube-un-097-y-se-acerca-los-r-94-billones",
-    "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/candidaturas-e-partidos-tem-ate-3-de-novembro-para-prestar-contas-do-1o-turno",
-    "https://elpais.com/mexico/economia/2026-10-30/el-pib-mexico-crece-un-09-en-el-tercer-trimestre.html",
-    "https://www.investing.com/news/economy-news/mexico-us-assess-viability-of-trade-deal-before-midterms-4980220",
-    "https://apnews.com/article/election-early-voting-midterms-3f7d5c378b3d9bff5cde4604a55b9c9a",
-    "https://apnews.com/article/vatican-pope-vote-us-election-cebcf71652c254383a39113c71aedace",
-    "https://efe.com/castilla-la-mancha/2026-10-30/en-directo-accidente-de-tren-en-toledo/",
-    "https://www.theguardian.com/world/live/2026/oct/30/spain-investigates-toledo-crash-pedro-sanchez-france-italy-protests-latest-news-updates",
-    "https://apnews.com/article/israel-elections-netanyahu-results-eisenkot-arabs-3a793c0d07fdfe515390524b849d8674"
+  "image_evidence": [
+    {
+      "key": "moneda",
+      "path": "ediciones/2026-10-26/imagenes/moneda.jpg",
+      "author": "Kyle Simourd",
+      "source": "https://commons.wikimedia.org/wiki/File:Moneda_Palace.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "La Moneda, Santiago · archivo, 26 agosto 2006. Contexto institucional de la negociación presupuestaria; no muestra las reuniones actuales.",
+      "width": 960,
+      "height": 720,
+      "bytes": 131025,
+      "changes": "Se reutiliza el JPEG del archivo, sin nuevo recorte ni modificación.",
+      "reuse_reason": "Fotografía de contexto institucional o territorial, distinta de las fotos de la matinal del 30; fecha de archivo explícita."
+    },
+    {
+      "key": "voto",
+      "path": "ediciones/2026-10-26/imagenes/voto.jpg",
+      "author": "League of Women Voters of California",
+      "source": "https://commons.wikimedia.org/wiki/File:Vote_by_mail_3_(46207094551).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "caption": "Voto por correo en California · archivo, 18 octubre 2018. Imagen de contexto; no corresponde a la votación de 2026.",
+      "width": 500,
+      "height": 667,
+      "bytes": 123848,
+      "changes": "Se reutiliza el JPEG del archivo, sin nuevo recorte ni modificación.",
+      "reuse_reason": "Fotografía de contexto institucional o territorial, distinta de las fotos de la matinal del 30; fecha de archivo explícita."
+    },
+    {
+      "key": "mexico",
+      "path": "ediciones/2026-10-29/imagenes/mexico.jpg",
+      "author": "Visente",
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Mexico.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Palacio Nacional de México · archivo, 25 septiembre 2011. Contexto institucional, no muestra los acontecimientos actuales.",
+      "width": 1067,
+      "height": 800,
+      "bytes": 120511,
+      "changes": "Se reutiliza el JPEG del archivo, sin nuevo recorte ni modificación.",
+      "reuse_reason": "Fotografía de contexto institucional o territorial, distinta de las fotos de la matinal del 30; fecha de archivo explícita."
+    },
+    {
+      "key": "toledo",
+      "path": "ediciones/2026-10-29/imagenes/toledo.jpg",
+      "author": "Javi Guerra Hernando",
+      "source": "https://commons.wikimedia.org/wiki/File:Toledo-Estaci%C3%B3n_de_Renfe-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Estación de Toledo · archivo, 16 noviembre 2008. No muestra el accidente ni su ubicación exacta.",
+      "width": 1067,
+      "height": 800,
+      "bytes": 146681,
+      "changes": "Se reutiliza el JPEG del archivo, sin nuevo recorte ni modificación.",
+      "reuse_reason": "Fotografía de contexto institucional o territorial, distinta de las fotos de la matinal del 30; fecha de archivo explícita."
+    }
   ]
 }

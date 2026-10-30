@@ -1,0 +1,58 @@
+[
+  {
+    "key": "moneda",
+    "path": "ediciones/2026-10-26/imagenes/moneda.jpg",
+    "author": "Kyle Simourd",
+    "source": "https://commons.wikimedia.org/wiki/File:Moneda_Palace.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "caption": "La Moneda, Santiago · archivo, 26 agosto 2006. Contexto institucional de la negociación presupuestaria; no muestra las reuniones actuales.",
+    "width": 960,
+    "height": 720,
+    "bytes": 131025,
+    "changes": "Se reutiliza el JPEG del archivo, sin nuevo recorte ni modificación.",
+    "reuse_reason": "Fotografía de contexto institucional o territorial, distinta de las fotos de la matinal del 30; fecha de archivo explícita."
+  },
+  {
+    "key": "voto",
+    "path": "ediciones/2026-10-26/imagenes/voto.jpg",
+    "author": "League of Women Voters of California",
+    "source": "https://commons.wikimedia.org/wiki/File:Vote_by_mail_3_(46207094551).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "caption": "Voto por correo en California · archivo, 18 octubre 2018. Imagen de contexto; no corresponde a la votación de 2026.",
+    "width": 500,
+    "height": 667,
+    "bytes": 123848,
+    "changes": "Se reutiliza el JPEG del archivo, sin nuevo recorte ni modificación.",
+    "reuse_reason": "Fotografía de contexto institucional o territorial, distinta de las fotos de la matinal del 30; fecha de archivo explícita."
+  },
+  {
+    "key": "mexico",
+    "path": "ediciones/2026-10-29/imagenes/mexico.jpg",
+    "author": "Visente",
+    "source": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Mexico.jpg",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "caption": "Palacio Nacional de México · archivo, 25 septiembre 2011. Contexto institucional, no muestra los acontecimientos actuales.",
+    "width": 1067,
+    "height": 800,
+    "bytes": 120511,
+    "changes": "Se reutiliza el JPEG del archivo, sin nuevo recorte ni modificación.",
+    "reuse_reason": "Fotografía de contexto institucional o territorial, distinta de las fotos de la matinal del 30; fecha de archivo explícita."
+  },
+  {
+    "key": "toledo",
+    "path": "ediciones/2026-10-29/imagenes/toledo.jpg",
+    "author": "Javi Guerra Hernando",
+    "source": "https://commons.wikimedia.org/wiki/File:Toledo-Estaci%C3%B3n_de_Renfe-1.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "caption": "Estación de Toledo · archivo, 16 noviembre 2008. No muestra el accidente ni su ubicación exacta.",
+    "width": 1067,
+    "height": 800,
+    "bytes": 146681,
+    "changes": "Se reutiliza el JPEG del archivo, sin nuevo recorte ni modificación.",
+    "reuse_reason": "Fotografía de contexto institucional o territorial, distinta de las fotos de la matinal del 30; fecha de archivo explícita."
+  }
+]
