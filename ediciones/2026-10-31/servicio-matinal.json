@@ -1,0 +1,210 @@
+{
+  "fecha": "2026-10-31",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "query_at": "2026-10-31T10:00:43.435Z",
+  "closed_at": "2026-10-31T10:02:09.236Z",
+  "stage1": {
+    "status": "OK",
+    "stories": 12,
+    "paragraphs": 60,
+    "words": 3454,
+    "coverage": [
+      "Chile y regiones",
+      "Brasil",
+      "México",
+      "Estados Unidos",
+      "Europa",
+      "Ucrania"
+    ],
+    "editorial": true,
+    "manuscript_sha": "51e7e907deccc32fa212cc4e64d3f43897873104",
+    "previous_editions_checked": [
+      "2026-10-30/matinal",
+      "2026-10-30/vespertina"
+    ]
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "Hasta ~19 °C",
+      "period": "Sábado 31, modelo horario 06:00–23:00, estación Quinta Normal",
+      "summary": "Temperatura máxima dentro del tramo disponible; aviso regional de tormentas separado",
+      "source": "DMC / MeteoChile",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "verification": "Temperaturas de la tabla pública 31 oct 06:00–23:00; máximo horario ~19,1 °C. No se identifica como máxima meteorológica de 00–24."
+    },
+    {
+      "city": "Concepción",
+      "value": "Hasta ~19 °C",
+      "period": "Sábado 31, modelo horario 06:00–23:00, estación Carriel Sur",
+      "summary": "Máximo del tramo disponible; aviso regional puede variar por sector",
+      "source": "DMC / MeteoChile",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "verification": "Temperaturas de la tabla pública 31 oct 06:00–23:00; máximo ~18,9 °C. No se proyecta esa lectura a toda la región."
+    },
+    {
+      "city": "Casablanca",
+      "value": "SIN DATO VERIFICADO",
+      "period": "Sábado 31, Casablanca, región de Valparaíso",
+      "summary": "Consulta local sin pronóstico atribuible suficientemente comprobado",
+      "source": "Yr.no / MET Norway",
+      "url": "https://www.yr.no/",
+      "verification": "No se obtuvo registro específico verificable para Casablanca; no se reutilizan temperaturas de días anteriores."
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$993,22",
+      "period": "30 oct. 2026; último hábil; CLP/USD",
+      "source": "Banco Central de Chile",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UF",
+      "value": "$41.247,63",
+      "period": "31 oct. 2026; CLP/UF",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/details/ot_2726"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.109,37",
+      "period": "30 oct. 2026; último hábil; CLP/EUR",
+      "source": "Banco Central de Chile",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.151",
+      "period": "Octubre 2026; CLP/UTM",
+      "source": "SII / Banco Central",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage2": {
+    "status": "completa con revisión estática",
+    "cierreEditorialLocal": "07:02",
+    "controls": [
+      {
+        "id": 1,
+        "name": "Jerarquía de portada, cuatro entradas, editorial y lectura",
+        "status": "OK"
+      },
+      {
+        "id": 2,
+        "name": "Imagen principal autorizada",
+        "status": "corregido con alternativa",
+        "note": "Ilustración SVG editorial original basada en regiones del aviso y etiquetada como no documental"
+      },
+      {
+        "id": 3,
+        "name": "Imágenes interiores relacionadas y no repetidas",
+        "status": "OK",
+        "note": "Cuatro fotografías distintas con procedencia Wikimedia, sin repetición de 29-30"
+      },
+      {
+        "id": 4,
+        "name": "Créditos, archivo y derechos",
+        "status": "OK",
+        "note": "Autor, fecha, procedencia y licencia enlaces; pies 10px"
+      },
+      {
+        "id": 5,
+        "name": "Patrones A/B/C y texto íntegro",
+        "status": "OK"
+      },
+      {
+        "id": 6,
+        "name": "Sin blancos accidentales por filas rígidas",
+        "status": "OK en revisión estática",
+        "note": "Alturas automáticas, secciones apiladas y texto en dos columnas balanceadas"
+      },
+      {
+        "id": 7,
+        "name": "Legibilidad escritorio/móvil",
+        "status": "OK en revisión estática",
+        "note": "Cuerpo justificado e hyphens:auto en escritorio; una columna y alineación izquierda en móvil"
+      },
+      {
+        "id": 8,
+        "name": "Identidad cromática y servicios",
+        "status": "OK"
+      },
+      {
+        "id": 9,
+        "name": "Integridad del manuscrito, voz, enlaces y transparencia",
+        "status": "OK",
+        "note": "12 títulos, 12 bajadas, 60 párrafos y todas las fuentes cotejados literalmente; voz JS íntegra"
+      },
+      {
+        "id": 10,
+        "name": "Inspección visual escritorio/móvil",
+        "status": "no disponible",
+        "note": "Inspección visual no disponible. Controles estáticos HTML/CSS ejecutados; imágenes remotas no probadas en navegador"
+      }
+    ],
+    "alternatives": [
+      "Portada con ilustración vectorial original en lugar de fotografía de evento no reproducible",
+      "Casablanca SIN DATO VERIFICADO; no se arrastran cifras",
+      "Fotografías interiores de archivo etiquetadas como contexto"
+    ],
+    "inspection": "revisión estática",
+    "visual_inspection": "no disponible",
+    "html_bytes_utf8": 74937,
+    "images": [
+      {
+        "id": "santiago",
+        "file": "Vista Santiago, Parque Metropolitano, Santiago 20210808.jpg",
+        "author": "Carlos yo",
+        "date": "2021-08-08",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Vista_Santiago,_Parque_Metropolitano,_Santiago_20210808.jpg",
+        "alt": "Vista de la ciudad de Santiago desde el Parque Metropolitano, fotografía de archivo de 2021, no corresponde a la tormenta del 31 de octubre."
+      },
+      {
+        "id": "chapala",
+        "file": "Lago de Chapala (abril de 2025) - 2.jpg",
+        "author": "YdelaT",
+        "date": "2025-04-28",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Lago_de_Chapala_(abril_de_2025)_-_2.jpg",
+        "alt": "Lago de Chapala y cerro San Miguel en Jalisco en fotografía de archivo de 2025; no muestra obras del plan hídrico."
+      },
+      {
+        "id": "capitolio",
+        "file": "United States Capitol 3.jpg",
+        "author": "Kurt Kaiser",
+        "date": "2021-05-22",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:United_States_Capitol_3.jpg",
+        "alt": "Edificio del Capitolio de Estados Unidos en una imagen de archivo de 2021, contexto institucional de los comicios."
+      },
+      {
+        "id": "pireo",
+        "file": "Piraeus Port.jpg",
+        "author": "Cristo Vlahos",
+        "date": "2019-09-25",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Piraeus_Port.jpg",
+        "alt": "Vista aérea del puerto de El Pireo, Grecia, archivo de 2019; no muestra la huelga de 2026."
+      }
+    ],
+    "static_validation": {
+      "stories": 12,
+      "paragraphs": 60,
+      "all_titles": true,
+      "all_decks": true,
+      "all_paragraphs": true,
+      "all_sources": true,
+      "anchors_valid": true,
+      "voice_inline": true,
+      "external_links_safe": true
+    }
+  }
+}
