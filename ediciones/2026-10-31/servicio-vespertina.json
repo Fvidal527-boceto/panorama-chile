@@ -115,8 +115,9 @@
       },
       {
         "n": 5,
-        "status": "OK",
-        "label": "Maquetación A/B y story con contexto; columnas dinámicas"
+        "status": "corregido con alternativa",
+        "label": "Maquetación A/B y story con contexto; columnas dinámicas",
+        "note": "Se aplicó mosaico tipográfico a sección latinoamericana y lateral contextual con cifras verificadas de Urda."
       },
       {
         "n": 6,
@@ -149,7 +150,8 @@
     "visual_inspection": "inspección visual no disponible",
     "alternatives": [
       "Infografías SVG originales para portada e interiores sin fotografías de licencia no comprobada",
-      "Pronósticos Concepción/Casablanca marcados SIN DATO VERIFICADO"
+      "Pronósticos Concepción/Casablanca marcados SIN DATO VERIFICADO",
+      "Corrección de compaginación interior A/B/C en actualización posterior al commit inicial."
     ],
     "remaining": [
       "No hubo navegador para inspección visual"
@@ -159,7 +161,11 @@
       "missing_anchors": [],
       "inline_reader": true,
       "infographics": 7,
-      "html_bytes_utf8": 64495
-    }
+      "html_bytes_utf8": 64495,
+      "mosaic_present": true,
+      "lateral_present": true,
+      "article_count": 11
+    },
+    "revision_at": "2026-10-31T15:04:42-03:00"
   }
 }

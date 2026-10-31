@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-31T15:02:51-03:00",
+  "updated_at": "2026-10-31T15:04:54-03:00",
   "latest": {
     "matinal": {
       "fecha": "2026-10-31",
@@ -12,7 +12,7 @@
       "fecha": "2026-10-31",
       "url": "ediciones/2026-10-31/vespertina.html",
       "titulo": "Edición vespertina · 31 de octubre de 2026",
-      "revision": "2026-10-31T15:02:51-03:00"
+      "revision": "2026-10-31T15:04:54-03:00"
     }
   },
   "archivo": [
@@ -21,7 +21,7 @@
       "tipo": "vespertina",
       "url": "ediciones/2026-10-31/vespertina.html",
       "titulo": "Vespertina · 31 de octubre de 2026",
-      "revision": "2026-10-31T15:02:51-03:00"
+      "revision": "2026-10-31T15:04:54-03:00"
     },
     {
       "fecha": "2026-10-31",
