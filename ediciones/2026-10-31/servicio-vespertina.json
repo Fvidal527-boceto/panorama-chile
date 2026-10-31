@@ -1,0 +1,165 @@
+{
+  "fecha": "2026-10-31",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "queried_at": "2026-10-31T15:02:28-03:00",
+  "editorial_closed_at": "2026-10-31T15:02:28-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "31 octubre tarde-noche",
+      "forecast": "Tormentas probables con granizo posible",
+      "expected_precip_mm_short_period": "10-20, zona valle y precordillera",
+      "kind": "pronóstico, no observación",
+      "source": "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
+      "verified": true
+    },
+    {
+      "city": "Concepción",
+      "value": "SIN DATO VERIFICADO",
+      "period": "tarde-noche 31 octubre",
+      "reason": "Meteograma DMC consultado sin lectura temporal confiable para el turno",
+      "source": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "verified": false
+    },
+    {
+      "city": "Casablanca, Valparaíso",
+      "value": "SIN DATO VERIFICADO",
+      "period": "tarde-noche 31 octubre",
+      "reason": "Pronóstico local exacto no confirmado",
+      "source": "https://www.yr.no/",
+      "verified": false
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "993,22",
+      "unit": "CLP/USD",
+      "validity": "2026-10-30",
+      "source": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UF",
+      "value": "41.247,63",
+      "unit": "CLP/UF",
+      "validity": "2026-10-31",
+      "source": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "1.109,37",
+      "unit": "CLP/EUR",
+      "validity": "2026-10-30",
+      "source": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UTM",
+      "value": "72.151",
+      "unit": "CLP/UTM",
+      "validity": "octubre 2026",
+      "source": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage1": {
+    "status": "OK",
+    "articles": 11,
+    "editorial": true,
+    "followup": true,
+    "manuscript_closed": true,
+    "reference_morning": "2026-10-31",
+    "reference_previous_evening": "2026-10-30",
+    "sources": [
+      "https://senapred.cl/alerta/se-declara-alerta-temprana-preventiva-para-la-region-metropolitana-por-evento-meteorologico-2026-10-26-09-22-57",
+      "https://www.cnnchile.com/pais/dmc-emite-aviso-por-riesgo-de-tornados-y-trombas-marinas-conoce-las-regiones-afectadas/",
+      "https://www.emol.com/noticias/Economia/2026/10/30/1215717/bolsa-santiago-wall-street.html",
+      "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+      "https://www.emol.com/noticias/Nacional/2026/10/30/1215722/rabat-agradece-silva-tras-salida.html",
+      "https://www.emol.com/noticias/Nacional/2026/10/30/1215726/alvarado-aborda-salida-silva.html",
+      "https://www.jornada.com.mx/2026/10/31/economia/014n1eco",
+      "https://www.jornada.com.mx/2026/10/31/economia/015n1eco",
+      "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/desmatamento-caiu-418-na-amazonia-e-238-no-cerrado-em-um-ano",
+      "https://www.lemonde.fr/en/environment/article/2026/10/31/in-brazil-lula-faces-limited-room-for-maneuver-on-environmental-protection_6767851_114.html",
+      "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+      "https://www.rtve.es/noticias/20261031/accidente-tren-urda-heridos-victimas/17294783.shtml",
+      "https://elpais.com/espana/2026-10-31/una-cadena-de-fallos-tecnicos-tumbo-el-sistema-de-seguridad-ferroviaria-lzb-en-urda.html",
+      "https://www.theguardian.com/world/2026/oct/31/bedouin-women-success-arab-parties-israel-election",
+      "https://www.indiatoday.in/world/story/israel-election-deadlock-2026-results-live-updates-benjamin-netanyahu-gadi-eisenkot-3028169-2026-10-30",
+      "https://www.abc.net.au/news/2026-10-31/g20-family-photo-skipped-over-russia/107331466",
+      "https://www.marketscreener.com/news/g20-foreign-ministers-skip-photo-op-amid-objections-over-russia-ce785fdbdf81ff2c"
+    ],
+    "change_summary": "Actualización 10:47 SENAPRED, provincias O'Higgins y Maule, cierre bolsas, Justicia, PIB/Pemex, Amazonía, 50,5 millones voto anticipado, pacientes Urda y participación israelí."
+  },
+  "stage2": {
+    "status": "realizada con revisión estática",
+    "controls": [
+      {
+        "n": 1,
+        "status": "OK",
+        "label": "Portada: principal, cuatro entradas, editorial, tiempos"
+      },
+      {
+        "n": 2,
+        "status": "corregido con alternativa",
+        "label": "Infografía original en portada"
+      },
+      {
+        "n": 3,
+        "status": "corregido con alternativa",
+        "label": "Infografías originales en interiores"
+      },
+      {
+        "n": 4,
+        "status": "OK",
+        "label": "Créditos SVG discretos y fuentes enlazadas"
+      },
+      {
+        "n": 5,
+        "status": "OK",
+        "label": "Maquetación A/B y story con contexto; columnas dinámicas"
+      },
+      {
+        "n": 6,
+        "status": "OK",
+        "label": "Alturas automáticas y evitar blancos"
+      },
+      {
+        "n": 7,
+        "status": "OK",
+        "label": "Cuerpo justificado en escritorio, izquierda en móvil"
+      },
+      {
+        "n": 8,
+        "status": "OK",
+        "label": "Paleta vespertina y servicios"
+      },
+      {
+        "n": 9,
+        "status": "OK",
+        "label": "Igualdad de manuscrito, HTML, fuentes, voz y aviso"
+      },
+      {
+        "n": 10,
+        "status": "no disponible",
+        "label": "Revisión visual en navegador",
+        "note": "Sólo inspección estática CSS/HTML"
+      }
+    ],
+    "review_type": "static",
+    "visual_inspection": "inspección visual no disponible",
+    "alternatives": [
+      "Infografías SVG originales para portada e interiores sin fotografías de licencia no comprobada",
+      "Pronósticos Concepción/Casablanca marcados SIN DATO VERIFICADO"
+    ],
+    "remaining": [
+      "No hubo navegador para inspección visual"
+    ],
+    "checks": {
+      "manuscript_equal": true,
+      "missing_anchors": [],
+      "inline_reader": true,
+      "infographics": 7,
+      "html_bytes_utf8": 64495
+    }
+  }
+}
