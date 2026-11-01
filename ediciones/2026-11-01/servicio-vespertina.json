@@ -1,0 +1,200 @@
+{
+  "fecha": "2026-11-01",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-01T15:20:55-03:00",
+  "stage1": {
+    "status": "OK",
+    "articles": 11,
+    "editorial": true,
+    "comparison": "Matinal del 1 noviembre revisada: alertas previstas, presupuesto, México INE/IMSS, Brasil fiscal, EEUU litigios. Novedades vespertinas: Casen y Senapred, aprobación, agro, Canadá, Urda, plataformas, Día de Muertos, Ucrania, Irán, G7.",
+    "sources": [
+      {
+        "id": "casen",
+        "urls": [
+          "https://www.casen2026.cl/",
+          "https://www.cooperativa.cl/noticias/pais/politicas-sociales/pobreza/comienza-la-casen-2026-visitaran-mas-de-111-mil-viviendas-en-todo-chile/2026-11-01/133335.html"
+        ]
+      },
+      {
+        "id": "alertas",
+        "urls": [
+          "https://senapred.cl/alertas/",
+          "https://cooperativa.cl/noticias/pais/tiempo/senapred-cancelo-la-alerta-roja-vigente-por-remocion-en-masa-en-10/2026-11-01/091254.html",
+          "https://www.24horas.cl/el-tiempo/nuevo-aviso-tormentas-electricas-cinco-regiones"
+        ]
+      },
+      {
+        "id": "encuestas",
+        "urls": [
+          "https://www.cooperativa.cl/noticias/pais/presidente-kast/aprobacion-de-kast-se-desploma-a-sus-minimos-historicos-en-medio-de/2026-11-01/121423.html"
+        ]
+      },
+      {
+        "id": "brasil",
+        "urls": [
+          "https://www1.folha.uol.com.br/poder/2026/11/esquerda-quer-regulacao-das-redes-e-mobilizacao-digital-permanente-apos-eleicao-de-lula.shtml"
+        ]
+      },
+      {
+        "id": "mexico",
+        "urls": [
+          "https://www.jornada.com.mx/noticia/2026/11/01/politica/sheinbaum-resalta-el-significado-de-las-ofrendas-de-dia-de-muertos-honramos-la-memora-de-nuestros-ancestros"
+        ]
+      },
+      {
+        "id": "agricultura",
+        "urls": [
+          "https://apnews.com/article/farmers-ranchers-midterms-agriculture-payments-trump-113757ded4631a2debfa184a36c4d85e"
+        ]
+      },
+      {
+        "id": "canada",
+        "urls": [
+          "https://apnews.com/article/canada-us-trump-canada-trade-d0bfffc67ecdf22d9a5abffb2d26d848"
+        ]
+      },
+      {
+        "id": "urda",
+        "urls": [
+          "https://www.20minutos.es/nacional/accidente-tren-toledo-urda-directo-ultima-hora-noticias-fallecidos-heridos-reacciones_7055912_6.html"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "urls": [
+          "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+        ]
+      },
+      {
+        "id": "iran",
+        "urls": [
+          "https://apnews.com/article/mideast-news-november-1-2026-b918f44d8f212d7daf7f2f9a98c91a0b"
+        ]
+      },
+      {
+        "id": "g7",
+        "urls": [
+          "https://www.cooperativa.cl/noticias/mundo/organismos-internacionales/el-g7-comenzo-a-liberar-sus-prometidos-100-millones-de-barriles-de/2026-11-01/082630.html"
+        ]
+      }
+    ],
+    "weather": [
+      {
+        "label": "Santiago",
+        "value": "Tormentas posibles",
+        "period": "Tarde y noche del 1 nov.; DMC vía 24 Horas, temperatura sin verificar",
+        "source": "https://www.24horas.cl/el-tiempo/nuevo-aviso-tormentas-electricas-cinco-regiones",
+        "valid": "2026-11-01"
+      },
+      {
+        "label": "Concepción",
+        "value": "SIN DATO VERIFICADO",
+        "period": "Pronóstico resto 1 nov.; consulta DMC/MET Norway sin valor confirmado",
+        "source": "https://www.meteochile.gob.cl/",
+        "valid": "2026-11-01"
+      },
+      {
+        "label": "Casablanca",
+        "value": "SIN DATO VERIFICADO",
+        "period": "Pronóstico resto 1 nov.; consulta DMC/MET Norway sin valor confirmado",
+        "source": "https://www.meteochile.gob.cl/",
+        "valid": "2026-11-01"
+      }
+    ],
+    "indicators": [
+      {
+        "label": "Dólar observado",
+        "value": "$993,22",
+        "period": "CLP por USD; último día hábil 30 oct.",
+        "source": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+        "valid": "2026-10-30"
+      },
+      {
+        "label": "UF",
+        "value": "$41.252,94",
+        "period": "CLP por UF; 1 nov.",
+        "source": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+        "valid": "2026-11-01"
+      },
+      {
+        "label": "Euro",
+        "value": "$1.109,37",
+        "period": "CLP por EUR; último día hábil 30 oct.",
+        "source": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+        "valid": "2026-10-30"
+      },
+      {
+        "label": "UTM",
+        "value": "$72.440",
+        "period": "CLP por UTM; noviembre 2026",
+        "source": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+        "valid": "2026-11"
+      }
+    ]
+  },
+  "stage2": {
+    "status": "realizada con revisión estática",
+    "checks": [
+      {
+        "numero": 1,
+        "control": "Portada, cuatro entradas y editorial",
+        "resultado": "OK"
+      },
+      {
+        "numero": 2,
+        "control": "Imagen principal",
+        "resultado": "Alternativa SVG original"
+      },
+      {
+        "numero": 3,
+        "control": "Visuales interiores",
+        "resultado": "Alternativa SVG original en varias notas"
+      },
+      {
+        "numero": 4,
+        "control": "Créditos y procedencia",
+        "resultado": "OK: gráficas propias identificadas"
+      },
+      {
+        "numero": 5,
+        "control": "Patrones A/B/C",
+        "resultado": "OK en CSS"
+      },
+      {
+        "numero": 6,
+        "control": "Espacios accidentales",
+        "resultado": "CSS alturas automáticas; inspección visual pendiente"
+      },
+      {
+        "numero": 7,
+        "control": "Texto y móvil",
+        "resultado": "CSS responsive, justificado escritorio e izquierda móvil"
+      },
+      {
+        "numero": 8,
+        "control": "Paleta y franja",
+        "resultado": "OK"
+      },
+      {
+        "numero": 9,
+        "control": "Igualdad manuscrito/HTML y lector",
+        "resultado": "OK: 11 artículos íntegros, voz inline"
+      },
+      {
+        "numero": 10,
+        "control": "Inspección visual",
+        "resultado": "NO DISPONIBLE: revisión estática"
+      }
+    ],
+    "html_bytes": 55264,
+    "article_count": 11,
+    "svg_count": 9,
+    "broken_anchors": [],
+    "external_link_issues": 0,
+    "inspection": "inspección visual no disponible",
+    "voice_inline": true,
+    "alternative": "SVG originales, sin fotos con derechos no verificados"
+  },
+  "limitations": "Pronósticos completos Concepción y Casablanca no verificados; temperatura Santiago no verificada; vistas de navegador no inspeccionadas."
+}
