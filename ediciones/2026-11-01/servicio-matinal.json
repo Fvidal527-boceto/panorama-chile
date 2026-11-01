@@ -1,0 +1,386 @@
+{
+  "fecha": "2026-11-01",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "consulted_at": "2026-11-01T07:04:34-03:00",
+  "stage1": {
+    "status": "OK",
+    "manuscript": "completo",
+    "stories": [
+      {
+        "id": "chile-clima",
+        "title": "Tormentas en Santiago: el riesgo del domingo está en las quebradas y en las lluvias muy concentradas",
+        "area": "Chile y regiones",
+        "paragraphs": 5,
+        "body_words": 399,
+        "sources": [
+          {
+            "label": "BioBioChile, pronóstico 31 oct. para el 1 nov.",
+            "url": "https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2026/10/31/visitaras-el-cementerio-anuncian-lluvias-en-santiago-durante-la-tarde-de-este-domingo-1-de-noviembre.shtml"
+          },
+          {
+            "label": "DMC, meteograma Quinta Normal",
+            "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020"
+          },
+          {
+            "label": "Cooperativa, medidas y alerta del sábado",
+            "url": "https://cooperativa.cl/noticias/pais/tiempo/santiago-se-prepara-para-tormenta-con-fuertes-lluvias-en-corto-periodo/2026-10-31/140105.html"
+          }
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "title": "El Congreso entra en la disputa de 3.845 indicaciones al Presupuesto 2027 sin ampliar el gasto total",
+        "area": "Chile y regiones",
+        "paragraphs": 5,
+        "body_words": 358,
+        "sources": [
+          {
+            "label": "BioBioChile, información del 1 de noviembre",
+            "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/01/sin-fondos-adicionales-y-con-memoria-e-indh-en-la-mira-los-retos-de-la-discusion-del-presupuesto-2027.shtml"
+          },
+          {
+            "label": "BioBioChile, revisión de indicaciones 30 oct.",
+            "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/30/presupuesto-2027-suma-3-845-indicaciones-salud-educacion-y-gobiernos-regionales-lideran-disputas.shtml"
+          }
+        ]
+      },
+      {
+        "id": "tenis",
+        "title": "Ultimátum por la sede del tenis: el terreno del Serviu abre un conflicto que aún no tiene desenlace",
+        "area": "Chile y regiones",
+        "paragraphs": 4,
+        "body_words": 271,
+        "sources": [
+          {
+            "label": "Emol, 31 oct., 19:14",
+            "url": "https://www.emol.com/noticias/Nacional/2026/10/31/1215771/federacion-tenis-terreno-kegevic-colorado.html"
+          }
+        ]
+      },
+      {
+        "id": "mexico-ine",
+        "title": "Contratos por 2.461 millones de pesos bajo investigación vuelven a poner al INE ante una prueba institucional",
+        "area": "América Latina",
+        "paragraphs": 5,
+        "body_words": 329,
+        "sources": [
+          {
+            "label": "El País México, 31 oct., comparecencia de control interno",
+            "url": "https://elpais.com/mexico/2026-10-31/el-organo-de-control-del-ine-cifra-en-casi-2500-millones-los-contratos-con-proveedores-bajo-sospecha.html"
+          }
+        ]
+      },
+      {
+        "id": "mexico-imss",
+        "title": "Trabajadores del IMSS vuelven a las calles: la negociación salarial revela divisiones sindicales",
+        "area": "América Latina",
+        "paragraphs": 4,
+        "body_words": 254,
+        "sources": [
+          {
+            "label": "El País México, 31 oct., movilizaciones del IMSS",
+            "url": "https://elpais.com/mexico/2026-10-31/la-dispersion-pasa-factura-a-los-trabajadores-del-imss-que-marchan-por-tercera-vez-por-un-alza-salarial-y-contra-la-dirigencia-sindical.html"
+          }
+        ]
+      },
+      {
+        "id": "brasil-fisco",
+        "title": "Brasil: organismo fiscal estima en R$40.000 millones el costo de tres promesas del nuevo mandato de Lula",
+        "area": "América Latina",
+        "paragraphs": 5,
+        "body_words": 314,
+        "sources": [
+          {
+            "label": "Agência Brasil, 29 oct., evaluación de la IFI",
+            "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/instituto-preve-impacto-fiscal-de-r-40-bilhoes-com-medidas-de-lula"
+          }
+        ]
+      },
+      {
+        "id": "usa-alaska",
+        "title": "Alaska rechaza el intento federal de separar papeletas por dos candidatos de nombre parecido",
+        "area": "Estados Unidos",
+        "paragraphs": 5,
+        "body_words": 328,
+        "sources": [
+          {
+            "label": "Associated Press, 31 oct., alegaciones del estado",
+            "url": "https://apnews.com/article/alaska-senate-dan-sullivan-certification-5b975dc87222858f6239e9170d675698"
+          }
+        ]
+      },
+      {
+        "id": "usa-calif",
+        "title": "California obtiene respaldo judicial frente a la solicitud de apartar miles de votos cuestionados",
+        "area": "Estados Unidos",
+        "paragraphs": 4,
+        "body_words": 263,
+        "sources": [
+          {
+            "label": "Associated Press, 30 oct., resolución de la corte de apelaciones",
+            "url": "https://apnews.com/article/california-noncitizen-voting-trump-midterm-lawsuit-49cee0f4184b0ecb573f9f0274350642"
+          }
+        ]
+      },
+      {
+        "id": "europa-polonia",
+        "title": "Tusk defiende la intervención en el Tribunal Constitucional polaco, pero organizaciones jurídicas cuestionan el método",
+        "area": "Europa",
+        "paragraphs": 5,
+        "body_words": 321,
+        "sources": [
+          {
+            "label": "The Guardian, 31 oct., discurso y reacciones",
+            "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+          }
+        ]
+      },
+      {
+        "id": "europa-espana",
+        "title": "El Supremo estudia si amplía la suspensión del voto exterior a descendientes de nacionalizados",
+        "area": "Europa",
+        "paragraphs": 4,
+        "body_words": 279,
+        "sources": [
+          {
+            "label": "El País España, 30 oct., auto y censo exterior",
+            "url": "https://elpais.com/espana/elecciones-generales/2026-10-30/el-supremo-estudiara-si-suspende-tambien-el-voto-de-los-hijos-de-los-nacionalizados-por-la-ley-de-nietos.html"
+          }
+        ]
+      },
+      {
+        "id": "mundo-iran",
+        "title": "Irán combina advertencias de represalia con una propuesta para reabrir el estrecho de Ormuz",
+        "area": "Mundo",
+        "paragraphs": 5,
+        "body_words": 291,
+        "sources": [
+          {
+            "label": "Associated Press, reporte del 31 oct.",
+            "url": "https://apnews.com/article/mideast-news-october-31-2026-15c0556b92c8c23beb9b8854b4c124f4"
+          }
+        ]
+      }
+    ],
+    "editorial": {
+      "title": "La confianza pública se construye también cuando el poder acepta límites",
+      "paragraphs": 4
+    },
+    "previous": "31 octubre matinal y vespertina revisadas; no se trasladan sin novedad noticias anteriores",
+    "gate": "Cobertura plural, noticias específicas y fuentes contrastadas; asuntos de servicio no verificables marcados explícitamente"
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "max_hourly_model_c": 21,
+      "period": "Domingo 1 nov.",
+      "source": "DMC Meteograma Quinta Normal WRF",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "consulted_at": "2026-11-01T07:04:34-03:00",
+      "method": "Máximo horario aproximado, sin lluvia en un solo punto; advertencia precordillera/cordillera y posibilidad de chubascos en fuentes separadas",
+      "risk_url": "https://www.biobiochile.cl/noticias/bbcl-explica/bbcl-explica-notas/2026/10/31/visitaras-el-cementerio-anuncian-lluvias-en-santiago-durante-la-tarde-de-este-domingo-1-de-noviembre.shtml"
+    },
+    {
+      "city": "Concepción",
+      "max_hourly_model_c": 18,
+      "period": "Domingo 1 nov.",
+      "source": "DMC Meteograma Carriel Sur WRF",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "consulted_at": "2026-11-01T07:04:34-03:00",
+      "method": "Máximo horario aproximado; pronóstico de estación"
+    },
+    {
+      "city": "Casablanca",
+      "value": "SIN DATO VERIFICADO",
+      "period": "Domingo 1 nov.",
+      "attempted_sources": [
+        "DMC",
+        "MET Norway / Yr"
+      ],
+      "url": "https://www.yr.no/",
+      "consulted_at": "2026-11-01T07:04:34-03:00",
+      "verification": "No se confirmó pronóstico identificable para Casablanca (Valparaíso) a la hora editorial"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": 993.22,
+      "display": "$993,22",
+      "unit": "CLP/USD",
+      "validity": "2026-10-30",
+      "source": "Banco Central, reproducido por Indicadores.cl",
+      "source_url": "https://indicadores.cl/conversores/dolar/",
+      "consulted_at": "2026-11-01T07:04:34-03:00"
+    },
+    {
+      "name": "UF",
+      "value": 41252.94,
+      "display": "$41.252,94",
+      "unit": "CLP/UF",
+      "validity": "2026-11-01",
+      "source": "SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consulted_at": "2026-11-01T07:04:34-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": 1109.37,
+      "display": "$1.109,37",
+      "unit": "CLP/EUR",
+      "validity": "2026-10-30",
+      "source": "Banco Central, reproducido por Indicadores.cl",
+      "source_url": "https://indicadores.cl/euro/",
+      "consulted_at": "2026-11-01T07:04:34-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": 72440,
+      "display": "$72.440",
+      "unit": "CLP/UTM",
+      "validity": "2026-11",
+      "source": "SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulted_at": "2026-11-01T07:04:34-03:00"
+    }
+  ],
+  "images": [
+    {
+      "id": "maipo",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Cajon_del_Maipo.jpg",
+      "origin": "https://commons.wikimedia.org/wiki/File:Cajon_del_Maipo.jpg",
+      "credit": "Femichaelsen",
+      "date": "2014-05-22",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "Paisaje del Cajón del Maipo, imagen de archivo de 2014, no del fenómeno meteorológico de 2026",
+      "caption": "Cajón del Maipo · imagen de archivo (2014), no de la tormenta anunciada",
+      "transformation": "Imagen no retocada; CSS object-fit cover puede recortar visualmente dentro del contenedor",
+      "usage": "Fotografía de archivo declarada y no del hecho noticioso"
+    },
+    {
+      "id": "ine",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Instituto_Nacional_Electoral.jpg",
+      "origin": "https://commons.wikimedia.org/wiki/File:Instituto_Nacional_Electoral.jpg",
+      "credit": "Adan Hernandez Soto",
+      "date": "2015-03-19",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "Edificio del Instituto Nacional Electoral en México, archivo de 2015",
+      "caption": "Instituto Nacional Electoral · archivo (2015), no de la investigación actual",
+      "transformation": "Imagen no retocada; CSS object-fit cover puede recortar visualmente dentro del contenedor",
+      "usage": "Fotografía de archivo declarada y no del hecho noticioso"
+    },
+    {
+      "id": "brasil",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Brasilia_-_Congresso_Nacional.jpg?width=900",
+      "origin": "https://commons.wikimedia.org/wiki/File:Brasilia_-_Congresso_Nacional.jpg",
+      "credit": "DlauriniJr",
+      "date": "2010-01-28",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Congreso Nacional de Brasil en Brasilia, archivo de 2010",
+      "caption": "Congreso Nacional de Brasil · archivo de 2010; contexto presupuestario",
+      "transformation": "Imagen no retocada; CSS object-fit cover puede recortar visualmente dentro del contenedor",
+      "usage": "Fotografía de archivo declarada y no del hecho noticioso"
+    },
+    {
+      "id": "polonia",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Trybuna%C5%82_Konstytucyjny_wej%C5%9Bcie.JPG?width=900",
+      "origin": "https://commons.wikimedia.org/wiki/File:Trybuna%C5%82_Konstytucyjny_wej%C5%9Bcie.JPG",
+      "credit": "Adrian Grycuk",
+      "date": "2016-01-22",
+      "license": "CC BY-SA 3.0 PL",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/",
+      "alt": "Entrada al Tribunal Constitucional de Polonia en Varsovia, fotografía de archivo de 2016",
+      "caption": "Entrada del Tribunal Constitucional polaco · archivo (2016), no retrata las protestas actuales",
+      "transformation": "Imagen no retocada; CSS object-fit cover puede recortar visualmente dentro del contenedor",
+      "usage": "Fotografía de archivo declarada y no del hecho noticioso"
+    }
+  ],
+  "stage2": {
+    "status": "realizada, revisión estática",
+    "controls": [
+      {
+        "n": 1,
+        "item": "Portada, noticia principal, cuatro entradas, editorial, lectura",
+        "status": "OK"
+      },
+      {
+        "n": 2,
+        "item": "Imagen de portada pertinente con origen y licencia",
+        "status": "OK"
+      },
+      {
+        "n": 3,
+        "item": "Imágenes interiores con pertinencia y sin repetición de últimos turnos",
+        "status": "OK"
+      },
+      {
+        "n": 4,
+        "item": "Créditos discretos y enlaces de licencia",
+        "status": "OK"
+      },
+      {
+        "n": 5,
+        "item": "Patrones variados: gran reportaje, mosaicos, laterales",
+        "status": "OK"
+      },
+      {
+        "n": 6,
+        "item": "Blancos y alturas: columnas independientes y auto",
+        "status": "OK (comprobación estática); pendiente validación visual",
+        "note": "No hay prueba visual en navegador"
+      },
+      {
+        "n": 7,
+        "item": "Tipografía, justificación escritorio, alineación móvil",
+        "status": "OK (comprobación estática)"
+      },
+      {
+        "n": 8,
+        "item": "Paleta 2.3 matinal, franja compacta, opinión diferenciada",
+        "status": "OK"
+      },
+      {
+        "n": 9,
+        "item": "Integridad del manuscrito y voz",
+        "status": "OK"
+      },
+      {
+        "n": 10,
+        "item": "Visualización escritorio y móvil",
+        "status": "NO DISPONIBLE",
+        "note": "Inspección visual no disponible; revisión estática de HTML/CSS, enlaces y anclas"
+      }
+    ],
+    "alternatives": [
+      "Casablanca: SIN DATO VERIFICADO",
+      "Dos imágenes originales reutilizables sustituibles por gráficos si el servidor externo bloquea las fotos; URL de foto sin prueba en navegador",
+      "Infografía de indicaciones al Presupuesto original y basada en fuente comprobada"
+    ],
+    "review": "Comprobación estática HTML/CSS, anclas, integridad y fuentes; inspección visual no disponible",
+    "quality": {
+      "manuscript_stories": 11,
+      "manuscript_paragraphs": 51,
+      "manuscript_body_words": 3407,
+      "html_articles": 11,
+      "html_images": 5,
+      "html_size_bytes_utf8": 73850,
+      "broken_anchors": [],
+      "unsafe_external_links": 0,
+      "content_equal": true,
+      "all_css": true,
+      "voice_embedded": true,
+      "front_links": true
+    },
+    "voice_blob_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "template_source_ref": "631e709373a12bf9a454f3661bc8581ebcfa617b"
+  },
+  "publication": {
+    "status": "preparado para git",
+    "paid_services": false,
+    "netlify_changes": false
+  }
+}
