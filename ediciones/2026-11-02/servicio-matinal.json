@@ -1,0 +1,246 @@
+{
+  "fecha": "2026-11-02",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "cierre_editorial": "2026-11-02T07:18:31-03:00",
+  "queried_at": "2026-11-02T07:18:31-03:00",
+  "stage1": {
+    "status": "OK",
+    "modelo": "Modelo Edición N°2",
+    "articulos": 13,
+    "palabras_aproximadas_cuerpo": 2124,
+    "entradas_portada": 4,
+    "editorial_de_opinion": true,
+    "suplemento_lunes": true,
+    "contenidos": [
+      "Chile: alerta por calor, gira presidencial, Cadem, Metro",
+      "Brasil: combustible aéreo de Petrobras y programas sociales",
+      "México: seguridad municipal en Uruapan",
+      "EE.UU.: elecciones legislativas 3 noviembre",
+      "España: identificación de víctimas del choque ferroviario",
+      "Ucrania: energía y tregua localizada",
+      "Educación superior: orientaciones CNA, admisión 2027, acuerdo universitario Reino Unido-UE"
+    ],
+    "criterios": "Cobertura plural, contexto y fuentes específicas fechadas; datos no verificados señalados, sin exigir confirmación individual.",
+    "fuentes": [
+      {
+        "id": "calor",
+        "url": "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/01/senapred-declara-alerta-temprana-preventiva-por-calor-en-todo-chile-hasta-marzo-de-2027.shtml"
+      },
+      {
+        "id": "gira",
+        "url": "https://www.cnnchile.com/pais/kast-gira-europa-perez-mackenna-chile-radar-mundo/"
+      },
+      {
+        "id": "cadem",
+        "url": "https://www.cnnchile.com/pais/cadem-aprobacion-de-presidente-kast-cae-a-26-su-nivel-mas-bajo-desde-que-asumio-y-desaprobacion-sube-a-65/"
+      },
+      {
+        "id": "metro",
+        "url": "https://www.cnnchile.com/cultura/comienza-votacion-para-elegir-uno-de-los-murales-que-estaran-en-la-futura-linea-7-del-metro-como-participar/"
+      },
+      {
+        "id": "petrobras",
+        "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-reajusta-combustivel-de-aviacao-em-r-045-por-litro"
+      },
+      {
+        "id": "lula",
+        "url": "https://www1.folha.uol.com.br/mercado/2026/11/lula-afirma-que-nenhum-programa-social-sera-extinto-em-seu-quarto-mandato.shtml"
+      },
+      {
+        "id": "uruapan",
+        "url": "https://apnews.com/article/2993f8ac25272d4c9b8ac2b019745385"
+      },
+      {
+        "id": "eeuu",
+        "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
+      },
+      {
+        "id": "espana",
+        "url": "https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead"
+      },
+      {
+        "id": "ucrania",
+        "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+      },
+      {
+        "id": "cna",
+        "url": "https://www.cnachile.cl/noticias/paginas/CNA-Chile-publica-orientaciones-para-autoevaluaci%C3%B3n-Institucional-de-IES-que-imparten-formaci%C3%B3n-a-distancia-o-semipresencia.aspx"
+      },
+      {
+        "id": "admision",
+        "url": "https://acceso.mineduc.cl/sistema-de-acceso/"
+      },
+      {
+        "id": "reino",
+        "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme"
+      }
+    ]
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "SIN DATO VERIFICADO",
+      "period": "2 noviembre 2026",
+      "source": "DMC, Quinta Normal",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "queried_at": "2026-11-02T07:18:31-03:00",
+      "reason": "No fue posible confirmar valor válido para el cierre editorial."
+    },
+    {
+      "city": "Concepción",
+      "value": "SIN DATO VERIFICADO",
+      "period": "2 noviembre 2026",
+      "source": "DMC, Carriel Sur",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "queried_at": "2026-11-02T07:18:31-03:00",
+      "reason": "No fue posible confirmar valor válido para el cierre editorial."
+    },
+    {
+      "city": "Casablanca",
+      "value": "SIN DATO VERIFICADO",
+      "period": "2 noviembre 2026",
+      "source": "MET Norway / Yr.no",
+      "url": "https://www.yr.no/",
+      "queried_at": "2026-11-02T07:18:31-03:00",
+      "reason": "No se pudo recuperar el pronóstico local para la ciudad."
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Dólar observado",
+      "display": "$993,22",
+      "validity": "2026-10-30",
+      "unit": "CLP/USD",
+      "source": "Banco Central",
+      "url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-02T07:18:31-03:00",
+      "note": "Último dato hábil verificable antes del cierre, no cotización intradiaria."
+    },
+    {
+      "label": "UF",
+      "display": "$41.258,26",
+      "validity": "2026-11-02",
+      "unit": "CLP/UF",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-02T07:18:31-03:00"
+    },
+    {
+      "label": "Euro",
+      "display": "$1.109,37",
+      "validity": "2026-10-30",
+      "unit": "CLP/EUR",
+      "source": "Banco Central",
+      "url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-02T07:18:31-03:00"
+    },
+    {
+      "label": "UTM",
+      "display": "$72.440",
+      "validity": "2026-11",
+      "unit": "CLP/UTM",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-02T07:18:31-03:00"
+    }
+  ],
+  "images": [
+    {
+      "id": "bosque",
+      "author": "Jason Hollinger",
+      "date": "2007",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "origin": "https://commons.wikimedia.org/wiki/File:Nothofagus_Forest_(3440015157).jpg",
+      "use": "Fotografía de archivo como contexto ambiental, portada e interior; no representa el aviso."
+    },
+    {
+      "id": "moneda",
+      "author": "Dario Alpern",
+      "date": "2011",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "origin": "https://commons.wikimedia.org/wiki/File:Palacio_de_la_Moneda_en_Santiago_de_Chile.jpg",
+      "use": "Imagen institucional de archivo; no corresponde al viaje de 2026."
+    },
+    {
+      "id": "puerto",
+      "author": "Marca Chile / María José Pedraza",
+      "date": "2018",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "origin": "https://commons.wikimedia.org/wiki/File:Puerto_de_Valpara%C3%ADso,_Chile.jpg",
+      "use": "Archivo de comercio exterior, no imagen de reuniones presidenciales."
+    }
+  ],
+  "stage2": {
+    "status": "realizada",
+    "modelo": "PANORAMA 2.3",
+    "review": "Comprobación estática de HTML, CSS, anclas, contenido íntegro, fuentes y JS de voz. Inspección visual no disponible.",
+    "html_bytes": 54997,
+    "html_sha": "c4106f256b7f92e0a4ffd451b9e8f87ab600cb0a",
+    "voice_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "controls": [
+      {
+        "id": 1,
+        "status": "OK",
+        "description": "Portada: principal, cuatro entradas, editorial y tiempo de lectura."
+      },
+      {
+        "id": 2,
+        "status": "OK",
+        "description": "Imagen principal histórica acreditada y autorizada."
+      },
+      {
+        "id": 3,
+        "status": "OK",
+        "description": "Fotografías de archivo distribuidas en interiores e infografía original contextual."
+      },
+      {
+        "id": 4,
+        "status": "OK",
+        "description": "Créditos 10px, autor, origen, licencia enlazada y carácter de archivo."
+      },
+      {
+        "id": 5,
+        "status": "OK",
+        "description": "Patrones A/B/C mediante reportajes en columnas, mosaicos y laterales."
+      },
+      {
+        "id": 6,
+        "status": "OK",
+        "description": "Flujo sin alturas fijas y textos preservados; evaluación estática."
+      },
+      {
+        "id": 7,
+        "status": "OK",
+        "description": "Textos largos justificados en escritorio; una columna izquierda en móvil."
+      },
+      {
+        "id": 8,
+        "status": "OK",
+        "description": "Identidad cromática matinal 2.3 y franja compacta."
+      },
+      {
+        "id": 9,
+        "status": "OK",
+        "description": "Coincidencia literal de párrafos y fuentes verificada; lector por voz exacto."
+      },
+      {
+        "id": 10,
+        "status": "no disponible",
+        "description": "No se ejecutó inspección visual en navegador; comprobación estática realizada."
+      }
+    ],
+    "alternatives": [
+      "Ante fotos no documentales se indica archivo y contexto en las leyendas.",
+      "Campos de pronóstico sin datos verificados se conservan vacíos con señal expresa."
+    ],
+    "pending": [
+      "Carga real de fotografías en el navegador no comprobada.",
+      "Inspección geométrica escritorio/móvil no disponible.",
+      "Pronósticos locales sin cifras comprobadas al cierre."
+    ]
+  }
+}
