@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-02T15:08:10-03:00",
+  "updated_at": "2026-11-02T15:12:00-03:00",
   "latest": {
     "matinal": {
       "fecha": "2026-11-02",
@@ -12,7 +12,7 @@
       "fecha": "2026-11-02",
       "url": "ediciones/2026-11-02/vespertina.html",
       "titulo": "Vespertina · 2 de noviembre de 2026",
-      "revision": "2026-11-02T15:08:10-03:00",
+      "revision": "2026-11-02T15:12:00-03:00",
       "tipo": "vespertina"
     }
   },
@@ -22,7 +22,7 @@
       "tipo": "vespertina",
       "url": "ediciones/2026-11-02/vespertina.html",
       "titulo": "Vespertina · 2 de noviembre de 2026",
-      "revision": "2026-11-02T15:08:10-03:00"
+      "revision": "2026-11-02T15:12:00-03:00"
     },
     {
       "fecha": "2026-11-02",
