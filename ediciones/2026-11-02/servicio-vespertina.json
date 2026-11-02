@@ -1,0 +1,234 @@
+{
+  "fecha": "2026-11-02",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "manuscript_closed_at": "2026-11-02T15:08:09-03:00",
+  "updated_at": "2026-11-02T15:08:10-03:00",
+  "comparisons": {
+    "matinal": "ediciones/2026-11-02/matinal.html",
+    "previous_vespertina": "ediciones/2026-11-01/vespertina.html"
+  },
+  "stage1": {
+    "status": "OK",
+    "article_count": 11,
+    "editorial": "Los promedios no gobiernan por sí solos",
+    "items": [
+      {
+        "id": "imacec",
+        "title": "La economía chilena apenas creció 0,2% en septiembre: la minería arrastra el resultado",
+        "sources": [
+          "https://www.bcentral.cl/en/content/-/detalle/prensa/nota-de-prensa/imacec-septiembre-2026",
+          "https://www.meganoticias.cl/nacional/535343-imacec-septiembre-2026-crecimiento-economia-chilena-02-11-2026.html"
+        ]
+      },
+      {
+        "id": "gira",
+        "title": "Kast llega a Madrid con autoridades de los tres poderes del Estado",
+        "sources": [
+          "https://www.adnradio.cl/2026/11/02/presidente-kast-llega-a-espana-para-iniciar-su-primer-recorrido-por-europa-una-gira-breve-pero-con-vision-de-estado/",
+          "https://www.comunidad.madrid/agenda-gobierno"
+        ]
+      },
+      {
+        "id": "regiones",
+        "title": "El Presupuesto 2027 reabre la negociación regional con 3.845 indicaciones",
+        "sources": [
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/30/presupuesto-2027-suma-3-845-indicaciones-salud-educacion-y-gobiernos-regionales-lideran-disputas.shtml",
+          "https://www.malaespinacheck.cl/politica/2026/10/07/presupuesto-2027-los-16-gobiernos-regionales-pierden-recursos-para-inversion-mientras-aumenta-su-gasto-de-funcionamiento/"
+        ]
+      },
+      {
+        "id": "tiempo",
+        "title": "Tormentas en áreas cordilleranas del centro y nuevos sistemas frontales hacia el sur",
+        "sources": [
+          "https://www.chilevision.cl/noticias/alerta-climatica/incluida-la-rm-dmc-emite-aviso-de-tormentas-electricas-granizo-y-vientos-para-este-lunes-en-tres-regiones-del-pais/amp/",
+          "https://www.megatiempo.cl/pronostico/15041-lluvia-zona-central-zona-sur-nov-2026-1ab.html"
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "México restringirá celulares en las escuelas desde el martes: aprendizaje y seguridad entran en tensión",
+        "sources": [
+          "https://apnews.com/article/mexico-cellphone-ban-sheinbaum-parents-violence-sinaloa-tamaulipas-74b9a0b1cf93485487f3844eb7cb6b95"
+        ]
+      },
+      {
+        "id": "uruapan",
+        "title": "Uruapan exige justicia un año después del asesinato de Carlos Manzo",
+        "sources": [
+          "https://www.elfinanciero.com.mx/estados/2026/11/01/uruapan-marcha-por-a-un-ano-del-asesinato-de-carlos-manzo-grecia-quiroz-pide-no-normalizar-vioklencia/",
+          "https://apnews.com/article/2993f8ac25272d4c9b8ac2b019745385"
+        ]
+      },
+      {
+        "id": "brasil",
+        "title": "Boulos y Tarcísio disputan la responsabilidad por el nuevo impuesto a los combustibles",
+        "sources": [
+          "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/02/boulos-ataca-tarcisio-por-aumento-do-icms-e-ele-reage-distorce-os-fatos.ghtm",
+          "https://www1.folha.uol.com.br/mercado/2026/11/aliados-de-lula-fazem-ofensiva-contra-pressao-do-mercado-financeiro-as-vesperas-do-copom.shtml"
+        ]
+      },
+      {
+        "id": "eeuu",
+        "title": "Trump pide a la Corte Suprema separar unos 20.000 votos por correo en California a un día de las legislativas",
+        "sources": [
+          "https://apnews.com/article/midterm-elections-immigration-voter-fraud-trump-48998968a23a4af2f59eaea3dba4d2f3"
+        ]
+      },
+      {
+        "id": "espana",
+        "title": "Toledo: 66 de las 69 víctimas mortales ya fueron identificadas",
+        "sources": [
+          "https://es.euronews.com/2026/11/02/accidente-tren-urda-66-victimas-identificadas-continua-busqueda",
+          "https://apnews.com/article/475ed2f1d806a76229fe7e5551920884"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "title": "Falsas alarmas nucleares en una aplicación de Kyiv exponen nuevos riesgos de la guerra",
+        "sources": [
+          "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
+          "https://www.investing.com/news/world-news/ukraine-says-russia-used-oleshky-ceasefire-to-reinforce-positions-4990442"
+        ]
+      },
+      {
+        "id": "ryanair",
+        "title": "Ryanair calcula €2.000 millones adicionales de combustible y examina ajustes laborales",
+        "sources": [
+          "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai"
+        ]
+      }
+    ],
+    "coverage": [
+      "Chile y regiones",
+      "México",
+      "Brasil",
+      "Estados Unidos",
+      "Europa",
+      "Ucrania"
+    ],
+    "not_verified": [
+      "Pronósticos horarios municipales",
+      "Resultado formal de votación presupuestaria de hoy"
+    ]
+  },
+  "service": {
+    "checked_at": "2026-11-02T15:08:09-03:00",
+    "weather": [
+      {
+        "city": "Santiago",
+        "display": "SIN DATO VERIFICADO",
+        "note": "Pronóstico comunal resto del lunes no confirmado; DMC advierte tormentas en sectores precordilleranos",
+        "source": "https://www.meteochile.gob.cl/"
+      },
+      {
+        "city": "Concepción",
+        "display": "SIN DATO VERIFICADO",
+        "note": "Pronóstico comunal vespertino no confirmado; DMC prevé precipitaciones regionales el martes",
+        "source": "https://www.meteochile.gob.cl/"
+      },
+      {
+        "city": "Casablanca",
+        "display": "SIN DATO VERIFICADO",
+        "note": "Pronóstico local no confirmado; no se extrapoló aviso cordillerano",
+        "source": "https://www.meteochile.gob.cl/"
+      }
+    ],
+    "indicators": [
+      {
+        "name": "Dólar observado",
+        "clp": 992.66,
+        "validity": "2026-11-02",
+        "source": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+      },
+      {
+        "name": "UF",
+        "clp": 41258.26,
+        "validity": "2026-11-02",
+        "source": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+      },
+      {
+        "name": "Euro",
+        "clp": 1107.26,
+        "validity": "2026-11-02",
+        "source": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+      },
+      {
+        "name": "UTM",
+        "clp": 72440,
+        "validity": "2026-11",
+        "source": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+      }
+    ]
+  },
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "controls": [
+      {
+        "control": 1,
+        "status": "OK",
+        "detail": "Portada, cuatro entradas, editorial y tiempos de lectura"
+      },
+      {
+        "control": 2,
+        "status": "corregido con alternativa",
+        "detail": "Gráfica SVG original como imagen de portada"
+      },
+      {
+        "control": 3,
+        "status": "corregido con alternativa",
+        "detail": "Otras siete gráficas SVG originales ligadas a noticias de interior"
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "detail": "Autoría PANORAMA acreditada en cada gráfica; fuente enlazada en nota; leyenda en 10 px"
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "detail": "Patrones A/B/C reportaje, mosaico e historia con lateral"
+      },
+      {
+        "control": 6,
+        "status": "pendiente",
+        "detail": "Alturas automáticas y columnas equilibradas, sin comprobación visual de blancos"
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "detail": "Justificación y hyphens en escritorio; alineación izquierda en móvil"
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "detail": "Colores vespertinos marfil, terracota y cobre y servicio compacto"
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "detail": "Integridad automática de los 11 artículos, párrafos, fuentes y lector de voz inline"
+      },
+      {
+        "control": 10,
+        "status": "no disponible",
+        "detail": "Inspección visual no disponible; verificación estática de HTML y CSS"
+      }
+    ],
+    "review": "static",
+    "visual_review": "inspección visual no disponible",
+    "alternatives": [
+      "Infografías SVG originales en lugar de fotografías sin licencias",
+      "Pronósticos sin valor verificado indicados expresamente"
+    ],
+    "html_bytes": 58076,
+    "voice_script_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "anchors_checked": 6,
+    "articles_verified": 11
+  },
+  "stage3": {
+    "historical_path": "ediciones/2026-11-02/vespertina.html",
+    "alias_path": "ediciones/actual/vespertina.html",
+    "status": "preparing"
+  }
+}
