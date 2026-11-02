@@ -242,5 +242,21 @@
       "Inspección geométrica escritorio/móvil no disponible.",
       "Pronósticos locales sin cifras comprobadas al cierre."
     ]
+  },
+  "correccion_visual": {
+    "fecha": "2026-11-02T09:10:00-03:00",
+    "motivo": "Clarificación visual de franja y fotos; previsiones DMC/Yr no verificables desde entorno de consulta",
+    "cierre_original": "2026-11-02T07:18:31-03:00",
+    "fuentes_autorizadas": {
+      "DMC": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+      "yr": {
+        "Santiago": "https://www.yr.no/en/forecast/daily-table/2-3871336/Chile/Santiago%20Metropolitan/Provincia%20de%20Santiago/Santiago",
+        "Concepción": "https://www.yr.no/en/forecast/daily-table/2-3893894/Chile/Biobio/Provincia%20de%20Concepción/Concepción",
+        "Casablanca": "https://www.yr.no/en/forecast/daily-table/2-3896410/Chile/Región%20de%20Valparaíso/Provincia%20de%20Valparaíso/Casablanca"
+      }
+    },
+    "pronostico_revalidado": false,
+    "valor_presentado": "Sin dato verificado",
+    "nota": "No atribuir valores de proveedores secundarios a DMC/Yr; hora 09:10 corresponde a consulta de revisión y no al pronóstico de origen"
   }
 }
