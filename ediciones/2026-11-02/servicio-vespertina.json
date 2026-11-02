@@ -177,7 +177,7 @@
       {
         "control": 3,
         "status": "corregido con alternativa",
-        "detail": "Otras siete gráficas SVG originales ligadas a noticias de interior"
+        "detail": "Ocho gráficas SVG originales adicionales vinculadas a noticias de interior; nueve diseños distintos, con repetición de la principal en portada y artículo"
       },
       {
         "control": 4,
@@ -224,7 +224,10 @@
     "html_bytes": 58076,
     "voice_script_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
     "anchors_checked": 6,
-    "articles_verified": 11
+    "articles_verified": 11,
+    "illustrations_distinct": 9,
+    "illustrations_instances": 10,
+    "photographs": 0
   },
   "stage3": {
     "historical_path": "ediciones/2026-11-02/vespertina.html",
