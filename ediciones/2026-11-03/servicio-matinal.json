@@ -1,0 +1,320 @@
+{
+  "fecha": "2026-11-03",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-03T07:10:41-03:00",
+  "stage1": {
+    "status": "OK",
+    "manuscript_blob": "bd3a72dc3b09f7f68be9aed04723255bb39a1d90",
+    "articles": 10,
+    "paragraphs": 40,
+    "editorial": "La prueba está en las instituciones",
+    "article_manifest": [
+      {
+        "id": "urnas",
+        "title": "Estados Unidos vota: el Congreso, los gobernadores y las reglas del poder quedan bajo examen",
+        "deck": "La jornada de medio mandato define escaños, gobiernos estatales y medidas electorales. La participación anticipada es elevada, pero no hay todavía un resultado.",
+        "paragraph_count": 4,
+        "read_minutes": 4,
+        "sources": [
+          "https://www.theguardian.com/us-news/2026/nov/01/key-takeaways-midterm-elections-early-voting",
+          "https://apnews.com/article/7d58b1e0d9eb193fd7d83890a717ce1a",
+          "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms"
+        ]
+      },
+      {
+        "id": "imacec",
+        "title": "El Imacec avanza apenas 0,2%: la brecha entre minería y resto de la economía",
+        "deck": "La producción minera cayó 12,1% anual en septiembre y el componente no minero creció 2,0%. Una misma cifra agregada esconde evoluciones muy diferentes.",
+        "paragraph_count": 4,
+        "read_minutes": 3,
+        "sources": [
+          "https://www.bcentral.cl/web/banco-central/contenido/-/detalle/prensa/nota-de-prensa/imacec-septiembre-2026",
+          "https://www.emol.com/noticias/Economia/2026/11/02/1215857/biministro-mas-e-imacec.html"
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "title": "Presupuesto 2027: de los grandes anuncios al examen de las partidas y las regiones",
+        "deck": "La comisión mixta revisó el proyecto el lunes. El debate deberá precisar asignaciones, condiciones y capacidad de ejecutar obras y servicios.",
+        "paragraph_count": 4,
+        "read_minutes": 3,
+        "sources": [
+          "https://tv.senado.cl/tvsenado/comisiones/presupuestos/mixta-de-presupuestos/comision-de-especial-mixta-de-presupuestos/2026-10-30/123749.html",
+          "https://www.emol.com/noticias/Economia/2026/09/30/1212833/kast-presupuesto-2027.html"
+        ]
+      },
+      {
+        "id": "clima",
+        "title": "Tormentas, viento y chubascos: un martes con riesgos muy distintos según el territorio",
+        "deck": "Senapred llamó a evitar excursiones en sectores expuestos. En Magallanes se prevén fuertes rachas; Santiago podría registrar chubascos por la tarde.",
+        "paragraph_count": 4,
+        "read_minutes": 3,
+        "sources": [
+          "https://www.soychile.cl/santiago/sociedad/2026/11/02/971172/senapred-tormenta-granizo-antofagasta-maule.html",
+          "https://www.chilevision.cl/programas/el-tiempo/vuelven-los-chubascos-andres-moncada-adelanta-posibles-tormentas-electricas-para-este-martes-3-de-noviembre/"
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "México restringe desde hoy los celulares en las escuelas: comienza la prueba de implementación",
+        "deck": "La regulación del 3 de noviembre distingue educación básica, media superior y superior, y contempla excepciones por necesidades particulares.",
+        "paragraph_count": 4,
+        "read_minutes": 3,
+        "sources": [
+          "https://www.gob.mx/presidencia/prensa/a-partir-del-3-de-noviembre-entra-en-vigor-regulacion-del-uso-de-celulares-en-escuelas-presidenta-claudia-sheinbaum?idiom=es-MX",
+          "https://www.elfinanciero.com.mx/nacional/2026/11/02/adios-a-los-celulares-en-las-escuelas-que-reglas-deberan-seguir-los-estudiantes-a-partir-de-este-3-de-noviembre/"
+        ]
+      },
+      {
+        "id": "uruapan",
+        "title": "Uruapan tras el aniversario de Carlos Manzo: menos homicidios registrados, pero más robos",
+        "deck": "Los datos comparativos de septiembre muestran un panorama mixto de seguridad y nuevas exigencias a las autoridades del municipio.",
+        "paragraph_count": 4,
+        "read_minutes": 3,
+        "sources": [
+          "https://politica.expansion.mx/estados/2026/11/01/tras-murte-manzo-uruapan-bajan-asesinatos-suben-delitos",
+          "https://www.elfinanciero.com.mx/estados/2026/11/01/uruapan-marcha-por-a-un-ano-del-asesinato-de-carlos-manzo-grecia-quiroz-pide-no-normalizar-vioklencia/"
+        ]
+      },
+      {
+        "id": "brasil",
+        "title": "El Copom se acerca a su primera decisión tras la reelección de Lula: la Selic y el costo fiscal",
+        "deck": "La tasa se sitúa en 13,75% y los mercados estudian una posible pausa. No hay todavía resolución de la reunión prevista para el miércoles.",
+        "paragraph_count": 4,
+        "read_minutes": 3,
+        "sources": [
+          "https://economia.uol.com.br/noticias/redacao/2026/11/03/copom-pos-eleicao.ghtm",
+          "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-agradece-votos-e-diz-que-teve-de-vencer-intromissao-vinda-de-fora"
+        ]
+      },
+      {
+        "id": "social",
+        "title": "Lula promete preservar programas sociales; ahora importarán los recursos y resultados",
+        "deck": "El presidente reelecto ha descartado eliminaciones de beneficios y planteado posibles mejoras, sujetas a decisiones fiscales futuras.",
+        "paragraph_count": 4,
+        "read_minutes": 2,
+        "sources": [
+          "https://noticias.uol.com.br/eleicoes/2026/11/01/apos-reeleicao-lula-promete-manter-programas-sociais.ghtm",
+          "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-agradece-votos-e-diz-que-teve-de-vencer-intromissao-vinda-de-fora"
+        ]
+      },
+      {
+        "id": "california",
+        "title": "La Corte Suprema rechaza la petición de separar unas 20.000 papeletas en California",
+        "deck": "El Ejecutivo cuestionó registros de electores y solicitó una medida de urgencia. La Corte no la concedió en vísperas de la votación.",
+        "paragraph_count": 4,
+        "read_minutes": 3,
+        "sources": [
+          "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots",
+          "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges"
+        ]
+      },
+      {
+        "id": "europa",
+        "title": "Polonia acogerá un ejercicio europeo para una hipotética misión en Ucrania",
+        "deck": "Cerca de 2.800 efectivos probarán logística y coordinación. Su eventual despliegue ucraniano depende de un alto el fuego aún inexistente.",
+        "paragraph_count": 4,
+        "read_minutes": 3,
+        "sources": [
+          "https://www.lemonde.fr/en/international/article/2026/11/03/in-poland-coalition-of-the-willing-holds-first-large-scale-military-exercise_6769567_4.html",
+          "https://www.theguardian.com/uk-news/2026/nov/03/uk-european-peacekeepers-ukraine-fire-back-russians"
+        ]
+      }
+    ],
+    "source_verification": "enlaces concretos consultados con web",
+    "geo": [
+      "Chile y regiones",
+      "México",
+      "Brasil",
+      "Estados Unidos",
+      "Europa y Ucrania"
+    ]
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "martes 3 noviembre, tarde",
+      "value": "posibles chubascos",
+      "source": "Chilevisión, pronóstico 2 noviembre 22:30",
+      "url": "https://www.chilevision.cl/programas/el-tiempo/vuelven-los-chubascos-andres-moncada-adelanta-posibles-tormentas-electricas-para-este-martes-3-de-noviembre/",
+      "queried_at": "2026-11-03T07:10:41-03:00"
+    },
+    {
+      "city": "Concepción",
+      "period": "martes 3 noviembre",
+      "value": "máxima modelada aproximada 15 °C",
+      "source": "DMC, estación Carriel Sur modelo WRF, generación 05h",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "queried_at": "2026-11-03T07:10:41-03:00",
+      "observation": false
+    },
+    {
+      "city": "Casablanca",
+      "period": "martes 3 noviembre",
+      "value": "SIN DATO VERIFICADO",
+      "source": "Yr/MET Norway",
+      "url": "https://www.yr.no/",
+      "queried_at": "2026-11-03T07:10:41-03:00",
+      "note": "No se recuperó dato local verificable; no se reciclan valores"
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Dólar observado",
+      "value": "981,82",
+      "validity": "2026-11-03",
+      "units": "CLP por USD",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-03T07:10:41-03:00"
+    },
+    {
+      "label": "UF",
+      "value": "41.263,57",
+      "validity": "2026-11-03",
+      "units": "CLP por UF",
+      "source": "SII / Banco Central",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-03T07:10:41-03:00"
+    },
+    {
+      "label": "Euro",
+      "value": "1.100,20",
+      "validity": "2026-11-03",
+      "units": "CLP por EUR",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-03T07:10:41-03:00"
+    },
+    {
+      "label": "UTM",
+      "value": "72.440",
+      "validity": "2026-11",
+      "units": "CLP por UTM",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-03T07:10:41-03:00"
+    }
+  ],
+  "images": [
+    {
+      "id": "capitol",
+      "author": "Gunnar Klack",
+      "date": "2014",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:2014-04-06-US-Capitol-Washington-DC.jpg",
+      "use": "fotografía de archivo contextual, no fotografía del hecho de hoy",
+      "transformation": "miniatura de Wikimedia por reducción de tamaño, sin fotomontaje"
+    },
+    {
+      "id": "banco",
+      "author": "Banco Central de Chile",
+      "date": "2004",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:B%C3%B3veda_del_Banco_Central_de_Chile.jpg",
+      "use": "fotografía de archivo contextual, no fotografía del hecho de hoy",
+      "transformation": "miniatura de Wikimedia por reducción de tamaño, sin fotomontaje"
+    },
+    {
+      "id": "congreso",
+      "author": "Carlos Figueroa Rojas",
+      "date": "2023",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_del_ex_Congreso_Nacional_de_Chile,_Santiago_20231202.jpg",
+      "use": "fotografía de archivo contextual, no fotografía del hecho de hoy",
+      "transformation": "miniatura de Wikimedia por reducción de tamaño, sin fotomontaje"
+    },
+    {
+      "id": "mexico",
+      "author": "MichaelCamacho",
+      "date": "2018",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Ciudad_de_M%C3%A9xico.jpg",
+      "use": "fotografía de archivo contextual, no fotografía del hecho de hoy",
+      "transformation": "miniatura de Wikimedia por reducción de tamaño, sin fotomontaje"
+    }
+  ],
+  "stage2": {
+    "status": "OK, revisión estática",
+    "inspection": "inspección visual no disponible",
+    "controls": [
+      {
+        "number": 1,
+        "description": "Portada jerárquica; principal, cuatro entradas y editorial",
+        "status": "OK"
+      },
+      {
+        "number": 2,
+        "description": "Imagen protagonista de archivo, derechos comprobados",
+        "status": "OK"
+      },
+      {
+        "number": 3,
+        "description": "Fotografías en tres interiores y portada",
+        "status": "OK"
+      },
+      {
+        "number": 4,
+        "description": "Créditos completos discretos con licencia enlazada",
+        "status": "OK"
+      },
+      {
+        "number": 5,
+        "description": "Composición de reportaje, mosaico y lateral contextual",
+        "status": "OK"
+      },
+      {
+        "number": 6,
+        "description": "Alturas automáticas y ausencia de relleno artificial",
+        "status": "OK"
+      },
+      {
+        "number": 7,
+        "description": "Justificación en escritorio y alineación izquierda móvil",
+        "status": "OK"
+      },
+      {
+        "number": 8,
+        "description": "Paleta matinal y franja de siete servicios",
+        "status": "OK"
+      },
+      {
+        "number": 9,
+        "description": "Comparación íntegra de manuscrito/HTML, enlaces y voz",
+        "status": "OK"
+      },
+      {
+        "number": 10,
+        "description": "Revisión escritorio/móvil",
+        "status": "no disponible"
+      }
+    ],
+    "alternatives": [
+      "Casablanca: SIN DATO VERIFICADO",
+      "Fotografías de archivo acreditadas y gráfica original"
+    ],
+    "qa": {
+      "articles": 10,
+      "paragraphs": 40,
+      "sources": 21,
+      "photos": 4,
+      "svg": 1,
+      "estimatedBytes": 53741,
+      "integrity": true,
+      "anchorsValid": true,
+      "externalLinksValid": true,
+      "scriptComplete": true,
+      "mobileCss": true
+    }
+  },
+  "publication": {
+    "target": "GitHub Pages y puente existente de Netlify",
+    "netlify_changes": false,
+    "paid_services": false
+  }
+}
