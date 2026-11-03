@@ -1,0 +1,235 @@
+{
+  "fecha": "2026-11-03",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-03T15:12:23-03:00",
+  "editorial_closed_at": "2026-11-03T15:12:23-03:00",
+  "stage1": {
+    "status": "OK",
+    "article_count": 11,
+    "editorial": true,
+    "compared_with": "ediciones/2026-11-03/matinal.html",
+    "articles": [
+      {
+        "id": "urnas",
+        "title": "La votación estadounidense avanza con observadores y litigios: todavía no hay resultados",
+        "sources": [
+          "https://apnews.com/article/ba3037eed7bd816cc084bb1c4a2e6ccf",
+          "https://apnews.com/article/0e2078f16af285b22675445d78360e6d"
+        ]
+      },
+      {
+        "id": "horarios",
+        "title": "El primer cierre de urnas llegará a las 20:00 de Chile: cómo interpretar los recuentos",
+        "sources": [
+          "https://apnews.com/article/0e2078f16af285b22675445d78360e6d"
+        ]
+      },
+      {
+        "id": "rabat",
+        "title": "La controversia por las rebajas de penas amenaza la cohesión oficialista y mantiene a Rabat bajo cuestionamiento",
+        "sources": [
+          "https://www.emol.com/noticias/Nacional/2026/11/03/1215897/crisis-retiro-pinera-caso-rabat.html",
+          "https://www.t13.cl/noticia/politica/ministro-rabat-asegura-siente-respaldo-del-sector-del-presidente-ante-criticas-2-11-2026",
+          "https://www.emol.com/noticias/Nacional/2026/10/23/1214988/gobierno-suspende-decretos-rebajacondenas.html"
+        ]
+      },
+      {
+        "id": "fisco",
+        "title": "La rebaja de crecimiento proyectado a 0,7% estrecha el debate fiscal del Presupuesto 2027",
+        "sources": [
+          "https://www.cnnchile.com/negocios/hacienda-recorta-proyeccion-de-crecimiento-para-2026-y-deuda-publica-llegaria-a-44-del-pib-en-2029/",
+          "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+        ]
+      },
+      {
+        "id": "marearoja",
+        "title": "La emergencia preventiva por marea roja abarca quince regiones, pero cada restricción debe verificarse localmente",
+        "sources": [
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/27/gobierno-declara-emergencia-preventiva-en-15-regiones-ante-amenaza-de-marea-roja.shtml"
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "La restricción mexicana de celulares escolares entra en vigor y su primera prueba será la implementación",
+        "sources": [
+          "https://www.gob.mx/presidencia/prensa/a-partir-del-3-de-noviembre-entra-en-vigor-regulacion-del-uso-de-celulares-en-escuelas-presidenta-claudia-sheinbaum?idiom=es-MX",
+          "https://www.informador.mx/amp/mexico/mexico-oficializa-restriccion-de-celulares-en-escuelas-20260922-0099.html"
+        ]
+      },
+      {
+        "id": "copom",
+        "title": "Brasil llega a la decisión del Copom con Selic de 13,75% y un mercado más inquieto por la política fiscal",
+        "sources": [
+          "https://economia.uol.com.br/noticias/redacao/2026/11/03/copom-pos-eleicao.ghtm",
+          "https://economia.uol.com.br/noticias/redacao/2026/11/03/relatorio-focus-3-de-novembro-de-2026.ghtm"
+        ]
+      },
+      {
+        "id": "bets",
+        "title": "El Supremo brasileño escucha argumentos enfrentados sobre la prohibición de apuestas deportivas en línea",
+        "sources": [
+          "https://portal.stf.jus.br/audienciapublica/audienciaPublica.asp",
+          "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/03/relator-no-stf-de-acoes-contra-mp-que-proibe-bets-fux-defende-que-apostas-online-sejam-banidas.amp.htm"
+        ]
+      },
+      {
+        "id": "espana",
+        "title": "España identifica a las 69 víctimas de Urda y examina nuevas reglas para circular cuando fallen las señales",
+        "sources": [
+          "https://www.rtve.es/temas/accidentes-ferroviarios/26270/",
+          "https://www.internazionale.it/ultime-notizie-reuters/2026/11/03/spain-readies-aid-for-rail-crash-victims-transport-minister-to-face-lawmakers",
+          "https://elpais.com/espana/2026-11-02/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "title": "Misiles y drones rusos afectan centrales ucranianas y provocan cortes eléctricos en Kyiv y otras regiones",
+        "sources": [
+          "https://www.internazionale.it/ultime-notizie-reuters/2026/11/03/russian-strikes-knock-out-power-to-swathes-of-ukraine-kyiv-hits-russian-refinery"
+        ]
+      },
+      {
+        "id": "industrias",
+        "title": "El deterioro de fábricas y puertos ucranianos amenaza exportaciones, impuestos y reconstrucción",
+        "sources": [
+          "https://apnews.com/article/5e4d70d0e3421d678db58133f95bd2e9"
+        ]
+      }
+    ]
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "Tarde-noche 3 noviembre 2026",
+      "value": null,
+      "status": "SIN DATO VERIFICADO",
+      "source": "DMC / MET Norway",
+      "verified_at": "2026-11-03T15:12:23-03:00",
+      "note": "Consulta a api.met.no falló por DNS; no se reciclaron datos"
+    },
+    {
+      "city": "Concepción",
+      "period": "Tarde-noche 3 noviembre 2026",
+      "value": null,
+      "status": "SIN DATO VERIFICADO",
+      "source": "DMC / MET Norway",
+      "verified_at": "2026-11-03T15:12:23-03:00",
+      "note": "Consulta a api.met.no falló por DNS; no se reciclaron datos"
+    },
+    {
+      "city": "Casablanca",
+      "period": "Tarde-noche 3 noviembre 2026",
+      "value": null,
+      "status": "SIN DATO VERIFICADO",
+      "source": "DMC / MET Norway",
+      "verified_at": "2026-11-03T15:12:23-03:00",
+      "note": "Consulta a api.met.no falló por DNS; no se reciclaron datos"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "981,82",
+      "unit": "CLP/USD",
+      "validity": "2026-11-03",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UF",
+      "value": "41.263,57",
+      "unit": "CLP/UF",
+      "validity": "2026-11-03",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "1.100,20",
+      "unit": "CLP/EUR",
+      "validity": "2026-11-03",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UTM",
+      "value": "72.440",
+      "unit": "CLP/UTM",
+      "validity": "2026-11",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "controls": [
+      {
+        "number": 1,
+        "control": "Portada",
+        "status": "OK",
+        "detail": "Principal, cuatro entradas, editorial, tiempos y cabecera limpia"
+      },
+      {
+        "number": 2,
+        "control": "Imagen principal",
+        "status": "corregido con alternativa",
+        "detail": "Ilustración original SVG con fuente verificada"
+      },
+      {
+        "number": 3,
+        "control": "Imágenes interiores",
+        "status": "corregido con alternativa",
+        "detail": "Infografías originales SVG en secciones Chile, América, Europa y EE. UU."
+      },
+      {
+        "number": 4,
+        "control": "Créditos",
+        "status": "OK",
+        "detail": "Autoría propia, pie 9.5 px, fuente específica enlazada"
+      },
+      {
+        "number": 5,
+        "control": "Patrones A/B/C",
+        "status": "OK",
+        "detail": "Reportaje ancho, mosaicos y gráficos laterales asociados sin suprimir párrafos"
+      },
+      {
+        "number": 6,
+        "control": "Espacios en blanco",
+        "status": "pendiente",
+        "detail": "Revisión estática de grid y alturas; falta comprobar visualmente"
+      },
+      {
+        "number": 7,
+        "control": "Legibilidad",
+        "status": "OK",
+        "detail": "Dos columnas en escritorio, una y alineación izquierda en móvil"
+      },
+      {
+        "number": 8,
+        "control": "Identidad 2.3",
+        "status": "OK",
+        "detail": "Reutilización CSS aprobada y paleta vespertina marfil/terracota/cobre"
+      },
+      {
+        "number": 9,
+        "control": "Integridad y voz",
+        "status": "OK",
+        "detail": "Igualdad de cada párrafo, bajada, titular y fuente; JS íntegro inline"
+      },
+      {
+        "number": 10,
+        "control": "Revisión móvil/escritorio",
+        "status": "no disponible",
+        "detail": "Inspección visual no disponible; revisión de media queries y HTML estática"
+      }
+    ],
+    "review_type": "static",
+    "visual_inspection": "no disponible",
+    "alternatives": [
+      "SVG originales en portada e interiores en lugar de fotos de licencias no confirmadas"
+    ],
+    "article_integrity": true,
+    "missing_anchors": 0,
+    "external_links_tested_statically": 38,
+    "html_characters": 72429,
+    "voice_script_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf"
+  }
+}
