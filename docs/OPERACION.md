@@ -4,6 +4,18 @@ Repositorio: Fvidal527-boceto/panorama-chile. Rama: main.
 Hora editorial: America/Santiago. Solo HTML. Servicios gratuitos.
 Netlify sirve un puente fijo a GitHub Pages: no desplegar Netlify ni activar facturación.
 
+## Prioridades editoriales adicionales de vigencia limitada — 03-11-2026
+
+**Regla superior: incorporar, nunca sustituir.** Estos focos no reemplazan, desplazan ni reducen la cobertura, secciones, cantidad y profundidad habituales de PANORAMA. Evaluar su relevancia informativa frente al resto de la agenda; sumar notas o recuadros solo cuando haya novedades sustantivas, fuentes verificables y aporte de contexto. No forzar titulares por el solo hecho de estar en seguimiento. Mantener tono plural, no partidista y diferenciación entre hechos, declaraciones, análisis y resultados.
+
+**Estados Unidos: elecciones parlamentarias de medio término.** Prioridad de seguimiento para la vespertina del **martes 3 de noviembre de 2026** y las ediciones **matinal y vespertina de miércoles 4 y jueves 5 de noviembre de 2026**. Revisar hechos y resultados confirmados, atribución precisa de fechas y zonas horarias, composición del Congreso, recuento, participación, litigios y reacciones institucionales solo cuando estén documentados; explicar implicancias sin anunciar ganadores ni desenlaces no confirmados. Al término del 5 de noviembre caduca esta prioridad extraordinaria; la cobertura regular de EE. UU. sigue intacta.
+
+**Chile: debate sobre rebajas de penas.** Prioridad adicional desde **3 hasta 10 de noviembre de 2026**. Seguir propuestas, proyecto o norma específica según corresponda, posturas y declaraciones atribuibles de los partidos, posiciones del Gobierno y situación del ministro Fernando Rabat, distinguiendo acusaciones, decisiones y hechos jurídicos comprobados. Evitar presuposiciones sobre su situación o responsabilidades. Solo incorporar novedades relevantes respaldadas por fuentes originales y su contexto legislativo, judicial o político. **Revisar el martes 10 de noviembre si conviene mantener, cambiar o cerrar este foco**; no prolongarlo como prioridad especial sin nueva decisión de Felipe.
+
+**Regla de compaginación e infografías.** En todo SVG, diagrama o gráfico, antes de publicar comprobar que números y categorías no se montan ni se cruzan con barras o líneas. Verificar coordenadas de texto, márgenes y alineación; preferir un rótulo de valor por encima de una barra si no hay espacio lateral. No declarar visualmente aprobado sin inspección cuando esta sea posible.
+
+---
+
 ## Publicación
 1. Leer este protocolo, ediciones/indice.json y la edición anterior del mismo turno. Mantener el diseño editorial 2.3 existente, sus fuentes, estructura y profundidad; no sustituirlo por una página de resúmenes.
 2. Investigar con fuentes actuales accesibles y registrar fecha y cierre editorial. No inventar titulares, cifras, fuentes, enlaces ni acceso a suscripciones. Separar noticia, interpretación y editorial. La vespertina compara contra la matinal realmente publicada; si no existe, declarar la limitación.
