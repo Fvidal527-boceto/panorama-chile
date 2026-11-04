@@ -182,10 +182,11 @@
     },
     "alternatives": [
       "Infografías SVG originales vinculadas a datos de las notas en portada e interiores; no se usan fotografías de terceros sin licencia comprobada",
-      "Diseño 2.3 vespertino con composición de reportajes, mosaicos y lateral contextual; cuerpos íntegros"
+      "Diseño 2.3 vespertino con composición de reportajes, mosaicos y lateral contextual; cuerpos íntegros",
+      "Eliminada la duplicación de la infografía protagonista dentro de la primera noticia; se mantiene en portada y los artículos conservan todo su texto."
     ],
-    "html_bytes_utf8": 78076,
-    "number_graphics": 11,
+    "html_bytes_utf8": 76135,
+    "number_graphics": 10,
     "voice_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
     "html_verified_anchors": true,
     "external_links_rels_verified": true,
@@ -195,6 +196,8 @@
   "stage3": {
     "intended_publication_at": "2026-11-04T15:02:03-03:00",
     "base_commit": "e3331b6c742f4ce00e307fed92a8cef6f8a89dac",
-    "base_tree": "1d0a2969022174de8656d3cedd11c6e5b35f002a"
+    "base_tree": "1d0a2969022174de8656d3cedd11c6e5b35f002a",
+    "corrected_at": "2026-11-04T15:03:19-03:00",
+    "correction": "Corrección exclusivamente gráfica: quitar infografía duplicada portada/interior; textos, enlaces y otros turnos intactos."
   }
 }
