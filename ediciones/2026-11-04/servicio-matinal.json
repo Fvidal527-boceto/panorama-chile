@@ -1,0 +1,257 @@
+{
+  "fecha": "2026-11-04",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-04T07:16:11-03:00",
+  "stage1": {
+    "status": "completo",
+    "articles": 11,
+    "sections": [
+      "Estados Unidos",
+      "Chile y regiones",
+      "América Latina",
+      "Europa y mundo"
+    ],
+    "manuscript_words": 2728,
+    "editorial": true,
+    "sources": [
+      {
+        "id": "eeuu",
+        "links": [
+          "https://apnews.com/article/4d12764c0b3ce38ffde3077712811182",
+          "https://time.com/article/2026/11/03/midterm-elections-2026-key-races-live-results-polls-latest-news-updates/"
+        ]
+      },
+      {
+        "id": "texas",
+        "links": [
+          "https://apnews.com/article/6e285484736b5116629a3b6e37e1dda5"
+        ]
+      },
+      {
+        "id": "gobernadores",
+        "links": [
+          "https://apnews.com/article/7d58b1e0d9eb193fd7d83890a717ce1a"
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "links": [
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/entre-carteles-contra-rabat-y-acusacion-por-supuesto-uso-de-ia-la-tensa-jornada-por-presupuesto-2027.shtml",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/10/30/presupuesto-2027-suma-3-845-indicaciones-salud-educacion-y-gobiernos-regionales-lideran-disputas.shtml"
+        ]
+      },
+      {
+        "id": "rabat",
+        "links": [
+          "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/reportajes/2026/11/03/suben-los-pederastas-identificados10-de-43-fueron-beneficiados-por-orden-de-la-corte-suprema.shtml",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/gobierno-apura-proyectos-fin-de-rebajas-de-condena-y-oposicion-busca-que-la-ley-no-sea-un-salvavidas-para-rabat.shtml",
+          "https://instagram.cooperativa.cl/noticias/pais/politica/caso-rabat-marco-tensa-aprobacion-del-presupuesto-de-justicia-en/2026-11-03/212609.html"
+        ]
+      },
+      {
+        "id": "territorios",
+        "links": [
+          "https://www.soychile.cl/santiago/sociedad/2026/11/02/971172/senapred-tormenta-granizo-antofagasta-maule.html",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/entre-carteles-contra-rabat-y-acusacion-por-supuesto-uso-de-ia-la-tensa-jornada-por-presupuesto-2027.shtml"
+        ]
+      },
+      {
+        "id": "brasil",
+        "links": [
+          "https://apnews.com/article/75f83595a1d436bdcb4864d28cf76ea9",
+          "https://www1.folha.uol.com.br/cotidiano/2026/11/governo-lula-tenta-separar-reducao-da-maioridade-penal-de-pec-da-seguranca-e-propoe-proposta-paralela.shtml"
+        ]
+      },
+      {
+        "id": "mexico",
+        "links": [
+          "https://apnews.com/article/74b9a0b1cf93485487f3844eb7cb6b95"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "links": [
+          "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+        ]
+      },
+      {
+        "id": "bruselas",
+        "links": [
+          "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/03/ucrania-europa-e-eua-discutirao-garantias-de-seguranca-na-4-feira-diz-fonte.htm",
+          "https://www.theguardian.com/uk-news/2026/nov/03/uk-european-peacekeepers-ukraine-fire-back-russians"
+        ]
+      },
+      {
+        "id": "prensa",
+        "links": [
+          "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news"
+        ]
+      }
+    ],
+    "prior_turn": "ediciones/2026-11-03/vespertina.html",
+    "notes": "Manuscrito cerrado antes de diagramar. Novedades del 3-4 de noviembre y cobertura plural. Fuentes enlazadas por nota."
+  },
+  "service": [
+    {
+      "label": "Santiago",
+      "value": "≈22 °C máx.",
+      "detail": "DMC Quinta Normal · modelo 4 nov., serie 07-23, sin precipitación",
+      "source_url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "validity": "2026-11-04",
+      "queried_at": "2026-11-04T07:16:11-03:00"
+    },
+    {
+      "label": "Concepción",
+      "value": "≈17 °C máx.",
+      "detail": "DMC Carriel Sur · modelo 4 nov., serie 07-23, sin lluvia significativa",
+      "source_url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "validity": "2026-11-04",
+      "queried_at": "2026-11-04T07:16:11-03:00"
+    },
+    {
+      "label": "Casablanca",
+      "value": "SIN DATO VERIFICADO",
+      "detail": "DMC/Yr · no se obtuvo pronóstico verificable de la localidad",
+      "source_url": "https://www.yr.no/",
+      "validity": "2026-11-04",
+      "queried_at": "2026-11-04T07:16:11-03:00"
+    },
+    {
+      "label": "Dólar observado",
+      "value": "$981,82",
+      "detail": "Banco Central · CLP/USD, vigencia 3 nov.",
+      "source_url": "https://www.bcentral.cl/inicio",
+      "validity": "2026-11-03",
+      "queried_at": "2026-11-04T07:16:11-03:00"
+    },
+    {
+      "label": "UF",
+      "value": "$41.268,88",
+      "detail": "SII · CLP/UF, vigencia 4 nov.",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "validity": "2026-11-04",
+      "queried_at": "2026-11-04T07:16:11-03:00"
+    },
+    {
+      "label": "Euro",
+      "value": "$1.100,20",
+      "detail": "Banco Central · CLP/EUR, vigencia 3 nov.",
+      "source_url": "https://www.bcentral.cl/inicio",
+      "validity": "2026-11-03",
+      "queried_at": "2026-11-04T07:16:11-03:00"
+    },
+    {
+      "label": "UTM",
+      "value": "$72.440",
+      "detail": "SII · CLP/UTM, noviembre 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "validity": "2026-11",
+      "queried_at": "2026-11-04T07:16:11-03:00"
+    }
+  ],
+  "images": [
+    {
+      "author": "Oficina del presidente de la Cámara de EE. UU.",
+      "date": "2017-02-27",
+      "license": "Dominio público federal",
+      "license_url": "https://commons.wikimedia.org/wiki/File:United_States_House_of_Representatives_chamber.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:United_States_House_of_Representatives_chamber.jpg",
+      "kind": "fotografía contextual de archivo; no del acontecimiento actual",
+      "resize": "miniatura Wikimedia, sin recorte editorial"
+    },
+    {
+      "author": "Carlos Figueroa Rojas",
+      "date": "2023-09-03",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional,_Valpara%C3%ADso_20230903_01.jpg",
+      "kind": "fotografía contextual de archivo; no del acontecimiento actual",
+      "resize": "miniatura Wikimedia, sin recorte editorial"
+    },
+    {
+      "author": "Boaventuravinicius",
+      "date": "2024-10-25",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_Federal_4.jpg",
+      "kind": "fotografía contextual de archivo; no del acontecimiento actual",
+      "resize": "miniatura Wikimedia, sin recorte editorial"
+    },
+    {
+      "author": "acediscovery",
+      "date": "2018-03-16",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Berlaymont_EU_Building-Brussels.jpg",
+      "kind": "fotografía contextual de archivo; no del acontecimiento actual",
+      "resize": "miniatura Wikimedia, sin recorte editorial"
+    }
+  ],
+  "stage2": {
+    "status": "realizada con revisión estática",
+    "basis": "ediciones/2026-10-29/matinal.html @ 631e709373a12bf9a454f3661bc8581ebcfa617b · composición 2.3",
+    "controls": [
+      {
+        "name": "Portada con principal y cuatro entradas",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Imagen principal autorizada",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Imágenes en interiores y gráficos originales",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Autoría y licencias acreditadas",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Alternancia de patrón A/B/C",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Sin blancos rígidos, control estático",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Cuerpo justificado y móvil izquierda, control estático",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Paleta 2.3 y servicio compacto",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Igualdad de manuscrito y HTML; voz y fuentes",
+        "status": "OK",
+        "method": "Control estático de HTML/CSS y fuentes"
+      },
+      {
+        "name": "Inspección visual escritorio/móvil",
+        "status": "no disponible",
+        "method": "Inspección visual no disponible; control estático"
+      }
+    ],
+    "alternatives": [
+      "Infografía editorial original para portada, sin simular fotografías del escrutinio",
+      "Casablanca conserva SIN DATO VERIFICADO"
+    ],
+    "visual_review": "inspección visual no disponible",
+    "browser_test": false,
+    "voice": "Original assets/lectura-voz.js incluido íntegramente; audibilidad no comprobada",
+    "html_length_chars": 56105
+  },
+  "paid_services": false,
+  "netlify_changes": false
+}
