@@ -1,0 +1,200 @@
+{
+  "fecha": "2026-11-04",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "closed_at": "2026-11-04T14:57:20-03:00",
+  "editorial_sources": "Fuentes originales e informativas verificadas en búsquedas del 4 de noviembre de 2026; se identifican fechas anteriores cuando proporcionan contexto.",
+  "stage1": {
+    "result": "OK",
+    "article_count": 12,
+    "coverids": [
+      "rabat",
+      "brasil-seguridad",
+      "mexico",
+      "ucrania"
+    ],
+    "editorial": "La victoria electoral también pone a prueba la responsabilidad de gobernar",
+    "comparison": "Matinal del 2026-11-04 consultada en GitHub: mayoría demócrata informada desde la mañana; nuevos focos vespertinos en reacción de JD Vance, Texas, Rabat/presupuesto, remesas mexicanas y balance humanitario ucraniano.",
+    "original_links": [
+      {
+        "id": "eeuu-congreso",
+        "sources": [
+          "https://apnews.com/article/b1d26390b7ed7968435089be6d3bf612",
+          "https://www.theguardian.com/us-news/2026/nov/04/first-thing-democrats-control-congress-midterm-elections"
+        ]
+      },
+      {
+        "id": "texas",
+        "sources": [
+          "https://apnews.com/article/6e285484736b5116629a3b6e37e1dda5"
+        ]
+      },
+      {
+        "id": "eeuu-agenda",
+        "sources": [
+          "https://apnews.com/article/b1d26390b7ed7968435089be6d3bf612",
+          "https://www.axios.com/2026/11/03/election-day-midterm-trump-democrats-republicans"
+        ]
+      },
+      {
+        "id": "rabat",
+        "sources": [
+          "https://www.elmostrador.cl/noticias/multimedia/clic-am/2026/11/04/clicam-democratas-ganan-el-congreso-de-eeuu-y-oposicion-posterga-acusacion-contra-rabat/",
+          "https://cooperativa.cl/noticias/pais/politica/caso-rabat-marco-tensa-aprobacion-del-presupuesto-de-justicia-en/2026-11-03/212609.html"
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "sources": [
+          "https://www.emol.com/noticias/Economia/2026/10/06/1213393/presupuesto-detalle-partida-proyecto-gobierno.html",
+          "https://www.cooperativa.cl/noticias/economia/presupuesto/gobernadores-regionales-se-reunieron-con-hacienda-ante-inquietud-por/2026-10-05/103043.html"
+        ]
+      },
+      {
+        "id": "empleo-regiones",
+        "sources": [
+          "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/10/29/la-tasa-de-desocupaci%C3%B3n-nacional-fue-9-8-en-el-trimestre-julio-septiembre-de-2026",
+          "https://www.diarioconcepcion.cl/opinion/2026/11/03/desafios-trabajo-decente-informalidad-biobio.html"
+        ]
+      },
+      {
+        "id": "brasil-seguridad",
+        "sources": [
+          "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/04/pec-da-seguranca-abre-caminho-para-novo-ministerio-de-lula.ghtm",
+          "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/04/pec-da-seguranca-da-outra-vitoria-a-dobradinha-lula-alcolumbre-e-isola-o-pl.ghtm"
+        ]
+      },
+      {
+        "id": "brasil-selic",
+        "sources": [
+          "https://www1.folha.uol.com.br/mercado/2026/11/copom-deve-manter-selic-em-1375-e-interromper-ciclo-de-cortes.shtml",
+          "https://www.bcb.gov.br/controleinflacao/comunicadoscopom/21261"
+        ]
+      },
+      {
+        "id": "mexico",
+        "sources": [
+          "https://www.jornada.com.mx/noticia/2026/11/03/economia/remesas-registran-crecimiento-de-16-en-septiembre-bdem",
+          "https://www.jornada.com.mx/2026/11/04/economia"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "sources": [
+          "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+        ]
+      },
+      {
+        "id": "francia-ciber",
+        "sources": [
+          "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe"
+        ]
+      },
+      {
+        "id": "europa-ampliacion",
+        "sources": [
+          "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news"
+        ]
+      }
+    ],
+    "notices": "Las proyecciones y cifras provisionales se atribuyen. No se ha leído material detrás de muro de pago como si estuviese accesible."
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "Resto del miércoles 4 de noviembre de 2026",
+      "value": "SIN DATO VERIFICADO",
+      "source": "MeteoChile/DMC o MET Norway/Yr",
+      "source_url": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "verified_at": null,
+      "consulted_at": "2026-11-04T14:57:20-03:00",
+      "note": "Intento de consulta de Locationforecast sin respuesta accesible; no se reutilizan datos matinales ni históricos."
+    },
+    {
+      "city": "Concepción",
+      "period": "Resto del miércoles 4 de noviembre de 2026",
+      "value": "SIN DATO VERIFICADO",
+      "source": "MeteoChile/DMC o MET Norway/Yr",
+      "source_url": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "verified_at": null,
+      "consulted_at": "2026-11-04T14:57:20-03:00",
+      "note": "Intento de consulta de Locationforecast sin respuesta accesible; no se reutilizan datos matinales ni históricos."
+    },
+    {
+      "city": "Casablanca",
+      "period": "Resto del miércoles 4 de noviembre de 2026",
+      "value": "SIN DATO VERIFICADO",
+      "source": "MeteoChile/DMC o MET Norway/Yr",
+      "source_url": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "verified_at": null,
+      "consulted_at": "2026-11-04T14:57:20-03:00",
+      "note": "Intento de consulta de Locationforecast sin respuesta accesible; no se reutilizan datos matinales ni históricos."
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$980,59",
+      "unit": "CLP/USD",
+      "validity": "2026-11-04",
+      "source": "Banco Central de Chile",
+      "source_url": "https://www.bcentral.cl/en/inicio/-/details/cabecera-paridades-y-tipos-de-cambio"
+    },
+    {
+      "name": "UF",
+      "value": "$41.268,88",
+      "unit": "CLP/UF",
+      "validity": "2026-11-04",
+      "source": "Banco Central / SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.097,72",
+      "unit": "CLP/EUR",
+      "validity": "2026-11-04",
+      "source": "Banco Central de Chile",
+      "source_url": "https://www.bcentral.cl/en/inicio/-/details/cabecera-paridades-y-tipos-de-cambio"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "unit": "CLP/UTM",
+      "validity": "2026-11",
+      "source": "SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage2": {
+    "result": "realizada; revisión estática",
+    "graphic_review": "inspección visual no disponible",
+    "controls": {
+      "1": "OK",
+      "2": "corregido con alternativa",
+      "3": "corregido con alternativa",
+      "4": "corregido con alternativa",
+      "5": "OK",
+      "6": "OK",
+      "7": "OK",
+      "8": "OK",
+      "9": "OK",
+      "10": "no disponible"
+    },
+    "alternatives": [
+      "Infografías SVG originales vinculadas a datos de las notas en portada e interiores; no se usan fotografías de terceros sin licencia comprobada",
+      "Diseño 2.3 vespertino con composición de reportajes, mosaicos y lateral contextual; cuerpos íntegros"
+    ],
+    "html_bytes_utf8": 78076,
+    "number_graphics": 11,
+    "voice_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "html_verified_anchors": true,
+    "external_links_rels_verified": true,
+    "manuscript_html_equal": true
+  },
+  "sources_checked_at": "2026-11-04T14:57:20-03:00",
+  "stage3": {
+    "intended_publication_at": "2026-11-04T15:02:03-03:00",
+    "base_commit": "e3331b6c742f4ce00e307fed92a8cef6f8a89dac",
+    "base_tree": "1d0a2969022174de8656d3cedd11c6e5b35f002a"
+  }
+}
