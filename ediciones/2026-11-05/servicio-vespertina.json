@@ -1,0 +1,147 @@
+{
+  "fecha": "2026-11-05",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-05T15:04:20-03:00",
+  "updated_at": "2026-11-05T15:04:20-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "Resto jueves 5 nov. 2026",
+      "value": "SIN DATO VERIFICADO",
+      "source": "MET Norway / Yr",
+      "url": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "reason": "Consulta de pronóstico no accesible"
+    },
+    {
+      "city": "Concepción",
+      "period": "Resto jueves 5 nov. 2026",
+      "value": "SIN DATO VERIFICADO",
+      "source": "MET Norway / Yr",
+      "url": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "reason": "Consulta de pronóstico no accesible"
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "period": "Resto jueves 5 nov. 2026",
+      "value": "SIN DATO VERIFICADO",
+      "source": "MET Norway / Yr",
+      "url": "https://api.met.no/weatherapi/locationforecast/2.0/documentation",
+      "reason": "Consulta de pronóstico no accesible"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$970,95",
+      "validity": "CLP/USD · 5 nov. 2026",
+      "source_url": "https://www.bcentral.cl/inicio"
+    },
+    {
+      "name": "UF",
+      "value": "$41.274,20",
+      "validity": "CLP/UF · 5 nov. 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.090,83",
+      "validity": "CLP/EUR · 5 nov. 2026",
+      "source_url": "https://www.bcentral.cl/inicio"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "CLP/UTM · nov. 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage1": {
+    "status": "OK",
+    "articles": 10,
+    "matched_morning": "55800dcde19e0f7a2ea49910deadb340b320e057",
+    "comparison": "Diferencias documentadas: IPN publicado 5 nov., industria Brasil 5 nov., control parlamentario EE.UU. 5 nov., reportajes del Biobío 5 nov., vuelo Europa y ayuda Ucrania 5 nov. Rabat queda en seguimiento pues no se acreditó novedad respecto de matinal.",
+    "original_sources": [
+      "https://www.investing.com/news/politics-news/democrats-vow-to-rein-in-trump-as-he-shows-off-white-house-ballroom-5002462",
+      "https://apnews.com/article/f126e12e05b579a327b98481c0ae2226",
+      "https://www.bcentral.cl/es/web/banco-central/contenido/-/details/publicaciones/investigacion-economica/informe-de-percepciones-de-negocios-noviembre-2026",
+      "https://www.diarioconcepcion.cl/politica/2026/11/05/veto-ley-incendios-alcaldes-biobio.html",
+      "https://www.diarioconcepcion.cl/ciudad/2026/11/05/crisis-movilidad-colapsos-suelo-talcahuano.html",
+      "https://www.diarioconcepcion.cl/ciudad/2026/11/05/enap-informe-semanal-precios-combustibles.html",
+      "https://economia.uol.com.br/noticias/reuters/2026/11/05/producao-industrial-no-brasil-recua-08-em-setembro-diz-ibge.htm",
+      "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-5-novembro-2026/",
+      "https://www.lajornadamaya.mx/nacional/270397/uif-congela-cuentas-de-la-red-de-corrupci-on-en-el-ine-taddei-hernandez-casillas-y-proveedores-electorales",
+      "https://www.unotv.com/nacional/las-de-hoy-5-de-noviembre-de-2026/",
+      "https://vanguardia.com.mx/dinero/efecto-trump-tienen-exportaciones-de-mexico-a-eu-mayor-avance-en-4-anos-NK24598342",
+      "https://cambiodigitalnoticias.com/%F0%9F%93%B0-sintesis-legislativa-nacional-05-11-2026/",
+      "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+      "https://apnews.com/article/0b975a30f862731346e7e1d098a8d538"
+    ]
+  },
+  "stage2": {
+    "status": "realizada con revisión estática",
+    "checks": [
+      {
+        "id": 1,
+        "control": "portada con principal, cuatro entradas, editorial, minutos",
+        "status": "OK"
+      },
+      {
+        "id": 2,
+        "control": "imagen principal pertinente",
+        "status": "corregido con alternativa: SVG original, no fotografía"
+      },
+      {
+        "id": 3,
+        "control": "visuales interiores",
+        "status": "corregido con alternativa: nueve SVG originales basados en cifras citadas"
+      },
+      {
+        "id": 4,
+        "control": "créditos autoría, fuente, legibilidad",
+        "status": "OK: 10px"
+      },
+      {
+        "id": 5,
+        "control": "composición A/B/C variada",
+        "status": "OK: reportaje, mosaico, laterales"
+      },
+      {
+        "id": 6,
+        "control": "ausencia de grandes blancos",
+        "status": "pendiente: CSS fluido, sin inspección visual"
+      },
+      {
+        "id": 7,
+        "control": "texto justificado escritorio y móvil izquierdo",
+        "status": "OK"
+      },
+      {
+        "id": 8,
+        "control": "identidad cromática y servicios",
+        "status": "OK"
+      },
+      {
+        "id": 9,
+        "control": "integridad de la etapa 1 y voz",
+        "status": "OK: coincidencia textual estática"
+      },
+      {
+        "id": 10,
+        "control": "revisión escritorio y móvil",
+        "status": "no disponible: inspección visual no disponible"
+      }
+    ],
+    "graphic_count": 10,
+    "html_bytes_utf8": 59163,
+    "manuscript_html_equal": true,
+    "links_safe": true,
+    "missing_anchors": [],
+    "voice_inline": true,
+    "visual_inspection": "no disponible",
+    "alternatives": [
+      "gráficas originales en portada e interiores en lugar de fotografías de licencia no comprobada",
+      "tres campos meteorológicos sin dato verificado"
+    ]
+  }
+}
