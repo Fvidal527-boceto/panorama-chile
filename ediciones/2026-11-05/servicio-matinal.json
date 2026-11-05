@@ -1,0 +1,180 @@
+{
+  "fecha": "2026-11-05",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-05T10:06:15.117Z",
+  "queried_local": "2026-11-05 07:06:15",
+  "weather": [
+    {
+      "city": "Santiago",
+      "display": "≈21 °C",
+      "period": "5 nov. · máxima horaria del tramo disponible",
+      "source": "DMC · Quinta Normal",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "verification_note": "Modelo horario de 06:00 a 23:00 · precipitación a confirmar según serie",
+      "checked_at": "2026-11-05T10:06:15.117Z"
+    },
+    {
+      "city": "Concepción",
+      "display": "≈15 °C",
+      "period": "5 nov. · máxima horaria del tramo disponible",
+      "source": "DMC · Carriel Sur",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "verification_note": "Modelo horario desde 06:00 · precipitaciones puntuales previstas",
+      "checked_at": "2026-11-05T10:06:15.117Z"
+    },
+    {
+      "city": "Casablanca",
+      "display": "SIN DATO VERIFICADO",
+      "period": "5 nov. · consulta matinal",
+      "source": "Yr / DMC · sin serie local comprobada",
+      "url": "https://www.yr.no/",
+      "verification_note": "No se extrapola de Valparaíso ni Santiago",
+      "checked_at": "2026-11-05T10:06:15.117Z"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "display": "$970,95",
+      "validity": "5 nov. 2026",
+      "source": "Banco Central · CLP/USD",
+      "url": "https://www.bcentral.cl/inicio",
+      "checked_at": "2026-11-05T10:06:15.117Z"
+    },
+    {
+      "name": "UF",
+      "display": "$41.274,20",
+      "validity": "5 nov. 2026",
+      "source": "SII · CLP/UF",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "checked_at": "2026-11-05T10:06:15.117Z"
+    },
+    {
+      "name": "Euro",
+      "display": "$1.090,83",
+      "validity": "5 nov. 2026",
+      "source": "Banco Central · CLP/EUR",
+      "url": "https://www.bcentral.cl/inicio",
+      "checked_at": "2026-11-05T10:06:15.117Z"
+    },
+    {
+      "name": "UTM",
+      "display": "$72.440",
+      "validity": "noviembre 2026",
+      "source": "SII · CLP/UTM",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "checked_at": "2026-11-05T10:06:15.117Z"
+    }
+  ],
+  "stage1": {
+    "status": "OK",
+    "manuscript_articles": 11,
+    "manuscript_paragraphs": 53,
+    "editorial_paragraphs": 4,
+    "headlines": [
+      "El mapa trazado para ganar no resistió el cambio de los votantes",
+      "Misisipi sigue contando: una ventaja estrecha no es todavía una victoria",
+      "La negociación regional se transformó en una indicación aprobada por unanimidad",
+      "Rabat conserva el respaldo presidencial; la controversia se desplaza hacia los decretos y la acusación",
+      "El Banco Central ve menores ventas y expectativas de inflación empresarial todavía elevadas",
+      "Brasil interrumpe los recortes y mantiene la Selic en 13,75%",
+      "Después de la reforma constitucional, Brasil prepara leyes para las víctimas y la coordinación policial",
+      "México rechaza quedar atrapado entre Washington y Pekín",
+      "Un ataque con 310 drones vuelve a interrumpir la vida cotidiana de Kyiv",
+      "La expansión de centros de datos de IA encuentra una respuesta ciudadana coordinada",
+      "Londres prepara acuerdos con Bruselas, todavía sujetos a negociación"
+    ],
+    "sources": [
+      "https://apnews.com/article/redistricting-election-trump-texas-florida-8317355ef149f8f8d5f518211038edd2",
+      "https://apnews.com/article/f126e12e05b579a327b98481c0ae2226",
+      "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+      "https://www.emol.com/noticias/Nacional/2026/11/04/1216111/gobiernos-regionales-acuerdo-presupuesto.html",
+      "https://www.emol.com/noticias/Nacional/2026/11/04/1216107/gobierno-por-ac-rabat.html",
+      "https://www.emol.com/noticias/Nacional/2026/11/04/1216096/rabat-justicia-protestas-votos.html",
+      "https://www.emol.com/noticias/Nacional/2026/11/03/1216037/presidente-kast-acusacion-constitucional-rabat.html",
+      "https://www.bcentral.cl/web/banco-central/contenido/-/detalle/prensa/nota-de-prensa/encuesta-de-determinantes-y-expectativas-de-precios-del-trimestre-movil-julio-agosto-septiembre-2026",
+      "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/04/bc-mantem-selic-em-1375-e-aponta-aumento-significativo-de-incertezas.htm",
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
+      "https://www1.folha.uol.com.br/colunas/painel/2026/11/governo-prepara-novos-projetos-para-area-de-seguranca-apos-aprovacao-de-emenda.shtml",
+      "https://www.jornada.com.mx/noticia/2026/11/04/economia/sheinbaum-asegura-que-la-relacion-comercial-con-eu-no-impide-intercambios-con-china",
+      "https://apnews.com/article/ukraine-russia-war-kyiv-airstrike-water-37dc5e85a5c8c135996bc2720e0674d9",
+      "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres",
+      "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit"
+    ],
+    "limitations": [
+      "Pronóstico local de Casablanca no verificado; se mantiene el campo sin copiar otro municipio",
+      "Datos DMC muestran serie horaria desde 06:00, no se comunican mínimas diarias"
+    ],
+    "reference_previous": "Matinal y vespertina 4 noviembre 2026, leídas del repositorio"
+  },
+  "stage2": {
+    "status": "realizada",
+    "design": "2.3 · matinal",
+    "controls": [
+      {
+        "n": 1,
+        "status": "OK",
+        "note": "Noticia principal, cuatro entradas, editorial y tiempo de lectura"
+      },
+      {
+        "n": 2,
+        "status": "corregido con alternativa",
+        "note": "Principal: ilustración original editorial en SVG, sin material de terceros"
+      },
+      {
+        "n": 3,
+        "status": "corregido con alternativa",
+        "note": "Ocho infografías originales ligadas a artículos, sin repetir fotos de ediciones previas"
+      },
+      {
+        "n": 4,
+        "status": "corregido con alternativa",
+        "note": "Gráficas propias con pies de 9,5 px, fuentes de datos enlazadas en cada nota; sin licencias fotográficas"
+      },
+      {
+        "n": 5,
+        "status": "OK",
+        "note": "Patrones A, B y C: gran reportaje, mosaico e historias con recuadros de contexto"
+      },
+      {
+        "n": 6,
+        "status": "OK",
+        "note": "Alturas automáticas, align-items:start, sin laterales de altura fija"
+      },
+      {
+        "n": 7,
+        "status": "OK",
+        "note": "Justificado en escritorio; móvil apilado y alineado a la izquierda"
+      },
+      {
+        "n": 8,
+        "status": "OK",
+        "note": "Matinal marfil, verde, terracota; franja de siete indicadores compacta"
+      },
+      {
+        "n": 9,
+        "status": "OK",
+        "note": "Manuscrito y HTML comparados títulos, bajadas, párrafos, fuentes. Lector inline íntegro y pie exacto"
+      },
+      {
+        "n": 10,
+        "status": "no disponible",
+        "note": "Inspección visual no disponible; revisión estática HTML/CSS en desktop/móvil. Audio audible no probado"
+      }
+    ],
+    "alternatives": [
+      "Se sustituyeron fotografías no verificadas por ocho gráficos originales SVG de PANORAMA basados en cifras y conceptos respaldados",
+      "Casablanca mantiene campo sin datos verificados"
+    ],
+    "review": "estática HTML/CSS",
+    "visual_inspection": "inspección visual no disponible",
+    "audio_audible_tested": false,
+    "article_count": 11,
+    "graphics_count": 9,
+    "html_bytes_utf8": 73738,
+    "manuscript_html_integrity": "OK"
+  },
+  "updated_at": "2026-11-05T07:06:16-03:00",
+  "stage3_note": "Índice actualizado al crear commit; disponibilidad pública se comprueba por separado."
+}
