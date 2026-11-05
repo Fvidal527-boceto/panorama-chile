@@ -43,6 +43,33 @@ for(const type of ['matinal','vespertina']){
     const missingWeather=(body.match(/<strong class="nodata">Sin dato verificado<\/strong>/g)||[]).length;
     check(missingWeather<=3,type+': campos meteorologicos sin datos verificados permitidos ('+missingWeather+'/3)');
   }
+  // Advertencias editoriales no bloqueantes: no transformar ausencia de fotos o
+  // fallas de proveedores meteorologicos en errores de despliegue.
+  const photoCount=(body.match(/<img\\b/gi)||[]).length;
+  const svgCount=(body.match(/<svg\\b/gi)||[]).length;
+  if(photoCount===0){
+    console.log('::warning title=PANORAMA fotografias::'+type+': edicion sin etiquetas img ('+svgCount+' SVG). Revisar fotografia documental con creditos y permisos.');
+  }else{
+    console.log('OK: '+type+': '+photoCount+' elementos img referenciados; permisos, carga real y fotografia documental requieren comprobacion editorial.');
+  }
+  const evidencePath=path.join(root,'ediciones',item.fecha,'servicio-'+type+'.json');
+  if(!fs.existsSync(evidencePath)){
+    console.log('::warning title=PANORAMA servicio::'+type+': falta respaldo servicio-'+type+'.json.');
+  }else{
+    try{
+      const evidence=JSON.parse(fs.readFileSync(evidencePath,'utf8'));
+      const weather=Array.isArray(evidence.weather)?evidence.weather:[];
+      const unavailable=weather.filter(row=>/sin dato verificado/i.test(String(row.value||'')));
+      if(weather.length===3&&unavailable.length===3){
+        console.log('::warning title=PANORAMA pronostico::'+type+': tres ciudades sin datos verificados. Registrar fuentes alternativas y sus resultados; conservar datos ausentes sin inventar.');
+      }
+      if(weather.length!==3){
+        console.log('::warning title=PANORAMA servicio::'+type+': respaldo meteorologico sin tres ciudades normalizadas.');
+      }
+    }catch(error){
+      console.log('::warning title=PANORAMA servicio::'+type+': respaldo JSON no analizable ('+error.message+').');
+    }
+  }
   console.log('RESUMEN '+type+': '+count+' articulos, '+paragraphs+' parrafos, '+citations+' referencias de fuentes.');
 }
 if(fails){console.error('CONTROL EDITORIAL FALLIDO: '+fails+' incumplimientos.');process.exitCode=1;}
