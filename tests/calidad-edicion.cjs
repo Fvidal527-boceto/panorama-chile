@@ -45,8 +45,8 @@ for(const type of ['matinal','vespertina']){
   }
   // Advertencias editoriales no bloqueantes: no transformar ausencia de fotos o
   // fallas de proveedores meteorologicos en errores de despliegue.
-  const photoCount=(body.match(/<img\\b/gi)||[]).length;
-  const svgCount=(body.match(/<svg\\b/gi)||[]).length;
+  const photoCount=(body.match(/<img\b/gi)||[]).length;
+  const svgCount=(body.match(/<svg\b/gi)||[]).length;
   if(photoCount===0){
     console.log('::warning title=PANORAMA fotografias::'+type+': edicion sin etiquetas img ('+svgCount+' SVG). Revisar fotografia documental con creditos y permisos.');
   }else{
