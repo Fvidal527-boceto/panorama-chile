@@ -1,0 +1,268 @@
+{
+  "fecha": "2026-11-06",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-06T07:16:19-03:00",
+  "cierre_editorial": "2026-11-06T07:16:19-03:00",
+  "stage1": {
+    "estado": "OK",
+    "manuscrito_cerrado": true,
+    "articulos": [
+      {
+        "id": "presupuesto",
+        "titulo": "El Presupuesto llega a la Cámara con Educación rechazada y una negociación decisiva por delante",
+        "parrafos": 5,
+        "fuentes": [
+          "https://copesa-la-tercera-staging.web.arc-cdn.net/politica/noticia/comision-mixta-despacha-presupuesto-2027-a-la-camara-en-jornada-marcada-por-rechazo-de-de-la-partida-de-educacion/",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/05/presupuesto-2027-en-aprietos-rechazan-partida-de-educacion-y-capitulos-clave-de-interior-y-cultura.shtml"
+        ]
+      },
+      {
+        "id": "codelco",
+        "titulo": "Codelco reconoce sobreestimaciones de producción en 2024 y 2025 y mantiene auditorías abiertas",
+        "parrafos": 5,
+        "fuentes": [
+          "https://codelco.com/prensa/2026/junta-extraordinaria-de-accionistas-respalda-medidas-adoptadas"
+        ]
+      },
+      {
+        "id": "rio",
+        "titulo": "Río Blanco: parlamentarios y municipios solicitan aclarar los efectos del derrame de relaves",
+        "parrafos": 5,
+        "fuentes": [
+          "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/06/tras-derrame-de-relaves-en-rio-blanco-parlamentarios-citan-a-reunion-con-codelco-y-esval.shtml"
+        ]
+      },
+      {
+        "id": "rabat",
+        "titulo": "La oposición bloquea una sesión extraordinaria del Senado sobre rebajas de condenas",
+        "parrafos": 5,
+        "fuentes": [
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/06/oposicion-frena-sesion-por-rebajas-de-condenas-en-senado-para-evitar-que-rabat-diluya-responsabilidad.shtml"
+        ]
+      },
+      {
+        "id": "schumer",
+        "titulo": "Schumer prepara un Senado de control sobre Trump y endurece el examen de nombramientos",
+        "parrafos": 5,
+        "fuentes": [
+          "https://apnews.com/article/d8d5262fe3d820a3dc73193002f0f27e"
+        ]
+      },
+      {
+        "id": "recuento",
+        "titulo": "Alaska y Misisipi siguen bajo escrutinio: la mayoría demócrata aún puede ampliarse",
+        "parrafos": 5,
+        "fuentes": [
+          "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "https://apnews.com/article/d8d5262fe3d820a3dc73193002f0f27e"
+        ]
+      },
+      {
+        "id": "brasil",
+        "titulo": "La pausa de la Selic en 13,75% abre preguntas sobre la agenda fiscal del nuevo mandato de Lula",
+        "parrafos": 5,
+        "fuentes": [
+          "https://economia.uol.com.br/noticias/reuters/2026/11/05/dolar-passa-a-subir-ante-real-com-politica-no-radar-apos-copom-manter-juros.htm",
+          "https://economia.uol.com.br/noticias/redacao/2026/11/04/banco-central-taxa-de-juros-selic-copom.ghtm"
+        ]
+      },
+      {
+        "id": "mexico",
+        "titulo": "Sheinbaum confirma una reunión con Xi Jinping en la APEC y busca margen para hablar con Trump",
+        "parrafos": 5,
+        "fuentes": [
+          "https://elpais.com/mexico/2026-11-05/sheinbaum-se-reunira-con-xi-jinping-en-china-durante-la-cumbre-de-la-apec.html"
+        ]
+      },
+      {
+        "id": "europa",
+        "titulo": "Organizaciones de quince países europeos convocan protestas por los costos de los centros de datos de IA",
+        "parrafos": 5,
+        "fuentes": [
+          "https://www.theguardian.com/world/2026/nov/05/activists-across-europe-protests-ai-against-datacentres"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "titulo": "Zelenski solicita transformadores y cables a Iberoamérica para reparar la red eléctrica ucraniana",
+        "parrafos": 5,
+        "fuentes": [
+          "https://www.al-monitor.com/originals/2026/11/ukraines-zelenskiy-appeals-energy-infrastructure-aid-madrid-summit"
+        ]
+      }
+    ],
+    "editorial": "La responsabilidad comienza después de las declaraciones",
+    "referencia": "Índice, matinal y vespertina de 2026-11-05",
+    "cobertura": [
+      "Chile y regiones",
+      "Estados Unidos",
+      "Brasil",
+      "México",
+      "Europa",
+      "Ucrania"
+    ]
+  },
+  "weather": [
+    {
+      "ciudad": "Santiago",
+      "valor": "≈16 °C y sin lluvia en modelo",
+      "periodo": "06-11-2026 06:00–23:00",
+      "fuente": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "consultado": "2026-11-06T07:16:19-03:00",
+      "nota": "máximo 15,5°C en tramo, no máxima diaria; etiqueta generación página sin zona"
+    },
+    {
+      "ciudad": "Concepción",
+      "valor": "≈17 °C y sin lluvia en modelo",
+      "periodo": "06-11-2026 06:00–23:00",
+      "fuente": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "consultado": "2026-11-06T07:16:19-03:00",
+      "nota": "máximo 16,9°C en tramo, no máxima diaria"
+    },
+    {
+      "ciudad": "Casablanca",
+      "valor": "SIN DATO VERIFICADO",
+      "periodo": "6 noviembre",
+      "fuente": "https://www.yr.no/",
+      "consultado": "2026-11-06T07:16:19-03:00",
+      "alternativas": [
+        {
+          "proveedor": "DMC/Yr",
+          "resultado": "sin valor específico comprobable"
+        },
+        {
+          "proveedor": "Open-Meteo Free API",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.318&longitude=-71.407&daily=temperature_2m_max,weather_code&timezone=America%2FSantiago&forecast_days=1",
+          "resultado": "DNS no resoluble desde entorno de consulta"
+        }
+      ]
+    }
+  ],
+  "indicadores": [
+    {
+      "nombre": "Dólar observado",
+      "valor": "$970,94",
+      "vigencia": "6 nov. · CLP/USD",
+      "fuente": "https://www.bcentral.cl/inicio/-/details/ot_2726",
+      "consulta": "2026-11-06T07:16:19-03:00"
+    },
+    {
+      "nombre": "UF",
+      "valor": "$41.279,51",
+      "vigencia": "6 nov. · CLP/UF",
+      "fuente": "https://www.bcentral.cl/inicio/-/details/ot_2726",
+      "consulta": "2026-11-06T07:16:19-03:00"
+    },
+    {
+      "nombre": "Euro",
+      "valor": "$1.090,94",
+      "vigencia": "6 nov. · CLP/EUR",
+      "fuente": "https://www.bcentral.cl/inicio/-/details/ot_2726",
+      "consulta": "2026-11-06T07:16:19-03:00"
+    },
+    {
+      "nombre": "UTM",
+      "valor": "$72.440",
+      "vigencia": "Noviembre 2026 · CLP",
+      "fuente": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulta": "2026-11-06T07:16:19-03:00"
+    }
+  ],
+  "stage2": {
+    "estado": "OK - revisión estática",
+    "controles": [
+      {
+        "numero": 1,
+        "criterio": "Portada: principal, cuatro entradas, editorial y lectura",
+        "estado": "OK"
+      },
+      {
+        "numero": 2,
+        "criterio": "Imagen documental de portada autorizada",
+        "estado": "OK"
+      },
+      {
+        "numero": 3,
+        "criterio": "Fotografías documentales interiores pertinentes",
+        "estado": "OK"
+      },
+      {
+        "numero": 4,
+        "criterio": "Créditos, autor, fecha, licencia y alt",
+        "estado": "OK"
+      },
+      {
+        "numero": 5,
+        "criterio": "Composición A/B/C según extensión y gráfico pertinente",
+        "estado": "OK"
+      },
+      {
+        "numero": 6,
+        "criterio": "Sin alturas fijas ni laterales vacíos",
+        "estado": "OK"
+      },
+      {
+        "numero": 7,
+        "criterio": "Tipografía, justificación escritorio y lectura móvil",
+        "estado": "OK"
+      },
+      {
+        "numero": 8,
+        "criterio": "Paleta marfil, verde, terracota y franja compacta",
+        "estado": "OK"
+      },
+      {
+        "numero": 9,
+        "criterio": "Comparación literal de artículos, párrafos y enlaces con manuscrito, lector íntegro",
+        "estado": "OK"
+      },
+      {
+        "numero": 10,
+        "criterio": "Inspección visual escritorio y móvil",
+        "estado": "no disponible"
+      }
+    ],
+    "html_utf8_bytes": 55707,
+    "fotografias": 3,
+    "graficas_svg": 1,
+    "imagenes": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edificio%20del%20Congreso%20Nacional%20de%20Chile%20(Valpara%C3%ADso).jpg?width=960",
+        "origin": "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional_de_Chile_(Valparaíso).jpg",
+        "author": "ShootingStarMax",
+        "date": "2017",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Congreso Nacional de Chile, Valparaíso, fotografía de archivo de 2017; no muestra la sesión de esta madrugada."
+      },
+      {
+        "url": "/panorama-chile/ediciones/2026-10-29/imagenes/mineria.jpg",
+        "origin": "https://commons.wikimedia.org/wiki/File:Chuquicamata_Mine_Panorama.jpg",
+        "author": "Berg2",
+        "date": "2015",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Chuquicamata, archivo de 2015, contexto de producción minera; no muestra la junta de accionistas."
+      },
+      {
+        "url": "/panorama-chile/ediciones/2026-10-29/imagenes/mexico.jpg",
+        "origin": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Mexico.jpg",
+        "author": "Visente",
+        "date": "2011",
+        "license": "CC BY-SA 3.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "alt": "Palacio Nacional de México, imagen de archivo de 2011, no de la reunión anunciada."
+      }
+    ],
+    "lector_blob_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "inspeccion": "inspección visual no disponible",
+    "prueba_audio_real": false,
+    "alternativas": [
+      "Fotos interiores archivadas con licencias de Wikimedia, no repetidas en los dos turnos inmediatamente anteriores",
+      "Gráfico Codelco original con datos oficiales"
+    ]
+  },
+  "netlify_modificado": false,
+  "servicios_pagados": false
+}
