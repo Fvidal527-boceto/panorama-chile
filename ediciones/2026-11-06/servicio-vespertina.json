@@ -1,0 +1,232 @@
+{
+  "fecha": "2026-11-06",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "closed_at": "2026-11-06T15:09:14-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": null,
+      "display": "SIN DATO VERIFICADO",
+      "validity": "tarde 06-11-2026",
+      "source": "DMC / MET Norway",
+      "url": "https://www.meteochile.gob.cl/",
+      "reason": "Pronóstico horario no recuperado; la API MET Norway no resolvió por DNS.",
+      "checked_at": "2026-11-06T15:09:14-03:00"
+    },
+    {
+      "city": "Concepción",
+      "value": null,
+      "display": "SIN DATO VERIFICADO",
+      "validity": "tarde 06-11-2026",
+      "source": "DMC / MET Norway",
+      "url": "https://www.meteochile.gob.cl/",
+      "reason": "Pronóstico horario no recuperado; la API MET Norway no resolvió por DNS.",
+      "checked_at": "2026-11-06T15:09:14-03:00"
+    },
+    {
+      "city": "Casablanca",
+      "value": null,
+      "display": "SIN DATO VERIFICADO",
+      "validity": "tarde 06-11-2026",
+      "source": "DMC / MET Norway",
+      "url": "https://www.meteochile.gob.cl/",
+      "reason": "Pronóstico horario no recuperado; la API MET Norway no resolvió por DNS.",
+      "checked_at": "2026-11-06T15:09:14-03:00"
+    }
+  ],
+  "indicators": [
+    {
+      "city": "Dólar observado",
+      "display": "$970,95",
+      "validity": "05-11-2026 · último dato BC comprobado",
+      "url": "https://si3.bcentral.cl/indicadoressiete/secure/indicadoresdiarios.aspx",
+      "checked_at": "2026-11-06T15:09:14-03:00"
+    },
+    {
+      "city": "UF",
+      "display": "$41.279,51",
+      "validity": "06-11-2026",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "checked_at": "2026-11-06T15:09:14-03:00"
+    },
+    {
+      "city": "Euro CLP/EUR",
+      "display": "$1.090,83",
+      "validity": "05-11-2026 · último dato BC comprobado",
+      "url": "https://si3.bcentral.cl/indicadoressiete/secure/indicadoresdiarios.aspx",
+      "checked_at": "2026-11-06T15:09:14-03:00"
+    },
+    {
+      "city": "UTM",
+      "display": "$72.440",
+      "validity": "noviembre 2026",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "checked_at": "2026-11-06T15:09:14-03:00"
+    }
+  ],
+  "stage1": {
+    "status": "OK",
+    "manuscript_complete": true,
+    "morning_compared": "ediciones/2026-11-06/matinal.html",
+    "previous_evening_compared": "ediciones/2026-11-05/vespertina.html",
+    "articles": [
+      {
+        "id": "ipc",
+        "title": "Inflación anual de 4,5%: transportes y alimentos vuelven a presionar los precios",
+        "paragraphs": 5,
+        "sources": [
+          "https://www.ine.gob.cl/sala-de-prensa/prensa/general/noticia/2026/11/06/%C3%ADndice-de-precios-al-consumidor-(ipc)-de-octubre-present%C3%B3-una-variaci%C3%B3n-mensual-de-0-5",
+          "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+        ]
+      },
+      {
+        "id": "educacion",
+        "title": "Educación y Ciencia quedan pendientes: la Cámara deberá renegociar el Presupuesto 2027",
+        "paragraphs": 5,
+        "sources": [
+          "https://cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-paso-a-la-camara-con-educacion-y-ciencia-rechazados/2026-11-06/071724.html",
+          "https://www.soychile.cl/Santiago/Politica/2026/11/06/971707/presupuesto-despacho-camara-educacion.html"
+        ]
+      },
+      {
+        "id": "relaves",
+        "title": "Relaves en División Andina: la SMA solicita pruebas sobre agua, suelo y material recuperado",
+        "paragraphs": 5,
+        "sources": [
+          "https://portal.sma.gob.cl/index.php/sma-requiere-informacion-a-la-division-andina-de-codelco-e-inicia-fiscalizacion-en-terreno-tras-incidente-con-relaves-en-faena-minera/"
+        ]
+      },
+      {
+        "id": "rabat",
+        "title": "Rabat continúa cuestionado mientras se prepara una posible acusación constitucional",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/03/diputado-brito-fa-dice-que-rechazaran-presupuesto-de-gabinete-de-justicia-por-permanencia-de-rabat.shtml"
+        ]
+      },
+      {
+        "id": "aridos",
+        "title": "Dos expedientes de áridos ponen atención sobre Hualpén y Puerto Montt",
+        "paragraphs": 4,
+        "sources": [
+          "https://portal.sma.gob.cl/index.php/sma-formula-cargos-contra-empresas-de-extraccion-de-aridos-en-el-biobio-y-los-lagos-por-elusion-al-seia/"
+        ]
+      },
+      {
+        "id": "eeuu",
+        "title": "Republicanos buscan nuevo liderazgo en la Cámara tras perder el Congreso",
+        "paragraphs": 5,
+        "sources": [
+          "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+          "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+        ]
+      },
+      {
+        "id": "brasil",
+        "title": "Lula anuncia plan de transición energética para la COP31",
+        "paragraphs": 4,
+        "sources": [
+          "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/06/lula-vamos-a-cop31-com-proposta-para-que-mudo-leve-a-serio-reducao-de-dependencia-de-petroleo.amp.htm"
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "Sheinbaum inicia una gira por Chiapas con foco en educación, salud y viviendas",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.razon.com.mx/mexico/2026/11/06/mananera-de-sheinbaum-6-de-noviembre-del-2026/"
+        ]
+      },
+      {
+        "id": "belgica",
+        "title": "El rey Felipe rechaza la dimisión del primer ministro y pide negociar el presupuesto",
+        "paragraphs": 4,
+        "sources": [
+          "https://apnews.com/article/belgium-budget-wever-king-resignation-6ef749a5875cb78e486480d28506a7a3"
+        ]
+      },
+      {
+        "id": "clima",
+        "title": "Copernicus informa el octubre más cálido de sus registros",
+        "paragraphs": 4,
+        "sources": [
+          "https://climate.copernicus.eu/copernicus-warmest-october-record-2026-virtually-certain-exceed-15degc"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "title": "Zelenski solicita cables chilenos para reparar la red eléctrica ucraniana",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.internazionale.it/ultime-notizie-reuters/2026/11/05/ukraine-s-zelenskiy-appeals-for-energy-infrastructure-aid-at-madrid-summit"
+        ]
+      }
+    ],
+    "editorial_title": "La obligación de explicar las decisiones"
+  },
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "controls": [
+      {
+        "control": 1,
+        "name": "Portada jerarquizada",
+        "state": "OK"
+      },
+      {
+        "control": 2,
+        "name": "Imagen principal",
+        "state": "corregido con alternativa: SVG original"
+      },
+      {
+        "control": 3,
+        "name": "Imágenes interiores",
+        "state": "corregido con alternativa: 7 infografías originales"
+      },
+      {
+        "control": 4,
+        "name": "Créditos",
+        "state": "OK: gráficos originales identificados"
+      },
+      {
+        "control": 5,
+        "name": "Composición A/B/C",
+        "state": "OK"
+      },
+      {
+        "control": 6,
+        "name": "Blancos accidentales",
+        "state": "pendiente: revisión estática sin inspección visual"
+      },
+      {
+        "control": 7,
+        "name": "Legibilidad",
+        "state": "OK estático"
+      },
+      {
+        "control": 8,
+        "name": "Paleta 2.3 vespertina",
+        "state": "OK"
+      },
+      {
+        "control": 9,
+        "name": "Integridad manuscrito, enlaces y voz",
+        "state": "OK"
+      },
+      {
+        "control": 10,
+        "name": "Revisión móvil/escritorio",
+        "state": "no disponible: inspección visual no disponible"
+      }
+    ],
+    "inspection": "inspección visual no disponible",
+    "original_graphics": 8,
+    "html_bytes": 51182,
+    "articles": 11,
+    "paragraphs": 48,
+    "content_integrity": true,
+    "anchors_ok": true,
+    "links_ok": true,
+    "voice_inline": true
+  }
+}
