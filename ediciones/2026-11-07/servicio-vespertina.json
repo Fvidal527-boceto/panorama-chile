@@ -3,7 +3,7 @@
   "tipo": "vespertina",
   "zona": "America/Santiago",
   "queried_at": "2026-11-07T15:11:22-03:00",
-  "updated_at": "2026-11-07T15:11:22-03:00",
+  "updated_at": "2026-11-07T15:12:24-03:00",
   "stage1": {
     "status": "OK",
     "manuscript_closed": true,
@@ -289,7 +289,7 @@
       {
         "control": 6,
         "status": "Pendiente",
-        "detail": "Alturas automáticas, align-items:start; blancos no comprobables sin navegador"
+        "detail": "Corregido: noticia secundaria única ocupa ancho completo; revisión visual aún pendiente"
       },
       {
         "control": 7,
@@ -315,9 +315,10 @@
     "alternatives": [
       "Infografía original de accidente sin foto no autorizada",
       "Fotografías de archivo acreditadas en interiores",
-      "Meteorología marcada SIN DATO VERIFICADO"
+      "Meteorología marcada SIN DATO VERIFICADO",
+      "Corrección de ancho completo para noticia única en una fila, sin grandes blancos de cuadrícula"
     ],
-    "review": "Anclas y enlaces revisados estáticamente, igualdad del manuscrito y HTML, CSS móvil, fotos, lector por voz y pie. Inspección visual no disponible.",
+    "review": "Anclas y enlaces revisados estáticamente, igualdad del manuscrito y HTML, CSS móvil, fotos, lector por voz y pie. Inspección visual no disponible. Corrección estructural CSS aplicada a cuadrícula de una sola noticia.",
     "html_utf8_bytes": 61683,
     "article_count": 10,
     "photos": 2,
