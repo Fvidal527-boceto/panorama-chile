@@ -1,0 +1,328 @@
+{
+  "fecha": "2026-11-07",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-07T15:11:22-03:00",
+  "updated_at": "2026-11-07T15:11:22-03:00",
+  "stage1": {
+    "status": "OK",
+    "manuscript_closed": true,
+    "manuscript_blob": "3ab92f93d3480a4015048d92447f409b87277f5b",
+    "articles": 10,
+    "comparison": "Matinal publicada del 7/11 revisada: accidente en Ruta de la Fruta, avances de Teletón, sismo Ollagüe, balance de Eurocontrol y ataques a Ucrania constituyen novedades posteriores; presupuesto y justicia se siguen por nuevos hitos institucionales.",
+    "editorial": true,
+    "follow": true
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "lat": -33.45,
+      "lon": -70.66,
+      "period": "Sábado 7 de noviembre, 15:00-23:59 America/Santiago",
+      "value": null,
+      "status": "SIN DATO VERIFICADO",
+      "queried_at": "2026-11-07T15:11:22-03:00",
+      "source_attempts": [
+        {
+          "provider": "DMC/MeteoChile",
+          "url": "https://meteochile.gob.cl/",
+          "result": "Sin pronóstico vigente recuperable"
+        },
+        {
+          "provider": "MET Norway / Yr",
+          "url": "https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=-33.45&lon=-70.66",
+          "result": "Sin datos descargables de servicio externo"
+        },
+        {
+          "provider": "Open-Meteo Free",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.45&longitude=-70.66&current=temperature_2m,weather_code&hourly=temperature_2m,precipitation_probability,weather_code&timezone=America%2FSantiago&forecast_days=1",
+          "result": "Consulta externa fallida; no se obtuvo respuesta verificable"
+        }
+      ]
+    },
+    {
+      "city": "Concepción",
+      "lat": -36.83,
+      "lon": -73.05,
+      "period": "Sábado 7 de noviembre, 15:00-23:59 America/Santiago",
+      "value": null,
+      "status": "SIN DATO VERIFICADO",
+      "queried_at": "2026-11-07T15:11:22-03:00",
+      "source_attempts": [
+        {
+          "provider": "DMC/MeteoChile",
+          "url": "https://meteochile.gob.cl/",
+          "result": "Sin pronóstico vigente recuperable"
+        },
+        {
+          "provider": "MET Norway / Yr",
+          "url": "https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=-36.83&lon=-73.05",
+          "result": "Sin datos descargables de servicio externo"
+        },
+        {
+          "provider": "Open-Meteo Free",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-36.83&longitude=-73.05&current=temperature_2m,weather_code&hourly=temperature_2m,precipitation_probability,weather_code&timezone=America%2FSantiago&forecast_days=1",
+          "result": "Consulta externa fallida; no se obtuvo respuesta verificable"
+        }
+      ]
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "lat": -33.32,
+      "lon": -71.41,
+      "period": "Sábado 7 de noviembre, 15:00-23:59 America/Santiago",
+      "value": null,
+      "status": "SIN DATO VERIFICADO",
+      "queried_at": "2026-11-07T15:11:22-03:00",
+      "source_attempts": [
+        {
+          "provider": "DMC/MeteoChile",
+          "url": "https://meteochile.gob.cl/",
+          "result": "Sin pronóstico vigente recuperable"
+        },
+        {
+          "provider": "MET Norway / Yr",
+          "url": "https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=-33.32&lon=-71.41",
+          "result": "Sin datos descargables de servicio externo"
+        },
+        {
+          "provider": "Open-Meteo Free",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.32&longitude=-71.41&current=temperature_2m,weather_code&hourly=temperature_2m,precipitation_probability,weather_code&timezone=America%2FSantiago&forecast_days=1",
+          "result": "Consulta externa fallida; no se obtuvo respuesta verificable"
+        }
+      ]
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$970,94",
+      "validity": "6 nov. 2026",
+      "unit": "CLP/USD",
+      "source": "Banco Central",
+      "source_url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-07T15:11:22-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.284,83",
+      "validity": "7 nov. 2026",
+      "unit": "CLP/UF",
+      "source": "SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-07T15:11:22-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.090,94",
+      "validity": "6 nov. 2026",
+      "unit": "CLP/EUR",
+      "source": "Banco Central",
+      "source_url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-07T15:11:22-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "Noviembre 2026",
+      "unit": "CLP/UTM",
+      "source": "SII",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-07T15:11:22-03:00"
+    }
+  ],
+  "sources": [
+    {
+      "article": "ruta",
+      "url": "https://www.soychile.cl/San-Antonio/Policial/2026/11/07/971877/lesionados-11anos-accidente-santo-domingo.html",
+      "label": "SoyChile San Antonio · declaración provincial de las 14:01"
+    },
+    {
+      "article": "ruta",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/ohiggins-transito-suspendido-en-ruta-de-la-fruta-por-accidente-con-al-menos-10-lesionados.shtml",
+      "label": "BioBioChile · balance de Carabineros y SAMU"
+    },
+    {
+      "article": "ruta",
+      "url": "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/tras-fatal-accidente-ruta-de-la-fruta-lamenta-la-tragedia-e-informa-desvios-tras-cierre-de-la-via.shtml",
+      "label": "Concesionaria · desvíos anunciados"
+    },
+    {
+      "article": "teleton",
+      "url": "https://www.mega.cl/",
+      "label": "Mega · marcador parcial del sábado"
+    },
+    {
+      "article": "teleton",
+      "url": "https://www.13.cl/programas/teleton-2026/momentos/teleton-2026-cuanto-se-ha-recaudado-y-cual-es-la-meta",
+      "label": "Canal 13 · meta y cortes"
+    },
+    {
+      "article": "teleton",
+      "url": "https://www.teleton.cl/entradas-teleton-2026-puntoticket/",
+      "label": "Teletón · programación de acceso"
+    },
+    {
+      "article": "rabat",
+      "url": "https://cooperativa.cl/noticias/pais/gobierno/gobierno-pondra-discusion-inmediata-a-proyecto-para-derogar-de-raiz-la/2026-11-06/175825.html",
+      "label": "Cooperativa · anuncio oficial del 6 de noviembre"
+    },
+    {
+      "article": "presupuesto",
+      "url": "https://www.vlnradio.cl/noticias/nacional/2026/11/06/presupuesto-2027-pasa-a-la-camara-con-educacion-y-ciencia-rechazadas-y-el-gobierno-promete-reponer-fondos/",
+      "label": "VLN Radio · Mixta y calendario"
+    },
+    {
+      "article": "presupuesto",
+      "url": "https://www.emol.com/noticias/Nacional/2026/11/06/1216334/rapidez-tramitacion-congreso.html",
+      "label": "Emol · discusión parlamentaria"
+    },
+    {
+      "article": "sismo",
+      "url": "https://www.meganoticias.cl/nacional/535824-temblor-zona-norte-conoce-magnitud-ollague-antofagasta-07-11-2026.html",
+      "label": "Meganoticias · Centro Sismológico, 08:01"
+    },
+    {
+      "article": "sismo",
+      "url": "https://www.chilevision.cl/noticias/nacional/temblor-hoy-7-de-noviembre-en-chile-revisa-epicentro-magnitud-y-ultimos-sismos/",
+      "label": "Chilevisión · balance actualizado"
+    },
+    {
+      "article": "brasil",
+      "url": "https://www.gov.br/mma/pt-br/noticias/governo-lula-estabelece-diretrizes-para-reduzir-gradualmente-dependencia-de-combustiveis-fosseis-no-brasil",
+      "label": "Ministerio de Medio Ambiente de Brasil · resolución"
+    },
+    {
+      "article": "brasil",
+      "url": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia",
+      "label": "Agência Brasil · agenda COP31"
+    },
+    {
+      "article": "mexico",
+      "url": "https://www.poresto.com/mexico/2026/11/6/presidenta-sheinbaum-inicia-gira-dias-chiapas-inaugurara-puente-rizo-oro-entregara-becas-viviendas.html",
+      "label": "PorEsto · agenda presidencial"
+    },
+    {
+      "article": "mexico",
+      "url": "https://elmomentochiapas.mx/estados/chiapas/2026/11/06/claudia-sheinbaum-visitara-cuatro-municipios-de-chiapas-del-6-al-8-de-noviembre/",
+      "label": "El Momento Chiapas · itinerario"
+    },
+    {
+      "article": "eeuu",
+      "url": "https://apnews.com/article/d8d5262fe3d820a3dc73193002f0f27e",
+      "label": "Associated Press · entrevista a Schumer"
+    },
+    {
+      "article": "eeuu",
+      "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+      "label": "CBS News · seguimiento electoral"
+    },
+    {
+      "article": "europa",
+      "url": "https://www.ansa.it/amp/europa/notizie/rubriche/altrenews/2026/11/07/eurocontrol-allarmi-bomba-su-35-voli-europei-in-tre-giornate_124f1bad-dde5-4dd2-b0e5-634153c85bab.html",
+      "label": "ANSA · Eurocontrol, 7 de noviembre"
+    },
+    {
+      "article": "europa",
+      "url": "https://apnews.com/article/31e26bfeb744b9ce8b81b73dbac6a4b8",
+      "label": "Associated Press · actuaciones"
+    },
+    {
+      "article": "ucrania",
+      "url": "https://apnews.com/article/b042adf1f95848f5d233da866a72e312",
+      "label": "Associated Press · ataques y contactos"
+    },
+    {
+      "article": "ucrania",
+      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+      "label": "The Guardian · interrupciones de servicios"
+    }
+  ],
+  "images": [
+    {
+      "id": "instituto",
+      "author": "Carlos Figueroa Rojas",
+      "date": "2023",
+      "source": "https://commons.wikimedia.org/wiki/File:Instituto_Telet%C3%B3n_Santiago%2C_Estaci%C3%B3n_Central%2C_Santiago_20230327_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Archivo documental no del hecho; carga final no inspeccionada en navegador"
+    },
+    {
+      "id": "congreso",
+      "author": "Carlos Figueroa Rojas",
+      "date": "2023",
+      "source": "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional%2C_Valpara%C3%ADso_20230903_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Archivo documental no del hecho; carga final no inspeccionada en navegador"
+    }
+  ],
+  "stage2": {
+    "status": "OK, revisión estática",
+    "controls": [
+      {
+        "control": 1,
+        "status": "OK",
+        "detail": "Portada con noticia dominante, cuatro entradas, editorial, tiempo de lectura y cabecera"
+      },
+      {
+        "control": 2,
+        "status": "Corregido con alternativa",
+        "detail": "Infografía original pertinente para tragedia; no se utilizó imagen de accidente sin derechos"
+      },
+      {
+        "control": 3,
+        "status": "OK",
+        "detail": "Dos fotografías documentales interiores distintas más gráficos SVG en todos los artículos"
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "detail": "Créditos 10 px con autor, fecha, licencia CC BY-SA 4.0 y origen enlazado"
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "detail": "Reportaje extenso, mosaicos y módulos independientes de contexto"
+      },
+      {
+        "control": 6,
+        "status": "Pendiente",
+        "detail": "Alturas automáticas, align-items:start; blancos no comprobables sin navegador"
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "detail": "Texto largo justificado con hyphens:auto; móvil una columna y alineación izquierda"
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "detail": "Identidad vespertina marfil/terracota/cobre y franja compacta"
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "detail": "Manuscrito completo: títulos, bajadas, párrafos, enlaces y lector por voz íntegro"
+      },
+      {
+        "control": 10,
+        "status": "No disponible",
+        "detail": "Inspección visual de navegador escritorio y móvil no disponible; QA estática completada"
+      }
+    ],
+    "alternatives": [
+      "Infografía original de accidente sin foto no autorizada",
+      "Fotografías de archivo acreditadas en interiores",
+      "Meteorología marcada SIN DATO VERIFICADO"
+    ],
+    "review": "Anclas y enlaces revisados estáticamente, igualdad del manuscrito y HTML, CSS móvil, fotos, lector por voz y pie. Inspección visual no disponible.",
+    "html_utf8_bytes": 61683,
+    "article_count": 10,
+    "photos": 2,
+    "svg": 11,
+    "manuscript_html_equal": true,
+    "unresolved_anchors": 0
+  }
+}
