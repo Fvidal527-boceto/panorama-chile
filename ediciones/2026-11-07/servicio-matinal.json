@@ -1,0 +1,151 @@
+{
+  "fecha": "2026-11-07",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-07T07:05:58-03:00",
+  "stage1": {
+    "status": "OK",
+    "articles": 13,
+    "paragraphs": 64,
+    "editorial": "La responsabilidad se demuestra con procedimientos",
+    "prior_turn": "ediciones/2026-11-06/vespertina.html",
+    "sources": [
+      "https://www.ine.gob.cl/estadisticas-por-tema/precios-e-inflacion/indice-de-precios-al-consumidor",
+      "https://cooperativa.cl/noticias/pais/consumidores/inflacion/ipc-subio-0-5-en-octubre-inflacion-anual-llego-a-4-5/2026-11-06/081230.html",
+      "https://www.emol.com/noticias/Nacional/2026/11/06/1216294/presupuesto-pendiente-mixta.html",
+      "https://www.emol.com/noticias/Economia/2026/11/06/1216260/comision-mixta-despacha-presupuesto.html",
+      "https://soychile.cl/Quillota/Sociedad/2026/11/06/971696/sma-fiscalizacion-derrame-andes-codelco.html",
+      "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/06/tras-derrame-de-relaves-en-rio-blanco-parlamentarios-citan-a-reunion-con-codelco-y-esval.shtml",
+      "https://www.24horas.cl/actualidad/politica/ministerio-de-justicia-confirma-sumario-interno-filtracion-decretos",
+      "https://tmp.24horas.cl/actualidad/nacional/alza-diesel-camioneros-norte-convocan-a-movilizacion-nacional",
+      "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/06/lula-reitera-compromisso-com-responsabilidade-fiscal-e-social-minimiza-divida-publica.amp.htm",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-discutira-medidas-fiscais-com-lula-apos-viagem-cop31",
+      "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/lula-apresentara-avancos-ambientais-na-cop31-na-turquia",
+      "https://elpais.com/mexico/economia/2026-11-07/un-polo-de-innovacion-en-salud-en-ciudad-de-mexico-busca-tecnificar-la-industria.html",
+      "https://elpais.com/mexico/2026-11-06/la-uam-va-a-paro-por-la-polemica-compra-de-autos-tesla-para-los-funcionarios-es-una-estrategia-de-transicion-energetica.html",
+      "https://apnews.com/article/e15594b38ce800f93618cce7184e504e",
+      "https://apnews.com/article/f126e12e05b579a327b98481c0ae2226",
+      "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+      "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+      "https://apnews.com/article/5e4d70d0e3421d678db58133f95bd2e9",
+      "https://apnews.com/article/37dc5e85a5c8c135996bc2720e0674d9"
+    ]
+  },
+  "service": {
+    "weather": [
+      [
+        "Santiago",
+        "26 °C máx.",
+        "07 nov., serie WRF 06–23 h",
+        "DMC / Quinta Normal",
+        "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020"
+      ],
+      [
+        "Concepción",
+        "24 °C máx.",
+        "07 nov., serie WRF 06–23 h",
+        "DMC / Carriel Sur",
+        "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019"
+      ],
+      [
+        "Casablanca",
+        "SIN DATO VERIFICADO",
+        "7 nov. · falta previsión local contrastada",
+        "Yr / DMC · no corroborado",
+        "https://www.yr.no/"
+      ]
+    ],
+    "indicators": [
+      [
+        "Dólar observado",
+        "$970,94",
+        "6 nov. · CLP/USD",
+        "Banco Central",
+        "https://www.bcentral.cl/convertidor-calculadora"
+      ],
+      [
+        "UF",
+        "$41.284,83",
+        "7 nov. · CLP/UF",
+        "SII",
+        "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+      ],
+      [
+        "Euro",
+        "$1.090,94",
+        "6 nov. · CLP/EUR",
+        "Banco Central",
+        "https://www.bcentral.cl/convertidor-calculadora"
+      ],
+      [
+        "UTM",
+        "$72.440",
+        "noviembre · CLP/UTM",
+        "SII",
+        "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+      ]
+    ],
+    "notes": "DMC muestra hora de generación 09:00 posterior a la consulta; valores corresponden a la serie visible, hora no interpretada como publicación anterior; Casablanca sin verificación local."
+  },
+  "stage2": {
+    "status": "OK · revisión estática",
+    "controls": [
+      {
+        "n": 1,
+        "status": "OK · jerarquía portada, cuatro titulares, editorial y tiempo de lectura"
+      },
+      {
+        "n": 2,
+        "status": "corregido con alternativa · infografía original en portada"
+      },
+      {
+        "n": 3,
+        "status": "corregido con alternativa · infografías originales en interiores, sin licencias fotográficas dudosas"
+      },
+      {
+        "n": 4,
+        "status": "OK · créditos de gráficos 10px; gráficos de autoría propia y fuentes periodísticas enlazadas"
+      },
+      {
+        "n": 5,
+        "status": "OK revisión estática · reportaje, mosaico e historia con contexto"
+      },
+      {
+        "n": 6,
+        "status": "pendiente de inspección visual · sin alturas rígidas ni fillers"
+      },
+      {
+        "n": 7,
+        "status": "OK revisión estática · justificación escritorio e izquierda en móvil"
+      },
+      {
+        "n": 8,
+        "status": "OK · paleta marfil, verde y terracota"
+      },
+      {
+        "n": 9,
+        "status": "OK · igualdad de títulos, bajadas, párrafos, fuentes; voz completa y pie"
+      },
+      {
+        "n": 10,
+        "status": "no disponible · inspección visual, verificación estática efectuada"
+      }
+    ],
+    "qa": {
+      "article_count": true,
+      "paragraphs": true,
+      "navigation": true,
+      "external": true,
+      "voice": true,
+      "footer": true,
+      "visuals": true,
+      "mobile": true
+    },
+    "html_bytes": 68019,
+    "graphic_reference": "ediciones/2026-10-29/matinal.html@631e709373a12bf9a454f3661bc8581ebcfa617b",
+    "voice_original_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "review_type": "estática; inspección visual no disponible",
+    "paid_services": false
+  },
+  "netlify_changes": false
+}
