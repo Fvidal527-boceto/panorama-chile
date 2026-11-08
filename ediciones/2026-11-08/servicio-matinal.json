@@ -1,0 +1,648 @@
+{
+  "fecha": "2026-11-08",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-08T07:10:50-03:00",
+  "stage1": {
+    "status": "completo",
+    "cierre": "2026-11-08T07:09:21-03:00",
+    "manuscript_blob_sha": "4902b13d282d54f780a44bf531f53afcac0a95b4",
+    "manuscript": {
+      "fecha": "2026-11-08",
+      "tipo": "matinal",
+      "zona": "America/Santiago",
+      "cierre": "2026-11-08T07:09:21-03:00",
+      "head_id": "ruta",
+      "front_ids": [
+        "teleton",
+        "rabat",
+        "mexico",
+        "ucrania"
+      ],
+      "stories": [
+        {
+          "id": "ruta",
+          "section": "chile",
+          "tag": "REGIONES · SEGURIDAD VIAL",
+          "title": "Ruta de la Fruta: el último balance localizado es de 13 muertos y Navidad declara duelo",
+          "deck": "La colisión entre un microbús, un camión y un automóvil dejó también quince personas heridas. Los recuentos del sábado variaron según la autoridad y el horario.",
+          "paragraphs": [
+            "La comunidad de Navidad afronta las consecuencias de la colisión ocurrida el sábado 7 de noviembre en el sector de Atalaya, comuna de Santo Domingo. El alcalde subrogante Carlos Catalán informó un balance de trece personas fallecidas y quince lesionadas, recogido por BioBioChile. La Nación de Argentina publicó más tarde esas cifras. Sin embargo, durante la jornada otros reportes mencionaron once o doce fallecidos; esta edición identifica la fuente y el momento del recuento en lugar de presentar un total definitivo.",
+            "El accidente involucró un camión tolva, un microbús de pasajeros y un automóvil particular en la Ruta E-66. Los primeros equipos fueron alertados cerca de las nueve de la mañana. Las publicaciones describen kilómetros aproximados entre 119 y 122,5; esa diferencia cartográfica deberá resolverse con la información de la investigación. Los lesionados fueron trasladados a centros asistenciales mientras Carabineros, Bomberos y servicios de salud atendían la emergencia.",
+            "El microbús realizaba un recorrido habitual para vecinos que viajan desde Navidad y otras localidades hasta San Antonio a realizar compras, consultas médicas o trámites. Catalán decretó tres días de duelo comunal y suspendió actividades deportivas y recreativas. La decisión refleja que los daños de la tragedia recaen sobre familias y redes locales, más allá de lo que expresa una estadística nacional de siniestros.",
+            "La Sección de Investigación de Accidentes de Tránsito de Carabineros tiene a cargo los peritajes. Las versiones iniciales sobre velocidad, adelantamientos y responsabilidades no sustituyen sus conclusiones. Tampoco corresponde repetir como vigente un cierre de carretera o desvío anunciado el sábado sin nueva información operativa. El servicio de transporte cotidiano y la movilidad de los vecinos necesitan seguimiento independiente del avance judicial.",
+            "El municipio ha cuestionado el estándar del corredor, por el tránsito simultáneo de camiones y vehículos locales en tramos de una pista por sentido. Esa observación exige datos sobre flujo de carga, velocidad, puntos críticos y obras de concesión. El corredor comunica zonas productivas con el puerto de San Antonio, pero su valor económico no debería medirse separadamente de la seguridad de quienes lo utilizan todos los días.",
+            "Análisis de PANORAMA. Una respuesta pública sólida tiene tres componentes: asistencia a las víctimas y sus familias, reconstrucción técnica sin especulación y medidas preventivas evaluables. La investigación puede esclarecer una colisión específica; la autoridad de transporte debe comprobar si existen riesgos repetidos y cómo reducirlos. El duelo debería acompañarse de un compromiso de información transparente, responsables y plazos."
+          ],
+          "sources": [
+            [
+              "BioBioChile · duelo en Navidad y 13 víctimas",
+              "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/alcalde-s-de-navidad-confirma-duelo-comunal-es-el-accidente-mas-impactante-que-hemos-tenido.shtml"
+            ],
+            [
+              "La Nación · actualización vespertina",
+              "https://www.lanacion.com.ar/el-mundo/tragedia-en-chile-al-menos-13-muertos-y-15-heridos-por-un-choque-multiple-en-valparaiso-nid07112026/"
+            ],
+            [
+              "T13 · cortes previos y comunicación de la concesionaria",
+              "https://www.t13.cl/noticia/nacional/el-comunicado-ruta-fruta-por-fatal-choque-entre-camion-microbus-dejo-11-falleci-7-11-2026"
+            ]
+          ],
+          "featured": true,
+          "sidebar": {
+            "title": "Cifras bajo actualización",
+            "text": "Trece víctimas fatales y quince personas lesionadas según la información municipal reproducida por medios el sábado. Hubo reportes anteriores distintos; la investigación y el balance consolidado siguen pendientes."
+          }
+        },
+        {
+          "id": "teleton",
+          "section": "chile",
+          "tag": "SOCIEDAD · INCLUSIÓN",
+          "title": "La Teletón supera su meta: $46.204 millones en el cierre televisivo",
+          "deck": "La organización confirma que la recaudación de la madrugada superó la referencia de 2025. Sus dieciséis institutos sostienen una labor que continúa después del espectáculo.",
+          "paragraphs": [
+            "La Teletón 2026 terminó la transmisión de veintisiete horas con un cómputo de $46.204.313.130 anunciado en el Estadio Nacional, de acuerdo con el comunicado publicado por la institución este domingo 8 de noviembre. La cifra superó la referencia de $44.253.268.546 correspondiente a 2025. Se trata del cierre televisivo, no necesariamente del balance financiero definitivo una vez conciliados todos los aportes.",
+            "La fundación señala que atiende de forma gratuita a cerca de treinta y dos mil niños, niñas y jóvenes, junto con sus familias. La red alcanzó dieciséis institutos tras la incorporación de centros en O’Higgins y Ñuble. Esos datos permiten mirar el resultado más allá de la celebración: las nuevas instalaciones requieren equipos de salud, rehabilitación, mantenimiento y operación a lo largo de todo el año.",
+            "La campaña se realizó por primera vez bajo el Día Nacional de la Teletón, establecido para el primer sábado de noviembre. La jornada reunió artistas, historias de rehabilitación y contribuciones de personas, organizaciones y empresas. No obstante, que una campaña alcance su objetivo no ofrece por sí solo la distribución final por rubros ni un diagnóstico integral de necesidades futuras.",
+            "La entidad identifica tratamientos médicos, kinesiología, terapia ocupacional, fonoaudiología, ayudas técnicas y acompañamiento psicosocial entre las prestaciones que necesitan financiamiento. Su portal de transparencia es una herramienta para seguir la aplicación de recursos, la cobertura territorial y los resultados. La confianza que permite recaudar también necesita sostenerse mediante información pública comprensible.",
+            "Análisis de PANORAMA. El verdadero éxito de una campaña solidaria reúne emoción y continuidad institucional. La cifra puede celebrarse hoy; la pregunta de los próximos meses será cómo influye en oportunidades de rehabilitación, tiempos de atención y apoyo familiar. Vincular resultados financieros con prestaciones concretas fortalece la discusión pública sobre inclusión."
+          ],
+          "sources": [
+            [
+              "Teletón · comunicado institucional 8 de noviembre",
+              "https://www.teleton.cl/teleton-2026-supera-su-meta-y-recauda-mas-de-46-mil-millones-en-el-estadio-nacional/"
+            ],
+            [
+              "Chilevisión · último cómputo",
+              "https://www.chilevision.cl/noticias/show/meta-superada-teleton-2026-recaudo-mas-de-46-mil-millones-y-emociono-a-don-francisco/amp/"
+            ]
+          ],
+          "photo": "estadio",
+          "chart": "teleton"
+        },
+        {
+          "id": "rabat",
+          "section": "chile",
+          "tag": "CHILE · JUSTICIA",
+          "title": "La derogación de las rebajas de condena avanza como compromiso gubernamental, no como ley aprobada",
+          "deck": "El Ejecutivo anunció que patrocinará la supresión íntegra de la Ley 19.856 y mantuvo su respaldo al ministro Fernando Rabat.",
+          "paragraphs": [
+            "El Gobierno confirmó el viernes 6 de noviembre que otorgará discusión inmediata a una moción que busca derogar por completo la Ley 19.856, relativa a las reducciones de pena por buena conducta. El anuncio, reportado por Cooperativa y BioBioChile, fue formulado por el vocero Gonzalo Arenas, quien destacó que el sistema rige desde 2003. El Ejecutivo siguió defendiendo al ministro Fernando Rabat, cuya actuación ha sido cuestionada por decretos vinculados a condenados por delitos sexuales contra menores.",
+            "La moción ha sido promovida por senadores de procedencias políticas distintas, incluidos Arturo Squella, Andrés Longton, Karim Bianchi y Pedro Araya. El debate ha abierto coincidencias sobre reformar los beneficios y profundas diferencias respecto de responsabilidades políticas y jurídicas. Los críticos del ministro sostienen que el cambio de norma no resuelve el examen de las decisiones administrativas ya adoptadas.",
+            "Es necesario separar los efectos de una reforma futura de la revisión de expedientes anteriores. La derogación de una norma no elimina automáticamente todos los actos dictados durante su vigencia. La legalidad de los decretos, las vías de impugnación, los derechos de las víctimas y las garantías de quienes cumplen condena se discuten mediante procedimientos diferentes.",
+            "La Defensoría de la Niñez anunció recursos después de que una acción sobre las rebajas fuera declarada inadmisible. También cuestionó no haber participado en una mesa impulsada por el ministerio. Esas actuaciones requieren seguimiento documental, sin anticipar decisiones judiciales ni representar como resuelta la situación del titular de Justicia.",
+            "Análisis de PANORAMA. Una respuesta legislativa debería precisar qué mecanismo reemplazará al beneficio eliminado y qué evaluaciones deberán realizarse antes de liberar personas condenadas. Es razonable exigir protección efectiva a las víctimas, pero la calidad de la norma depende de su compatibilidad con garantías constitucionales y de controles aplicables. La celeridad de la tramitación no sustituye ese examen."
+          ],
+          "sources": [
+            [
+              "Cooperativa · anuncio de discusión inmediata",
+              "https://cooperativa.cl/noticias/pais/gobierno/gobierno-pondra-discusion-inmediata-a-proyecto-para-derogar-de-raiz-la/2026-11-06/175825.html"
+            ],
+            [
+              "BioBioChile · autores de la moción",
+              "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/01/grupo-de-senadores-presenta-proyecto-para-derogar-ley-que-permite-rebaja-de-condena-por-buena-conducta.shtml"
+            ],
+            [
+              "BioBioChile · acción de la Defensoría",
+              "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/04/defensoria-ninez-insiste-en-accion-judicial-contra-rebajas-de-pena-mientras-queda-fuera-de-la-mesa-de-rabat.shtml"
+            ]
+          ]
+        },
+        {
+          "id": "presupuesto",
+          "section": "chile",
+          "tag": "CHILE · PRESUPUESTO 2027",
+          "title": "Educación y Ciencia llegan rechazadas a la siguiente negociación presupuestaria",
+          "deck": "La Comisión Mixta despachó el proyecto, pero dejó recursos sin aprobación que el Gobierno tendrá que intentar reponer en la Cámara.",
+          "paragraphs": [
+            "La Comisión Especial Mixta de Presupuestos despachó a la Cámara el proyecto para 2027 al concluir su revisión durante la madrugada del viernes. Cooperativa y Emol reportaron que las partidas completas de Educación y Ciencia quedaron rechazadas, junto con otros programas y asignaciones. El trámite sigue abierto: ese rechazo no es todavía el resultado final de la Ley de Presupuestos.",
+            "La capacidad de reponer recursos se relaciona con la iniciativa exclusiva de gasto del Ejecutivo. El artículo 67 de la Constitución establece límites a los aumentos que puede aprobar el Congreso por iniciativa propia. Por eso importarán las indicaciones que presente Hacienda y los acuerdos que logre en la Cámara, no solo las declaraciones de los parlamentarios.",
+            "Las consecuencias deben identificarse por partida, programa y glosa. Un recorte en una línea de investigación no tiene el mismo efecto que una modificación en becas, infraestructura escolar o funcionamiento de servicios. Tampoco puede suponerse que la totalidad de la educación superior perderá los recursos indicados sin conocer cómo se resuelva la negociación.",
+            "Análisis educativo de PANORAMA. Para instituciones que desarrollan docencia presencial y digital, la planificación depende de presupuestos estables, financiamiento de estudiantes y capacidad de innovación. Una discusión rigurosa debería observar continuidad de proyectos, evidencia de resultados y compromisos plurianuales. La próxima noticia relevante será el contenido de las indicaciones y votaciones, no un pronóstico político de ganadores y perdedores."
+          ],
+          "sources": [
+            [
+              "Cooperativa · despacho desde Comisión Mixta",
+              "https://cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-paso-a-la-camara-con-educacion-y-ciencia-rechazados/2026-11-06/071724.html"
+            ],
+            [
+              "Emol · programas pendientes",
+              "https://www.emol.com/noticias/Nacional/2026/11/06/1216294/presupuesto-pendiente-mixta.html"
+            ]
+          ]
+        },
+        {
+          "id": "brasil",
+          "section": "latam",
+          "tag": "BRASIL · COP31",
+          "title": "Lula promete llegar a la COP31 con una propuesta para reducir la dependencia del petróleo",
+          "deck": "La cumbre de Antalya comienza el lunes y la discusión sobre financiación y transición justa sigue sin fórmulas compartidas.",
+          "paragraphs": [
+            "El presidente brasileño Luiz Inácio Lula da Silva anunció el viernes que su país llegará a la COP31 con una propuesta para disminuir la dependencia mundial de los combustibles fósiles. La declaración recogida por Agência Estado y publicada por UOL distingue un compromiso de discusión de un acuerdo multilateral aprobado. La conferencia climática se celebra en Antalya, Turquía, entre el 9 y el 20 de noviembre.",
+            "Según la cobertura de Folha, los anfitriones plantean un objetivo voluntario de aumentar la electrificación de la economía mundial y hay negociaciones pendientes sobre transición justa, adaptación y financiación. Los países exportadores de combustibles y los que dependen de recursos externos tienen incentivos distintos. La tensión entre sus posiciones explica que la reducción de emisiones no avance solo con nuevos objetivos numéricos.",
+            "Brasil busca defender sus avances forestales y formular un plan de transición. Su Gobierno había reconocido resistencia entre productores de petróleo a compromisos obligatorios. Antes de considerar que existe un giro efectivo será necesario conocer documentos, cronogramas, sectores cubiertos y recursos disponibles. La presentación internacional no asegura, por sí misma, aplicación nacional.",
+            "Análisis de PANORAMA. Chile y otros países sudamericanos son parte de cadenas energéticas y minerales que pueden transformarse. La electrificación necesita redes, cobre, almacenamiento y sistemas regulatorios adecuados; la protección de bosques exige alternativas productivas. Las decisiones de Antalya deben evaluarse por mecanismos de implementación, no únicamente por la ambición verbal de sus declaraciones."
+          ],
+          "sources": [
+            [
+              "UOL / Agência Estado · declaración de Lula",
+              "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/06/lula-vamos-a-cop31-com-proposta-para-que-mudo-leve-a-serio-reducao-de-dependencia-de-petroleo.amp.htm"
+            ],
+            [
+              "Folha · temas de la COP31",
+              "https://www1.folha.uol.com.br/ambiente/2026/11/cupula-climatica-da-onu-na-turquia-deve-ter-nova-meta-para-ampliar-uso-de-eletricidade.shtml"
+            ]
+          ]
+        },
+        {
+          "id": "brumadinho",
+          "section": "latam",
+          "tag": "BRASIL · MINERALES Y TERRITORIOS",
+          "title": "Brumadinho exige que la expansión de minerales críticos tenga controles verificables",
+          "deck": "Una propuesta para la COP31 pone a las comunidades y la prevención en el centro de las nuevas cadenas industriales.",
+          "paragraphs": [
+            "La Fundación Memorial de Brumadinho anunció que llevará a la COP31 una carta con compromisos para una minería más segura, de acuerdo con la cobertura de Folha de este fin de semana. El antecedente es el rompimiento de la presa de relaves de Vale que dejó 272 víctimas fatales en 2019. El documento plantea que la memoria y la participación de las comunidades formen parte del diseño de los proyectos futuros.",
+            "En paralelo, Lula destacó la importancia de ordenar la economía y ofrecer seguridad jurídica para atraer inversión en minerales críticos y tierras raras. Agência Brasil recogió esas declaraciones del 5 de noviembre durante una instancia dedicada a la industrialización. La estrategia económica y la propuesta de las organizaciones no son equivalentes: una busca inversiones, la otra compromisos de seguridad y gobernanza.",
+            "La transición energética requiere materiales extraídos mediante procesos con impacto territorial. El destino climático de un mineral no garantiza que su producción sea sostenible. Es necesario conocer estándares sobre agua, residuos, monitoreo independiente, derecho a información y respuesta ante emergencias. El control no puede reducirse a un permiso otorgado antes de iniciar una faena.",
+            "Análisis regional. Chile enfrenta desafíos comparables en las cadenas de cobre y litio. La experiencia brasileña permite evaluar cómo se relacionan inversión, legislación ambiental y legitimidad social. Los compromisos de Brumadinho serían especialmente útiles si pudieran traducirse en indicadores verificables, responsabilidades claras y participación efectiva de quienes viven cerca de los proyectos."
+          ],
+          "sources": [
+            [
+              "Folha · Carta de Brumadinho",
+              "https://www1.folha.uol.com.br/colunas/painel/2026/11/fundacao-brumadinho-leva-a-cop31-proposta-para-mineracao-segura-de-terras-raras.shtml"
+            ],
+            [
+              "Agência Brasil · minerales críticos e inversión",
+              "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-quer-economia-arrumada-para-atrair-investimentos"
+            ]
+          ]
+        },
+        {
+          "id": "mexico",
+          "section": "latam",
+          "tag": "MÉXICO · INFRAESTRUCTURA",
+          "title": "México abre Rizo de Oro y cambia las condiciones de acceso entre comunidades de Chiapas",
+          "deck": "La presidenta inauguró el puente sobre el embalse La Angostura; el impacto real dependerá de los recorridos y conexiones locales.",
+          "paragraphs": [
+            "Claudia Sheinbaum inauguró el sábado 7 de noviembre el puente Rizo de Oro en Chiapas, según informó Infobae y confirmaron medios mexicanos. La obra conecta localidades que antes dependían de barcazas o recorridos largos alrededor del embalse de La Angostura. La ceremonia se desarrolló en La Concordia, como parte de una gira que continuará este domingo con una actividad de vivienda en Tuxtla Gutiérrez.",
+            "Los antecedentes publicados describen alrededor de 2,1 kilómetros de obra, incluyendo accesos, y una estructura principal de 405 metros. Las autoridades estiman una población beneficiaria superior a trescientas mil personas en diez municipios. Se trata de una estimación de cobertura y no de un resultado de uso efectivo. También se anuncian ahorros importantes de tiempo que deberán observarse mediante viajes reales.",
+            "Para familias que necesitan hospitales, escuelas o mercados, una conexión terrestre estable puede cambiar decisiones cotidianas. Sin embargo, el puente necesita mantención, señalización, transporte y continuidad de las carreteras de acceso. Su función social depende de toda la red y no únicamente de la estructura sobre el agua.",
+            "Representantes comunitarios reconocieron la apertura y solicitaron otra conexión en el sector de Boquerón, según el relato de la inauguración. Esa petición muestra la diferencia entre una necesidad parcialmente resuelta y una red territorial completa. Análisis de PANORAMA: la evaluación de la obra requiere medir tiempos de acceso, costos de transporte y seguridad, y no confundir promesas de beneficio con resultados ya documentados."
+          ],
+          "sources": [
+            [
+              "Infobae · inauguración del puente",
+              "https://www.infobae.com/mexico/2026/11/07/tras-mas-de-50-anos-de-espera-claudia-sheinbaum-inaugura-el-puente-rizo-de-oro-en-chiapas-una-deuda-historica-salvada/"
+            ],
+            [
+              "LodeHoy · dimensiones y construcción",
+              "https://lodehoy.com.mx/nacional/2026/11/07/37451/sheinbaum-inaugura-puente-rizo-de-oro-en-chiapas-tras-50-anos-de-espera"
+            ],
+            [
+              "Alerta Chiapas · agenda del domingo",
+              "https://alertachiapas.com/2026/11/05/sheinbaum-chiapas-gira-puente-rizo-de-oro-agenda/"
+            ]
+          ],
+          "photo": "chiapas"
+        },
+        {
+          "id": "miller",
+          "section": "mundo",
+          "tag": "EE. UU. · GOBIERNO Y CONGRESO",
+          "title": "Trump anuncia a Stephen Miller como jefe de gabinete después de la derrota legislativa",
+          "deck": "El nombramiento se prevé para el lunes 9; los demócratas se preparan para controlar las dos cámaras con algunas carreras pendientes.",
+          "paragraphs": [
+            "El presidente Donald Trump anunció el sábado que Stephen Miller reemplazará a Susie Wiles como jefe de gabinete a partir del lunes 9 de noviembre, según CBS News. Wiles pasaría a la operación política del presidente. La decisión representa una reorganización del equipo que coordina la agenda de la Casa Blanca después de las pérdidas republicanas en las elecciones de medio término.",
+            "CBS News estima que los demócratas contarán con al menos 54 escaños en el Senado y aproximadamente 256 en la Cámara de Representantes cuando se inaugure la nueva legislatura. Todavía hay contiendas sin resolución, por lo que el balance final podría variar. Una proyección de escaños no es la proclamación de todas las autoridades electorales, pero sí permite dimensionar el cambio de mayoría.",
+            "El jefe de gabinete gestiona relaciones, acceso al presidente y prioridades administrativas. El traslado de Miller podría modificar la forma en que se coordinan decisiones y se negocia con el Congreso. Sin embargo, ningún nombramiento equivale a una nueva política específica: ésta necesita actos, instrucciones o proyectos identificables. La oposición también deberá definir cómo ejercerá su poder de control y legislación.",
+            "Análisis de PANORAMA. La pérdida del Congreso obliga a la administración a operar con nuevas mayorías. La posibilidad de acuerdos dependerá de iniciativas concretas, y la fiscalización de la oposición debería distinguir evidencia de acusaciones. El seguimiento útil separará el cambio de personas de sus consecuencias medibles sobre decisiones públicas."
+          ],
+          "sources": [
+            [
+              "CBS News · resultados y nombramiento",
+              "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+            ]
+          ],
+          "photo": "capitol"
+        },
+        {
+          "id": "alaska",
+          "section": "mundo",
+          "tag": "EE. UU. · ELECCIONES",
+          "title": "Alaska mantiene abierto un recuento senatorial pese a la proclamación de Trump",
+          "deck": "Las preferencias secundarias pueden decidir el resultado porque ningún postulante supera todavía el umbral de mayoría.",
+          "paragraphs": [
+            "Trump afirmó el sábado que el senador republicano Dan Sullivan ya había ganado la elección en Alaska, pero CBS News informó que el conteo seguía abierto. Con cerca del 74% escrutado en el momento descrito, la demócrata Mary Peltola figuraba con una ventaja estrecha, insuficiente para proclamarse vencedora. El resultado requiere esperar el procedimiento electoral del estado.",
+            "Alaska utiliza voto preferencial. Los electores pueden ordenar a los postulantes según su elección y, si ninguno obtiene mayoría absoluta en el primer recuento, se eliminan los candidatos con menor votación y sus preferencias se reasignan conforme a las siguientes marcas válidas. Por eso no es correcto sumar automáticamente votos de candidatos parecidos por apellido o afinidad partidaria.",
+            "La presencia de Daniel J. Sullivan, distinto del senador Dan Sullivan, originó controversias y litigios durante la campaña. Sin embargo, el nombre de un candidato y las opiniones de partidos no sustituyen las marcas que efectivamente aparecen en las papeletas. La confiabilidad del proceso depende de aplicar normas conocidas y publicar avances consistentes.",
+            "Análisis de PANORAMA. La incertidumbre electoral no es un vacío que deba llenarse con una victoria imaginaria. La autoridad responsable puede requerir más tiempo para ejecutar las rondas establecidas. El próximo hecho determinante será una asignación adicional o certificación oficial, no una reiteración de declaraciones políticas."
+          ],
+          "sources": [
+            [
+              "CBS News · avance de Alaska, 7 de noviembre",
+              "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+            ]
+          ]
+        },
+        {
+          "id": "europa",
+          "section": "mundo",
+          "tag": "EUROPA · SEGURIDAD AÉREA",
+          "title": "Eurocontrol registra 35 amenazas de bomba contra vuelos y examina su posible coordinación",
+          "deck": "La organización precisó las fechas de las alertas y negó un efecto generalizado sobre los retrasos de toda la red.",
+          "paragraphs": [
+            "Eurocontrol informó a ANSA que conocía treinta y cinco amenazas de bomba contra vuelos europeos durante tres días: siete el 3 de noviembre, catorce el 5 y catorce el 6. El dato del último día seguía siendo provisional. La distribución temporal importa: no se trató de treinta y cinco avisos simultáneos ni es correcto extrapolar una amenaza específica a todas las rutas de Europa.",
+            "La organización señaló que las notificaciones no causaron un efecto medible sobre los retrasos agregados de la red aérea, pese a que algunos vuelos sufrieron operaciones de seguridad y alteraciones. El 6 de noviembre la red registró alrededor de 29.550 vuelos, de los que las amenazas representaban una proporción muy pequeña. Esa estadística no minimiza los inconvenientes individuales que debieron atender pasajeros y tripulaciones.",
+            "Servicios europeos investigan si hubo coordinación transfronteriza. ANSA informó que Financial Times mencionó una posible conexión con actores próximos a Rusia entre las hipótesis examinadas. No existe una autoría comprobada que permita presentar esa línea de investigación como un hecho judicial establecido. La verificación debe combinar registros de comunicaciones, fuentes de las amenazas y cooperación entre autoridades nacionales.",
+            "Análisis de PANORAMA. Una amenaza falsa puede causar gastos, ansiedad y desviación de recursos de seguridad. Las instituciones tienen el deber de tratar con cuidado cada aviso sin otorgar a sus autores el poder de paralizar innecesariamente toda la red. Transparencia sobre incidentes y rigor al determinar culpables son parte de la misma respuesta."
+          ],
+          "sources": [
+            [
+              "ANSA · información de Eurocontrol",
+              "https://www.ansa.it/amp/europa/notizie/rubriche/altrenews/2026/11/07/eurocontrol-allarmi-bomba-su-35-voli-europei-in-tre-giornate_124f1bad-dde5-4dd2-b0e5-634153c85bab.html"
+            ],
+            [
+              "ANSA · investigación transfronteriza",
+              "https://www.ansa.it/sito/notizie/mondo/2026/11/07/il-ft-i-servizi-europei-indagano-sulla-pista-russa-degli-allarmi-bomba.-in-tre_2902e339-ba05-423b-b761-27735ead1323.html"
+            ],
+            [
+              "The Guardian · interrupciones de la semana",
+              "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
+            ]
+          ]
+        },
+        {
+          "id": "ucrania",
+          "section": "mundo",
+          "tag": "UCRANIA · GUERRA · DIPLOMACIA",
+          "title": "Los ataques a la red eléctrica preceden a conversaciones trilaterales sobre Ucrania",
+          "deck": "Kyiv reporta 36 misiles balísticos y 172 drones; la necesidad de proteger energía y población civil aumenta antes de la reunión prevista en Abu Dabi.",
+          "paragraphs": [
+            "El presidente ucraniano Volodímir Zelenski afirmó que Rusia lanzó treinta y seis misiles balísticos y ciento setenta y dos drones en ataques registrados el sábado 7 de noviembre. Associated Press informó al menos nueve personas heridas y daños en hogares, empresas e infraestructura energética. La cifra de proyectiles proviene de las autoridades de Ucrania y debe quedar atribuida a su fuente, sin transformarla en un recuento verificado de manera independiente.",
+            "Las interrupciones eléctricas afectaron a diversas regiones e incluyeron problemas de suministro de agua y servicios asociados. El daño a una red durante el inicio del tiempo frío tiene consecuencias que no se limitan al momento del impacto: calefacción, hospitales, comunicaciones y transporte requieren energía continua. Las reparaciones y la protección antiaérea pasan a ser prioridades humanitarias.",
+            "Las partes prevén conversaciones con mediación estadounidense los días 10 y 11 de noviembre en Abu Dabi, según AP y The Guardian. La programación de una reunión no representa por sí misma un alto el fuego ni un acuerdo. Zelenski acusó a Rusia de aumentar la presión militar antes del diálogo; Moscú ofreció su propia justificación de los objetivos de los ataques.",
+            "También se informaron operaciones ucranianas dentro de Rusia, con víctimas y daños. La cobertura debe reconocer la situación de civiles de ambos lados sin equiparar automáticamente las responsabilidades por cada hecho. Análisis de PANORAMA: el progreso político se medirá por compromisos verificables para proteger a la población, permitir asistencia y reducir ataques, no únicamente por el encuentro de delegaciones."
+          ],
+          "sources": [
+            [
+              "Associated Press · ataques y negociaciones",
+              "https://apnews.com/article/b042adf1f95848f5d233da866a72e312"
+            ],
+            [
+              "The Guardian · síntesis 8 de noviembre",
+              "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says"
+            ]
+          ]
+        },
+        {
+          "id": "turquia",
+          "section": "mundo",
+          "tag": "MUNDO · MEDIO ORIENTE",
+          "title": "Turquía ratifica un acuerdo de defensa con Arabia Saudita y Pakistán",
+          "deck": "La alianza de diez años prevé cooperación militar e inteligencia; los despliegues requieren aprobación propia.",
+          "paragraphs": [
+            "El Parlamento de Turquía ratificó por 279 votos frente a 119 un pacto con Arabia Saudita y Pakistán, según informó Associated Press. El acuerdo se había firmado en agosto y contempla diez años de cooperación en defensa, inteligencia, industria militar y disuasión. La votación da un paso institucional en una alianza que reúne tres países con intereses de seguridad distintos.",
+            "El pacto incluye una cláusula de asistencia mutua ante ataques, pero las autoridades turcas sostienen que el despliegue de tropas necesita autorizaciones parlamentarias separadas. Esa condición evita interpretar cada conflicto futuro como una intervención militar automática. El detalle de aplicación y las decisiones concretas seguirán siendo importantes.",
+            "Los gobiernos afirmaron que el entendimiento no se dirige contra Irán. Parlamentarios opositores expresaron preocupación por la posibilidad de que Turquía quede involucrada en guerras regionales. Ambas posiciones aportan al debate sobre el alcance de la alianza, sin demostrar por sí mismas cuáles serán sus consecuencias.",
+            "Análisis de PANORAMA. Los pactos de seguridad pueden contribuir a la prevención o crear obligaciones difíciles de administrar. Su evaluación depende de transparencia, controles políticos y resultados diplomáticos. El siguiente hito no es anticipar otro conflicto, sino observar la implementación formal del acuerdo y los mecanismos de resolución de tensiones."
+          ],
+          "sources": [
+            [
+              "Associated Press · aprobación del pacto",
+              "https://apnews.com/article/b17c570820e88891b2d46dd3fbc3a1f6"
+            ]
+          ]
+        }
+      ],
+      "editorial": {
+        "title": "La obligación de responder después de la emergencia",
+        "paragraphs": [
+          "El duelo anunciado en Navidad después del accidente de la Ruta de la Fruta interpela a más de una institución. Las víctimas y sus familias merecen atención, información comprobable y un proceso capaz de aclarar lo sucedido. Pero también merecen que la discusión pública examine la seguridad de una vía esencial para el transporte de personas y mercancías.",
+          "PANORAMA considera que una investigación penal y una revisión de infraestructura no deben competir. Son responsabilidades distintas. La primera identifica hechos y posibles infracciones; la segunda debe determinar medidas preventivas, recursos y plazos, incluso cuando una causa técnica no ha sido establecida todavía.",
+          "Las diferencias entre balances de víctimas difundidos durante el sábado enseñan otra obligación: informar con fecha, fuente y cautela. La precisión protege a las familias y ayuda a las comunidades. Una cifra repetida sin su origen produce apariencia de certeza, pero no comprensión.",
+          "En la Teletón, el desafío posterior a una cifra celebrada es explicar el uso de los recursos. En la reforma a las rebajas de condenas, una urgencia legislativa debe acompañarse de garantías y procedimientos. En las elecciones estadounidenses, ganar mayoría implica también ejercer fiscalización responsable. En todos esos asuntos, la rendición de cuentas comienza cuando termina el anuncio.",
+          "El valor público de una decisión no se demuestra solo con su titular. Se demuestra cuando se ejecuta, se revisa y responde a quienes sufrirán sus consecuencias."
+        ]
+      },
+      "weather": [
+        {
+          "city": "Santiago",
+          "period": "Domingo 8",
+          "display": "≈30 °C",
+          "summary": "Máxima horaria modelada; sin lluvia en serie consultada",
+          "provider": "DMC / MeteoChile, Quinta Normal 330020",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+          "evidence": "29,9 °C máximo entre valores de la primera jornada en tabla pública; publicación muestra generación 09:00 sin zona horaria explícita."
+        },
+        {
+          "city": "Concepción",
+          "period": "Domingo 8",
+          "display": "≈27 °C",
+          "summary": "Máxima horaria modelada; sin lluvia en primera jornada",
+          "provider": "DMC / MeteoChile, Carriel Sur 360019",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+          "evidence": "27,2 °C máximo entre valores de la primera jornada en tabla pública; generación 08:00/10:00 sin zona explícita."
+        },
+        {
+          "city": "Casablanca",
+          "period": "Domingo 8",
+          "display": "SIN DATO VERIFICADO",
+          "summary": "Pronóstico local del día no recuperado",
+          "provider": "DMC / Yr (consulta sin resultado utilizable)",
+          "url": "https://www.yr.no/",
+          "attempts": [
+            "DMC: no se identificó estación local verificable",
+            "Yr: lectura de previsión local bloqueada",
+            "Open-Meteo: API no accesible en web y DNS falló en entorno de ejecución",
+            "Estimación divulgada cuatro días antes descartada por no ser actualización del turno"
+          ]
+        }
+      ],
+      "indicators": [
+        {
+          "label": "Dólar observado",
+          "display": "$970,94",
+          "period": "6 nov. 2026 · último día hábil",
+          "unit": "CLP por USD",
+          "url": "https://www.bcentral.cl/web/banco-central",
+          "source": "Banco Central",
+          "validity": "2026-11-06",
+          "note": "Valor indicado antes de la barra que muestra un dato futuro para 9 nov., excluido por ser posterior a esta edición"
+        },
+        {
+          "label": "UF",
+          "display": "$41.290,15",
+          "period": "8 nov. 2026",
+          "unit": "CLP por UF",
+          "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+          "source": "SII",
+          "validity": "2026-11-08"
+        },
+        {
+          "label": "Euro",
+          "display": "$1.090,94",
+          "period": "6 nov. 2026 · último día hábil",
+          "unit": "CLP por EUR",
+          "url": "https://www.bcentral.cl/web/banco-central",
+          "source": "Banco Central",
+          "validity": "2026-11-06"
+        },
+        {
+          "label": "UTM",
+          "display": "$72.440",
+          "period": "noviembre 2026",
+          "unit": "CLP por UTM",
+          "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+          "source": "SII",
+          "validity": "2026-11"
+        }
+      ],
+      "word_count": 3697,
+      "news_sources": [
+        "https://www.biobiochile.cl/noticias/nacional/region-de-valparaiso/2026/11/07/alcalde-s-de-navidad-confirma-duelo-comunal-es-el-accidente-mas-impactante-que-hemos-tenido.shtml",
+        "https://www.lanacion.com.ar/el-mundo/tragedia-en-chile-al-menos-13-muertos-y-15-heridos-por-un-choque-multiple-en-valparaiso-nid07112026/",
+        "https://www.t13.cl/noticia/nacional/el-comunicado-ruta-fruta-por-fatal-choque-entre-camion-microbus-dejo-11-falleci-7-11-2026",
+        "https://www.teleton.cl/teleton-2026-supera-su-meta-y-recauda-mas-de-46-mil-millones-en-el-estadio-nacional/",
+        "https://www.chilevision.cl/noticias/show/meta-superada-teleton-2026-recaudo-mas-de-46-mil-millones-y-emociono-a-don-francisco/amp/",
+        "https://cooperativa.cl/noticias/pais/gobierno/gobierno-pondra-discusion-inmediata-a-proyecto-para-derogar-de-raiz-la/2026-11-06/175825.html",
+        "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/01/grupo-de-senadores-presenta-proyecto-para-derogar-ley-que-permite-rebaja-de-condena-por-buena-conducta.shtml",
+        "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/04/defensoria-ninez-insiste-en-accion-judicial-contra-rebajas-de-pena-mientras-queda-fuera-de-la-mesa-de-rabat.shtml",
+        "https://cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-paso-a-la-camara-con-educacion-y-ciencia-rechazados/2026-11-06/071724.html",
+        "https://www.emol.com/noticias/Nacional/2026/11/06/1216294/presupuesto-pendiente-mixta.html",
+        "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/06/lula-vamos-a-cop31-com-proposta-para-que-mudo-leve-a-serio-reducao-de-dependencia-de-petroleo.amp.htm",
+        "https://www1.folha.uol.com.br/ambiente/2026/11/cupula-climatica-da-onu-na-turquia-deve-ter-nova-meta-para-ampliar-uso-de-eletricidade.shtml",
+        "https://www1.folha.uol.com.br/colunas/painel/2026/11/fundacao-brumadinho-leva-a-cop31-proposta-para-mineracao-segura-de-terras-raras.shtml",
+        "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-quer-economia-arrumada-para-atrair-investimentos",
+        "https://www.infobae.com/mexico/2026/11/07/tras-mas-de-50-anos-de-espera-claudia-sheinbaum-inaugura-el-puente-rizo-de-oro-en-chiapas-una-deuda-historica-salvada/",
+        "https://lodehoy.com.mx/nacional/2026/11/07/37451/sheinbaum-inaugura-puente-rizo-de-oro-en-chiapas-tras-50-anos-de-espera",
+        "https://alertachiapas.com/2026/11/05/sheinbaum-chiapas-gira-puente-rizo-de-oro-agenda/",
+        "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/",
+        "https://www.ansa.it/amp/europa/notizie/rubriche/altrenews/2026/11/07/eurocontrol-allarmi-bomba-su-35-voli-europei-in-tre-giornate_124f1bad-dde5-4dd2-b0e5-634153c85bab.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/07/il-ft-i-servizi-europei-indagano-sulla-pista-russa-degli-allarmi-bomba.-in-tre_2902e339-ba05-423b-b761-27735ead1323.html",
+        "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+        "https://apnews.com/article/b042adf1f95848f5d233da866a72e312",
+        "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says",
+        "https://apnews.com/article/b17c570820e88891b2d46dd3fbc3a1f6"
+      ],
+      "previous_evening": "ediciones/2026-11-07/vespertina.html",
+      "previous_morning": "ediciones/2026-11-07/matinal.html"
+    },
+    "word_count": 3697,
+    "source_count": 24
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "Domingo 8",
+      "display": "≈30 °C",
+      "summary": "Máxima horaria modelada; sin lluvia en serie consultada",
+      "provider": "DMC / MeteoChile, Quinta Normal 330020",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "evidence": "29,9 °C máximo entre valores de la primera jornada en tabla pública; publicación muestra generación 09:00 sin zona horaria explícita.",
+      "queried_at": "2026-11-08T07:10:50-03:00"
+    },
+    {
+      "city": "Concepción",
+      "period": "Domingo 8",
+      "display": "≈27 °C",
+      "summary": "Máxima horaria modelada; sin lluvia en primera jornada",
+      "provider": "DMC / MeteoChile, Carriel Sur 360019",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "evidence": "27,2 °C máximo entre valores de la primera jornada en tabla pública; generación 08:00/10:00 sin zona explícita.",
+      "queried_at": "2026-11-08T07:10:50-03:00"
+    },
+    {
+      "city": "Casablanca",
+      "period": "Domingo 8",
+      "display": "SIN DATO VERIFICADO",
+      "summary": "Pronóstico local del día no recuperado",
+      "provider": "DMC / Yr (consulta sin resultado utilizable)",
+      "url": "https://www.yr.no/",
+      "attempts": [
+        "DMC: no se identificó estación local verificable",
+        "Yr: lectura de previsión local bloqueada",
+        "Open-Meteo: API no accesible en web y DNS falló en entorno de ejecución",
+        "Estimación divulgada cuatro días antes descartada por no ser actualización del turno"
+      ],
+      "queried_at": "2026-11-08T07:10:50-03:00"
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Dólar observado",
+      "display": "$970,94",
+      "period": "6 nov. 2026 · último día hábil",
+      "unit": "CLP por USD",
+      "url": "https://www.bcentral.cl/web/banco-central",
+      "source": "Banco Central",
+      "validity": "2026-11-06",
+      "note": "Valor indicado antes de la barra que muestra un dato futuro para 9 nov., excluido por ser posterior a esta edición",
+      "queried_at": "2026-11-08T07:10:50-03:00"
+    },
+    {
+      "label": "UF",
+      "display": "$41.290,15",
+      "period": "8 nov. 2026",
+      "unit": "CLP por UF",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "source": "SII",
+      "validity": "2026-11-08",
+      "queried_at": "2026-11-08T07:10:50-03:00"
+    },
+    {
+      "label": "Euro",
+      "display": "$1.090,94",
+      "period": "6 nov. 2026 · último día hábil",
+      "unit": "CLP por EUR",
+      "url": "https://www.bcentral.cl/web/banco-central",
+      "source": "Banco Central",
+      "validity": "2026-11-06",
+      "queried_at": "2026-11-08T07:10:50-03:00"
+    },
+    {
+      "label": "UTM",
+      "display": "$72.440",
+      "period": "noviembre 2026",
+      "unit": "CLP por UTM",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "source": "SII",
+      "validity": "2026-11",
+      "queried_at": "2026-11-08T07:10:50-03:00"
+    }
+  ],
+  "images": [
+    {
+      "id": "ruta",
+      "file": "Carretera de la Fruta, Ruta CH 66 entre Pelequén y San Antonio Chile.JPG",
+      "author": "Marco Antonio Correa Flores",
+      "date": "29-03-2015",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Tramo rural de la Ruta de la Fruta en una fotografía de archivo de 2015; no documenta el accidente de 2026",
+      "note": "Ruta de la Fruta, archivo de 2015. No corresponde al accidente del sábado.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Carretera_de_la_Fruta%2C_Ruta_CH_66_entre_Pelequ%C3%A9n_y_San_Antonio_Chile.JPG",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carretera_de_la_Fruta%2C_Ruta_CH_66_entre_Pelequ%C3%A9n_y_San_Antonio_Chile.JPG?width=850",
+      "loading_verified": false,
+      "license_confirmation": "Ficha de Wikimedia Commons y licencia Creative Commons; reproducción atribuida",
+      "reuse_review": "No aparece en la matinal o vespertina inmediatamente anteriores"
+    },
+    {
+      "id": "estadio",
+      "file": "Estadio Nacional de Chile - vista desde Av. Grecia.jpg",
+      "author": "Gobierno de Chile",
+      "date": "07-02-2011",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "alt": "Vista exterior del Estadio Nacional de Santiago fotografiado en 2011; no es el cierre de la Teletón 2026",
+      "note": "Estadio Nacional, archivo de 2011; no es una imagen de la campaña actual.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Estadio_Nacional_de_Chile_-_vista_desde_Av._Grecia.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Estadio_Nacional_de_Chile_-_vista_desde_Av._Grecia.jpg?width=850",
+      "loading_verified": false,
+      "license_confirmation": "Ficha de Wikimedia Commons y licencia Creative Commons; reproducción atribuida",
+      "reuse_review": "No aparece en la matinal o vespertina inmediatamente anteriores"
+    },
+    {
+      "id": "chiapas",
+      "file": "Puente Chiapas México.jpg",
+      "author": "Judithbsc",
+      "date": "18-02-2021",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Puente Chiapas en fotografía de archivo de 2021; es una estructura distinta del puente Rizo de Oro inaugurado en noviembre de 2026",
+      "note": "Puente Chiapas, archivo de 2021. Es otra estructura, no el puente Rizo de Oro inaugurado el sábado.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Puente_Chiapas_M%C3%A9xico.jpg",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Puente_Chiapas_M%C3%A9xico.jpg?width=850",
+      "loading_verified": false,
+      "license_confirmation": "Ficha de Wikimedia Commons y licencia Creative Commons; reproducción atribuida",
+      "reuse_review": "No aparece en la matinal o vespertina inmediatamente anteriores"
+    },
+    {
+      "id": "capitol",
+      "file": "U.S. Capitol west lawn.JPG",
+      "author": "Farragutful",
+      "date": "06-05-2013",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "alt": "Jardines y fachada del Capitolio de Estados Unidos en imagen de archivo de 2013, no relacionada con el escrutinio de 2026",
+      "note": "Capitolio de Estados Unidos, archivo de 2013; no muestra las elecciones de 2026.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:U.S._Capitol_west_lawn.JPG",
+      "image_url": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Capitol_west_lawn.JPG?width=850",
+      "loading_verified": false,
+      "license_confirmation": "Ficha de Wikimedia Commons y licencia Creative Commons; reproducción atribuida",
+      "reuse_review": "No aparece en la matinal o vespertina inmediatamente anteriores"
+    }
+  ],
+  "stage2": {
+    "status": "completa con revisión estática",
+    "checks": [
+      {
+        "control": 1,
+        "status": "OK",
+        "evidence": "Noticia principal, cuatro entradas, editorial, lectura y logo despejado"
+      },
+      {
+        "control": 2,
+        "status": "OK",
+        "evidence": "Fotografía de archivo de la propia Ruta de la Fruta, licencia Creative Commons y evento no simulado"
+      },
+      {
+        "control": 3,
+        "status": "OK",
+        "evidence": "Tres fotos interiores (Estadio Nacional, Puente Chiapas de contexto y Capitolio), diferentes de las dos ediciones anteriores"
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "evidence": "Pie a 10px sans serif, links de autor/origen/licencia, fechas, miniatura sin recorte y texto alternativo"
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "evidence": "Composición amplia A; portada B, lectura fluida y C con lateral dentro de noticia extensa"
+      },
+      {
+        "control": 6,
+        "status": "pendiente",
+        "evidence": "CSS con alturas automáticas, sin lateral aislado, pero blancos no pueden descartarse sin inspección visual"
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "evidence": "Cuerpo en dos columnas justificado con guiones en escritorio; una columna alineada izquierda en móvil"
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "evidence": "Paleta matinal marfil/verde/terracota, franja y editorial diferenciado"
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "evidence": "Manuscrito íntegro: 12 títulos, bajadas, 52 párrafos y fuentes; voz original íntegra y pie exacto"
+      },
+      {
+        "control": 10,
+        "status": "no disponible",
+        "evidence": "Inspección visual no disponible; se completaron pruebas estáticas de CSS, anclas, etiquetas, fuentes, imágenes y funciones"
+      }
+    ],
+    "inspection": "estática; inspección visual no disponible",
+    "voice_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "audio_audible_verified": false,
+    "image_remote_load_verified": false,
+    "html_length_characters": 66985,
+    "articles": 12,
+    "paragraphs": 52,
+    "photo_count": 4,
+    "svg_count": 1,
+    "alternatives": [
+      "Fotografías de archivo con atribución y SVG original, sin utilizar fotografías de prensa no autorizadas",
+      "Casablanca SIN DATO VERIFICADO después de consultar alternativas"
+    ],
+    "warnings": [
+      "Grandes blancos y cargas remotas no comprobados visualmente"
+    ]
+  },
+  "paid_services_enabled": false,
+  "netlify_deployment_requested": false
+}
