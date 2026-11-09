@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T11:47:00-03:00",
+  "updated_at": "2026-11-09T11:55:00-03:00",
   "latest": {
     "matinal": {
       "fecha": "2026-11-09",
@@ -10,11 +10,11 @@
       "revision": "2026-11-09T11:47:00-03:00"
     },
     "vespertina": {
-      "fecha": "2026-11-07",
+      "fecha": "2026-11-08",
       "tipo": "vespertina",
-      "url": "ediciones/2026-11-07/vespertina.html",
-      "titulo": "Vespertina · 7 de noviembre de 2026",
-      "revision": "2026-11-07T15:12:24-03:00"
+      "url": "ediciones/2026-11-08/vespertina.html",
+      "titulo": "Vespertina · 8 de noviembre de 2026 (reconstruida el 9)",
+      "revision": "2026-11-09T11:55:00-03:00"
     }
   },
   "archivo": [
@@ -24,6 +24,13 @@
       "url": "ediciones/2026-11-09/matinal.html",
       "titulo": "Matinal · 9 de noviembre de 2026",
       "revision": "2026-11-09T11:47:00-03:00"
+    },
+    {
+      "fecha": "2026-11-08",
+      "tipo": "vespertina",
+      "url": "ediciones/2026-11-08/vespertina.html",
+      "titulo": "Vespertina · 8 de noviembre de 2026 (reconstruida el 9)",
+      "revision": "2026-11-09T11:55:00-03:00"
     },
     {
       "fecha": "2026-11-08",
