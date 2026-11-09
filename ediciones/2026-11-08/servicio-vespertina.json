@@ -1,0 +1,77 @@
+{
+  "fecha": "2026-11-08",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-09T11:55:00-03:00",
+  "updated_at": "2026-11-09T11:55:00-03:00",
+  "reconstruction": true,
+  "original_publication_missed": true,
+  "notice": "Edición retrospectiva producida 9 nov. 2026, no afirma disponibilidad ni conocimiento de los datos en el cierre ordinario del domingo.",
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "SIN DATO VERIFICADO",
+      "period": "domingo 8 noviembre 2026",
+      "reason": "No se recuperó pronóstico histórico verificable durante la reconstrucción.",
+      "source": "DMC / Yr",
+      "url": "https://www.yr.no/"
+    },
+    {
+      "city": "Concepción",
+      "value": "SIN DATO VERIFICADO",
+      "period": "domingo 8 noviembre 2026",
+      "reason": "No se recuperó pronóstico histórico verificable durante la reconstrucción.",
+      "source": "DMC / Yr",
+      "url": "https://www.yr.no/"
+    },
+    {
+      "city": "Casablanca",
+      "value": "SIN DATO VERIFICADO",
+      "period": "domingo 8 noviembre 2026",
+      "reason": "No se recuperó pronóstico histórico verificable durante la reconstrucción.",
+      "source": "DMC / Yr",
+      "url": "https://www.yr.no/"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$970,94",
+      "validity": "viernes 6 noviembre 2026, último día hábil anterior",
+      "source_url": "https://si3.bcentral.cl/siete/ES/Siete/Cuadro/CAP_TIPO_CAMBIO/MN_TIPO_CAMBIO4/DOLAR_OBS_ADO?idSerie=F073.TCO.PRE.Z.D"
+    },
+    {
+      "name": "UF",
+      "value": "$41.290,15",
+      "validity": "8 noviembre 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "SIN DATO VERIFICADO",
+      "validity": "8 noviembre 2026, día inhábil sin cotización confirmada",
+      "source_url": "https://www.bcentral.cl/inicio"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage1": {
+    "status": "RECONSTRUIDO",
+    "articles": 10,
+    "paragraphs": 77,
+    "source_links": 10,
+    "editorial_close": "2026-11-09T11:55:00-03:00"
+  },
+  "stage2": {
+    "status": "HTML_GENERADO",
+    "photo_count": 1,
+    "voice_script": true,
+    "photo_source": "Ivotoledo45, Ruta 66, Wikimedia Commons CC BY-SA 4.0, archivo 2019",
+    "photo_url": "https://commons.wikimedia.org/wiki/File:Ruta66_Chile_Inicio.jpg",
+    "visual_browser_check": "pendiente"
+  }
+}
