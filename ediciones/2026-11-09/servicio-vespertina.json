@@ -1,0 +1,313 @@
+{
+  "fecha": "2026-11-09",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "closed_at": "2026-11-09T15:06:37-03:00",
+  "stage1": {
+    "status": "OK",
+    "articles": 11,
+    "paragraphs": 44,
+    "editorial": true,
+    "manuscript_closed": true,
+    "morning_sha": "8338ae393753e702c44ffa3888422bafbfe4f8d5",
+    "morning_file": "ediciones/2026-11-09/matinal.html",
+    "previous_evening_sha": "ece6142de4532fc384f9da45c0f942b637e924ba",
+    "differences": [
+      "Manifestaciones camioneras verificadas el lunes",
+      "Proyecto de alzas anunciado hoy",
+      "Miller asume hoy",
+      "Apertura COP31 hoy",
+      "Movilización del INE mexicano"
+    ],
+    "news": [
+      {
+        "id": "transportes",
+        "title": "Camioneros se movilizan por el diésel y el Gobierno anuncia un proyecto de contención",
+        "links": [
+          "https://www.pauta.cl/actualidad/2026/11/09/paro-de-camioneros-por-alza-del-diesel-divide-a-gremios-del-transporte-dos-confederaciones-descartan-sumarse.html",
+          "https://www.elmostrador.cl/noticias/pais/2026/11/09/camioneros-se-le-paralizan-a-kast-protestas-por-alza-de-combustibles-se-extienden-por-el-centro-sur/",
+          "https://www.24horas.cl/actualidad/economia/kast-proyecto-alza-bencina-petroleo"
+        ]
+      },
+      {
+        "id": "tiempo",
+        "title": "Tormentas y chubascos posibles durante la noche en la zona central",
+        "links": [
+          "https://www.24horas.cl/el-tiempo/lluvia-santiago-pronostico-lunes-9-noviembre",
+          "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml"
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "title": "Presupuesto 2027: Educación y Ciencia ingresan a la nueva negociación sin acuerdo final",
+        "links": [
+          "https://cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-paso-a-la-camara-con-educacion-y-ciencia-rechazados/2026-11-06/071724.html",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/04/hacienda-logra-acuerdo-con-gobernadores-regionales-para-reponer-recursos-en-presupuesto-2027.shtml"
+        ]
+      },
+      {
+        "id": "rabat",
+        "title": "La acusación contra Rabat sigue anunciada y todavía no debe tratarse como votación consumada",
+        "links": [
+          "https://www.emol.com/noticias/Nacional/2026/11/08/1216462/soto-acusacion-constitucional-rabat-lista.html",
+          "https://cooperativa.cl/noticias/pais/gobierno/gobierno-pondra-discusion-inmediata-a-proyecto-para-derogar-de-raiz-la/2026-11-06/175825.html"
+        ]
+      },
+      {
+        "id": "miller",
+        "title": "Miller asume en la Casa Blanca mientras Trump matiza su discurso migratorio",
+        "links": [
+          "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
+          "https://apnews.com/article/73d62584b3ad81ef2f55742ee3ba4c35",
+          "https://apnews.com/article/a0a0593fab46dc8a24e89b03737d7a85"
+        ]
+      },
+      {
+        "id": "senado-eeuu",
+        "title": "El Senado debate permisos para nuevas infraestructuras y grandes centros de datos",
+        "links": [
+          "https://apnews.com/article/c6290598e26a7b01622e5c4eec571516"
+        ]
+      },
+      {
+        "id": "cop31",
+        "title": "La COP31 comienza en Antalya con financiación y combustibles fósiles como asuntos difíciles",
+        "links": [
+          "https://unfccc.int/cop31",
+          "https://unfccc.int/cop31/about",
+          "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/09/cop31-comeca-sem-os-eua-e-com-disputa-por-dinheiro-para-o-clima.ghtm"
+        ]
+      },
+      {
+        "id": "brasil",
+        "title": "Lula viaja a Turquía para la COP31 y prepara una segunda escala en Asia",
+        "links": [
+          "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/11/presidente-lula-participa-da-cupula-de-lideres-da-cop31-e-da-49a-reuniao-de-cupula-da-asean/",
+          "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/09/lula-nao-leva-aliados-da-campanha-a-turquia-frustrando-expectativa-de-montagem-do-governo.amp.htm"
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "Personal del INE convoca una paralización en veinte estados y reclama mejores condiciones",
+        "links": [
+          "https://www.elfinanciero.com.mx/nacional/2026/11/09/claudia-sheinbaum-mananera-temas-hoy-9-de-noviembre-de-2026-en-vivo/",
+          "https://www.cronica.com.mx/nacional/2026/11/09/paro-nacional-del-ine-que-estados-suspenderan-labores-este-9-de-noviembre-y-que-estan-exigiendo-trabajadores/"
+        ]
+      },
+      {
+        "id": "europa",
+        "title": "Protestas europeas cuestionan la expansión territorial de centros de datos",
+        "links": [
+          "https://www.lemonde.fr/en/economy/article/2026/11/09/protests-against-data-centers-held-across-europe_6775706_19.html"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "title": "Las conversaciones de Abu Dabi se preparan sin un alto el fuego previo",
+        "links": [
+          "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/09/apos-9-meses-negociacoes-sobre-guerra-na-ucrania-voltam-sem-cessar-fogo.ghtm",
+          "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/09/ucrania-quer-garantias-contra-nova-invasao-em-negociacoes-de-paz.ghtm"
+        ]
+      }
+    ]
+  },
+  "weather": [
+    {
+      "label": "Santiago",
+      "value": "Chubascos y tormentas posibles",
+      "time": "Noche del 9 a madrugada del 10",
+      "src": "DMC citada por 24 Horas",
+      "url": "https://www.24horas.cl/el-tiempo/lluvia-santiago-pronostico-lunes-9-noviembre",
+      "kind": "weather",
+      "note": "Pronóstico indirecto del medio que cita DMC; sin serie horaria original verificada",
+      "queried_at": "2026-11-09T15:06:37-03:00",
+      "timezone": "America/Santiago",
+      "period": "2026-11-09 tarde-noche",
+      "attempts": [
+        "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+        "https://www.24horas.cl/el-tiempo/lluvia-santiago-pronostico-lunes-9-noviembre",
+        "https://api.open-meteo.com/v1/forecast"
+      ],
+      "alternative_result": "Open-Meteo no accesible en el entorno; DMC/Yr no entregaron datos horarios directos; excepción para Santiago procedente de 24 Horas con atribución DMC"
+    },
+    {
+      "label": "Concepción",
+      "value": "SIN DATO VERIFICADO",
+      "time": "Lunes 9, tarde-noche",
+      "src": "DMC y Yr: consulta sin valor extraíble",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-3893894/Chile/Biobio/Provincia%20de%20Concepci%C3%B3n/Concepci%C3%B3n",
+      "kind": "weather",
+      "note": "No se pudo confirmar dato meteorológico local de fuente primaria",
+      "queried_at": "2026-11-09T15:06:37-03:00",
+      "timezone": "America/Santiago",
+      "period": "2026-11-09 tarde-noche",
+      "attempts": [
+        "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+        "https://www.yr.no/en/forecast/daily-table/2-3893894/Chile/Biobio/Provincia%20de%20Concepci%C3%B3n/Concepci%C3%B3n",
+        "https://api.open-meteo.com/v1/forecast"
+      ],
+      "alternative_result": "Open-Meteo no accesible en el entorno; DMC/Yr no entregaron datos horarios directos; excepción para Santiago procedente de 24 Horas con atribución DMC"
+    },
+    {
+      "label": "Casablanca",
+      "value": "SIN DATO VERIFICADO",
+      "time": "Lunes 9, tarde-noche",
+      "src": "DMC y Yr: consulta sin valor extraíble",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-3896410/Chile/Regi%C3%B3n%20de%20Valpara%C3%ADso/Provincia%20de%20Valpara%C3%ADso/Casablanca",
+      "kind": "weather",
+      "note": "No se pudo confirmar dato meteorológico local de fuente primaria",
+      "queried_at": "2026-11-09T15:06:37-03:00",
+      "timezone": "America/Santiago",
+      "period": "2026-11-09 tarde-noche",
+      "attempts": [
+        "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+        "https://www.yr.no/en/forecast/daily-table/2-3896410/Chile/Regi%C3%B3n%20de%20Valpara%C3%ADso/Provincia%20de%20Valpara%C3%ADso/Casablanca",
+        "https://api.open-meteo.com/v1/forecast"
+      ],
+      "alternative_result": "Open-Meteo no accesible en el entorno; DMC/Yr no entregaron datos horarios directos; excepción para Santiago procedente de 24 Horas con atribución DMC"
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Dólar observado",
+      "value": "$979,88",
+      "time": "9 nov. · CLP/USD",
+      "src": "Banco Central",
+      "url": "https://www.bcentral.cl/en/inicio/-/details/cabecera-paridades-y-tipos-de-cambio",
+      "kind": "market",
+      "queried_at": "2026-11-09T15:06:37-03:00",
+      "validity": "2026-11-09"
+    },
+    {
+      "label": "UF",
+      "value": "$41.295,46",
+      "time": "9 nov. · CLP/UF",
+      "src": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "kind": "market",
+      "queried_at": "2026-11-09T15:06:37-03:00",
+      "validity": "2026-11-09"
+    },
+    {
+      "label": "Euro",
+      "value": "$1.092,40",
+      "time": "9 nov. · CLP/EUR",
+      "src": "Banco Central",
+      "url": "https://www.bcentral.cl/en/inicio/-/details/cabecera-paridades-y-tipos-de-cambio",
+      "kind": "market",
+      "queried_at": "2026-11-09T15:06:37-03:00",
+      "validity": "2026-11-09"
+    },
+    {
+      "label": "UTM",
+      "value": "$72.440",
+      "time": "noviembre 2026 · CLP/UTM",
+      "src": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "kind": "market",
+      "queried_at": "2026-11-09T15:06:37-03:00",
+      "validity": "2026-11"
+    }
+  ],
+  "images": [
+    {
+      "kind": "photo",
+      "file": "Ruta 5 Sur Chile (km 104,8).jpg",
+      "author": "Benjaminpvera",
+      "year": "2021 (archivo)",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruta_5_Sur_Chile_%28km_104%2C8%29.jpg?width=850",
+      "origin": "https://commons.wikimedia.org/wiki/File:Ruta_5_Sur_Chile_(km_104,8).jpg",
+      "alt": "Vista de la Ruta 5 Sur de Chile en fotografía de archivo anterior a 2026. No representa las protestas de este lunes.",
+      "license": "CC BY-SA 4.0",
+      "load_verified": false
+    },
+    {
+      "kind": "photo",
+      "file": "Salón de Honor, Congreso Nacional de Chile.jpg",
+      "author": "B1mbo",
+      "year": "24 julio 2008",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Sal%C3%B3n_de_Honor%2C_Congreso_Nacional_de_Chile.jpg?width=850",
+      "origin": "https://commons.wikimedia.org/wiki/File:Sal%C3%B3n_de_Honor%2C_Congreso_Nacional_de_Chile.jpg",
+      "alt": "Salón de Honor del Congreso Nacional de Chile en Valparaíso fotografiado en 2008; archivo no asociado a una votación actual.",
+      "license": "CC BY-SA 4.0",
+      "load_verified": false
+    },
+    {
+      "kind": "original_svg",
+      "count": 5,
+      "credit": "PANORAMA"
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "checks": [
+      {
+        "control": 1,
+        "status": "OK",
+        "detail": "Portada, cuatro entradas, editorial y tiempo de lectura"
+      },
+      {
+        "control": 2,
+        "status": "corregido con alternativa",
+        "detail": "Fotografía documental de archivo Ruta 5 con autor, fecha y CC BY-SA; sin simular movilización"
+      },
+      {
+        "control": 3,
+        "status": "corregido con alternativa",
+        "detail": "Foto de archivo Congreso y cinco infografías originales interiores; no se repiten imágenes de las dos ediciones previas"
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "detail": "Créditos 10px con origen y licencia, contexto de archivo, texto alternativo"
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "detail": "Reportaje, mosaico jerarquizado e interiores con columnas equilibradas"
+      },
+      {
+        "control": 6,
+        "status": "pendiente",
+        "detail": "Alturas automáticas y medios centrados; espacios en blanco sin inspección visual"
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "detail": "Cuerpo justificado e hyphens auto escritorio; una columna e izquierda móvil"
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "detail": "Paleta marfil, terracota y cobre; servicios en grupos centrados"
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "detail": "Igualdad texto, bajadas, enlaces del manuscrito y HTML, voz original y pie literal"
+      },
+      {
+        "control": 10,
+        "status": "no disponible",
+        "detail": "Inspección visual no disponible; solo revisión estática"
+      }
+    ],
+    "inspection": "inspección visual no disponible",
+    "article_integrity": true,
+    "photo_count": 2,
+    "svg_count": 5,
+    "html_chars": 62750,
+    "external_links": 35,
+    "broken_anchors": [],
+    "voice_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "audible_verified": false,
+    "photo_load_verified": false,
+    "notes": [
+      "Carga externa de fotografías no comprobable",
+      "Concepción y Casablanca SIN DATO VERIFICADO",
+      "Aviso Santiago DMC atribuido por medio, no serie primaria"
+    ]
+  },
+  "paid_services": false,
+  "netlify_changes": false
+}
