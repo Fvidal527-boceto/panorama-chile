@@ -1,0 +1,76 @@
+{
+  "fecha": "2026-11-10",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-10T11:20:00-03:00",
+  "updated_at": "2026-11-10T11:20:00-03:00",
+  "reconstruction": true,
+  "original_schedule_missed": true,
+  "weather": [
+    {
+      "city": "Santiago",
+      "period": "martes 10 de noviembre de 2026",
+      "value": "SIN DATO VERIFICADO",
+      "reason": "No se obtuvo previsión local vigente verificable durante recuperación",
+      "source": "DMC / Yr",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml"
+    },
+    {
+      "city": "Concepción",
+      "period": "martes 10 de noviembre de 2026",
+      "value": "SIN DATO VERIFICADO",
+      "reason": "No se obtuvo previsión local vigente verificable durante recuperación",
+      "source": "DMC / Yr",
+      "url": "https://www.yr.no/"
+    },
+    {
+      "city": "Casablanca",
+      "period": "martes 10 de noviembre de 2026",
+      "value": "SIN DATO VERIFICADO",
+      "reason": "No se obtuvo previsión local vigente verificable durante recuperación",
+      "source": "DMC / Yr",
+      "url": "https://www.yr.no/"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$969,80",
+      "validity": "10 de noviembre de 2026",
+      "source_url": "https://www.bcentral.cl/inicio"
+    },
+    {
+      "name": "UF",
+      "value": "$41.302,33",
+      "validity": "10 de noviembre de 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.086,61",
+      "validity": "10 de noviembre de 2026",
+      "source_url": "https://www.bcentral.cl/inicio"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre de 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage1": {
+    "status": "RECUPERACION",
+    "articles": 11,
+    "paragraphs": 83,
+    "editorial_close": "2026-11-10T11:20:00-03:00",
+    "note": "Publicación retrospectiva de matinal de 10 noviembre, después del horario por falla de automatización. Noticias enlazadas a fuentes originales."
+  },
+  "stage2": {
+    "status": "HTML_GENERADO",
+    "photo_count": 1,
+    "voice_script": true,
+    "visual_browser_check": "pendiente",
+    "photo_source": "ShootingStarMax, Wikimedia Commons, CC BY-SA 4.0, fotografía de archivo 2017, Congreso Nacional Chile",
+    "photo_url": "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional_de_Chile_(Valparaíso).jpg"
+  }
+}
