@@ -72,5 +72,34 @@ for(const type of ['matinal','vespertina']){
   }
   console.log('RESUMEN '+type+': '+count+' articulos, '+paragraphs+' parrafos, '+citations+' referencias de fuentes.');
 }
+// En verificaciones PROGRAMADAS, una edicion anterior no basta para dar por
+// realizada la publicacion del turno actual. En push no exigimos frescura:
+// los commits intermedios de la secuencia de publicacion son validos.
+if(process.env.GITHUB_EVENT_NAME==='schedule'){
+  const parts=new Intl.DateTimeFormat('en-CA',{
+    timeZone:'America/Santiago',year:'numeric',month:'2-digit',day:'2-digit',
+    hour:'2-digit',hourCycle:'h23'
+  }).formatToParts(new Date());
+  const p=Object.fromEntries(parts.map(x=>[x.type,x.value]));
+  const today=p.year+'-'+p.month+'-'+p.day;
+  const hour=Number(p.hour);
+  const turn=hour>=16?'vespertina':hour>=8?'matinal':null;
+  if(turn){
+    const expected='ediciones/'+today+'/'+turn+'.html';
+    const entry=index.latest[turn];
+    check(Boolean(entry&&entry.fecha===today&&entry.url===expected&&
+      fs.existsSync(path.join(root,expected))),
+      'PUBLICACION DEL TURNO: '+turn+' '+today+
+      ' debe existir y figurar como ultima edicion (actual: '+
+      (entry?.fecha||'sin fecha')+')');
+    if(!entry||entry.fecha!==today){
+      console.error('::error title=PANORAMA sin nueva edicion::'+
+        'El control programado detecto la ausencia de '+turn+' '+today+
+        '. Revisar automatizacion de produccion de ChatGPT; '+ 
+        'GitHub Actions solo verifica, no genera contenido editorial.');
+    }
+  }
+}
+
 if(fails){console.error('CONTROL EDITORIAL FALLIDO: '+fails+' incumplimientos.');process.exitCode=1;}
 else console.log('CONTROL EDITORIAL APROBADO.');
