@@ -1,0 +1,77 @@
+{
+  "fecha": "2026-11-10",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "queried_at": "2026-11-10T18:08:00-03:00",
+  "updated_at": "2026-11-10T18:08:00-03:00",
+  "reconstruction": true,
+  "original_schedule_missed": true,
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "SIN DATO VERIFICADO",
+      "period": "10 noviembre 2026 vespertina",
+      "reason": "Pronóstico no verificado en la ejecución de recuperación",
+      "source": "MeteoChile / Yr",
+      "url": "https://www.yr.no/"
+    },
+    {
+      "city": "Concepción",
+      "value": "SIN DATO VERIFICADO",
+      "period": "10 noviembre 2026 vespertina",
+      "reason": "Pronóstico no verificado en la ejecución de recuperación",
+      "source": "MeteoChile / Yr",
+      "url": "https://www.yr.no/"
+    },
+    {
+      "city": "Casablanca",
+      "value": "SIN DATO VERIFICADO",
+      "period": "10 noviembre 2026 vespertina",
+      "reason": "Pronóstico no verificado en la ejecución de recuperación",
+      "source": "MeteoChile / Yr",
+      "url": "https://www.yr.no/"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$969,80",
+      "validity": "10 noviembre 2026",
+      "source_url": "https://www.bcentral.cl/inicio"
+    },
+    {
+      "name": "UF",
+      "value": "$41.302,33",
+      "validity": "10 noviembre 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.086,61",
+      "validity": "10 noviembre 2026",
+      "source_url": "https://www.bcentral.cl/inicio"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre 2026",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage1": {
+    "status": "RECUPERACION",
+    "articles": 11,
+    "paragraphs": 83,
+    "source_links": 16,
+    "editorial_close": "2026-11-10T18:08:00-03:00",
+    "note": "Contenido recuperado posteriormente al horario ordinario; incorpora hechos difundidos durante la tarde."
+  },
+  "stage2": {
+    "status": "HTML_GENERADO",
+    "photographs": 1,
+    "voice_script": true,
+    "visual_browser_check": "pendiente",
+    "photo_note": "Fotografía de archivo de infraestructura vial; no corresponde a las movilizaciones. Licencia y atribución deben verificarse en Wikimedia Commons.",
+    "photo_url": "https://commons.wikimedia.org/wiki/File:Carretera_de_la_Fruta,_Ruta_CH_66_entre_Pelequ%C3%A9n_y_San_Antonio_Chile.JPG"
+  }
+}
