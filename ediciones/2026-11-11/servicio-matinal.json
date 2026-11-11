@@ -1,0 +1,72 @@
+{
+  "fecha": "2026-11-11",
+  "tipo": "matinal",
+  "zona": "America/Santiago",
+  "updated_at": "2026-11-11",
+  "recovery": true,
+  "closure": "Edición recuperada después del horario ordinario; contenido investigado el 11 de noviembre.",
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "29 °C / 15 °C",
+      "description": "Nubes y claros",
+      "source": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "period": "2026-11-11"
+    },
+    {
+      "city": "Concepción",
+      "value": "26 °C / 11 °C",
+      "description": "Soleado",
+      "source": "UK Met Office",
+      "url": "https://weather.metoffice.gov.uk/forecast/63knc6f6q?new-design=false",
+      "period": "2026-11-11"
+    },
+    {
+      "city": "Casablanca",
+      "value": "30 °C / 16 °C",
+      "description": "Poco nublado, mínima nocturna",
+      "source": "tiempo.es",
+      "url": "https://www.tiempo.es/el-tiempo/para-7-dias/chile-casablanca-cl3896410.html",
+      "period": "2026-11-11"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$977,05",
+      "validity": "11 noviembre 2026",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UF",
+      "value": "$41.309,19",
+      "validity": "11 noviembre 2026",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.089,61",
+      "validity": "11 noviembre 2026",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre 2026",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "stage1": {
+    "articles": 11,
+    "paragraphs": 83,
+    "source_links": 19
+  },
+  "stage2": {
+    "html": true,
+    "reader": true,
+    "photo": true,
+    "visual_review": "pendiente",
+    "photo_caveat": "Archivo contextual, no fotografía del hecho; ficha de autoría y licencia en Wikimedia Commons"
+  }
+}
