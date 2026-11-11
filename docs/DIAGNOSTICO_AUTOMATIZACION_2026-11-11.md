@@ -52,3 +52,11 @@ No cambiar programación horaria, modelo 1 de respaldo, Netlify, workflows ni Gi
 4. Conservar esta decisión en el repositorio y comunicarla al propietario. Las invitaciones a lectores siguen condicionadas a continuidad real y calidad; no enviarlas sin autorización.
 
 Este registro debe complementarse con resultados nuevos; no sustituye el documento `docs/CONTINUIDAD_EDITORIAL_Y_OPERATIVA_2026-11-11.md`.
+
+## Intervención efectuada y puerta de decisión (actualización 11-11-2026)
+
+**Acción 1 completada en su alcance accesible:** contraste de producción correcta e incompleta; horarios, commits, estados observados y advertencias; respaldo preparado para escalamiento a soporte. No existe registro suficiente para atribuir la desactivación a una causa determinada; no se afirma una resolución que no se ha probado.
+
+**Acción 2 aplicada como prueba reversible:** instrucciones activas de tareas matinal y vespertina reducidas respectivamente desde 13.208 y 13.292 caracteres a aproximadamente 5.610 y 5.578, conservando las tres etapas editoriales, los requisitos fundamentales y las rutas de documentos originales. Se mantuvieron las tareas habilitadas y sus horarios originales. Los originales íntegros permanecen en `docs/respaldos/`. No se modifica Modelo N.º 1, el diseño 2.3, el control GitHub ni Netlify. **No se declara demostrada la estabilidad; solo después de nuevas ejecuciones se evaluará si el cambio mejora realmente el resultado.**
+
+**Tarea de revisión creada:** `PANORAMA · Decidir acciones 3 y 4`, identificador `Automation_316325a65a008191b992e0d964d73516`, revisión única programada para el **martes 17 de noviembre de 2026, por la tarde (America/Santiago)**, en modalidad flexible. La tarea debe emitir una recomendación por separado sobre acciones 3 y 4, registrar la decisión y pedir aprobación antes de cualquier cambio. **No autoriza implementación automática de las acciones 3 y 4.**
