@@ -1,0 +1,64 @@
+{
+  "fecha": "2026-11-11",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "recovery": true,
+  "closure": "Edición recuperada tras falta de publicación automática; elaborada después de las 19:45 hora Santiago",
+  "articles": 10,
+  "source_links": 17,
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "29 °C / 15 °C",
+      "description": "Nubes y claros; pronóstico diario, no medición nocturna",
+      "date": "2026-11-11",
+      "source": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html"
+    },
+    {
+      "city": "Concepción",
+      "value": "26 °C / 11 °C",
+      "description": "Soleado; pronóstico diario, no medición nocturna",
+      "date": "2026-11-11",
+      "source": "Met Office",
+      "url": "https://weather.metoffice.gov.uk/forecast/63knc6f6q?new-design=false"
+    },
+    {
+      "city": "Casablanca",
+      "value": "30 °C / 16 °C",
+      "description": "Poco nublado; pronóstico diario, no medición nocturna",
+      "date": "2026-11-11",
+      "source": "tiempo.es",
+      "url": "https://www.tiempo.es/el-tiempo/para-7-dias/chile-casablanca-cl3896410.html"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar",
+      "value": "$977,05",
+      "date": "2026-11-11",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UF",
+      "value": "$41.309,19",
+      "date": "2026-11-11",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.089,61",
+      "date": "2026-11-11",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "date": "2026-11",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "design": "HTML y CSS heredados sin cambios de la vespertina 2026-11-10",
+  "voice": "mismo script de lector por voz",
+  "photo_note": "Imagen carretera de archivo con enlace a ficha original; licencia individual debe verificarse"
+}
