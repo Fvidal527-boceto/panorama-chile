@@ -3,7 +3,7 @@
   "tipo": "matinal",
   "zona": "America/Santiago",
   "recuperacion": true,
-  "nota": "Recuperación posterior al horario habitual. La hora de cierre declarada en índice es referencial; verificar hora del commit. Datos obtenidos de fuentes de prensa y servicios consultadas el 12 de noviembre.",
+  "nota": "Recuperación fuera del horario habitual; pronóstico de Casablanca confirmado en página geográfica de Región de Valparaíso, Chile (corrección 08:53 CLST).",
   "weather": [
     {
       "city": "Santiago",
@@ -23,11 +23,11 @@
     },
     {
       "city": "Casablanca",
-      "value": "22° / 13°",
-      "description": "Lluvia moderada",
+      "value": "30° / 14°",
+      "description": "Nubes y claros",
       "period": "2026-11-12",
-      "source": "Meteored",
-      "url": "https://www.meteored.cl/casablanca-1-519951.html"
+      "source": "Meteored · Casablanca, Región de Valparaíso, Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html"
     }
   ],
   "indicators": [
