@@ -1,0 +1,84 @@
+{
+  "fecha": "2026-11-12",
+  "tipo": "vespertina",
+  "zona": "America/Santiago",
+  "recuperacion": true,
+  "closure": "Recuperación manual posterior a las 17:23, tras fallo de automatización",
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "32° / 17°",
+      "forecast": "Nubes y claros",
+      "period": "2026-11-12",
+      "source": "Meteored (pronóstico diario reutilizado de matinal)",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html"
+    },
+    {
+      "city": "Concepción",
+      "value": "23° / 11°",
+      "forecast": "Nubes y claros",
+      "period": "2026-11-12",
+      "source": "Meteored (pronóstico diario reutilizado de matinal)",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html"
+    },
+    {
+      "city": "Casablanca",
+      "value": "22° / 13°",
+      "forecast": "Lluvia moderada",
+      "period": "2026-11-12",
+      "source": "Meteored (pronóstico diario reutilizado de matinal)",
+      "url": "https://www.meteored.cl/casablanca-1-519951.html"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$984,49",
+      "validity": "12 nov.",
+      "source": "https://si3.bcentral.cl/indicadoressiete/secure/indicadoresdiarios.aspx"
+    },
+    {
+      "name": "UF",
+      "value": "$41.316,06",
+      "validity": "12 nov.",
+      "source": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.091,82",
+      "validity": "12 nov.",
+      "source": "https://si3.bcentral.cl/indicadoressiete/secure/indicadoresdiarios.aspx"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "nov. 2026",
+      "source": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "articles": 11,
+  "paragraphs": 83,
+  "source_blocks": 11,
+  "source_links": 19,
+  "photos": [
+    {
+      "page": "https://commons.wikimedia.org/wiki/File:Ruta_5_Sur_Chile_(km_104,8).jpg",
+      "notice": "Foto contextual de archivo; comprobar atribución y licencia en ficha individual"
+    },
+    {
+      "page": "https://commons.wikimedia.org/wiki/File:Sal%C3%B3n_de_Honor,_Congreso_Nacional_de_Chile.jpg",
+      "notice": "Foto contextual de archivo; comprobar atribución y licencia en ficha individual"
+    }
+  ],
+  "quality": {
+    "html": "checked",
+    "same_template": true,
+    "voice_script": true,
+    "visual": "pendiente GitHub Actions",
+    "public": "pendiente"
+  },
+  "automation": {
+    "status": "falló; intervención manual necesaria"
+  },
+  "cost": "sin nuevos servicios"
+}
