@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-13",
+  "turn": "vespertina",
+  "queried_at": "2026-11-13T15:05:19-03:00",
+  "time_zone": "America/Santiago",
+  "stage1": {
+    "status": "OK",
+    "morning_path": "ediciones/2026-11-13/matinal.html",
+    "articles": [
+      {
+        "id": "temuco",
+        "title": "Temuco pone fin al paro camionero, pero el acuerdo nacional todavía tiene resistencias",
+        "paragraphs": 5,
+        "sources": [
+          "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/11/13/camioneros-ponen-fin-a-paro-en-temuco-luego-de-tres-dias-y-medio-de-movilizacion.shtml",
+          "https://www.cooperativa.cl/noticias/pais/manifestaciones/camioneros-de-temuco-rengo-y-buses-interurbanos-desconocen-acuerdo-y/2026-11-12/220053.html"
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "title": "La Cámara despacha el Presupuesto 2027 tras una sesión maratónica y deja siete partidas rechazadas",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.emol.com/noticias/Nacional/2026/11/13/1216947/camara-despacha-presupuesto-2027.html",
+          "https://www.camara.cl/"
+        ]
+      },
+      {
+        "id": "educacion",
+        "title": "Educación y Ciencia: lo que aún no puede concluirse del rechazo presupuestario",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.emol.com/noticias/Nacional/2026/11/13/1216947/camara-despacha-presupuesto-2027.html",
+          "https://www.camara.cl/"
+        ]
+      },
+      {
+        "id": "pacto",
+        "title": "El pacto por el diésel divide a los gremios y abre una disputa sobre el uso de recursos públicos",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/13/ministro-arrau-advierte-que-carabineros-va-a-despejar-rutas-donde-camioneros-mantengan-protestas.shtml",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/13/toha-critica-acuerdo-con-camioneros-y-destaca-que-lagos-y-boric-hicieron-cumplir-la-ley.shtml",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/13/araya-cndc-critica-a-camioneros-que-siguen-en-paro-creyeron-que-ibamos-a-tener-un-petroleo-a-900.shtml"
+        ]
+      },
+      {
+        "id": "bndes",
+        "title": "BNDES anuncia fondos capaces de movilizar hasta R$ 39.000 millones: la cifra es potencial, no desembolso",
+        "paragraphs": 4,
+        "sources": [
+          "https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/bndes-anuncia-fundos-com-potencial-de-atrair-r-39-bi-para-projetos-climaticos-no-brasil.shtml",
+          "https://agenciagov.ebc.com.br/noticias/202611/presidente-lula-leva-legado-de-belem-a-cop31-e-conclama-lideres-mundiais-a-recolocar-a-acao-climatica-na-agenda-global"
+        ]
+      },
+      {
+        "id": "cop31",
+        "title": "La cumbre climática enfrenta críticas indígenas y preguntas sobre la influencia de empresas fósiles",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.theguardian.com/environment/2026/nov/12/start-listening-indigenous-activist-implores-albanese-to-block-new-coal-oil-and-gas",
+          "https://www.welt.de/article6af6d2325a72dceba1d611e2",
+          "https://unfccc.int/cop31"
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "Sheinbaum rechaza militarizar la frontera ante la amenaza arancelaria de Trump",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.eleconomista.com.mx/politica/sheinbaum-descarta-militarizar-frontera-amenaza-trump-duplicar-aranceles-caravanas-20261112-843595.html?facet=app&mode=light",
+          "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+        ]
+      },
+      {
+        "id": "papa",
+        "title": "León XIV llegó a Chiclayo: el regreso a su antigua diócesis ya es un hecho",
+        "paragraphs": 4,
+        "sources": [
+          "https://www.vaticannews.va/pt/papa/news/2026-11/papa-leao-encontra-querida-chiclayo.html",
+          "https://www.vaticannews.va/es/papa/news/2026-11/viaje-apostolico-el-papa-llega-a-lima-peru-desde-argentina.html"
+        ]
+      },
+      {
+        "id": "senado",
+        "title": "Van Hollen desafía a Schumer y abre una disputa por el liderazgo demócrata del Senado",
+        "paragraphs": 4,
+        "sources": [
+          "https://apnews.com/article/6d74c189cb6c065c9a810a1cf1a53436",
+          "https://apnews.com/article/c5a182727397e964b19ad0dec5aeca42"
+        ]
+      },
+      {
+        "id": "ice",
+        "title": "ICE informa 483.200 deportaciones en un año, sin ofrecer todavía el desglose necesario para evaluar los casos",
+        "paragraphs": 4,
+        "sources": [
+          "https://abcnews.com/Politics/wireStory/ice-reports-record-high-immigration-arrests-deportations-trumps-138083036",
+          "https://efe.com/mundo/2026-11-12/estados-unidos-supera-deportaciones2026-record/"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "title": "Europa pide voz en las negociaciones mientras el frente ruso-ucraniano registra ataques masivos",
+        "paragraphs": 5,
+        "sources": [
+          "https://apnews.com/article/157d168cb7ff9cae318cbf6cecb3988f",
+          "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates?source=newscura"
+        ]
+      },
+      {
+        "id": "espana",
+        "title": "España aprueba medidas de vivienda por un voto de diferencia y lleva el debate a la campaña",
+        "paragraphs": 4,
+        "sources": [
+          "https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450",
+          "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+        ]
+      }
+    ],
+    "word_count": 2659,
+    "editorial": [
+      "El levantamiento del paro en Temuco muestra algo más útil que una consigna: el conflicto empieza a cambiar cuando se identifican interlocutores, condiciones y actos concretos. La rebaja anunciada para el diésel importa, pero su financiamiento, puesta en vigor y distribución deben ser examinados con el mismo rigor que la ocupación de rutas.",
+      "El Presupuesto 2027 deja otra prueba de responsabilidad pública. Que una partida sea rechazada en la Cámara no la convierte automáticamente en una política cancelada. El periodismo debe conocer el procedimiento y advertir sus incertidumbres, no aumentar la ansiedad institucional por un titular anticipado.",
+      "En Brasil se anuncian miles de millones de reales para transición climática: buena noticia si llegan a proyectos con resultados medibles. En Europa, la guerra exige a los gobiernos distinguir deseos de paz y garantías reales de seguridad. En México, una amenaza arancelaria no equivale todavía a una resolución comercial publicada.",
+      "El criterio común es rendición de cuentas. Publicar quién prometió qué, con qué recursos, bajo qué marco jurídico y qué cambia después. Ese estándar es exigible a gobiernos, partidos, empresas y también a PANORAMA."
+    ],
+    "material_differences": [
+      "Temuco pasó de anunciar resistencia al acuerdo a levantar la protesta con autoridades regionales",
+      "Cámara concluyó trámite del Presupuesto 2027 con siete partidas rechazadas y pasó al Senado",
+      "BNDES anunció potencial financiero concreto para proyectos climáticos",
+      "Van Hollen formalizó su desafío al liderazgo demócrata del Senado",
+      "Ucrania informó ataques masivos y la controversia sobre entrada de delegados europeos permanece abierta"
+    ],
+    "sources_date": "2026-11-13"
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "desc": "Soleado",
+      "max": "30°",
+      "min": "18°",
+      "src": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "attempts": [
+        "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+        "https://www.yr.no/en/forecast/daily-table/2-3871336/Chile/Santiago",
+        "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html"
+      ],
+      "note": "DMC contiene meteograma horario; Meteored expone máxima/mínima diaria para Santiago",
+      "validity": "2026-11-13",
+      "queried_at": "2026-11-13T15:05:19-03:00",
+      "time_zone": "America/Santiago",
+      "kind": "pronóstico de modelo diario"
+    },
+    {
+      "city": "Concepción",
+      "desc": "Nubes y claros",
+      "max": "28°",
+      "min": "12°",
+      "src": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "attempts": [
+        "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+        "https://www.yr.no/",
+        "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html"
+      ],
+      "note": "Meteored ficha Biobío, no otra ciudad homónima",
+      "validity": "2026-11-13",
+      "queried_at": "2026-11-13T15:05:19-03:00",
+      "time_zone": "America/Santiago",
+      "kind": "pronóstico de modelo diario"
+    },
+    {
+      "city": "Casablanca",
+      "desc": "Soleado",
+      "max": "27°",
+      "min": "14°",
+      "src": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "attempts": [
+        "https://www.yr.no/",
+        "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html"
+      ],
+      "note": "Ficha confirma Región de Valparaíso, Chile; no Casablanca Marruecos",
+      "validity": "2026-11-13",
+      "queried_at": "2026-11-13T15:05:19-03:00",
+      "time_zone": "America/Santiago",
+      "kind": "pronóstico de modelo diario"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "val": "$992,48",
+      "period": "CLP/USD · 13 nov.",
+      "url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-13T15:05:19-03:00",
+      "validity": "2026-11-13"
+    },
+    {
+      "name": "UF",
+      "val": "$41.322,93",
+      "period": "CLP/UF · 13 nov.",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-13T15:05:19-03:00",
+      "validity": "2026-11-13"
+    },
+    {
+      "name": "Euro",
+      "val": "$1.096,91",
+      "period": "CLP/EUR · 13 nov.",
+      "url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-13T15:05:19-03:00",
+      "validity": "2026-11-13"
+    },
+    {
+      "name": "UTM",
+      "val": "$72.440",
+      "period": "CLP/UTM · nov. 2026",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-13T15:05:19-03:00",
+      "validity": "noviembre 2026"
+    }
+  ],
+  "photos": [
+    {
+      "file": "Ruta5ercillaraucaniachile.JPG",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruta5ercillaraucaniachile.JPG?width=900",
+      "page": "https://commons.wikimedia.org/wiki/File:Ruta5ercillaraucaniachile.JPG",
+      "author": "Sergio Arturo Poblete Valdebenito",
+      "date": "julio de 2010",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "Ruta 5 Sur en Ercilla, fotografía documental de 2010; no muestra el paro de noviembre de 2026",
+      "source_rights_verified": true,
+      "remote_image_load_verified": false
+    },
+    {
+      "file": "Cámara de Diputados de Chile.jpg",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A1mara_de_Diputados_de_Chile.jpg?width=900",
+      "page": "https://commons.wikimedia.org/wiki/File:C%C3%A1mara_de_Diputados_de_Chile.jpg",
+      "author": "B1mbo",
+      "date": "24 de julio de 2008",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Interior de la Cámara de Diputados de Chile en Valparaíso, foto de 2008; no es la sesión del presupuesto 2027",
+      "source_rights_verified": true,
+      "remote_image_load_verified": false
+    },
+    {
+      "file": "Amazon23 (5641590542).jpg",
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon23_%285641590542%29.jpg?width=900",
+      "page": "https://commons.wikimedia.org/wiki/File:Amazon23_(5641590542).jpg",
+      "author": "Neil Palmer / CIAT",
+      "date": "19 de abril de 2011",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "Vista aérea de bosque amazónico cerca de Manaos en archivo de 2011; no ilustra la firma de fondos climáticos de 2026",
+      "source_rights_verified": true,
+      "remote_image_load_verified": false
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "checks": [
+      {
+        "n": 1,
+        "status": "OK",
+        "detail": "principal, cuatro entradas, editorial, lectura y cabecera"
+      },
+      {
+        "n": 2,
+        "status": "OK",
+        "detail": "foto documental Ruta 5 Ercilla 2010, autor, CC0 y carácter archivo"
+      },
+      {
+        "n": 3,
+        "status": "OK",
+        "detail": "fotos interiores de Cámara y Amazonía con créditos; sin repetir dos ediciones anteriores"
+      },
+      {
+        "n": 4,
+        "status": "OK",
+        "detail": "créditos 10px con licencia y fuente vinculadas"
+      },
+      {
+        "n": 5,
+        "status": "OK",
+        "detail": "reportaje A, mosaico B, artículos secuenciales C sin recortar contenido"
+      },
+      {
+        "n": 6,
+        "status": "pendiente",
+        "detail": "CSS de alturas auto y columnas balanceadas; blancos solo pueden comprobarse visualmente"
+      },
+      {
+        "n": 7,
+        "status": "OK",
+        "detail": "justificado con hyphens escritorio; izquierda móvil"
+      },
+      {
+        "n": 8,
+        "status": "OK",
+        "detail": "paleta vespertina marfil terracota cobre y servicio compacto"
+      },
+      {
+        "n": 9,
+        "status": "OK",
+        "detail": "12 manuscritos íntegros, fuentes, voz inline y descargo exacto"
+      },
+      {
+        "n": 10,
+        "status": "no disponible",
+        "detail": "inspección visual no disponible; chequeo estructural estático"
+      }
+    ],
+    "review": "inspección visual no disponible",
+    "html_length": 56593,
+    "photos": 3,
+    "svg": 2,
+    "anchors_valid": true,
+    "article_count": 12,
+    "voice_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "voice_inline": true,
+    "audible_verified": false,
+    "remote_photos_verified": false
+  },
+  "stage3": {
+    "status": "prepared pending GitHub commit"
+  },
+  "cost": "cero",
+  "netlify_modified": false
+}
