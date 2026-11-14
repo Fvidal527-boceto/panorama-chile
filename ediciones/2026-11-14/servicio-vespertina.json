@@ -1,0 +1,254 @@
+{
+  "fecha": "2026-11-14",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "consulted_at": "2026-11-14T15:03:34-03:00",
+  "editorial_closed_at": "2026-11-14T15:03:34-03:00",
+  "stage0": {
+    "status": "OK",
+    "morning_file": "ediciones/2026-11-14/matinal.html",
+    "morning_sha": "fbdac6bb0c5a742d6dc2e84623aaf054718b86ee",
+    "previous_evening_sha": "753fbb51f79a16526b1cc5ddf18562260945a03c",
+    "new_turn_confirmed_missing_before_write": true
+  },
+  "stage1": {
+    "status": "OK",
+    "article_count": 12,
+    "paragraph_count": 51,
+    "editorial": "El costo de una promesa",
+    "cover_stories": 4,
+    "manuscript_closed": true,
+    "regions": [
+      "Chile y regiones",
+      "Brasil",
+      "México",
+      "Guatemala",
+      "Perú",
+      "Estados Unidos",
+      "España",
+      "Ucrania",
+      "mundo"
+    ],
+    "morning_differences": [
+      "Costo del pacto combustibles: Hacienda revisa a US$700M estimación previa US$900M; novedad del sábado frente a matinal",
+      "Concepción: pronóstico de vientos sábado y lluvias domingo, no repetición de alerta de calor regional",
+      "COP31: nueva divergencia sobre meta del 35% de electrificación global para 2035",
+      "México: agenda APEC y mecanismo anunciado para las mañaneras",
+      "Sanciones del sábado contra redes guatemaltecas, distinta de lista general de matinal",
+      "EE. UU.: derogación de regla salarial Head Start y discurso de Rubio después de midterms",
+      "Ucrania: objeciones públicas de Zelenski a marco de seguridad y propuesta territorial",
+      "Perú: rito de sábado de León XIV; Microsoft 365 restablecido tras fallo",
+      "India: nueva revisión de objetivo de 900 GW y limitaciones de red"
+    ]
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "28° / 16°",
+      "condition": "Nubes y claros",
+      "provider": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "attempts": [
+        "DMC Quinta Normal: meteograma accesible pero no resumen día de máxima y mínima",
+        "Yr/MET Norway: consulta de ciudad restringida",
+        "Open-Meteo Free API: error DNS de entorno",
+        "Meteored: pronóstico del 14 nov. recuperado"
+      ],
+      "period": "máxima y mínima del sábado 14 noviembre 2026",
+      "validity": "2026-11-14",
+      "queried_at": "2026-11-14T15:03:34-03:00",
+      "timezone": "America/Santiago",
+      "data_type": "pronóstico de modelo; no observación",
+      "attribution": "Meteored Chile; no atribuir valores a DMC"
+    },
+    {
+      "city": "Concepción",
+      "value": "22° / 13°",
+      "condition": "Nubes y claros; viento norte",
+      "provider": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "attempts": [
+        "DMC Carriel Sur: meteograma disponible, sin resumen de máxima/mínima diaria",
+        "Yr/MET Norway: consulta restringida",
+        "Open-Meteo Free API: error DNS",
+        "Meteored: pronóstico del 14 nov. recuperado"
+      ],
+      "period": "máxima y mínima del sábado 14 noviembre 2026",
+      "validity": "2026-11-14",
+      "queried_at": "2026-11-14T15:03:34-03:00",
+      "timezone": "America/Santiago",
+      "data_type": "pronóstico de modelo; no observación",
+      "attribution": "Meteored Chile; no atribuir valores a DMC"
+    },
+    {
+      "city": "Casablanca, Región de Valparaíso",
+      "value": "23° / 14°",
+      "condition": "Parcialmente nuboso",
+      "provider": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "attempts": [
+        "DMC: sin pronóstico local del día recuperado",
+        "Yr Casablanca Valparaíso: consulta restringida",
+        "Open-Meteo Free API: error DNS",
+        "Meteored Casablanca Región de Valparaíso: pronóstico del 14 nov. recuperado, no confundir con Casablanca España"
+      ],
+      "period": "máxima y mínima del sábado 14 noviembre 2026",
+      "validity": "2026-11-14",
+      "queried_at": "2026-11-14T15:03:34-03:00",
+      "timezone": "America/Santiago",
+      "data_type": "pronóstico de modelo; no observación",
+      "attribution": "Meteored Chile; no atribuir valores a DMC"
+    }
+  ],
+  "indicators": [
+    {
+      "label": "Dólar observado",
+      "value": "$992,48",
+      "unit": "CLP/USD",
+      "validity": "2026-11-13",
+      "source": "https://si3.bcentral.cl/Bdemovil/bde/indicadoresdiarios",
+      "note": "Viernes: último día hábil antes del sábado 14, no cotización en tiempo real",
+      "queried_at": "2026-11-14T15:03:34-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "label": "UF",
+      "value": "$41.329,80",
+      "unit": "CLP/UF",
+      "validity": "2026-11-14",
+      "source": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-14T15:03:34-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "label": "Euro",
+      "value": "$1.096,91",
+      "unit": "CLP/EUR",
+      "validity": "2026-11-13",
+      "source": "https://si3.bcentral.cl/Bdemovil/bde/indicadoresdiarios",
+      "note": "Último día hábil de Banco Central",
+      "queried_at": "2026-11-14T15:03:34-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "label": "UTM",
+      "value": "$72.440",
+      "unit": "CLP/UTM",
+      "validity": "2026-11",
+      "source": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-14T15:03:34-03:00",
+      "timezone": "America/Santiago"
+    }
+  ],
+  "photos": [
+    {
+      "file": "Surtidor de Combustible.jpg",
+      "author": "Rjcastillo",
+      "date": "2021-12-31",
+      "source": "https://commons.wikimedia.org/wiki/File:Surtidor_de_Combustible.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "type": "documental archivo",
+      "remote_load_verified": false
+    },
+    {
+      "file": "Ruta CH 146 ValleNoble.jpg",
+      "author": "Ivotoledo45",
+      "date": "2018-08-04",
+      "source": "https://commons.wikimedia.org/wiki/File:Ruta_CH_146_ValleNoble.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "type": "documental archivo",
+      "remote_load_verified": false
+    },
+    {
+      "file": "Foreign Secretary Ed Miliband attends COP31 in Türkiye (55648308886).jpg",
+      "author": "Ben Dance/FCDO",
+      "date": "2026-11-12",
+      "source": "https://commons.wikimedia.org/wiki/File:Foreign_Secretary_Ed_Miliband_attends_COP31_in_T%C3%BCrkiye_(55648308886).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "type": "documental COP31 archivo del 12, no negociación del 14",
+      "remote_load_verified": false
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "article_count": 12,
+    "photo_count": 3,
+    "illustration_count": 2,
+    "html_blob_sha": "a7cb72de0a0b578b89f022d7d8ad13cf5d390a12",
+    "byte_size_utf8": 58003,
+    "voice_inline": true,
+    "voice_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "missing_anchors": [],
+    "unsafe_external_links": 0,
+    "manuscript_html_integrity": true,
+    "visual_review": "inspección visual no disponible",
+    "audible_audio_test": false,
+    "checks": [
+      {
+        "control": 1,
+        "status": "OK",
+        "detail": "Noticia principal, cuatro entradas, editorial, tiempo de lectura; cabecera despejada"
+      },
+      {
+        "control": 2,
+        "status": "OK",
+        "detail": "Fotografía principal documental surtidor Chile 2021, autor/origen/licencia, rótulo archivo; imagen no acredita anuncio 2026"
+      },
+      {
+        "control": 3,
+        "status": "corregido con alternativa",
+        "detail": "Fotografía interior Carretera Biobío 2018 y fotografía COP31 12 nov., además de dos SVG originales; distintas de dos turnos previos"
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "detail": "Créditos de 10px, autor, origen, licencia enlazada, fecha, alt y condición archivo"
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "detail": "Patrones A reportajes, B entradas de portada, C historia y lateral, artículos íntegros"
+      },
+      {
+        "control": 6,
+        "status": "pendiente",
+        "detail": "Alturas fluidas y sin cuadrícula rígida de cuerpo; grandes blancos no verificables sin navegador"
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "detail": "Escritorio dos columnas y texto justificado con guiones, móvil izquierda y columna única; fotos object-fit contain"
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "detail": "Paleta marfil/terracota/cobre y servicio en grupos 3+4, metadatos discretos"
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "detail": "12 noticias + editorial íntegros, fuentes, anclas, lector voz inlined, pie exacto"
+      },
+      {
+        "control": 10,
+        "status": "no disponible",
+        "detail": "Inspección visual no disponible. Revisión estática de HTML/CSS, anclas, alt, seguridad enlaces, integridad texto"
+      }
+    ],
+    "remaining": [
+      "La carga efectiva de imágenes de Wikimedia no se comprobó en navegador",
+      "Sin revisión visual escritorio/móvil ni prueba audible real",
+      "Gráficos SVG originales: geometría básica revisada estáticamente"
+    ]
+  },
+  "stage3": {
+    "status": "preparado para commit atómico; verificación se informará después",
+    "paid_services": false,
+    "netlify_changes": false,
+    "workflow_changes": false,
+    "automation_changes": false
+  }
+}
