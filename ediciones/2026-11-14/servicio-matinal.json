@@ -1,0 +1,336 @@
+{
+  "fecha": "2026-11-14",
+  "tipo": "matinal",
+  "timezone": "America/Santiago",
+  "consulted_at": "2026-11-14T07:04:30-03:00",
+  "model": "Modelo Edición Nº 2",
+  "stage1": {
+    "status": "OK",
+    "article_count": 12,
+    "paragraph_count": 59,
+    "cover_entries": [
+      "El Presupuesto 2027 llega al Senado con siete partidas rechazadas y una disputa por el endeudamiento",
+      "Brasil busca limitar el crecimiento del gasto mientras una nueva reforma fiscal todavía no tiene texto oficial",
+      "Washington amplía a 22 su lista de organizaciones criminales latinoamericanas calificadas como terroristas",
+      "Una nueva oleada de drones coincide con conversaciones que podrían ampliar la agenda de seguridad europea"
+    ],
+    "editorial": "La fragilidad de los sistemas y el valor de verificar",
+    "previous": [
+      "ediciones/2026-11-13/matinal.html",
+      "ediciones/2026-11-13/vespertina.html"
+    ],
+    "links": [
+      {
+        "id": "faa",
+        "title": "Una falla nacional de control aéreo paralizó despegues en Estados Unidos y deja una recuperación compleja",
+        "urls": [
+          "https://apnews.com/article/f81b0904331dafad6133f291e5f531a8",
+          "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "title": "El Presupuesto 2027 llega al Senado con siete partidas rechazadas y una disputa por el endeudamiento",
+        "urls": [
+          "https://www.camara.cl/cms/2026/11/13/camara-concluyo-despacho-del-presupuesto-2027/",
+          "https://www.camara.cl/legislacion/sala_sesiones/votaciones.aspx"
+        ]
+      },
+      {
+        "id": "calor",
+        "title": "El calor previsto en la zona sur exige atención al riesgo de incendios y al manejo del agua",
+        "urls": [
+          "https://www.meteored.cl/noticias/plantas/hasta-35-c-en-el-sur-de-chile-como-el-calor-aumenta-la-demanda-de-agua-y-amenaza-a-los-cultivos.html",
+          "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html"
+        ]
+      },
+      {
+        "id": "transportes",
+        "title": "Después del pacto por el diésel, la ejecución y la representatividad siguen siendo la prueba",
+        "urls": [
+          "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2026/11/13/camioneros-ponen-fin-a-paro-en-temuco-luego-de-tres-dias-y-medio-de-movilizacion.shtml",
+          "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/13/ministro-arrau-advierte-que-carabineros-va-a-despejar-rutas-donde-camioneros-mantengan-protestas.shtml",
+          "https://www.t13.cl/noticia/nacional/gobierno-confirma-acuerdo-gremios-camioneros-para-poner-fin-al-paro-rebaja-142-12-11-2026"
+        ]
+      },
+      {
+        "id": "brasil-fiscal",
+        "title": "Brasil busca limitar el crecimiento del gasto mientras una nueva reforma fiscal todavía no tiene texto oficial",
+        "urls": [
+          "https://economia.uol.com.br/noticias/redacao/2026/11/13/entenda-as-propostas-de-ajuste-fiscal-do-governo-lula.ghtm",
+          "https://www1.folha.uol.com.br/mercado/2026/11/equipe-economica-quer-propor-a-lula-pec-para-mirar-gastos-fora-dos-limites-do-arcabouco.shtml"
+        ]
+      },
+      {
+        "id": "brasil-creditos",
+        "title": "El Congreso brasileño autoriza nuevos créditos y distingue gasto presupuestario de emisión de deuda",
+        "urls": [
+          "https://www1.folha.uol.com.br/mercado/2026/11/congresso-aprova-liberacao-de-ao-menos-r-3-bilhoes-para-ministerios-e-orgaos-do-judiciario-e-legislativo.shtml",
+          "https://www12.senado.leg.br/noticias/materias/2026/11/12/previdencia-e-bolsa-familia-terao-credito-de-r-149-bi-apos-aval-do-congresso"
+        ]
+      },
+      {
+        "id": "mexico-seguridad",
+        "title": "Washington amplía a 22 su lista de organizaciones criminales latinoamericanas calificadas como terroristas",
+        "urls": [
+          "https://apnews.com/article/0b7c4090f564c2ca59f4c89b914d5cc3"
+        ]
+      },
+      {
+        "id": "mexico-migracion",
+        "title": "La amenaza arancelaria de Trump y la respuesta de Sheinbaum tensan nuevamente la relación bilateral",
+        "urls": [
+          "https://apnews.com/article/d9829fe92a0ce9afecb909cb35a2977d"
+        ]
+      },
+      {
+        "id": "cop31",
+        "title": "La presencia de grupos fósiles en Antalya reabre la disputa por la influencia dentro de la COP31",
+        "urls": [
+          "https://www.welt.de/article6af6d2325a72dceba1d611e2",
+          "https://www.ft.com/content/e4bae0a8-b06e-4570-9e58-b0125c01953a",
+          "https://www.un.org/en/climatechange/cop31"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "title": "Una nueva oleada de drones coincide con conversaciones que podrían ampliar la agenda de seguridad europea",
+        "urls": [
+          "https://apnews.com/article/157d168cb7ff9cae318cbf6cecb3988f",
+          "https://apnews.com/article/3d878a3e56d5df5bd198a6d20c824d18"
+        ]
+      },
+      {
+        "id": "espana",
+        "title": "La campaña española gira entre la crisis de vivienda y las preguntas sobre seguridad ferroviaria",
+        "urls": [
+          "https://apnews.com/article/ba00f090346d30eee63f0d611f5146c7"
+        ]
+      },
+      {
+        "id": "justicia-eeuu",
+        "title": "La nueva mayoría demócrata anuncia un examen más severo del Departamento de Justicia",
+        "urls": [
+          "https://apnews.com/article/e121c4420d0010b9ba7e8003407d304a"
+        ]
+      }
+    ],
+    "notes": "Redacción cerrada; hechos recientes, declaraciones y proyecciones identificadas; noticias del viernes 13 y madrugada del sábado 14."
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "28° / 16°",
+      "condition": "Nubes y claros",
+      "day": "2026-11-14",
+      "provider": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "max": 28,
+      "min": 16,
+      "verified": true,
+      "consulted_at": "2026-11-14T07:04:30-03:00",
+      "attempts": [
+        "DMC Quinta Normal: metadato de generación visible posterior a hora de corte; excluido como fuente para este turno",
+        "Yr/MET Norway: consulta web restringida",
+        "Open-Meteo Free API: DNS bloqueado en entorno de ejecución",
+        "Meteored pronóstico diario 14 nov comprobado"
+      ]
+    },
+    {
+      "city": "Concepción",
+      "value": "21° / 13°",
+      "condition": "Nubes y claros, viento norte",
+      "day": "2026-11-14",
+      "provider": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "max": 21,
+      "min": 13,
+      "verified": true,
+      "consulted_at": "2026-11-14T07:04:30-03:00",
+      "attempts": [
+        "DMC Carriel Sur: meteograma consultado; los horarios y extremos diarios no aparecen en una fila única",
+        "Meteored pronóstico diario 14 nov y avisos de viento comprobados"
+      ]
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "value": "25° / 14°",
+      "condition": "Parcialmente nuboso",
+      "day": "2026-11-14",
+      "provider": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "max": 25,
+      "min": 14,
+      "verified": true,
+      "consulted_at": "2026-11-14T07:04:30-03:00",
+      "attempts": [
+        "DMC Casablanca: pronóstico detallado de estación no recuperado",
+        "Yr/MET Norway: acceso restringido",
+        "Open-Meteo Free API: DNS/consulta no accesibles",
+        "Meteored pronóstico diario específico del 14 nov comprobado"
+      ]
+    }
+  ],
+  "finance": [
+    {
+      "name": "Dólar observado",
+      "value": "$992,48",
+      "valid": "13 nov. 2026 · último hábil",
+      "source": "SII / Banco Central",
+      "url": "https://www.sii.cl/valores_y_fechas/dolar/dolar2026.htm",
+      "consulted_at": "2026-11-14T07:04:30-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.329,80",
+      "valid": "14 nov. 2026",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consulted_at": "2026-11-14T07:04:30-03:00"
+    },
+    {
+      "name": "Euro CLP/EUR",
+      "value": "$1.096,91",
+      "valid": "13 nov. 2026 · último hábil",
+      "source": "Banco Central (última cifra verificada)",
+      "url": "https://si3.bcentral.cl/indicadoressiete/secure/indicadoresdiarios.aspx",
+      "backup": "https://indicadores.cl/euro/",
+      "consulted_at": "2026-11-14T07:04:30-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "valid": "noviembre 2026",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulted_at": "2026-11-14T07:04:30-03:00"
+    }
+  ],
+  "stage2": {
+    "status": "OK · revisión estática",
+    "controls": [
+      {
+        "number": 1,
+        "state": "OK",
+        "detail": "Portada principal, cuatro entradas, editorial y tiempos"
+      },
+      {
+        "number": 2,
+        "state": "OK",
+        "detail": "Imagen principal documental de archivo con origen, fecha y licencia"
+      },
+      {
+        "number": 3,
+        "state": "OK",
+        "detail": "Fotos de archivo interiores relacionadas con notas"
+      },
+      {
+        "number": 4,
+        "state": "OK",
+        "detail": "Créditos discretos 10px y licencia enlazada, alt y sin recorte"
+      },
+      {
+        "number": 5,
+        "state": "OK",
+        "detail": "Composición artículo extenso y patrones alternados"
+      },
+      {
+        "number": 6,
+        "state": "corregido con alternativa",
+        "detail": "Alturas automáticas sin bloques laterales vacíos"
+      },
+      {
+        "number": 7,
+        "state": "OK",
+        "detail": "Cuerpo justificado escritorio, alineación izquierda móvil"
+      },
+      {
+        "number": 8,
+        "state": "OK",
+        "detail": "Paleta matinal marfil, verde y terracota; servicios compactos"
+      },
+      {
+        "number": 9,
+        "state": "OK",
+        "detail": "Integridad de títulos, bajadas, párrafos y enlaces; script de voz inline"
+      },
+      {
+        "number": 10,
+        "state": "no disponible",
+        "detail": "Inspección visual no disponible; controles HTML/CSS, enlaces y fotos por estructura, sin prueba audible en navegador"
+      }
+    ],
+    "photos": [
+      {
+        "id": "faa",
+        "file": "Air traffic control tower, Orlando International Airport.jpg",
+        "author": "Olga Ernst",
+        "date": "enero de 2026",
+        "page": "https://commons.wikimedia.org/wiki/File:Air_traffic_control_tower,_Orlando_International_Airport.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "archive": true,
+        "no_crop": true
+      },
+      {
+        "id": "presupuesto",
+        "file": "Pintura y testera del Senado en el ex Congreso Nacional de Chile.jpg",
+        "author": "SamuelInzunza",
+        "date": "5 de diciembre de 2025",
+        "page": "https://commons.wikimedia.org/wiki/File:Pintura_y_testera_del_Senado_en_el_ex_Congreso_Nacional_de_Chile.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "archive": true,
+        "no_crop": true
+      },
+      {
+        "id": "calor",
+        "file": "Volcan Villarrica desde el lago 2025 Chile.jpg",
+        "author": "Daniel Alvarez (Elquimeras)",
+        "date": "14 de mayo de 2025",
+        "page": "https://commons.wikimedia.org/wiki/File:Volcan_Villarrica_desde_el_lago_2025_Chile.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "archive": true,
+        "no_crop": true
+      },
+      {
+        "id": "cop31",
+        "file": "Antalya Olimpos Antik Kenti.jpg",
+        "author": "Gokcegokcee",
+        "date": "10 de julio de 2019",
+        "page": "https://commons.wikimedia.org/wiki/File:Antalya_Olimpos_Antik_Kenti.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "archive": true,
+        "no_crop": true
+      }
+    ],
+    "photo_count": 4,
+    "svg_count": 0,
+    "html_characters": 66852,
+    "static_validation": {
+      "articles": 12,
+      "paragraphs": 59,
+      "anchors": 10,
+      "broken_anchors": [],
+      "external_links": 39,
+      "missing_external_attributes": 0,
+      "voice_inline": true,
+      "editorial_disclaimer_exact": true
+    },
+    "visual_review": "inspección visual no disponible",
+    "audio_playback_test": "no disponible",
+    "external_image_loading": "no verificada en navegador",
+    "applied_alternatives": [
+      "Fotos de archivo con derechos documentados; no se emplearon imágenes de medios de prensa",
+      "Pronóstico diario específico de Meteored verificado para las tres ciudades al no poder consumirse API Open-Meteo"
+    ],
+    "pending": [
+      "Verificar carga real de fotografías y voz en navegador público"
+    ]
+  },
+  "stage3": {
+    "status": "pendiente de commit atómico y comprobación pública"
+  }
+}
