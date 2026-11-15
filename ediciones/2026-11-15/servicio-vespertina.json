@@ -1,0 +1,290 @@
+{
+  "fecha": "2026-11-15",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "queried_at": "2026-11-15T15:03:52-03:00",
+  "stage1": {
+    "status": "OK",
+    "article_count": 12,
+    "article_titles": [
+      "La DMC actualiza su aviso por posibles fenómenos tornádicos en Ñuble, Biobío y La Araucanía",
+      "Dos cuencas, distintas alertas: crecidas por deshielos en Huasco y Choapa",
+      "Quince personas rescatadas ilesas tras hundimiento de una lancha en El Membrillo",
+      "Lula presenta la diversificación comercial de Brasil como respuesta a los aranceles de Estados Unidos",
+      "Sheinbaum parte a Shenzhen con el Plan México y una agenda comercial en Asia-Pacífico",
+      "La coalición para abandonar los combustibles fósiles sigue adelante sin Colombia",
+      "El Niño agrava las emergencias y pone a prueba la financiación de la COP31",
+      "La interrupción aérea nacional reabre el debate sobre la modernización de la FAA",
+      "Casi 2.200 migrantes llegan a Canarias en dos días y reabren el debate sobre acogida",
+      "Zelenski alerta sobre restricciones a Starshield mientras nuevos ataques dañan infraestructura energética",
+      "León XIV llega a Cusco para un encuentro con la religiosidad andina",
+      "Netanyahu propone unidad ante Irán y Eisenkot rechaza excluir a los partidos árabes"
+    ],
+    "body_words": 2769,
+    "editorial": true,
+    "comparison_with_morning": {
+      "sha": "cbab19f20ea1820bb2bae28835aca89ff2c0255e",
+      "headlines_checked": 12,
+      "updates": [
+        "DMC A624-1/2026 y detalle territorial recogido a las 12:53",
+        "Rescate Valparaíso del domingo a las 11:24",
+        "Nuevos balances comerciales Lula desde Manila",
+        "Salida efectiva de Sheinbaum a Shenzhen",
+        "Coalición COP31 continúa sin Colombia",
+        "El Niño y nuevas consecuencias humanitarias",
+        "Balance de cancelaciones aéreas del domingo",
+        "Restricciones Starshield y ataque a energía reportados este domingo"
+      ]
+    }
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "22° / 14°",
+      "condition": "Lluvia débil y nubes variables",
+      "valid": "domingo 15 nov. 2026",
+      "provider": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "detail": "máx./mín. diaria; modelo, 90% y 1,6 mm",
+      "period": "día 15 noviembre 2026",
+      "queried_at": "2026-11-15T15:03:52-03:00",
+      "timezone": "America/Santiago",
+      "attempts": [
+        {
+          "provider": "DMC/MeteoChile",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+          "result": "sin máximas/mínimas diarias atribuibles a la ciudad recuperadas en esta consulta"
+        },
+        {
+          "provider": "Yr/MET Norway",
+          "url": "https://www.yr.no/",
+          "result": "sin serie diaria específica verificable en esta consulta"
+        },
+        {
+          "provider": "Open-Meteo Free API",
+          "url": "https://api.open-meteo.com/v1/forecast",
+          "result": "consulta de API no resoluble mediante el acceso web disponible"
+        },
+        {
+          "provider": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+          "result": "pronóstico diario fechado 15 nov. recuperado y verificado"
+        }
+      ]
+    },
+    {
+      "city": "Concepción",
+      "value": "21° / 14°",
+      "condition": "Lluvia débil; viento fuerte",
+      "valid": "domingo 15 nov. 2026",
+      "provider": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "detail": "máx./mín. diaria; modelo, rachas hasta 67 km/h",
+      "period": "día 15 noviembre 2026",
+      "queried_at": "2026-11-15T15:03:52-03:00",
+      "timezone": "America/Santiago",
+      "attempts": [
+        {
+          "provider": "DMC/MeteoChile",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+          "result": "sin máximas/mínimas diarias atribuibles a la ciudad recuperadas en esta consulta"
+        },
+        {
+          "provider": "Yr/MET Norway",
+          "url": "https://www.yr.no/",
+          "result": "sin serie diaria específica verificable en esta consulta"
+        },
+        {
+          "provider": "Open-Meteo Free API",
+          "url": "https://api.open-meteo.com/v1/forecast",
+          "result": "consulta de API no resoluble mediante el acceso web disponible"
+        },
+        {
+          "provider": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+          "result": "pronóstico diario fechado 15 nov. recuperado y verificado"
+        }
+      ]
+    },
+    {
+      "city": "Casablanca",
+      "value": "21° / 14°",
+      "condition": "Lluvia débil y claros",
+      "valid": "domingo 15 nov. 2026",
+      "provider": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "detail": "máx./mín. diaria; modelo, 80% y 0,8 mm",
+      "period": "día 15 noviembre 2026",
+      "queried_at": "2026-11-15T15:03:52-03:00",
+      "timezone": "America/Santiago",
+      "attempts": [
+        {
+          "provider": "DMC/MeteoChile",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/",
+          "result": "sin máximas/mínimas diarias atribuibles a la ciudad recuperadas en esta consulta"
+        },
+        {
+          "provider": "Yr/MET Norway",
+          "url": "https://www.yr.no/",
+          "result": "sin serie diaria específica verificable en esta consulta"
+        },
+        {
+          "provider": "Open-Meteo Free API",
+          "url": "https://api.open-meteo.com/v1/forecast",
+          "result": "consulta de API no resoluble mediante el acceso web disponible"
+        },
+        {
+          "provider": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+          "result": "pronóstico diario fechado 15 nov. recuperado y verificado"
+        }
+      ]
+    }
+  ],
+  "economic": [
+    {
+      "name": "Dólar observado",
+      "value": "$992,48",
+      "valid": "13 nov. · último día hábil",
+      "url": "https://si3.bcentral.cl/Bdemovil/bde/indicadoresdiarios",
+      "unit": "CLP/USD",
+      "queried_at": "2026-11-15T15:03:52-03:00",
+      "source_authority": "Banco Central de Chile"
+    },
+    {
+      "name": "UF",
+      "value": "$41.336,67",
+      "valid": "15 nov. · valor diario",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "unit": "CLP/UF",
+      "queried_at": "2026-11-15T15:03:52-03:00",
+      "source_authority": "SII"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.096,91",
+      "valid": "13 nov. · último día hábil",
+      "url": "https://si3.bcentral.cl/Bdemovil/bde/indicadoresdiarios",
+      "unit": "CLP/EUR",
+      "queried_at": "2026-11-15T15:03:52-03:00",
+      "source_authority": "Banco Central de Chile"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "valid": "noviembre 2026",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "unit": "CLP/UTM",
+      "queried_at": "2026-11-15T15:03:52-03:00",
+      "source_authority": "SII"
+    }
+  ],
+  "photos": [
+    {
+      "file": "Cumulonimbus arcus.jpg",
+      "author": "MatiasPizarroFuentealbaJesus",
+      "date": "Ficha: 17-05-2009; EXIF: 17-05-2019 (discrepancia)",
+      "lic": "CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_arcus.jpg",
+      "alt": "Nube cumulonimbo tipo arcus fotografiada cerca de Los Ángeles, Chile; fotografía de archivo, no corresponde al aviso meteorológico del 15 de noviembre de 2026.",
+      "type": "archivo; fecha documental discrepante",
+      "position": "portada"
+    },
+    {
+      "file": "Shenzhen Skyline from Nanshan.jpg",
+      "author": "Simbaxu",
+      "date": "23-06-2016",
+      "lic": "CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Shenzhen_Skyline_from_Nanshan.jpg",
+      "alt": "Panorámica de Shenzhen en 2016, fotografía de archivo que no muestra la reunión APEC de 2026.",
+      "type": "archivo",
+      "position": "interior"
+    },
+    {
+      "file": "Plaza Mayor de Cusco.jpg",
+      "author": "FrederickCusco",
+      "date": "09-07-2017",
+      "lic": "CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Cusco.jpg",
+      "alt": "Plaza Mayor de Cusco en fotografía de archivo de 2017; no documenta las actividades del Papa en 2026.",
+      "type": "archivo",
+      "position": "interior"
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "checks": [
+      {
+        "control": 1,
+        "status": "OK",
+        "detail": "Portada con principal, cuatro entradas diferenciadas, editorial y tiempos de lectura"
+      },
+      {
+        "control": 2,
+        "status": "corregido con alternativa",
+        "detail": "Fotografía documental en Los Ángeles Chile, licencia acreditada, archivo explícito; año de ficha y EXIF discrepante señalado al pie"
+      },
+      {
+        "control": 3,
+        "status": "OK",
+        "detail": "Dos fotografías interiores para historias de Shenzhen y Cusco; no se reutilizaron imágenes previas"
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "detail": "Créditos en Arial 10px, procedencia, autor, fecha y licencia enlazados, archivo y reducción sin recorte"
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "detail": "Composición A reportaje, B mosaico, C notas secuenciales y editorial diferenciado; íntegro"
+      },
+      {
+        "control": 6,
+        "status": "pendiente",
+        "detail": "Alturas automáticas y flujo editorial sin laterales vacíos; blancos visuales no inspeccionados"
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "detail": "Cuerpo justificado con hyphens:auto escritorio, izquierda una columna móvil, alts de imágenes"
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "detail": "Marfil / terracota / cobre y servicios compactos, cabecera sin superposiciones estructurales"
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "detail": "12 títulos, bajadas, párrafos, enlaces íntegros; lector original inline y transparencia"
+      },
+      {
+        "control": 10,
+        "status": "no disponible",
+        "detail": "Inspección visual no disponible; revisión estática responsive CSS/HTML/anclas/atribuciones"
+      }
+    ],
+    "review": "inspección visual no disponible",
+    "html_characters": 59896,
+    "article_count": 12,
+    "photo_count": 3,
+    "svg_count": 2,
+    "broken_anchors": [],
+    "links_checked": 36,
+    "content_integrity": true,
+    "voice_inlined": true,
+    "voice_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "voice_audible_test": false,
+    "remote_photo_load_verified": false
+  },
+  "stage3": {
+    "status": "commit atómico planificado",
+    "netlify_changes": false,
+    "workflow_changes": false,
+    "paid_services": false
+  }
+}

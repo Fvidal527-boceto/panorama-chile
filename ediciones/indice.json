@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-15T07:09:04-03:00",
+  "updated_at": "2026-11-15T15:03:52-03:00",
   "latest": {
     "matinal": {
       "fecha": "2026-11-15",
@@ -10,14 +10,21 @@
       "revision": "2026-11-15T07:09:04-03:00"
     },
     "vespertina": {
-      "fecha": "2026-11-14",
+      "fecha": "2026-11-15",
       "tipo": "vespertina",
-      "url": "ediciones/2026-11-14/vespertina.html",
-      "titulo": "Vespertina · 14 de noviembre de 2026",
-      "revision": "2026-11-14T15:03:34-03:00"
+      "url": "ediciones/2026-11-15/vespertina.html",
+      "titulo": "Vespertina · 15 de noviembre de 2026",
+      "revision": "2026-11-15T15:03:52-03:00"
     }
   },
   "archivo": [
+    {
+      "fecha": "2026-11-15",
+      "tipo": "vespertina",
+      "url": "ediciones/2026-11-15/vespertina.html",
+      "titulo": "Vespertina · 15 de noviembre de 2026",
+      "revision": "2026-11-15T15:03:52-03:00"
+    },
     {
       "fecha": "2026-11-15",
       "tipo": "matinal",
