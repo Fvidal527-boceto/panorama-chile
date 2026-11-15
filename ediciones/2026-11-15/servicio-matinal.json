@@ -1,0 +1,314 @@
+{
+  "fecha": "2026-11-15",
+  "tipo": "matinal",
+  "consulted_at": "2026-11-15T07:09:04-03:00",
+  "timezone": "America/Santiago",
+  "stage1": {
+    "status": "OK",
+    "articles": 12,
+    "paragraphs": 60,
+    "editorial_paragraphs": 3,
+    "source_count": 27,
+    "prior": [
+      "2026-11-14/matinal",
+      "2026-11-14/vespertina"
+    ],
+    "sources": [
+      {
+        "title": "El centro-sur se prepara para tormentas eléctricas, granizos y ráfagas de viento",
+        "urls": [
+          "https://www.tvn.cl/actualidad-y-tendencias/actualidad/dmc-emite-aviso-por-probables-tormentas-electricas-granizos-y-fuertes-vientos-en-seis-regiones",
+          "https://copesa-la-tercera-staging.web.arc-cdn.net/nacional/noticia/regiones-de-la-zona-centro-sur-entran-en-alerta-temprana-preventiva-por-tormentas-electricas/",
+          "https://www.24horas.cl/el-tiempo/hasta-100-mm-de-lluvia-y-tormentas-electricas-en-cuatro-regiones"
+        ]
+      },
+      {
+        "title": "¿Con qué capacidades enfrenta Senapred la temporada de eventos extremos?",
+        "urls": [
+          "https://www.emol.com/noticias/Nacional/2026/10/10/1213824/recorte-senapred-discusion-presupuesto-aluvion.html",
+          "https://www.emol.com/noticias/Nacional/2026/11/10/1216707/primera-jornada-votacion-presupuesto.html"
+        ]
+      },
+      {
+        "title": "El pacto del diésel llega al Congreso entre llamados a la rapidez y dudas por su financiación",
+        "urls": [
+          "https://www.emol.com/noticias/Nacional/2026/11/14/1217119/rn-camioneros-paro-acuerdo-combustible.html",
+          "https://www.instagram.cooperativa.cl/noticias/pais/transportes/senador-nunez-el-gobierno-no-cuenta-con-los-recursos-para-financiar/2026-11-14/083158.html",
+          "https://www.cooperativa.cl/noticias/site/artic/20261112/pags-amp/20261112193106.html"
+        ]
+      },
+      {
+        "title": "El Senado reserva tres jornadas para revisar las partidas rechazadas en la Cámara",
+        "urls": [
+          "https://www.emol.com/noticias/Nacional/2026/11/13/1216986/cronograma-presupuesto-senado.html",
+          "https://www.emol.com/noticias/Nacional/2026/11/13/1216947/camara-despacha-presupuesto-2027.html"
+        ]
+      },
+      {
+        "title": "Lula y Marcos Jr. acuerdan cooperación agrícola y energética en Manila",
+        "urls": [
+          "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lula-cita-heroi-anticolonial-das-filipinas-ao-comentar-sua-reeleicao",
+          "https://agenciabrasil.ebc.com.br/radioagencia-nacional/internacional/audio/2026-11/brasil-e-filipinas-fecham-cooperacao-em-agricultura-e-energias"
+        ]
+      },
+      {
+        "title": "Crédito ecológico para inmuebles de lujo: Brasil anuncia cancelar diez financiaciones",
+        "urls": [
+          "https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/governo-federal-vai-cancelar-financiamentos-de-predios-de-luxo-com-credito-do-fundo-clima.shtml",
+          "https://www.bemparana.com.br/noticias/economia/governo-cancela-repasse-para-predio-de-luxo-no-parana-com-credito-do-fundo-clima/amp/"
+        ]
+      },
+      {
+        "title": "El INE encara investigaciones sobre contrataciones y vacantes en su cúpula",
+        "urls": [
+          "https://www.jornada.com.mx/noticia/2026/11/14/politica/mas-de-50-personas-fisicas-y-morales-aparecen-en-denuncias-por-caso-ine",
+          "https://www.jornada.com.mx/2026/11/14/politica/004n3pol"
+        ]
+      },
+      {
+        "title": "Una renovación de telecomunicaciones, bajo investigación por el gran apagón aéreo",
+        "urls": [
+          "https://www.transportation.gov/briefing-room/icymi-us-transportation-secretary-sean-p-duffy-provides-update-restoration-airspace",
+          "https://apnews.com/article/f81b0904331dafad6133f291e5f531a8",
+          "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+          "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/falha-aerea-nos-eua-cancela-sete-voos-e-atrasa-outros-14-no-brasil"
+        ]
+      },
+      {
+        "title": "La ONU exige acelerar los temas difíciles a mitad de la COP31",
+        "urls": [
+          "https://unfccc.int/cop31",
+          "https://www.welt.de/article6af826824495f9bd85b7f983"
+        ]
+      },
+      {
+        "title": "Una multitud marcha por una transición justa en las calles de Antalya",
+        "urls": [
+          "https://www.lemonde.fr/en/environment/article/2026/11/15/cop31-thousands-in-antalya-protest-environmental-damage-we-no-longer-believe-in-those-who-lead-us_6781315_114.html",
+          "https://unfccc.int/cop31"
+        ]
+      },
+      {
+        "title": "Zelenski relata una pregunta de EE. UU. sobre Donbás y OTAN, sin acuerdo territorial",
+        "urls": [
+          "https://elpais.com/internacional/2026-11-14/zelenski-asegura-que-ee-uu-sugiere-admitir-a-ucrania-en-la-otan-a-cambio-de-entregar-el-donbas-a-rusia.html",
+          "https://apnews.com/article/f9a8629626c087424f05adc85d127780",
+          "https://www.theguardian.com/world/2026/nov/15/ukraine-war-briefing-us-proposes-kyiv-cede-land-to-russia-for-nato-membership-zelenskyy-says"
+        ]
+      },
+      {
+        "title": "Feijóo sitúa la vivienda en el centro de su promesa de gobierno en Galicia",
+        "urls": [
+          "https://elpais.com/espana/elecciones-generales/2026-11-14/feijoo-reclama-en-galicia-el-impulso-para-llegar-a-la-moncloa-sigo-siendo-el-mismo.html"
+        ]
+      }
+    ]
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "22° / 13°",
+      "condition": "Mayormente nublado, posibles lluvias matinales",
+      "provider": "VLN Radio",
+      "url": "https://www.vlnradio.cl/noticias/nacional/region-metropolitana/2026/11/14/pronostico-del-tiempo-en-santiago-para-el-domingo-15-de-noviembre-de-2026/",
+      "valid": "15-11-2026",
+      "attempts": [
+        "DMC Quinta Normal: meteograma muestra emisión 09:00 posterior a consulta",
+        "Yr: acceso restringido",
+        "Open-Meteo API: conexión de datos no accesible"
+      ],
+      "consulted_at": "2026-11-15T07:09:04-03:00",
+      "timezone": "America/Santiago",
+      "kind": "pronóstico de terceros para domingo 15, no observación",
+      "verified": true
+    },
+    {
+      "city": "Concepción",
+      "value": "18° / 15°",
+      "condition": "Lluvias y viento",
+      "provider": "VLN Radio",
+      "url": "https://www.vlnradio.cl/noticias/nacional/region-del-biobio/2026/11/14/pronostico-en-concepcion-domingo-15-de-noviembre-de-2026/",
+      "valid": "15-11-2026",
+      "attempts": [
+        "DMC Carriel Sur: meteograma 04:00, se recuperaron avisos regionales",
+        "Yr: acceso restringido",
+        "Open-Meteo API: conexión de datos no accesible"
+      ],
+      "consulted_at": "2026-11-15T07:09:04-03:00",
+      "timezone": "America/Santiago",
+      "kind": "pronóstico de terceros para domingo 15, no observación",
+      "verified": true
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "value": "21° / 14°",
+      "condition": "Nuboso, lluvia escasa posible (33%)",
+      "provider": "ElTiempoEn.net",
+      "url": "https://www.eltiempoen.net/chile/el-tiempo-en-casablanca/fin-de-semana",
+      "valid": "15-11-2026",
+      "attempts": [
+        "DMC Casablanca estación 330221: sin pronóstico diario usable",
+        "Yr: acceso restringido",
+        "Open-Meteo API: conexión de datos no accesible",
+        "Tiempo.es ofrece pronóstico alternativo 23°C sin lluvia; divergencia documentada"
+      ],
+      "consulted_at": "2026-11-15T07:09:04-03:00",
+      "timezone": "America/Santiago",
+      "kind": "pronóstico de terceros para domingo 15, no observación",
+      "verified": true
+    }
+  ],
+  "finance": [
+    {
+      "name": "Dólar observado",
+      "value": "$992,48",
+      "valid": "13 nov. · último hábil",
+      "provider": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio",
+      "consulted_at": "2026-11-15T07:09:04-03:00",
+      "verified": true
+    },
+    {
+      "name": "UF",
+      "value": "$41.336,67",
+      "valid": "15 nov. 2026",
+      "provider": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consulted_at": "2026-11-15T07:09:04-03:00",
+      "verified": true
+    },
+    {
+      "name": "Euro",
+      "value": "$1.096,91",
+      "valid": "13 nov. · último hábil",
+      "provider": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio",
+      "consulted_at": "2026-11-15T07:09:04-03:00",
+      "verified": true
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "valid": "noviembre 2026",
+      "provider": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulted_at": "2026-11-15T07:09:04-03:00",
+      "verified": true
+    }
+  ],
+  "stage2": {
+    "status": "OK · revisión estática",
+    "controls": [
+      {
+        "number": 1,
+        "state": "OK",
+        "detail": "Portada jerarquizada, 4 entradas, editorial y lectura"
+      },
+      {
+        "number": 2,
+        "state": "OK",
+        "detail": "Imagen documental de archivo de Concepción en portada con fuente y licencia"
+      },
+      {
+        "number": 3,
+        "state": "OK",
+        "detail": "Tres imágenes de archivo adicionales en interiores no repetidas el 14 noviembre"
+      },
+      {
+        "number": 4,
+        "state": "OK",
+        "detail": "Créditos y licencia enlazados, fechas y autor, alt, no recorte"
+      },
+      {
+        "number": 5,
+        "state": "OK",
+        "detail": "Reportaje, mosaico y diferentes composiciones sin pérdida"
+      },
+      {
+        "number": 6,
+        "state": "corregido con alternativa",
+        "detail": "Columnas autoequilibradas, sin celdas de altura fija"
+      },
+      {
+        "number": 7,
+        "state": "OK",
+        "detail": "Justificado en escritorio, alineado izquierda en móvil"
+      },
+      {
+        "number": 8,
+        "state": "OK",
+        "detail": "Marfil verde terracota y franja compacta"
+      },
+      {
+        "number": 9,
+        "state": "OK",
+        "detail": "Títulos, bajadas, párrafos y links iguales al manuscrito; voz inline y pie exacto"
+      },
+      {
+        "number": 10,
+        "state": "no disponible",
+        "detail": "inspección visual no disponible; comprobación estática realizada; carga de fotos y voz audible no verificadas"
+      }
+    ],
+    "photos": {
+      "concepcion": {
+        "file": "Concepción (Chile).jpg",
+        "author": "AlvaroMolina",
+        "date": "30-12-2015",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Concepci%C3%B3n_(Chile).jpg",
+        "alt": "Concepción desde Cerro Caracol en 2015; fotografía de archivo, no muestra las tormentas actuales"
+      },
+      "manila": {
+        "file": "Metro Manila Skyline.jpg",
+        "author": "Mikko Agustin",
+        "date": "26-12-2020",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Metro_Manila_Skyline.jpg",
+        "alt": "Panorama de Metro Manila de 2020; foto de archivo, no muestra reunión presidencial"
+      },
+      "faa": {
+        "file": "Air Traffic Control Tower KCI.jpg",
+        "author": "Charvex",
+        "date": "25-07-2008",
+        "license": "Dominio público",
+        "page": "https://commons.wikimedia.org/wiki/File:Air_Traffic_Control_Tower_KCI.jpg",
+        "alt": "Torre de control del aeropuerto de Kansas City en 2008; no ilustra el fallo del 13 de noviembre"
+      },
+      "madrid": {
+        "file": "Congreso de los Diputados - Madrid 03.jpg",
+        "author": "Javier Perez Montes",
+        "date": "01-11-2023",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Congreso_de_los_Diputados_-_Madrid_03.jpg",
+        "alt": "Exterior del Congreso de los Diputados de España en 2023; imagen de archivo"
+      }
+    },
+    "photos_count": 4,
+    "svg_count": 0,
+    "html_chars": 67342,
+    "static_checks": {
+      "article_count": true,
+      "front_four": true,
+      "photos": true,
+      "editorial": true,
+      "foot": true,
+      "voice": true,
+      "integrity": true,
+      "sources": true,
+      "anchors": true,
+      "mobile": true,
+      "service": true,
+      "weight": true
+    },
+    "limitations": [
+      "Casablanca: discrepancia entre modelos; pronóstico identificado por proveedor",
+      "Yr y Open-Meteo no dieron datos en entorno de consulta",
+      "Meteograma de Santiago presenta hora de generación posterior al cierre y se descartó",
+      "Sin navegador visual ni prueba audible"
+    ]
+  },
+  "stage3": {
+    "status": "preparado para commit único; verificar resultado y disponibilidad pública por separado"
+  }
+}
