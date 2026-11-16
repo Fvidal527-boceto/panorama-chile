@@ -1,0 +1,334 @@
+{
+  "fecha": "2026-11-16",
+  "tipo": "matinal",
+  "timezone": "America/Santiago",
+  "consulted_at": "2026-11-16T07:18:00-03:00",
+  "model": "PANORAMA Modelo Edición N.º 2",
+  "stage1": {
+    "status": "OK",
+    "articles": 13,
+    "paragraphs": 65,
+    "editorial": true,
+    "previous": [
+      "2026-11-15/matinal",
+      "2026-11-15/vespertina"
+    ],
+    "sources": [
+      {
+        "article": "senado-combustibles",
+        "links": [
+          "https://instagram.cooperativa.cl/noticias/pais/politica/congreso-espera-despachar-a-ley-el-acuerdo-con-los-camioneros-a-mas/2026-11-15/132714.html",
+          "https://instagram.cooperativa.cl/noticias/pais/transportes/senador-nunez-el-gobierno-no-cuenta-con-los-recursos-para-financiar/2026-11-14/083158.html"
+        ]
+      },
+      {
+        "article": "tormentas",
+        "links": [
+          "https://www.meteored.cl/noticias/prediccion/regresan-las-lluvias-y-tormentas-electricas-a-chile-central-chillan-podria-recibir-mas-de-20-mm-hasta-el-miercoles.html",
+          "https://climatologia.meteochile.gob.cl/application/diarioe/datosEstacionesPronostico",
+          "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html"
+        ]
+      },
+      {
+        "article": "costo-fiscal",
+        "links": [
+          "https://instagram.cooperativa.cl/noticias/pais/transportes/senador-nunez-el-gobierno-no-cuenta-con-los-recursos-para-financiar/2026-11-14/083158.html",
+          "https://instagram.cooperativa.cl/noticias/pais/politica/congreso-espera-despachar-a-ley-el-acuerdo-con-los-camioneros-a-mas/2026-11-15/132714.html"
+        ]
+      },
+      {
+        "article": "brasil-ajuste",
+        "links": [
+          "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi",
+          "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios"
+        ]
+      },
+      {
+        "article": "brasil-seguridad",
+        "links": [
+          "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
+          "https://www1.folha.uol.com.br/cotidiano/2026/11/pec-da-seguranca-pode-ampliar-recursos-federais-em-r-23-bilhoes-em-2027.shtml"
+        ]
+      },
+      {
+        "article": "mexico-apec",
+        "links": [
+          "https://www.jornada.com.mx/2026/11/15/economia/016n2eco",
+          "https://elpais.com/mexico/2026-11-12/sheinbaum-confirma-su-reunion-con-xi-jinping-en-la-apec-y-aclara-que-no-afectara-a-la-relacion-con-estados-unidos.html?comments_container=true"
+        ]
+      },
+      {
+        "article": "faa",
+        "links": [
+          "https://apnews.com/article/f81b0904331dafad6133f291e5f531a8",
+          "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
+        ]
+      },
+      {
+        "article": "ucrania",
+        "links": [
+          "https://apnews.com/article/2a96d57210055edd2e76f71693e0a37c",
+          "https://apnews.com/article/f9a8629626c087424f05adc85d127780"
+        ]
+      },
+      {
+        "article": "ginebra",
+        "links": [
+          "https://apnews.com/article/1ff519255c145105360b04961d136081"
+        ]
+      },
+      {
+        "article": "cop31-metano",
+        "links": [
+          "https://www.theguardian.com/environment/2026/nov/16/barbados-pm-urges-global-citizens-to-demand-methane-cuts-at-cop31-summit",
+          "https://www.un.org/en/climatechange/cop31"
+        ]
+      },
+      {
+        "article": "educacion-uc",
+        "links": [
+          "https://www.uc.cl/noticias/como-la-uc-esta-integrando-la-ia-y-las-nuevas-tecnologias-a-su-modelo-educativo/"
+        ]
+      },
+      {
+        "article": "educacion-cna",
+        "links": [
+          "https://www.cnachile.cl/noticias/Paginas/13-de-noviembre-1030-horas%2C-%E2%80%9CWebinar-Desaf%C3%ADos-en-gesti%C3%B3n-acad%C3%A9mica-y-experiencias-en-instituciones-de-educaci%C3%B3n-superior-li.aspx",
+          "https://www.cnachile.cl/noticias/Paginas/CNA-Chile-publica-orientaciones-para-autoevaluaci%C3%B3n-Institucional-de-IES-que-imparten-formaci%C3%B3n-a-distancia-o-semipresencia.aspx"
+        ]
+      },
+      {
+        "article": "educacion-innovacion",
+        "links": [
+          "https://minciencia.gob.cl/noticias/"
+        ]
+      }
+    ],
+    "notes": "No se presenta como aprobada una medida o reunión aún pendiente; actualidad y hechos separados de análisis"
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "high": 21,
+      "low": 13,
+      "condition": "Nubosidad y lluvia débil posible",
+      "prob": "70% · 0,2 mm",
+      "provider": "Meteored",
+      "valid": "lunes 16 noviembre 2026",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "consulted_at": "2026-11-16T07:18:00-03:00",
+      "timezone": "America/Santiago",
+      "forecast_type": "pronóstico diario modelo Meteored; extremos diarios",
+      "attempts": [
+        "DMC/MeteoChile: consultar producto de estación, pero sin cotejo diario de las tres ciudades",
+        "Yr/MET Norway: sin salida de datos estructurada verificable",
+        "Open-Meteo Free API: error DNS en ejecución sin acceso a api.open-meteo.com"
+      ],
+      "verified": true
+    },
+    {
+      "city": "Concepción",
+      "high": 19,
+      "low": 14,
+      "condition": "Lluvia débil, viento norte",
+      "prob": "90% · 5,6 mm",
+      "provider": "Meteored",
+      "valid": "lunes 16 noviembre 2026",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "consulted_at": "2026-11-16T07:18:00-03:00",
+      "timezone": "America/Santiago",
+      "forecast_type": "pronóstico diario modelo Meteored; extremos diarios",
+      "attempts": [
+        "DMC/MeteoChile: consultar producto de estación, pero sin cotejo diario de las tres ciudades",
+        "Yr/MET Norway: sin salida de datos estructurada verificable",
+        "Open-Meteo Free API: error DNS en ejecución sin acceso a api.open-meteo.com"
+      ],
+      "verified": true
+    },
+    {
+      "city": "Casablanca",
+      "high": 21,
+      "low": 14,
+      "condition": "Lluvia débil posible",
+      "prob": "70% · 1,1 mm",
+      "provider": "Meteored",
+      "valid": "lunes 16 noviembre 2026",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "consulted_at": "2026-11-16T07:18:00-03:00",
+      "timezone": "America/Santiago",
+      "forecast_type": "pronóstico diario modelo Meteored; extremos diarios",
+      "attempts": [
+        "DMC/MeteoChile: consultar producto de estación, pero sin cotejo diario de las tres ciudades",
+        "Yr/MET Norway: sin salida de datos estructurada verificable",
+        "Open-Meteo Free API: error DNS en ejecución sin acceso a api.open-meteo.com"
+      ],
+      "verified": true
+    }
+  ],
+  "finance": [
+    {
+      "name": "Dólar observado",
+      "value": "$999,10",
+      "valid": "16 nov. 2026",
+      "source": "Banco Central",
+      "url": "https://si3.bcentral.cl/Indicadoressiete/secure/IndicadoresDiarios.aspx",
+      "consulted_at": "2026-11-16T07:18:00-03:00",
+      "timezone": "America/Santiago",
+      "verified": true
+    },
+    {
+      "name": "UF",
+      "value": "$41.343,55",
+      "valid": "16 nov. 2026",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consulted_at": "2026-11-16T07:18:00-03:00",
+      "timezone": "America/Santiago",
+      "verified": true
+    },
+    {
+      "name": "Euro · CLP/EUR",
+      "value": "$1.102,03",
+      "valid": "16 nov. 2026",
+      "source": "Banco Central",
+      "url": "https://si3.bcentral.cl/Indicadoressiete/secure/IndicadoresDiarios.aspx",
+      "consulted_at": "2026-11-16T07:18:00-03:00",
+      "timezone": "America/Santiago",
+      "verified": true
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "valid": "noviembre 2026",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulted_at": "2026-11-16T07:18:00-03:00",
+      "timezone": "America/Santiago",
+      "verified": true
+    }
+  ],
+  "stage2": {
+    "status": "OK · revisión estática",
+    "controls": [
+      {
+        "number": 1,
+        "state": "OK",
+        "detail": "Portada: reportaje dominante, cuatro entradas, editorial, tiempos y cabecera despejada"
+      },
+      {
+        "number": 2,
+        "state": "OK",
+        "detail": "Foto documental de archivo del Congreso con licencia, autor y fecha; no se presenta como imagen de hoy"
+      },
+      {
+        "number": 3,
+        "state": "OK",
+        "detail": "Fotos interiores Shenzhen, Ginebra y campus UC, vinculadas a sus artículos; sin repetición de las dos últimas ediciones"
+      },
+      {
+        "number": 4,
+        "state": "OK",
+        "detail": "Créditos de 10px, fuente, autor, licencia, alt y referencia al carácter de archivo; sin recorte intencional"
+      },
+      {
+        "number": 5,
+        "state": "OK",
+        "detail": "Reportaje principal, entradas mosaico e interiores de dos columnas equilibradas; suplemento autónomo de lunes"
+      },
+      {
+        "number": 6,
+        "state": "corregido con alternativa",
+        "detail": "Se mantienen alturas automáticas, flow-root, sin rellenos o filas rígidas"
+      },
+      {
+        "number": 7,
+        "state": "OK",
+        "detail": "Justificación y separación silábica en escritorio; columna única alineada a izquierda en móvil"
+      },
+      {
+        "number": 8,
+        "state": "OK",
+        "detail": "Marfil, verde y terracota 2.3, servicios compactos e identidad especial de educación"
+      },
+      {
+        "number": 9,
+        "state": "OK",
+        "detail": "Integridad completa de párrafos, titulares, bajadas, fuentes, anclas y script original de voz inline"
+      },
+      {
+        "number": 10,
+        "state": "no disponible",
+        "detail": "Inspección visual y prueba de audio no disponibles en este entorno; revisión estática completada"
+      }
+    ],
+    "review": "inspección visual no disponible",
+    "photo_count": 4,
+    "photos": [
+      {
+        "key": "congreso",
+        "file": "Edificio del Congreso Nacional de Chile (Valparaíso).jpg",
+        "author": "ShootingStarMax",
+        "date": "2 diciembre 2017",
+        "license": "CC BY-SA 4.0",
+        "lic": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Edificio del Congreso Nacional en Valparaíso, fotografía de archivo de 2017, no muestra la sesión de hoy",
+        "source": "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional_de_Chile_(Valpara%C3%ADso).jpg",
+        "transform": "sin recorte; miniatura reducida automáticamente"
+      },
+      {
+        "key": "shenzhen",
+        "file": "Skylines of Shenzhen 9.jpg",
+        "author": "钉钉",
+        "date": "11 enero 2016",
+        "license": "CC BY-SA 4.0",
+        "lic": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Vista panorámica de Shenzhen en fotografía de archivo de 2016, no muestra la cumbre APEC 2026",
+        "source": "https://commons.wikimedia.org/wiki/File:Skylines_of_Shenzhen_9.jpg",
+        "transform": "sin recorte; miniatura reducida automáticamente"
+      },
+      {
+        "key": "ginebra",
+        "file": "Palais des Nations, United Nations, Geneva.jpg",
+        "author": "Juan Sanchez Gil / MediaSociety",
+        "date": "18 agosto 2023",
+        "license": "CC BY-SA 4.0",
+        "lic": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "alt": "Palacio de las Naciones en Ginebra, archivo de 2023, no muestra la reunión sobre armas autónomas",
+        "source": "https://commons.wikimedia.org/wiki/File:Palais_des_Nations%2C_United_Nations%2C_Geneva.jpg",
+        "transform": "sin recorte; miniatura reducida automáticamente"
+      },
+      {
+        "key": "universidad",
+        "file": "Campus San Joaquín de la Pontificia Universidad Católica de Chile (2).jpg",
+        "author": "Pontificia Universidad Católica de Chile",
+        "date": "21 diciembre 2009",
+        "license": "CC BY-SA 2.0",
+        "lic": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "alt": "Campus San Joaquín de la Universidad Católica de Chile en imagen de archivo de 2009, no documenta el anuncio de IA",
+        "source": "https://commons.wikimedia.org/wiki/File:Campus_San_Joaqu%C3%ADn_de_la_Pontificia_Universidad_Cat%C3%B3lica_de_Chile_(2).jpg",
+        "transform": "sin recorte; miniatura reducida automáticamente"
+      }
+    ],
+    "static_checks": {
+      "articles": 13,
+      "paragraphs": 65,
+      "four_front": true,
+      "complete": true,
+      "external_links": 40,
+      "bad_link": 0,
+      "bad_anchor": [],
+      "photo_count": 4,
+      "voice_inline": true,
+      "foot_exact": true,
+      "css_mobile": true
+    },
+    "pending": [
+      "No se comprobó carga de fotos ni reproducción audible en navegador",
+      "No fue posible inspeccionar escritorio/móvil visualmente"
+    ]
+  },
+  "stage3": {
+    "status": "preparado para commit único atómico",
+    "public": "pendiente"
+  }
+}
