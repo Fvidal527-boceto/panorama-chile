@@ -1,0 +1,404 @@
+{
+  "fecha": "2026-11-16",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "closed_at": "2026-11-16T15:06:06-03:00",
+  "stage1": {
+    "status": "OK",
+    "article_count": 12,
+    "editorial": true,
+    "morning_path": "ediciones/2026-11-16/matinal.html",
+    "morning_sha": "984e7775bb24f78a8a6047020b3705c3b8943eb0",
+    "previous_evening_sha": "a21d74a41d578f36d4d79ac0c53b1e3fe96a1bc9",
+    "changes": [
+      "Aprobación por 13 votos en comisión combustibles a las 13:45",
+      "Actualización meteorológica DMC de 10 regiones a las 12:12",
+      "Variación intradiaria del real y bolsa de Brasil tras texto base",
+      "Inicio verificable de agenda Sheinbaum en China y reunión FMI anunciada",
+      "Primer borrador COP31 y propuesta eléctrica no adoptada",
+      "Declaraciones nuevas de Trump sobre FAA",
+      "Medidas y sanciones de ministros UE el lunes",
+      "Desalojo Barcelona y despedida papal el lunes"
+    ],
+    "manuscript": [
+      {
+        "id": "combustibles",
+        "title": "Hacienda aprueba por unanimidad el nuevo proyecto de combustibles: la ley aún debe pasar por ambas salas",
+        "deck": "La Comisión de Hacienda de la Cámara dio 13 votos favorables a las medidas de contención. La noticia de esta tarde es el avance legislativo, no la entrada en vigencia de la norma.",
+        "paragraphs": 5,
+        "links": [
+          "https://www.emol.com/noticias/Nacional/2026/11/16/1217248/aprueban-proyecto-contener-alzas-combustibles.html",
+          "https://www.cooperativa.cl/noticias/pais/manifestaciones/agostini-califico-de-chantaje-los-bloqueos-de-los-camioneros/2026-11-12/105741.html"
+        ]
+      },
+      {
+        "id": "alerta",
+        "title": "Meteorología actualiza el riesgo de tormentas en diez regiones: una advertencia no equivale a un fenómeno ocurrido",
+        "deck": "La DMC identifica una vaguada en altura y posible actividad eléctrica, con lluvia aislada, desde la tarde del lunes hasta la noche del martes 17.",
+        "paragraphs": 5,
+        "links": [
+          "https://www.meganoticias.cl/nacional/536481-meteorologia-aviso-tormentas-electricas-zonas-10-region-metropolitana-valparaiso-biobio-coquimbo-16-11-2026.html",
+          "https://www.biobiochile.cl/noticias/servicios/toma-nota/2026/11/15/vuelven-las-tormentas-electricas-a-la-zona-central-y-sur-afectarian-a-10-regiones-desde-este-domingo.shtml"
+        ]
+      },
+      {
+        "id": "fiscal",
+        "title": "Quién paga el alivio del diésel: los beneficiarios y la cuenta fiscal siguen siendo preguntas abiertas",
+        "deck": "El avance del proyecto obliga a distinguir el precio del combustible, los contratos de transporte, la devolución de impuestos y el efecto sobre el gasto público.",
+        "paragraphs": 5,
+        "links": [
+          "https://www.emol.com/noticias/Nacional/2026/11/16/1217248/aprueban-proyecto-contener-alzas-combustibles.html",
+          "https://www.cooperativa.cl/noticias/pais/manifestaciones/agostini-califico-de-chantaje-los-bloqueos-de-los-camioneros/2026-11-12/105741.html"
+        ]
+      },
+      {
+        "id": "brasil-mercado",
+        "title": "El real pierde terreno tras el primer voto del ajuste fiscal: las enmiendas siguen pendientes",
+        "deck": "El Senado aprobó el texto base por 45 votos contra 31, pero cuatro puntos se resolverán el martes. Los mercados reaccionaron antes de conocer el resultado final.",
+        "paragraphs": 5,
+        "links": [
+          "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-com-politica-fiscal-do-governo-lula-no-radar.shtml"
+        ]
+      },
+      {
+        "id": "brasil-redes",
+        "title": "EDP advierte que los recortes de generación renovable amenazan nuevos proyectos en Brasil",
+        "deck": "El ejecutivo de la empresa cifra en más de 20% la energía que no pudo producir el último año por restricciones del sistema, según su propio cálculo.",
+        "paragraphs": 5,
+        "links": [
+          "https://economia.uol.com.br/noticias/redacao/2026/11/16/perdemos-20-da-geracao-de-energia-com-cortes-no-sistema-diz-ceo-da-edp.ghtm"
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "Sheinbaum inicia agenda en Shenzhen y anuncia una reunión solicitada por el FMI",
+        "deck": "La presidenta se reunió con empresarios mexicanos en Guangdong. Los encuentros con Xi Jinping y el foro APEC siguen pendientes de sus respectivas fechas.",
+        "paragraphs": 5,
+        "links": [
+          "https://www.jornada.com.mx/noticia/2026/11/16/politica/sheinbaum-se-reunira-con-kristalina-georgieva-titular-del-fmi-tras-arrancar-actividades-en-china",
+          "https://www.unotv.com/nacional/sheinbaum-se-reunira-con-xi-jinping-en-plena-disputa-comercial-entre-ee-uu-y-china-esto-buscara-mexico/"
+        ]
+      },
+      {
+        "id": "cop-borrador",
+        "title": "El primer borrador de la COP31 reconoce el riesgo de rebasar 1,5 °C y plantea una meta eléctrica para 2035",
+        "deck": "La presidencia presentó un texto que todavía no tiene consenso. Incluye elevar la participación de la electricidad en el consumo final de energía del 23% al 35%.",
+        "paragraphs": 5,
+        "links": [
+          "https://www.welt.de/article6afb01869cd46e5bcae6a868",
+          "https://unfccc.int/cop31"
+        ]
+      },
+      {
+        "id": "cop-ia",
+        "title": "Un estudio abre el debate sobre la huella energética de los centros de datos y un compromiso de IA limpia",
+        "deck": "AP informa que 403 grandes instalaciones estadounidenses consumieron unos 82 TWh en doce meses. Turquía y la UIT impulsan un compromiso voluntario en la COP31.",
+        "paragraphs": 5,
+        "links": [
+          "https://apnews.com/article/a1b338e7f781976f89260d172a7c65e2"
+        ]
+      },
+      {
+        "id": "faa",
+        "title": "Trump responde por primera vez a la paralización aérea y atribuye el fallo a equipos antiguos",
+        "deck": "El presidente rechaza responsabilidad directa por el incidente del viernes. La modernización de la FAA enfrenta una discusión presupuestaria y de supervisión.",
+        "paragraphs": 5,
+        "links": [
+          "https://apnews.com/article/nationwide-ground-stop-trump-air-travel-faa-6f58e64d9ced2543aaaf7317ec389d06",
+          "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/"
+        ]
+      },
+      {
+        "id": "ue-ucrania",
+        "title": "La Unión Europea sanciona a entidades rusas y acusa a Moscú de demorar las conversaciones de paz",
+        "deck": "Los ministros europeos reclamaron un alto el fuego y cuestionaron la propuesta rusa de redefinir la arquitectura de seguridad del continente.",
+        "paragraphs": 5,
+        "links": [
+          "https://apnews.com/article/europe-ukraine-russia-security-ceasefire-cde686fba0e452b10ca613b3517e884e"
+        ]
+      },
+      {
+        "id": "barcelona",
+        "title": "Barcelona desaloja a 295 personas de la plaza Catalunya tras 49 días de protesta por la vivienda",
+        "deck": "El municipio defiende recuperar el espacio público; organizaciones y concejales reclaman evaluar alternativas para quienes estaban sin hogar.",
+        "paragraphs": 5,
+        "links": [
+          "https://elpais.com/espana/catalunya/2026-11-16/la-guardia-urbana-desaloja-la-acampada-de-la-plaza-catalunya-de-barcelona.html"
+        ]
+      },
+      {
+        "id": "peru",
+        "title": "León XIV se despide de Perú tras una gira sudamericana marcada por encuentros con comunidades",
+        "deck": "Una misa de despedida en Lima reunió a una multitud estimada por el Vaticano en 1,5 millones de personas, según AP. El viaje tuvo dimensión pastoral y social.",
+        "paragraphs": 5,
+        "links": [
+          "https://apnews.com/article/peru-pope-south-america-trip-lung-cancer-3caa0880058c29386385592a28ed9304",
+          "https://www.vaticannews.va/es/papa/news/2026-11/viaje-apostolico-el-papa-llega-a-lima-peru-desde-argentina.html"
+        ]
+      }
+    ],
+    "unverified_policy": "No se presentan como finales votaciones pendientes, borradores, proyecciones o declaraciones de partes"
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "temp": "21° / 13°",
+      "condition": "Lluvia débil, intervalos de nubes",
+      "rain": "80% · 0,5 mm",
+      "source": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "eff": "2026-11-16",
+      "attempts": [
+        {
+          "source": "DMC",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "status": "no se obtuvo tabla diaria específica"
+        },
+        {
+          "source": "Yr",
+          "url": "https://www.yr.no/",
+          "status": "sin serie local verificable en consulta"
+        },
+        {
+          "source": "Open-Meteo",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.4489&longitude=-70.6693&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=2",
+          "status": "sin acceso a JSON; DNS desde entorno de código"
+        },
+        {
+          "source": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+          "status": "pronóstico diario fechado comprobado"
+        }
+      ],
+      "query_time": "2026-11-16T15:06:06-03:00",
+      "timezone": "America/Santiago",
+      "period": "lunes 16 noviembre 2026, pronóstico diario máxima/mínima",
+      "note": "Modelo diario; no condición actual ni DMC, fallback tras otros intentos"
+    },
+    {
+      "city": "Concepción",
+      "temp": "19° / 14°",
+      "condition": "Lluvia débil, parcialmente nuboso",
+      "rain": "90% · 4,6 mm",
+      "source": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "eff": "2026-11-16",
+      "attempts": [
+        {
+          "source": "DMC",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "status": "no se obtuvo tabla diaria específica"
+        },
+        {
+          "source": "Yr",
+          "url": "https://www.yr.no/",
+          "status": "sin serie local verificable en consulta"
+        },
+        {
+          "source": "Open-Meteo",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-36.8201&longitude=-73.0444&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=2",
+          "status": "sin acceso a JSON"
+        },
+        {
+          "source": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+          "status": "pronóstico diario fechado comprobado"
+        }
+      ],
+      "query_time": "2026-11-16T15:06:06-03:00",
+      "timezone": "America/Santiago",
+      "period": "lunes 16 noviembre 2026, pronóstico diario máxima/mínima",
+      "note": "Modelo diario; no condición actual ni DMC, fallback tras otros intentos"
+    },
+    {
+      "city": "Casablanca",
+      "temp": "22° / 14°",
+      "condition": "Lluvia débil, parcialmente nuboso",
+      "rain": "80% · 1 mm",
+      "source": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "eff": "2026-11-16",
+      "attempts": [
+        {
+          "source": "DMC",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "status": "sin serie diaria local recuperable"
+        },
+        {
+          "source": "Yr",
+          "url": "https://www.yr.no/",
+          "status": "sin serie local verificable"
+        },
+        {
+          "source": "Open-Meteo",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.3167&longitude=-71.4067&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=2",
+          "status": "consulta sin JSON"
+        },
+        {
+          "source": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+          "status": "comuna de Valparaíso y día corroborados"
+        }
+      ],
+      "query_time": "2026-11-16T15:06:06-03:00",
+      "timezone": "America/Santiago",
+      "period": "lunes 16 noviembre 2026, pronóstico diario máxima/mínima",
+      "note": "Modelo diario; no condición actual ni DMC, fallback tras otros intentos"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$999,10",
+      "unit": "CLP/USD",
+      "vigencia": "16 noviembre 2026",
+      "url": "https://www.bcentral.cl/inicio",
+      "query_time": "2026-11-16T15:06:06-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "UF",
+      "value": "$41.343,55",
+      "unit": "CLP/UF",
+      "vigencia": "16 noviembre 2026",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "query_time": "2026-11-16T15:06:06-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.102,03",
+      "unit": "CLP/EUR",
+      "vigencia": "16 noviembre 2026",
+      "url": "https://www.bcentral.cl/inicio",
+      "query_time": "2026-11-16T15:06:06-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "unit": "CLP/UTM",
+      "vigencia": "noviembre 2026",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "query_time": "2026-11-16T15:06:06-03:00",
+      "timezone": "America/Santiago"
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "checks": [
+      {
+        "control": 1,
+        "status": "OK",
+        "detail": "Portada con principal, cuatro entradas diferenciadas, editorial, fecha y lectura."
+      },
+      {
+        "control": 2,
+        "status": "OK",
+        "detail": "Foto documental Cámara 2008 con autor, fecha, licencia y rótulo archivo; no se presenta como sesión actual."
+      },
+      {
+        "control": 3,
+        "status": "corregido con alternativa",
+        "detail": "Dos fotos interiores autorizadas (UE, Barcelona), tres gráficos SVG originales; sin repetición de fotos de dos ediciones previas."
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "detail": "Créditos de 10px legibles y enlaces a origen y licencia individual; vista reducida sin recorte editorial."
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "detail": "Principal ancho completo, entradas en mosaico, reportajes en columnas y bloques independientes según extensión."
+      },
+      {
+        "control": 6,
+        "status": "pendiente",
+        "detail": "Alturas automáticas, sin laterales rígidos; blancos sólo revisados estáticamente."
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "detail": "Justificación/hyphens escritorio, alineación izquierda y una columna móvil; titulares y créditos no justificados."
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "detail": "Marfil, terracota y cobre. Servicio compacto y editorial diferenciado."
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "detail": "Artículos generados desde manuscrito estructurado y comparación automática íntegra de títulos, bajadas, párrafos y enlaces; lectura por voz inline y pie exacto."
+      },
+      {
+        "control": 10,
+        "status": "no disponible",
+        "detail": "inspección visual no disponible; comprobación estática de responsive, anclas, créditos, fuentes y estructura."
+      }
+    ],
+    "review_type": "static",
+    "visual_review": "inspección visual no disponible",
+    "article_count": 12,
+    "photographs": 3,
+    "svg_count": 3,
+    "broken_anchors": [],
+    "external_security_failures": 0,
+    "voice_inlined": true,
+    "voice_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "source_links": 33,
+    "manuscript_html_integrity": true,
+    "photo_load_verified": false,
+    "photos": [
+      {
+        "key": "cover",
+        "file": "Cámara de Diputados de Chile.jpg",
+        "author": "B1mbo",
+        "date": "24 julio 2008",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "origin": "https://commons.wikimedia.org/wiki/File:C%C3%A1mara_de_Diputados_de_Chile.jpg",
+        "alt": "Interior de la Cámara de Diputados de Chile en Valparaíso, fotografía de archivo de 2008; no corresponde a la votación de 2026",
+        "caption": "Cámara de Diputados, Valparaíso · archivo 2008; no muestra la sesión del lunes 16",
+        "remote_load_verified": false
+      },
+      {
+        "key": "eu",
+        "file": "European council building in Brussels.jpg",
+        "author": "Antoine Meissonnier",
+        "date": "21 abril 2011",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "origin": "https://commons.wikimedia.org/wiki/File:European_council_building_in_Brussels.jpg",
+        "alt": "Edificio del Consejo Europeo en Bruselas en 2011, archivo contextual y no fotografía de la reunión de ministros de noviembre de 2026",
+        "caption": "Sede del Consejo Europeo, Bruselas · archivo 2011, no documenta la reunión actual",
+        "remote_load_verified": false
+      },
+      {
+        "key": "barcelona",
+        "file": "Plaça de Catalunya, Barcelona.jpg",
+        "author": "Nicholas Gemini",
+        "date": "23 agosto 2018",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "origin": "https://commons.wikimedia.org/wiki/File:Pla%C3%A7a_de_Catalunya,_Barcelona.jpg",
+        "alt": "Vista panorámica de la plaza de Catalunya de Barcelona en 2018; no es fotografía del desalojo del 16 de noviembre de 2026",
+        "caption": "Plaça de Catalunya, Barcelona · archivo 2018, anterior a la protesta",
+        "remote_load_verified": false
+      }
+    ],
+    "html_length": 58831,
+    "notes": [
+      "No se verificó carga remota de imágenes dentro de un navegador",
+      "No se efectuó prueba de audio audible",
+      "Espacios/superposiciones sin inspección visual"
+    ]
+  },
+  "stage3": {
+    "status": "pending_commit",
+    "only_free": true,
+    "netlify_changes": false,
+    "workflow_changes": false
+  }
+}
