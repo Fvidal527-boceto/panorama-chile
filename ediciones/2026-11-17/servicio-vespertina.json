@@ -1,0 +1,270 @@
+{
+  "date": "2026-11-17",
+  "timezone": "America/Santiago",
+  "queried_at": "2026-11-17T15:08:15-03:00",
+  "forecast_period": "17 noviembre 2026, día completo (modelo diario; no observación en tiempo real)",
+  "weather": [
+    {
+      "city": "Santiago",
+      "condition": "Chubascos tormentosos, nubes parciales",
+      "high": 23,
+      "low": 13,
+      "source": "Meteored, modelo meteorológico",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "date": "2026-11-17",
+      "attempts": [
+        {
+          "source": "DMC, Quinta Normal",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+          "result": "Meteograma horario, no extrema diaria inequívoca al corte de la consulta"
+        },
+        {
+          "source": "Yr/MET",
+          "url": "https://www.yr.no/en/forecast/daily-table/2-3871336/Chile/Regi%C3%B3n%20Metropolitana/Santiago",
+          "result": "No accesible por herramienta"
+        },
+        {
+          "source": "Open-Meteo Free API",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.4489&longitude=-70.6693&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=America%2FSantiago&forecast_days=2",
+          "result": "Sin respuesta por la herramienta de consulta"
+        },
+        {
+          "source": "Meteored",
+          "result": "Valor diario explícito 23/13, 17 noviembre"
+        }
+      ]
+    },
+    {
+      "city": "Concepción",
+      "condition": "Lluvia débil con nubes parciales",
+      "high": 19,
+      "low": 13,
+      "source": "Meteored, modelo meteorológico",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "date": "2026-11-17",
+      "attempts": [
+        {
+          "source": "DMC, Carriel Sur",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+          "result": "Meteograma horario, sin extremo diario comparable recuperado"
+        },
+        {
+          "source": "Yr/MET",
+          "url": "https://www.yr.no/en/forecast/daily-table/2-3893894/Chile/Regi%C3%B3n%20del%20Biob%C3%ADo/Concepci%C3%B3n",
+          "result": "Sin tabla recuperada por restricciones"
+        },
+        {
+          "source": "Meteored",
+          "result": "Valor diario explícito 19/13, 17 noviembre"
+        }
+      ]
+    },
+    {
+      "city": "Casablanca, Valparaíso",
+      "condition": "Nubes y claros",
+      "high": 23,
+      "low": 12,
+      "source": "Meteored, modelo meteorológico; ciudad y región verificadas",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "date": "2026-11-17",
+      "attempts": [
+        {
+          "source": "DMC",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "result": "Sin serie diaria local obtenida"
+        },
+        {
+          "source": "Yr/MET",
+          "url": "https://www.yr.no/en/",
+          "result": "Sin ficha local recuperada"
+        },
+        {
+          "source": "Tiempo.es",
+          "url": "https://www.tiempo.es/el-tiempo/para-7-dias/chile-casablanca-cl3896410.html",
+          "result": "Tabla inicialmente variable; respuesta posterior no era actual, descartada"
+        },
+        {
+          "source": "Meteored",
+          "result": "Ficha localizada en Casablanca de Valparaíso: 23/12, 17 noviembre"
+        }
+      ]
+    }
+  ],
+  "economics": [
+    {
+      "label": "Dólar observado",
+      "value": "$1.001,17",
+      "date": "2026-11-17",
+      "unit": "CLP/USD",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/details/cabecera-paridades-y-tipos-de-cambio"
+    },
+    {
+      "label": "UF",
+      "value": "$41.350,42",
+      "date": "2026-11-17",
+      "unit": "CLP/UF",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm"
+    },
+    {
+      "label": "Euro",
+      "value": "$1.102,00",
+      "date": "2026-11-17",
+      "unit": "CLP/EUR",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/details/cabecera-paridades-y-tipos-de-cambio",
+      "notes": "El Banco Central presenta $1.102,0; expresado con dos decimales para uniformidad"
+    },
+    {
+      "label": "UTM",
+      "value": "$72.440",
+      "date": "2026-11",
+      "unit": "CLP/UTM",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "photos": [
+    {
+      "file": "MMR vaccine.jpg",
+      "author": "Whispyhistory",
+      "date": "28 agosto 2020",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Fotografía de archivo de un preparado de vacuna triple vírica MMR; no documenta los brotes de 2026",
+      "note": "Vacuna triple vírica, fotografía de archivo de 2020; imagen de contexto, no corresponde a los brotes ni a la decisión de la OPS"
+    },
+    {
+      "file": "Edificio del Congreso Nacional de Chile (Valparaíso).jpg",
+      "author": "ShootingStarMax",
+      "date": "26 abril 2023",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Edificio del Congreso Nacional en Valparaíso fotografiado en 2023, no sesión del 17 de noviembre",
+      "note": "Congreso Nacional de Chile, archivo de 2023; no representa una sesión concreta de noviembre"
+    },
+    {
+      "file": "Prime Minister Andy Burnham attends COP31 in Türkiye (55647288264).jpg",
+      "author": "Lauren Hurley / No 10 Downing Street",
+      "date": "11 noviembre 2026",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "alt": "Andy Burnham llegando a COP31 en Antalya el 11 de noviembre, archivo; no representa diálogo del 17 de noviembre",
+      "note": "COP31, llegada del primer ministro británico el 11 de noviembre; archivo de la cumbre, no representa la reunión ministerial del día"
+    }
+  ],
+  "comparison": {
+    "morning_path": "ediciones/2026-11-17/matinal.html",
+    "morning_sha": "044b7ff3d0fde1210b9c14e1e0a3101d4f730fa5",
+    "previous_evening_sha": "2c5ad4eba6cb1578e5c6ccda4f4121e740431c6d",
+    "updates": [
+      "OPS publica el 17 de noviembre la pérdida nacional de eliminación de sarampión en tres países",
+      "Nuevo aviso DMC A626 precisa zonas de cuatro regiones y horario de tarde/noche",
+      "Gobierno detalla aplicación de rebajas combustibles desde el 19 de noviembre sujeta a decretos",
+      "Sheinbaum y Xi celebran reunión bilateral efectiva, antes solo prevista",
+      "Senado de Brasil debate cuatro disposiciones fiscales pendientes",
+      "Senadores estadounidenses solicitan detener sustitución de enrutadores FAA",
+      "COP31 abre diálogo de transparencia y segundo tramo ministerial",
+      "Ucrania anuncia daños en puente de Kerch y requiere protección aérea"
+    ]
+  },
+  "stage1": {
+    "status": "OK",
+    "article_count": 12,
+    "paragraph_count": 54,
+    "titles": [
+      "La OPS declara restablecida la transmisión endémica de sarampión en Estados Unidos, México y Bolivia",
+      "Nuevo aviso de nubes con características tornádicas abarca cuatro regiones para esta tarde",
+      "Biobío mantiene vigilancia por vientos, lluvia y eventuales trombas marinas",
+      "Combustibles: la rebaja prometida se desplaza a decretos y a su aplicación desde el jueves",
+      "Presupuesto 2027: la revisión del Senado definirá partidas y glosas aún discutidas",
+      "El Senado brasileño vota los puntos pendientes de un ajuste cuyo efecto se estima entre R$46.000 y R$56.000 millones",
+      "Lula vincula su ajuste a una defensa de salarios y programas sociales",
+      "Sheinbaum y Xi se reúnen en Shenzhen: cooperación anunciada sin acuerdos cuantificados aún",
+      "Senadores exigen esclarecer la falla aérea antes de seguir reemplazando enrutadores",
+      "Antalya pasa del borrador a los controles: ministros revisan informes que cubren el 66% de emisiones de 2020",
+      "Kyiv reclama defensa aérea urgente y anuncia daños en el puente de Kerch; Moscú disputa el relato",
+      "A doce días del 29-N, vivienda y participación confrontan los relatos electorales españoles"
+    ],
+    "editorial": "OPINIÓN",
+    "sources_checked": "Fuentes de notas específicas y organismos oficiales consultadas el 17 noviembre; no se afirma acceso a contenido de suscripción no leído",
+    "is_closed": true
+  },
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "controls": [
+      {
+        "control": 1,
+        "status": "OK",
+        "detail": "Portada jerarquizada, principal, cuatro entradas, opinión y tiempos de lectura"
+      },
+      {
+        "control": 2,
+        "status": "OK",
+        "detail": "Fotografía MMR de 2020 con licencia CC BY-SA 4.0, autor y rótulo de archivo"
+      },
+      {
+        "control": 3,
+        "status": "OK",
+        "detail": "Fotos autorizadas del Congreso y de COP31 en interiores, ninguna presentada como acontecimiento de hoy; SVG originales para riesgos y cifras"
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "detail": "Créditos completos de 10 px autor, fecha, licencia y enlaces; sin nuevo recorte"
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "detail": "Composición A reportaje, B notas emparejadas y C contexto por extensión; manuscrito íntegro"
+      },
+      {
+        "control": 6,
+        "status": "pendiente",
+        "detail": "CSS con alturas automáticas, columnas equilibradas y sin bloques vacíos; blancos no evaluables sin navegador"
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "detail": "Justificación e hyphens:auto en escritorio y una columna a la izquierda en móvil"
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "detail": "Paleta vespertina marfil, terracota, cobre; franja compacta y editorial diferenciado"
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "detail": "HTML construido programáticamente a partir de artículos cerrados, anclas y enlaces seguros; lector de voz inline íntegro"
+      },
+      {
+        "control": 10,
+        "status": "no disponible",
+        "detail": "Inspección visual no disponible; comprobación estática CSS/HTML/enlaces/anclas y lectura por voz"
+      }
+    ],
+    "article_count": 12,
+    "paragraph_count": 54,
+    "body_word_count": 3133,
+    "full_html_characters": 70124,
+    "photo_count": 4,
+    "svg_count": 5,
+    "external_link_count": 49,
+    "missing_anchors": [],
+    "unsecured_external_links": 0,
+    "voice_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "voice_inlined": true,
+    "visual_review": "inspección visual no disponible",
+    "remote_image_load_verified": false,
+    "audible_voice_test": false
+  },
+  "stage3": {
+    "status": "pending after content closure",
+    "initial_head": "0e8cda4e786f181ad8b7626edea02e136fdaf1f1",
+    "base_tree": "be76868e31ef4ffe0e900f3f8f56a865ef0b955f",
+    "netlify_changes": false,
+    "paid_services": false
+  }
+}
