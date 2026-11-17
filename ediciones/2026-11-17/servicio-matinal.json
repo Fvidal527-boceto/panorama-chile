@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-17",
+  "turn": "matinal",
+  "timezone": "America/Santiago",
+  "created_at": "2026-11-17T07:06:32-03:00",
+  "model": "PANORAMA N.º 2",
+  "stage1": {
+    "status": "OK",
+    "article_count": 12,
+    "paragraph_count": 59,
+    "editorial_paragraphs": 4,
+    "cover_titles": [
+      "alertas-regionales",
+      "brasil-fiscal",
+      "mexico-apec",
+      "cop-borrador"
+    ],
+    "source_urls": [
+      "https://www.camara.cl/cms/2026/11/16/camara-despacho-proyecto-que-busca-contener-las-alzas-de-los-precios-de-los-combustibles/",
+      "https://www.emol.com/noticias/Nacional/2026/11/16/1217286/senado-despacha-proyecto-combustibles-ley.html",
+      "https://www.emol.com/noticias/Nacional/2026/11/16/1217273/camara-aprueba-proyecto-combustibles.html",
+      "https://www.grenelectronic.cl/alertas-climaticas",
+      "https://www.24horas.cl/amp/actualidad/nacional/emiten-aviso-por-probables-tormentas-electricas-en-10-regiones",
+      "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+      "https://www.camara.cl/cms/2026/11/16/proyecto-sobre-combustibles-en-tabla-de-la-sala-de-este-lunes/",
+      "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
+      "https://economia.uol.com.br/noticias/redacao/2026/11/16/alckmin-sobre-projeto-ajuste-fiscal.ghtm",
+      "https://politica.expansion.mx/mexico/2026/11/15/presidenta-sheinbaum-llega-a-china-para-participar-en-cumbre-de-apec-se-reunira-con-xi-jinping?_amp=true",
+      "https://www.unotv.com/nacional/sheinbaum-xi-jinping-mark-carney-china-reuniones-horarios-apec-2026/",
+      "https://www.publimetro.com.mx/nacional/2026/11/16/sheinbaum-china-reuniones-xi-carney/",
+      "https://apnews.com/article/60f868d3bb430b85a8657b27d421096e",
+      "https://apnews.com/article/17582a5098a5fb4c8fe866a084a6e52b",
+      "https://apnews.com/article/36d846810d632fba17364355de99efa8",
+      "https://apnews.com/article/cde686fba0e452b10ca613b3517e884e",
+      "https://enb.iisd.org/antalya-un-climate-change-conference-cop31-daily-report-16nov2026",
+      "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
+      "https://www1.folha.uol.com.br/ambiente/2026/11/chefia-da-cop31-cita-meta-de-eletrificacao-e-fim-dos-combustiveis-fosseis-em-texto-preliminar.shtml",
+      "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/ministerio-da-fazenda-apresenta-avancos-da-transformacao-ecologica-durante-cop31-na-turquia/",
+      "https://apnews.com/article/a721229e4896584faa5fa64cc3686812"
+    ],
+    "previous": [
+      "2026-11-16/matinal",
+      "2026-11-16/vespertina"
+    ],
+    "distinct_from_previous": "Despacho legislativo del Senado de combustibles y nuevos cambios del 16 de noviembre; no se reporta una ley promulgada",
+    "closed_manuscript": true
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "min": 13,
+      "max": 23,
+      "condition": "Chubascos tormentosos por la tarde",
+      "prob": "90 %",
+      "period": "17-11-2026",
+      "provider": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "attempts": [
+        "DMC Quinta Normal: datos web generados a las 09:00, posteriores a consulta matinal",
+        "Yr/MET Norway: acceso no disponible",
+        "Open-Meteo API gratuita: error de resolución DNS desde runtime"
+      ],
+      "consulted_at": "2026-11-17T07:06:32-03:00",
+      "timezone": "America/Santiago",
+      "valid": true,
+      "forecast_type": "pronóstico diario de modelo",
+      "attribution": "Meteored Chile; DMC e Yr consultados como primera referencia; Open-Meteo intentado"
+    },
+    {
+      "city": "Concepción",
+      "min": 13,
+      "max": 19,
+      "condition": "Lluvia débil; viento del norte",
+      "prob": "80 %",
+      "period": "17-11-2026",
+      "provider": "Meteored Chile",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "attempts": [
+        "DMC Carriel Sur: datos web generados a las 09:00, posteriores a consulta matinal",
+        "Yr/MET Norway: acceso no disponible",
+        "Open-Meteo API gratuita: error de resolución DNS desde runtime"
+      ],
+      "consulted_at": "2026-11-17T07:06:32-03:00",
+      "timezone": "America/Santiago",
+      "valid": true,
+      "forecast_type": "pronóstico diario de modelo",
+      "attribution": "Meteored Chile; DMC e Yr consultados como primera referencia; Open-Meteo intentado"
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "min": 13,
+      "max": 19,
+      "condition": "Lluvia débil y nubosidad variable",
+      "prob": "70 %",
+      "period": "17-11-2026",
+      "provider": "Meteored Chile",
+      "url": "https://www.meteored.cl/casablanca-1-519951.html",
+      "attempts": [
+        "DMC local: no se recuperó valor diario comprobable",
+        "Yr/MET Norway: acceso restringido",
+        "Open-Meteo API gratuita: error de resolución DNS desde runtime",
+        "Segunda URL Meteored Casablanca-Valparaíso tenía pronóstico divergente 23/13; se priorizó la consulta de fecha 17 nov. de ciudad Casablanca"
+      ],
+      "consulted_at": "2026-11-17T07:06:32-03:00",
+      "timezone": "America/Santiago",
+      "valid": true,
+      "forecast_type": "pronóstico diario de modelo",
+      "attribution": "Meteored Chile; DMC e Yr consultados como primera referencia; Open-Meteo intentado"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$1.001,17",
+      "validity": "17 noviembre 2026",
+      "unit": "CLP/USD",
+      "provider": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio",
+      "consulted_at": "2026-11-17T07:06:32-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.350,42",
+      "validity": "17 noviembre 2026",
+      "unit": "CLP/UF",
+      "provider": "SII / Banco Central",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consulted_at": "2026-11-17T07:06:32-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.102,00",
+      "validity": "17 noviembre 2026",
+      "unit": "CLP/EUR",
+      "provider": "Banco Central de Chile",
+      "url": "https://si3.bcentral.cl/indicadoressiete/secure/indicadoresdiarios.aspx",
+      "consulted_at": "2026-11-17T07:06:32-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre 2026",
+      "unit": "CLP/UTM",
+      "provider": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulted_at": "2026-11-17T07:06:32-03:00"
+    }
+  ],
+  "stage2": {
+    "status": "OK · revisión estática",
+    "manuscript_html_integrity": true,
+    "articles": 12,
+    "paragraphs": 59,
+    "photos": 4,
+    "svg": 1,
+    "voice_script_inline": true,
+    "external_links_checked_static": true,
+    "broken_anchors": [],
+    "visual_review": "inspección visual no disponible",
+    "photo_loading_tested": false,
+    "audio_tested": false,
+    "controls": [
+      {
+        "number": 1,
+        "state": "OK",
+        "detail": "Portada, titular principal, cuatro entradas y editorial más tiempos"
+      },
+      {
+        "number": 2,
+        "state": "OK",
+        "detail": "Foto documental de estación de servicio en Maipú, autor/licencia y archivo"
+      },
+      {
+        "number": 3,
+        "state": "OK",
+        "detail": "Tres fotos interiores: Brasilia, Shenzhen, Antalya; diferentes a fotos del 16"
+      },
+      {
+        "number": 4,
+        "state": "OK",
+        "detail": "Créditos discretos, autoría, fecha, origen y licencia individual, alt y sin recortes"
+      },
+      {
+        "number": 5,
+        "state": "OK",
+        "detail": "Reportaje principal, mosaico portada e interiores de flujo adaptable; 12 artículos íntegros"
+      },
+      {
+        "number": 6,
+        "state": "corregido con alternativa",
+        "detail": "Alturas automáticas, sin filas rígidas ni relleno artificial"
+      },
+      {
+        "number": 7,
+        "state": "OK",
+        "detail": "Dos columnas justificadas en escritorio, una columna alineada izquierda móvil; lang es"
+      },
+      {
+        "number": 8,
+        "state": "OK",
+        "detail": "Paleta marfil verde terracota, editorial y franja servicios separada 3+4"
+      },
+      {
+        "number": 9,
+        "state": "OK",
+        "detail": "Igualdad de 12 títulos, bajadas y 12 artículos/total párrafos; fuentes, voz y descargo"
+      },
+      {
+        "number": 10,
+        "state": "no disponible",
+        "detail": "Inspección visual navegador no disponible; controles estructurales y CSS estáticos"
+      }
+    ],
+    "photos_used": [
+      {
+        "key": "portada",
+        "file": "COPEC Maipú.jpg",
+        "author": "Jorgebarrios",
+        "date": "29 mayo 2011",
+        "license": "CC BY-SA 3.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "page": "https://commons.wikimedia.org/wiki/File:COPEC_Maip%C3%BA.jpg"
+      },
+      {
+        "key": "brasil",
+        "file": "Esplanada dos Ministérios - Brasília - 20200907101128.jpg",
+        "author": "Cuelhu",
+        "date": "7 septiembre 2020",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "page": "https://commons.wikimedia.org/wiki/File:Esplanada_dos_Minist%C3%A9rios_-_Bras%C3%ADlia_-_20200907101128.jpg"
+      },
+      {
+        "key": "mexico",
+        "file": "Light Show of Shenzhen in May 2019 (2).jpg",
+        "author": "Sparktour",
+        "date": "18 mayo 2019",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "page": "https://commons.wikimedia.org/wiki/File:Light_Show_of_Shenzhen_in_May_2019_(2).jpg"
+      },
+      {
+        "key": "cop",
+        "file": "Antalya Old Town View from high ın 2018 03.jpg",
+        "author": "Dosseman",
+        "date": "20 mayo 2018",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "page": "https://commons.wikimedia.org/wiki/File:Antalya_Old_Town_View_from_high_%C4%B1n_2018_03.jpg"
+      }
+    ],
+    "limitations": [
+      "La carga de imágenes y el sonido no pudieron comprobarse en navegador de usuario",
+      "Casablanca: dos URLs meteorológicas mostraron valores divergentes y se eligió la página con encabezado de fecha 17"
+    ]
+  },
+  "stage3": {
+    "status": "contenido preparado para commit atómico; verificar repositorio y sitio externo al cerrar"
+  }
+}
