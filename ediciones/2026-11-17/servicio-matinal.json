@@ -202,8 +202,8 @@
       },
       {
         "number": 9,
-        "state": "OK",
-        "detail": "Igualdad de 12 títulos, bajadas y 12 artículos/total párrafos; fuentes, voz y descargo"
+        "state": "corregido con alternativa",
+        "detail": "12 bloques class=sources normalizados para validador Github Actions; titulares, párrafos, enlaces y voz íntegros"
       },
       {
         "number": 10,
@@ -252,9 +252,13 @@
     "limitations": [
       "La carga de imágenes y el sonido no pudieron comprobarse en navegador de usuario",
       "Casablanca: dos URLs meteorológicas mostraron valores divergentes y se eligió la página con encabezado de fecha 17"
-    ]
+    ],
+    "qa_correction": "El control editorial GitHub Actions rechazó inicialmente el nombre source-list del bloque; se corrigió a class=sources de manera atómica, sin modificar el manuscrito."
   },
   "stage3": {
-    "status": "contenido preparado para commit atómico; verificar repositorio y sitio externo al cerrar"
-  }
+    "status": "corrección de marcado posterior al primer commit, nuevo commit atómico de reparación",
+    "correction_of": "0c2a7a2b436e3f41d4dd72f703737e14c84291c9",
+    "reason": "GitHub Actions control de referencias"
+  },
+  "corrected_at": "2026-11-17T07:08:19-03:00"
 }
