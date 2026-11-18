@@ -1,0 +1,380 @@
+{
+  "fecha": "2026-11-18",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "consulted_at": "2026-11-18T15:10:07-03:00",
+  "editorial_closed_at": "2026-11-18T15:10:07-03:00",
+  "stage1": {
+    "status": "OK",
+    "manuscript_closed": true,
+    "article_count": 12,
+    "paragraphs": 54,
+    "headlines": [
+      {
+        "title": "El PIB chileno se contrajo 1,1% en el tercer trimestre y la inversión profundiza las dudas sobre 2026",
+        "category": "Chile y regiones",
+        "source_urls": [
+          "https://www.bcentral.cl/contenido/-/detalle/publicaciones/estadistica/cuentas-nacionales-de-chile-evolucion-de-la-actividad-economica-tercer-trimestre-2026",
+          "https://www.emol.com/noticias/Economia/2026/11/18/1217423/pib-banco-central-cuentas-nacionales.html"
+        ]
+      },
+      {
+        "title": "Estudiantes y trabajadores marchan contra recortes presupuestarios y alteran el tránsito del centro de Santiago",
+        "category": "Chile y regiones",
+        "source_urls": [
+          "https://www.cooperativa.cl/noticias/pais/manifestaciones/marcha-se-toma-el-centro-de-santiago-en-protesta-por-recortes-en-el/2026-11-18/124625.html",
+          "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2026/11/18/marcha-convocada-por-la-confech-y-la-cut-recibe-autorizacion-de-la-delegacion-rm.shtml",
+          "https://www.radioagricultura.cl/noticias/nacional/marcha-santiago-hoy-cut-18-noviembre-horarios_20261118/"
+        ]
+      },
+      {
+        "title": "Sala Cuna Universal llega a su votación con respaldo general del Frente Amplio y diferencias sobre copagos",
+        "category": "Chile y regiones",
+        "source_urls": [
+          "https://www.cooperativa.cl/noticias/site/artic/20261118/pags-amp/20261118122730.html",
+          "https://www.mintrab.gob.cl/sala-cuna-universal/",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/17/sala-cuna-universal-aprueban-nuevo-financiamiento-y-ayudas-para-familias-vulnerables.shtml"
+        ]
+      },
+      {
+        "title": "Educación y Ciencia siguen bajo revisión presupuestaria: las glosas decidirán más que los titulares",
+        "category": "Chile y regiones",
+        "source_urls": [
+          "https://www.camara.cl/cms/2026/11/13/camara-concluyo-despacho-del-presupuesto-2027/",
+          "https://www.votovisible.cl/votaciones/senado/11519",
+          "https://www.bcentral.cl/contenido/-/detalle/publicaciones/estadistica/cuentas-nacionales-de-chile-evolucion-de-la-actividad-economica-tercer-trimestre-2026"
+        ]
+      },
+      {
+        "title": "Concepción conserva vigilancia por viento y lluvia débil tras jornadas de inestabilidad",
+        "category": "Chile y regiones",
+        "source_urls": [
+          "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+          "https://www.diarioconcepcion.cl/ciudad/2026/11/17/alerta-temprana-biobio-riesgo-tornados.html"
+        ]
+      },
+      {
+        "title": "El Senado brasileño retoma cuatro enmiendas del ajuste fiscal mientras el real acusa la incertidumbre",
+        "category": "América Latina",
+        "source_urls": [
+          "https://www.brasildefato.com.br/2026/11/17/senado-adia-a-votacao-do-projeto-de-ajuste-fiscal-do-governo-lula-para-quarta-18/",
+          "https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-nesta-quarta-com-mercado-a-espera-de-leilao-do-bc-e-votacao-sobre-ajuste-fiscal.shtml"
+        ]
+      },
+      {
+        "title": "Sheinbaum y Trump se reúnen en China y anuncian otro encuentro para diciembre",
+        "category": "América Latina",
+        "source_urls": [
+          "https://www.jornada.com.mx/noticia/2026/11/18/politica/sheinbaum-y-trump-acuerdan-volver-a-reunirse-en-diciembre-en-la-cumbre-del-g20",
+          "https://www.jornada.com.mx/2026/11/18/economia/016n1eco"
+        ]
+      },
+      {
+        "title": "Xi defiende el comercio abierto en APEC mientras Trump y Putin preparan conversaciones de seguridad",
+        "category": "América Latina",
+        "source_urls": [
+          "https://apnews.com/article/1e3b6161b31196c9716ca02ac8c7720c",
+          "https://apnews.com/article/3fc8110f4b4414bfb2c03596f61da862"
+        ]
+      },
+      {
+        "title": "Un nuevo informe federal sobre riesgos de IA generativa impulsa control parlamentario en Estados Unidos",
+        "category": "Estados Unidos",
+        "source_urls": [
+          "https://www.gao.gov/products/gao-27-108814",
+          "https://apnews.com/article/fd36b9004c00259aa2f7b871a61aeb8c"
+        ]
+      },
+      {
+        "title": "Una promesa de US$50 millones al Fondo de Adaptación profundiza las diferencias en la COP31",
+        "category": "Europa y mundo",
+        "source_urls": [
+          "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+          "https://enb.iisd.org/sites/default/files/2026-11/enb12909e.pdf"
+        ]
+      },
+      {
+        "title": "Ucrania reivindica ataques a refinerías rusas mientras continúan los bombardeos contra ciudades ucranianas",
+        "category": "Europa y mundo",
+        "source_urls": [
+          "https://apnews.com/article/3c37f13d278c1312d795f108a7a91904",
+          "https://apnews.com/article/3fc8110f4b4414bfb2c03596f61da862"
+        ]
+      },
+      {
+        "title": "PSOE y PP enfrentan propuestas de vivienda en la recta final de la campaña española",
+        "category": "Europa y mundo",
+        "source_urls": [
+          "https://elpais.com/espana/elecciones-generales/2026-11-18/debate-sobre-la-vivienda-cara-a-cara-entre-isabel-rodriguez-psoe-y-juan-bravo-pp.html",
+          "https://apnews.com/article/d73fcfb03e4d13e46da6b9762810a450"
+        ]
+      }
+    ],
+    "opinion_editorial": true,
+    "comparison_with_morning": {
+      "file": "ediciones/2026-11-18/matinal.html",
+      "sha": "ddf726a2231d03d71a9683d6843a3e51594a1fd3",
+      "changes": [
+        "PIB Q3 −1,1% oficial publicado después del cierre matinal",
+        "Marcha Confech/CUT efectivamente realizada",
+        "Nueva intervención FA sobre copagos Sala Cuna",
+        "Sheinbaum confirmó encuentro ya realizado con Trump",
+        "Difusión hoy del informe GAO sobre IA",
+        "Debate PSOE/PP vivienda del 18 de noviembre",
+        "COP31, nuevas cifras de promesas de adaptación"
+      ]
+    }
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "date": "2026-11-18",
+      "validity": "2026-11-18",
+      "condition": "Nubes y claros; lluvia débil aislada",
+      "max_c": 25,
+      "min_c": 12,
+      "provider": "Meteored (pronóstico de modelo)",
+      "source_url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "timezone": "America/Santiago",
+      "queried_at": "2026-11-18T15:10:07-03:00",
+      "attempts": [
+        {
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+          "result": "consultado; meteograma horario DMC sin máximas y mínimas diarias equivalentes"
+        },
+        {
+          "url": "https://www.yr.no/en/forecast/daily-table/2-3871336/Chile/Santiago%20Metropolitan/Santiago/Santiago",
+          "result": "consulta intentada, página de pronóstico no recuperable"
+        },
+        {
+          "url": "https://api.open-meteo.com/v1/forecast",
+          "result": "API gratuita intentada; la herramienta no pudo recuperar los valores"
+        },
+        {
+          "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+          "result": "pronóstico diario fechado accesible; respaldo alternativo utilizado"
+        }
+      ]
+    },
+    {
+      "city": "Concepción",
+      "date": "2026-11-18",
+      "validity": "2026-11-18",
+      "condition": "Cielo parcial, lluvia débil",
+      "max_c": 19,
+      "min_c": 13,
+      "provider": "Meteored (pronóstico de modelo)",
+      "source_url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "timezone": "America/Santiago",
+      "queried_at": "2026-11-18T15:10:07-03:00",
+      "attempts": [
+        {
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+          "result": "consultado; meteograma horario DMC sin máximas y mínimas diarias equivalentes"
+        },
+        {
+          "url": "https://www.yr.no/en/forecast/daily-table/2-3893894/Chile/Regi%C3%B3n%20del%20Biob%C3%ADo/Provincia%20de%20Concepci%C3%B3n/Concepci%C3%B3n",
+          "result": "consulta intentada, página de pronóstico no recuperable"
+        },
+        {
+          "url": "https://api.open-meteo.com/v1/forecast",
+          "result": "API gratuita intentada; la herramienta no pudo recuperar los valores"
+        },
+        {
+          "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+          "result": "pronóstico diario fechado accesible; respaldo alternativo utilizado"
+        }
+      ]
+    },
+    {
+      "city": "Casablanca",
+      "date": "2026-11-18",
+      "validity": "2026-11-18",
+      "condition": "Nubes y claros",
+      "max_c": 25,
+      "min_c": 13,
+      "provider": "Meteored (pronóstico de modelo)",
+      "source_url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "timezone": "America/Santiago",
+      "queried_at": "2026-11-18T15:10:07-03:00",
+      "attempts": [
+        {
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "result": "consultado; meteograma horario DMC sin máximas y mínimas diarias equivalentes"
+        },
+        {
+          "url": "https://www.yr.no/en/forecast/daily-table/2-3896410/Chile/Regi%C3%B3n%20de%20Valpara%C3%ADso/Provincia%20de%20Valpara%C3%ADso/Casablanca",
+          "result": "consulta intentada, página de pronóstico no recuperable"
+        },
+        {
+          "url": "https://api.open-meteo.com/v1/forecast",
+          "result": "API gratuita intentada; la herramienta no pudo recuperar los valores"
+        },
+        {
+          "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+          "result": "pronóstico diario fechado accesible; respaldo alternativo utilizado"
+        }
+      ]
+    }
+  ],
+  "economic": [
+    {
+      "name": "Dólar observado",
+      "value": "$996,68",
+      "validity": "18 nov. 2026 · CLP/USD",
+      "source": "Banco Central",
+      "url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-18T15:10:07-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.357,30",
+      "validity": "18 nov. 2026 · CLP/UF",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-18T15:10:07-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.098,03",
+      "validity": "18 nov. 2026 · CLP/EUR",
+      "source": "Banco Central",
+      "url": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-18T15:10:07-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre 2026 · CLP/UTM",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-18T15:10:07-03:00"
+    }
+  ],
+  "photos": [
+    {
+      "file": "Fachada Banco Central.jpg",
+      "author": "Banco Central de Chile",
+      "date": "3 abril 2018",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fachada_Banco_Central.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "alt": "Fachada del Banco Central, fotografía de archivo de 2018; no corresponde a la publicación económica del 18 de noviembre de 2026.",
+      "character": "documental de archivo",
+      "source_license_verified": true,
+      "remote_load_verified": false
+    },
+    {
+      "file": "Edificio del Congreso Nacional de Chile (Valparaíso).jpg",
+      "author": "ShootingStarMax",
+      "date": "2 diciembre 2017",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional_de_Chile_(Valpara%C3%ADso).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Congreso Nacional en Valparaíso, fotografía de archivo; no muestra la sesión actual de Presupuesto.",
+      "character": "documental de archivo",
+      "source_license_verified": true,
+      "remote_load_verified": false
+    },
+    {
+      "file": "COP31 - Fatih Birol 06.jpg",
+      "author": "Xuthoria",
+      "date": "12 noviembre 2026 (imagen de archivo de la cumbre)",
+      "source_url": "https://commons.wikimedia.org/wiki/File:COP31_-_Fatih_Birol_06.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "Fatih Birol durante la COP31 en Antalya en noviembre de 2026; imagen de archivo que no documenta las negociaciones del día 18.",
+      "character": "documental de archivo",
+      "source_license_verified": true,
+      "remote_load_verified": false
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "content_integrity": true,
+    "articles": 12,
+    "photos": 3,
+    "original_svg_count": 2,
+    "html_utf8_bytes": 59525,
+    "voice_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "voice_inlined": true,
+    "visual_review": "inspección visual no disponible",
+    "audio_audible_verified": false,
+    "broken_anchors": [],
+    "ten_checks": [
+      {
+        "control": 1,
+        "status": "OK",
+        "detail": "principal, cuatro entradas, editorial, tiempo y cabecera despejada"
+      },
+      {
+        "control": 2,
+        "status": "corregido con alternativa",
+        "detail": "foto de archivo Banco Central con licencia y rótulo explícito; carga remota no comprobada"
+      },
+      {
+        "control": 3,
+        "status": "corregido con alternativa",
+        "detail": "fotos interiores Congreso y COP31 con licencia y 2 diagramas SVG originales; sin repetir foto de portada"
+      },
+      {
+        "control": 4,
+        "status": "OK",
+        "detail": "créditos sans serif 10px, autor, fecha, origen y licencia enlazados"
+      },
+      {
+        "control": 5,
+        "status": "OK",
+        "detail": "patrones A reportaje, B mosaico y C historia con contexto lateral"
+      },
+      {
+        "control": 6,
+        "status": "pendiente",
+        "detail": "alturas automáticas y CSS comprobados; espacios no inspeccionados visualmente"
+      },
+      {
+        "control": 7,
+        "status": "OK",
+        "detail": "justificación y guiones en escritorio, columna izquierda en móvil"
+      },
+      {
+        "control": 8,
+        "status": "OK",
+        "detail": "marfil/terracota/cobre, servicio compacto y editorial separado"
+      },
+      {
+        "control": 9,
+        "status": "OK",
+        "detail": "títulos, bajadas, 50 párrafos, enlaces, lector nativo y descargo íntegros"
+      },
+      {
+        "control": 10,
+        "status": "no disponible",
+        "detail": "inspección visual no disponible; comprobación estática CSS, alt, enlaces y anclas"
+      }
+    ],
+    "warnings": [
+      "carga de fotos externas no comprobada",
+      "ausencia de inspección visual en navegador"
+    ]
+  },
+  "stage3": {
+    "status": "pendiente de commit al crear esta evidencia",
+    "method": "único commit atómico",
+    "expected_paths": [
+      "ediciones/2026-11-18/vespertina.html",
+      "ediciones/actual/vespertina.html",
+      "ediciones/2026-11-18/servicio-vespertina.json",
+      "ediciones/indice.json"
+    ],
+    "github_pages": "pendiente",
+    "netlify": "pendiente"
+  },
+  "infrastructure": {
+    "netlify_changes": false,
+    "paid_services": false,
+    "github_actions_changes": false,
+    "automation_changes": false,
+    "model1_changes": false
+  }
+}
