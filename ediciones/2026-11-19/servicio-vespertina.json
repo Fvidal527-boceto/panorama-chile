@@ -1,0 +1,429 @@
+{
+  "fecha": "2026-11-19",
+  "tipo": "vespertina",
+  "cierre": "2026-11-19T15:05:11-03:00",
+  "timezone": "America/Santiago",
+  "stage1": {
+    "status": "OK",
+    "manuscript_closed": true,
+    "article_count": 12,
+    "body_words": 2230,
+    "paragraphs": 49,
+    "articles": [
+      {
+        "id": "cop",
+        "title": "La COP31 elimina los combustibles fósiles de su nuevo borrador y debilita una cifra de adaptación",
+        "deck": "La presidencia de Antalya acorta su propuesta de 144 a 80 párrafos y retira el lenguaje directo sobre petróleo, carbón y gas, antes de un cierre todavía incierto.",
+        "sources": [
+          [
+            "EFE Verde · borrador 19 nov.",
+            "https://efeverde.com/cop31-segundo-borrador-elimina-cualquier-alusion-a-combustibles-fosiles/"
+          ],
+          [
+            "RTVE · comparación 19 nov.",
+            "https://www.rtve.es/noticias/20261119/nueva-propuesta-acuerdo-cumbre-clima-elimina-mencion-combustibles-fosiles/17321529.shtml"
+          ],
+          [
+            "CMNUCC · COP31",
+            "https://unfccc.int/event/cop-31"
+          ]
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "title": "Educación y Ciencia pasan a la jornada decisiva del Senado, sin resultado definitivo al cierre",
+        "deck": "La Cámara Alta reanuda votaciones tras despachar carteras de Seguridad, Medio Ambiente, Transportes, Economía y Hacienda.",
+        "sources": [
+          [
+            "BioBioChile · Senado 19 nov.",
+            "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/19/presupuesto-2027-despachan-partidas-de-seguridad-medio-ambiente-economia-transporte-y-hacienda.shtml"
+          ],
+          [
+            "Emol · jornada 18 nov.",
+            "https://www.emol.com/noticias/Nacional/2026/11/18/1217528/senado-aprueba-partidas-presupuesto-etapa.html"
+          ],
+          [
+            "Boletín legislativo 18702-05",
+            "https://legislativo.lsvt.cl/proyecto/18702-05"
+          ]
+        ]
+      },
+      {
+        "id": "calama",
+        "title": "Calama obtiene una mesa ambiental interministerial y las comunas siguen mirando el gasto real",
+        "deck": "La indicación aprobada exige coordinación de Medio Ambiente, Salud y Educación durante el primer semestre de 2027.",
+        "sources": [
+          [
+            "BioBioChile · acuerdos del Senado, 19 nov.",
+            "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/19/presupuesto-2027-despachan-partidas-de-seguridad-medio-ambiente-economia-transporte-y-hacienda.shtml"
+          ]
+        ]
+      },
+      {
+        "id": "tormentas",
+        "title": "Tormentas eléctricas: se extiende la zona de vigilancia al valle de Santiago y a sectores de Magallanes",
+        "deck": "La DMC modificó avisos para este jueves; un riesgo anunciado no significa que haya descargas efectivamente registradas.",
+        "sources": [
+          [
+            "Central Noticia · actualización DMC",
+            "https://www.centralnoticia.cl/nacional/2026/11/19/tormentas-electricas-aviso-jueves-19/436677/"
+          ],
+          [
+            "Megatiempo · pronóstico por regiones",
+            "https://www.megatiempo.cl/pronostico/15298-lluvias-en-chile-jueves-19-noviembre-1ab.html"
+          ],
+          [
+            "Meteored · Santiago",
+            "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html"
+          ],
+          [
+            "Meteored · Concepción",
+            "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html"
+          ]
+        ]
+      },
+      {
+        "id": "brenergia",
+        "title": "Brasil no firmará por ahora la iniciativa voluntaria de electrificación del 35%",
+        "deck": "El Gobierno de Lula pide que la propuesta señale expresamente el papel de las renovables y reivindica los biocombustibles.",
+        "sources": [
+          [
+            "Folha · posición de Brasil 19 nov.",
+            "https://www1.folha.uol.com.br/ambiente/2026/11/brasil-nao-vai-aderir-a-meta-voluntaria-de-eletrificacao-na-cop31.shtml"
+          ],
+          [
+            "RTVE · meta de electrificación",
+            "https://www.rtve.es/noticias/20261119/nueva-propuesta-acuerdo-cumbre-clima-elimina-mencion-combustibles-fosiles/17321529.shtml"
+          ]
+        ]
+      },
+      {
+        "id": "brfiscal",
+        "title": "El ajuste de Lula prevé la opción de congelar gastos para acercarse al centro de su meta",
+        "deck": "Un secretario de Planificación explica el mecanismo aprobado por el Senado, todavía sujeto al trámite de Diputados.",
+        "sources": [
+          [
+            "UOL · explicación del Gobierno 19 nov.",
+            "https://economia.uol.com.br/colunas/jessica-sant-ana/2026/11/19/secretario-diz-que-governo-lula-pode-congelar-mais-despesas-se-necessario.ghtm"
+          ]
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "Sheinbaum habla de negociaciones avanzadas con Trump, pero mantiene pendientes los aranceles",
+        "deck": "El balance de Shenzhen distingue las conversaciones con Washington de la cooperación tecnológica suscrita con China.",
+        "sources": [
+          [
+            "El Financiero · 19 nov.",
+            "https://www.elfinanciero.com.mx/economia/2026/11/19/sheinbaum-asegura-que-las-negociaciones-comerciales-con-trump-van-muy-avanzadas-tras-reunion-en-china/"
+          ],
+          [
+            "Publimetro · balance de APEC 19 nov.",
+            "https://www.publimetro.com.mx/nacional/2026/11/19/sheinbaum-apec-china-acuerdos-trump-aranceles/"
+          ]
+        ]
+      },
+      {
+        "id": "alaska",
+        "title": "El republicano Nick Begich conserva el escaño de Alaska en la Cámara de Representantes",
+        "deck": "El voto preferencial le dio cerca de 51,4%, frente a 48,7% del independiente Bill Hill, en un estado que eligió senadora demócrata.",
+        "sources": [
+          [
+            "Associated Press · recuento Alaska 19 nov.",
+            "https://apnews.com/article/82e58b27718efb1df81223a64304c760"
+          ]
+        ]
+      },
+      {
+        "id": "kaine",
+        "title": "Tim Kaine promueve una votación sobre el efecto humanitario de las políticas estadounidenses hacia Rusia",
+        "deck": "La iniciativa solicita informes sobre sanciones, el negocio del diésel y la capacidad de Moscú para sostener la guerra en Ucrania.",
+        "sources": [
+          [
+            "Associated Press · Tim Kaine 19 nov.",
+            "https://apnews.com/article/437d5cfb240275e0d75f27314277620e"
+          ]
+        ]
+      },
+      {
+        "id": "ucrania",
+        "title": "Nuevo ataque al puente de Kerch y conversaciones sobre garantías de seguridad para Ucrania",
+        "deck": "La circulación ferroviaria se interrumpió y luego se reanudó según fuentes rusas, mientras enviados de Washington conversaron con líderes europeos.",
+        "sources": [
+          [
+            "Associated Press · Kerch, Berlín, 19 nov.",
+            "https://apnews.com/article/7b4a86809dcd466bba97d374045a1a78"
+          ]
+        ]
+      },
+      {
+        "id": "espana",
+        "title": "Sánchez y Feijóo se preparan para el debate de esta noche sobre vivienda, economía y corrupción",
+        "deck": "El encuentro televisado está fijado a las 22:00 de Madrid, cuando todavía será de tarde en Santiago.",
+        "sources": [
+          [
+            "RTVE · programación del debate",
+            "https://amp.rtve.es/rtve/20261114/rtve-emite-directo-pedro-sanchez-alberto-nunez-television-elecciones-29-noviembre-2026/17313913.shtml"
+          ]
+        ]
+      },
+      {
+        "id": "adaptacion",
+        "title": "El recorte de cifras sobre adaptación vuelve menos comprobables las promesas climáticas",
+        "deck": "Los países vulnerables necesitan montos, desembolsos y herramientas para ejecutar inversiones, no únicamente un objetivo agregado.",
+        "sources": [
+          [
+            "EFE Verde · nueva redacción",
+            "https://efeverde.com/cop31-segundo-borrador-elimina-cualquier-alusion-a-combustibles-fosiles/"
+          ],
+          [
+            "IISD · negociación del 18 nov.",
+            "https://enb.iisd.org/antalya-un-climate-change-conference-cop31-daily-report-18nov2026"
+          ],
+          [
+            "CMNUCC · COP31",
+            "https://unfccc.int/event/cop-31"
+          ]
+        ]
+      }
+    ],
+    "morning_sha": "3444b56d33049db532097eb9efc50b1514a23467",
+    "morning_new_developments": [
+      "COP31 presentó 19 nov. un borrador nuevo sin menciones directas a fósiles y con menos precisión de adaptación",
+      "Brasil formalizó desacuerdo con iniciativa voluntaria de electrificación",
+      "Sheinbaum dio balance del jueves de negociación comercial con Trump",
+      "AP confirmó resultado pendiente de Cámara en Alaska",
+      "Tim Kaine anunció procedimiento de fiscalización rusa",
+      "Nuevo ataque al puente de Kerch y conversaciones de seguridad",
+      "DMC amplió aviso de tormentas al valle de Santiago"
+    ],
+    "editorial": true
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "desc": "Chubascos tormentosos posibles",
+      "max": 24,
+      "min": 12,
+      "src": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "dmc": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "validity": "2026-11-19",
+      "period": "día completo",
+      "queried_at": "2026-11-19T15:05:11-03:00",
+      "provider": "Meteored",
+      "attempts": [
+        {
+          "source": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+          "status": "consultado: meteograma sin una máxima/mínima diaria fácilmente atribuible"
+        },
+        {
+          "source": "https://www.yr.no/",
+          "status": "no accesible/restringido en esta consulta"
+        },
+        {
+          "source": "https://api.open-meteo.com/v1/forecast",
+          "status": "error DNS/red"
+        },
+        {
+          "source": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+          "status": "valor diario verificado, fuente alternativa"
+        }
+      ]
+    },
+    {
+      "city": "Concepción",
+      "desc": "Lluvia débil",
+      "max": 18,
+      "min": 11,
+      "src": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "dmc": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "validity": "2026-11-19",
+      "period": "día completo",
+      "queried_at": "2026-11-19T15:05:11-03:00",
+      "provider": "Meteored",
+      "attempts": [
+        {
+          "source": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+          "status": "consultado: meteograma sin una máxima/mínima diaria fácilmente atribuible"
+        },
+        {
+          "source": "https://www.yr.no/",
+          "status": "no accesible/restringido en esta consulta"
+        },
+        {
+          "source": "https://api.open-meteo.com/v1/forecast",
+          "status": "error DNS/red"
+        },
+        {
+          "source": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+          "status": "valor diario verificado, fuente alternativa"
+        }
+      ]
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "desc": "Nubes y claros",
+      "max": 23,
+      "min": 12,
+      "src": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "dmc": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+      "validity": "2026-11-19",
+      "period": "día completo",
+      "queried_at": "2026-11-19T15:05:11-03:00",
+      "provider": "Meteored",
+      "attempts": [
+        {
+          "source": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "status": "consultado: meteograma sin una máxima/mínima diaria fácilmente atribuible"
+        },
+        {
+          "source": "https://www.yr.no/",
+          "status": "no accesible/restringido en esta consulta"
+        },
+        {
+          "source": "https://api.open-meteo.com/v1/forecast",
+          "status": "error DNS/red"
+        },
+        {
+          "source": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+          "status": "valor diario verificado, fuente alternativa"
+        }
+      ]
+    }
+  ],
+  "economic": [
+    {
+      "indicator": "Dólar observado",
+      "value": "$1.002,07",
+      "validity": "19 nov. · CLP/USD",
+      "source": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-19T15:05:11-03:00"
+    },
+    {
+      "indicator": "UF",
+      "value": "$41.364,17",
+      "validity": "19 nov. · CLP/UF",
+      "source": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-19T15:05:11-03:00"
+    },
+    {
+      "indicator": "Euro",
+      "value": "$1.099,60",
+      "validity": "19 nov. · CLP/EUR",
+      "source": "https://www.bcentral.cl/inicio",
+      "queried_at": "2026-11-19T15:05:11-03:00"
+    },
+    {
+      "indicator": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre · CLP/UTM",
+      "source": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-19T15:05:11-03:00"
+    }
+  ],
+  "images": [
+    {
+      "file": "Chris Bowen, COP31 President of Negotiation & Dan Jørgensen, European Commissioner.jpg",
+      "author": "Necati Savas / Unión Europea · Servicio Audiovisual CE",
+      "date": "10 noviembre 2026",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Chris_Bowen,_COP31_President_of_Negotiation_%26_Dan_J%C3%B8rgensen,_European_Commissioner.jpg",
+      "alt": "Chris Bowen y Dan Jørgensen en COP31, 10 de noviembre: archivo, no corresponde a la publicación del nuevo borrador",
+      "documentary_archive": true,
+      "remote_load_verified": false
+    },
+    {
+      "file": "Congresso Nacional, Brasilia.jpg",
+      "author": "Hikaru Barata",
+      "date": "1 enero 2007",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional,_Brasilia.jpg",
+      "alt": "Congreso Nacional en Brasilia en archivo de 2007, no fotografía de las votaciones de 2026",
+      "documentary_archive": true,
+      "remote_load_verified": false
+    },
+    {
+      "file": "Palacio Nacional Ciudad de México.jpg",
+      "author": "MichaelCamacho",
+      "date": "19 diciembre 2018",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_Nacional_Ciudad_de_M%C3%A9xico.jpg",
+      "alt": "Palacio Nacional en Ciudad de México, archivo de 2018 y no la reunión de Sheinbaum con Trump",
+      "documentary_archive": true,
+      "remote_load_verified": false
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "review": "inspección visual no disponible",
+    "checks": [
+      {
+        "n": 1,
+        "status": "OK",
+        "detail": "Principal, cuatro entradas, editorial y lectura"
+      },
+      {
+        "n": 2,
+        "status": "OK",
+        "detail": "Foto documental de negociador COP31 con licencia CC BY, rotulada archivo"
+      },
+      {
+        "n": 3,
+        "status": "OK",
+        "detail": "Dos fotos interiores nuevas, dos SVG originales no confundidos con fotos"
+      },
+      {
+        "n": 4,
+        "status": "OK",
+        "detail": "Créditos en sans 10px con autor, licencia, fecha y origen"
+      },
+      {
+        "n": 5,
+        "status": "OK",
+        "detail": "Reporte A, mosaico B, interior C con gráficos autónomos y sin relleno"
+      },
+      {
+        "n": 6,
+        "status": "pendiente",
+        "detail": "Alturas fluidas; blancos no comprobados en inspección visual"
+      },
+      {
+        "n": 7,
+        "status": "OK",
+        "detail": "Dos columnas justificado en escritorio y una a izquierda móvil"
+      },
+      {
+        "n": 8,
+        "status": "OK",
+        "detail": "Paleta vespertina marfil/terracota/cobre y servicio compacto"
+      },
+      {
+        "n": 9,
+        "status": "OK",
+        "detail": "Texto generado directamente del manuscrito; fuentes, anclas y voz integrados"
+      },
+      {
+        "n": 10,
+        "status": "no disponible",
+        "detail": "inspección visual no disponible; revisión estática de anclas, CSS y enlaces"
+      }
+    ],
+    "broken_anchors": [],
+    "unsafe_links": 0,
+    "photos": 3,
+    "svg_count": 2,
+    "voice_inlined": true,
+    "voice_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "html_characters": 52594,
+    "audible_test": false
+  },
+  "stage3": {
+    "status": "blobs prepared",
+    "netlify_changes": false
+  },
+  "no_paid_services": true,
+  "no_task_changes": true
+}
