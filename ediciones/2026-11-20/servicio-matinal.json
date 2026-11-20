@@ -1,0 +1,240 @@
+{
+  "fecha": "2026-11-20",
+  "tipo": "matinal",
+  "timezone": "America/Santiago",
+  "consulted_at": "2026-11-20T07:09:17-03:00",
+  "model": "PANORAMA N.º 2",
+  "stage1": {
+    "status": "OK",
+    "articles": 13,
+    "paragraphs": 65,
+    "editorial": true,
+    "previous": [
+      "2026-11-19/matinal",
+      "2026-11-19/vespertina"
+    ],
+    "sources": [
+      "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/20/senado-despacha-a-la-camara-el-presupuesto-2027-tras-acuerdos-en-educacion-y-rechazo-a-agricultura.shtml",
+      "https://www.emol.com/noticias/Nacional/2026/11/20/1217650/senado-despacha-presupuesto2027-reposicion-educacion.html",
+      "https://www.emol.com/noticias/Nacional/2026/11/19/1217596/acuerdo-transversal-presupuesto-educacion.html",
+      "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/19/presupuesto-2027-gobierno-cede-y-repone-35-mil-millones-para-programa-yo-elijo-mi-pc.shtml",
+      "https://www.diarioconcepcion.cl/ciudad/2026/11/19/hasta-cuando-llueve-concepcion-pronostico.html",
+      "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
+      "https://www1.folha.uol.com.br/ambiente/2026/11/cop31-abandona-mencoes-a-combustiveis-fosseis-em-novo-texto-preliminar.shtml",
+      "https://www.theguardian.com/environment/live/2026/nov/19/cop31-climate-turkey-live-news-updates-",
+      "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara",
+      "https://www.itatiaia.com.br/politica/ajuste-fiscal-camara-relator-mantem-texto-senado/",
+      "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/18/motta-anuncia-sessao-extra-da-camara-para-discutir-pacote-fiscal.amp.htm",
+      "https://www.eleconomista.com.mx/politica/sheinbaum-cierra-gira-apec-descarta-tlc-china-reporta-avances-comerciales-trump-20261119-844782.html",
+      "https://elpais.com/internacional/2026-11-18/trump-se-reune-brevemente-con-sheinbaum-tras-aterrizar-en-shenzhen-para-la-cumbre-de-la-apec.html",
+      "https://apnews.com/article/a04dc76ed8e786b087e2c1ea9598783a",
+      "https://apnews.com/article/25e17ec8d9c55fbff960d5631eaba71d",
+      "https://apnews.com/article/4c169e7c4d6e80145f39863e17f9f305",
+      "https://apnews.com/article/a28d60d1b37093199dd017472028d7ac",
+      "https://apnews.com/article/7b4a86809dcd466bba97d374045a1a78",
+      "https://www.rtve.es/temas/debates-electorales/134676/",
+      "https://www.rtve.es/noticias/20261118/pedro-sanchez-feijoo-debate-cara-elecciones-2026-horario-donde-ver/17315906.shtml"
+    ],
+    "manuscript_blob": "a6a142fa7c0793ad2e68303410dedc87bfa2a19b"
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "12°–25°",
+      "condition": "Nublado a escasa nubosidad",
+      "period": "viernes 20 noviembre 2026",
+      "source": "Megatiempo / Jaime Leyton · pronóstico publicado 19/11",
+      "url": "https://www.megatiempo.cl/pronostico/15307-tiempo-en-santiago-viernes-20-noviembre-1ab.html",
+      "verified": true,
+      "consulted_at": "2026-11-20T07:09:17-03:00",
+      "timezone": "America/Santiago",
+      "alternatives_attempted": [
+        "DMC/MeteoChile: sitio y pronóstico consultados",
+        "Yr/MET Norway: alternativa consultada sin salida utilizable para todas las ciudades",
+        "Open-Meteo Free API: acceso API no disponible desde este entorno",
+        "Fuente fechada independiente seleccionada: Megatiempo / Jaime Leyton · pronóstico publicado 19/11"
+      ]
+    },
+    {
+      "city": "Concepción",
+      "value": "12°–18°",
+      "condition": "Nublado, sin precipitaciones previstas",
+      "period": "viernes 20 noviembre 2026",
+      "source": "DMC, reproducida en Diario Concepción 19/11",
+      "url": "https://www.diarioconcepcion.cl/ciudad/2026/11/19/hasta-cuando-llueve-concepcion-pronostico.html",
+      "verified": true,
+      "consulted_at": "2026-11-20T07:09:17-03:00",
+      "timezone": "America/Santiago",
+      "alternatives_attempted": [
+        "DMC/MeteoChile: sitio y pronóstico consultados",
+        "Yr/MET Norway: alternativa consultada sin salida utilizable para todas las ciudades",
+        "Open-Meteo Free API: acceso API no disponible desde este entorno",
+        "Fuente fechada independiente seleccionada: DMC, reproducida en Diario Concepción 19/11"
+      ]
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "value": "11°–24°",
+      "condition": "Nubes y claros",
+      "period": "viernes 20 noviembre 2026",
+      "source": "Meteored · página ciudad 20/11",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "verified": true,
+      "consulted_at": "2026-11-20T07:09:17-03:00",
+      "timezone": "America/Santiago",
+      "alternatives_attempted": [
+        "DMC/MeteoChile: sitio y pronóstico consultados",
+        "Yr/MET Norway: alternativa consultada sin salida utilizable para todas las ciudades",
+        "Open-Meteo Free API: acceso API no disponible desde este entorno",
+        "Fuente fechada independiente seleccionada: Meteored · página ciudad 20/11"
+      ]
+    }
+  ],
+  "finance": [
+    {
+      "name": "Dólar observado",
+      "value": "$1.008,79",
+      "valid": "20 noviembre 2026",
+      "unit": "CLP/USD",
+      "source": "Banco Central",
+      "url": "https://si3.bcentral.cl/Indicadoressiete/secure/IndicadoresDiarios.aspx",
+      "consulted_at": "2026-11-20T07:09:17-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.371,05",
+      "valid": "20 noviembre 2026",
+      "unit": "CLP/UF",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consulted_at": "2026-11-20T07:09:17-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.107,59",
+      "valid": "20 noviembre 2026",
+      "unit": "CLP/EUR",
+      "source": "Banco Central",
+      "url": "https://si3.bcentral.cl/Indicadoressiete/secure/IndicadoresDiarios.aspx",
+      "consulted_at": "2026-11-20T07:09:17-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "valid": "noviembre 2026",
+      "unit": "CLP/UTM",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulted_at": "2026-11-20T07:09:17-03:00"
+    }
+  ],
+  "stage2": {
+    "status": "OK · revisión estática",
+    "controls": [
+      {
+        "number": 1,
+        "state": "OK",
+        "detail": "Portada jerarquizada: principal, cuatro entradas, editorial, tiempos"
+      },
+      {
+        "number": 2,
+        "state": "OK",
+        "detail": "Fotografía documental principal autorizada y rotulada como archivo"
+      },
+      {
+        "number": 3,
+        "state": "OK",
+        "detail": "Fotos interiores pertinentes, sin repetir fotografías de la edición anterior"
+      },
+      {
+        "number": 4,
+        "state": "OK",
+        "detail": "Créditos discretos 10px con autor, origen, fecha y licencia"
+      },
+      {
+        "number": 5,
+        "state": "OK",
+        "detail": "Reportaje principal, mosaico y noticias independientes según extensión"
+      },
+      {
+        "number": 6,
+        "state": "corregido con alternativa",
+        "detail": "Alturas automáticas, sin filas rígidas ni bloques de relleno"
+      },
+      {
+        "number": 7,
+        "state": "OK",
+        "detail": "Dos columnas justificadas escritorio; una columna izquierda móvil"
+      },
+      {
+        "number": 8,
+        "state": "OK",
+        "detail": "Marfil, verde y terracota, servicios y editorial diferenciados"
+      },
+      {
+        "number": 9,
+        "state": "OK",
+        "detail": "Integridad manuscrito/HTML: titulares, bajadas, párrafos, enlaces, voz, créditos y pie"
+      },
+      {
+        "number": 10,
+        "state": "no disponible",
+        "detail": "Inspección visual no disponible; comprobación estática HTML/CSS completada"
+      }
+    ],
+    "review": "inspección visual no disponible",
+    "photo_count": 4,
+    "photos": [
+      {
+        "key": "congreso",
+        "file": "Congreso Nacional de Chile.jpg",
+        "author": "Gonzalo Pineda",
+        "shot": "30 junio 2005",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "page": "https://commons.wikimedia.org/wiki/File:Congreso%20Nacional%20de%20Chile.jpg",
+        "note": "ARCHIVO, miniatura sin recorte"
+      },
+      {
+        "key": "cop",
+        "file": "COP31 - Fatih Birol 06.jpg",
+        "author": "Xuthoria",
+        "shot": "12 noviembre 2026",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "page": "https://commons.wikimedia.org/wiki/File:COP31%20-%20Fatih%20Birol%2006.jpg",
+        "note": "ARCHIVO, miniatura sin recorte"
+      },
+      {
+        "key": "brasil",
+        "file": "Brasília Palácio do Planalto (1921282736).jpg",
+        "author": "Matias Romero",
+        "shot": "24 octubre 2007",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "page": "https://commons.wikimedia.org/wiki/File:Bras%C3%ADlia%20Pal%C3%A1cio%20do%20Planalto%20(1921282736).jpg",
+        "note": "ARCHIVO, miniatura sin recorte"
+      },
+      {
+        "key": "shenzhen",
+        "file": "The skyline of Shenzhen 20120909.jpg",
+        "author": "Navjot Singh",
+        "shot": "9 septiembre 2012",
+        "license": "CC BY-SA 2.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "page": "https://commons.wikimedia.org/wiki/File:The%20skyline%20of%20Shenzhen%2020120909.jpg",
+        "note": "ARCHIVO, miniatura sin recorte"
+      }
+    ],
+    "manuscript_html_equal": true,
+    "voice_inline": true,
+    "html_bytes": 58256,
+    "source_links": 43,
+    "broken_anchors": 0,
+    "external_link_errors": 0,
+    "visual_pending": "No se comprobó la carga real de fotografías ni la reproducción audible"
+  },
+  "stage3": {
+    "status": "Commit atómico por verificar"
+  }
+}
