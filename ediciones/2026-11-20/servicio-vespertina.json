@@ -1,0 +1,412 @@
+{
+  "fecha": "2026-11-20",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "closed_at": "2026-11-20T15:02:09-03:00",
+  "editorial_stage": {
+    "status": "OK",
+    "article_count": 12,
+    "paragraph_count": 53,
+    "editorial": true,
+    "morning_sha": "d4d2e80e717d9506fdcfcabe2412adc59276074d",
+    "previous_evening_sha": "cb3db20a6409c1d367cf9bd96479ffeaadbe0c5f",
+    "story_integrity": true,
+    "stories": [
+      {
+        "id": "cop",
+        "title": "La COP31 entra en tiempo extra: la negociación climática no consigue cerrar sus diferencias",
+        "deck": "Antalya supera el plazo previsto sin acuerdo final; países vulnerables y la Unión Europea objetan un texto que omite los combustibles fósiles.",
+        "paragraphs": 5,
+        "source_urls": [
+          "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
+          "https://apnews.com/article/a683c5c87a7ee64caf4e9257948b6e40"
+        ]
+      },
+      {
+        "id": "financia",
+        "title": "El nudo financiero: prometer electricidad no basta para proteger a países vulnerables",
+        "deck": "La ausencia de montos definidos para pérdidas, daños y adaptación enfrenta a países financiadores y receptores.",
+        "paragraphs": 4,
+        "source_urls": [
+          "https://apnews.com/article/a683c5c87a7ee64caf4e9257948b6e40",
+          "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates"
+        ]
+      },
+      {
+        "id": "marejadas",
+        "title": "Comienzan las marejadas anormales desde Arica al golfo de Arauco y Juan Fernández",
+        "deck": "El aviso de la Armada rige desde este viernes y prevé las condiciones más intensas hasta el domingo, especialmente en pleamar.",
+        "paragraphs": 4,
+        "source_urls": [
+          "https://www.armada.cl/aviso-de-marejadas-anormales-arica-hasta-golfo-de-arauco-y-archipielago-1",
+          "https://www.24horas.cl/el-tiempo/alerta-temprana-preventiva-desde-arica-hasta-el-biobio-marejadas-anormales"
+        ]
+      },
+      {
+        "id": "presupuesto",
+        "title": "Después del Senado, Agricultura concentra el desacuerdo presupuestario que deberá resolver la Cámara",
+        "deck": "El tercer trámite comienza el lunes 23; el rechazo de una partida no suprime automáticamente las funciones del ministerio.",
+        "paragraphs": 4,
+        "source_urls": [
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/20/senado-despacha-a-la-camara-el-presupuesto-2027-tras-acuerdos-en-educacion-y-rechazo-a-agricultura.shtml",
+          "https://www.soychile.cl/santiago/politica/2026/11/20/973416/senado-despacho-presupuesto-tercer-tramite.html"
+        ]
+      },
+      {
+        "id": "educacion",
+        "title": "Los $35 mil millones para «Yo elijo mi PC» exigen seguimiento más allá del acuerdo político",
+        "deck": "La reposición anunciada para Educación debe contrastarse con partidas, glosas y eventual ejecución en los establecimientos.",
+        "paragraphs": 4,
+        "source_urls": [
+          "https://www.soychile.cl/santiago/politica/2026/11/20/973416/senado-despacho-presupuesto-tercer-tramite.html",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/20/senado-despacha-a-la-camara-el-presupuesto-2027-tras-acuerdos-en-educacion-y-rechazo-a-agricultura.shtml"
+        ]
+      },
+      {
+        "id": "brasil-ifi",
+        "title": "La oficina fiscal del Senado brasileño calcula una brecha de R$ 20.100 millones para promesas de Lula",
+        "deck": "El informe de la IFI obliga a precisar qué gastos se reordenarán para financiar seis iniciativas del nuevo mandato.",
+        "paragraphs": 5,
+        "source_urls": [
+          "https://www1.folha.uol.com.br/mercado/2026/11/governo-ainda-precisa-encontrar-espaco-no-orcamento-para-r-20-bi-de-promessas-de-campanha-diz-ifi.shtml",
+          "https://www12.senado.leg.br/ifi"
+        ]
+      },
+      {
+        "id": "brasil-stf",
+        "title": "Flávio Dino vota a favor de admitir una denuncia contra el exministro Juscelino Filho",
+        "deck": "La Primera Sala del STF todavía debe resolver si abre una causa penal; la imputación no equivale a una condena.",
+        "paragraphs": 4,
+        "source_urls": [
+          "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/20/dino-vota-para-tornar-juscelino-filho-reu-por-desvio-de-emendas.ghtm"
+        ]
+      },
+      {
+        "id": "mexico",
+        "title": "Sheinbaum regresa de APEC y encabeza la conmemoración de la Revolución mexicana",
+        "deck": "El desfile del 20 de noviembre sí se realizó; los resultados económicos de la gira requieren documentos bilaterales.",
+        "paragraphs": 4,
+        "source_urls": [
+          "https://www.nmas.com.mx/ciudad-de-mexico/sociedad/sheinbaum-encabeza-desfile-de-la-revolucion-en-cdmx-que-dijo-la-mandataria-este-20-de-noviembre-2026/",
+          "https://www.infobae.com/mexico/2026/11/20/sheinbaum-llega-a-mexico-tras-visita-a-china-hoy-encabezara-desfile-del-20-de-noviembre-por-la-revolucion-mexicana/"
+        ]
+      },
+      {
+        "id": "usa",
+        "title": "La Casa Blanca pide a un juez levantar el bloqueo al cierre por dos años del Kennedy Center",
+        "deck": "La administración sostiene que necesita rehabilitar el edificio; una congresista argumenta que existen alternativas menos disruptivas.",
+        "paragraphs": 4,
+        "source_urls": [
+          "https://apnews.com/article/c72117aeced3dde51be20ddc0e177a3c"
+        ]
+      },
+      {
+        "id": "eu",
+        "title": "Londres y Bruselas acuerdan acercar mercados, alimentos y movilidad juvenil tras el Brexit",
+        "deck": "El pacto presentado este viernes abarca comercio agroalimentario, mercados de carbono y estancias para jóvenes; quedan disputas por tasas universitarias.",
+        "paragraphs": 5,
+        "source_urls": [
+          "https://www.gov.uk/government/news/costs-cut-prime-minister-secures-deal-with-eu-to-cut-costs-keep-prices-down-and-create-opportunities-for-young-people-worth-up-to-17-billion-per-year",
+          "https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-explainer-html",
+          "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders"
+        ]
+      },
+      {
+        "id": "espana",
+        "title": "El debate Sánchez–Feijóo reordena la campaña: inmigración, vivienda y credibilidad económica",
+        "deck": "Los candidatos retomaron sus recorridos este viernes y se publicaron las primeras cifras de solicitudes de voto por correo.",
+        "paragraphs": 5,
+        "source_urls": [
+          "https://www.rtve.es/noticias/20261120/diario-campana-29n/17309192.shtml",
+          "https://www.europapress.es/nacional/noticia-elecciones-generales-2026-directo-resumen-debate-sanchez-feijoo-reacciones-ultima-hora-campana-20261120083023.html"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "title": "Washington plantea garantías de defensa para Kyiv, mientras Rusia intensifica ataques",
+        "deck": "Jared Kushner atribuye a Trump apertura a un mecanismo semejante a la defensa mutua de la OTAN; aún falta acuerdo vinculante.",
+        "paragraphs": 5,
+        "source_urls": [
+          "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner",
+          "https://apnews.com/article/cde686fba0e452b10ca613b3517e884e"
+        ]
+      }
+    ],
+    "differences": [
+      "COP31 pasó de cierre previsto a negociaciones prolongadas",
+      "Marejadas previstas comenzaron en la costa según vigencia del aviso",
+      "Brasil IFI informó insuficiencia presupuestaria hoy",
+      "STF brasileño inicia votación de denuncia Juscelino",
+      "México confirma regreso de Sheinbaum y ceremonia del 20 de noviembre",
+      "Estados Unidos debate judicial Kennedy Center",
+      "Cumbre UK-UE acordó paquete sectorial",
+      "Ucrania recibió propuesta atribuida a enviado estadounidense"
+    ],
+    "sources_checked": 23
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "condition": "Nubes y claros",
+      "max_min_celsius": "26° / 12°",
+      "provider": "Meteored Chile · pronóstico de modelo",
+      "data_url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "validity": "2026-11-20",
+      "queried_at": "2026-11-20T15:02:09-03:00",
+      "timezone": "America/Santiago",
+      "period": "pronóstico diario del viernes 20 noviembre 2026",
+      "coords": {
+        "lat": -33.45,
+        "long": -70.67
+      },
+      "attempts": [
+        {
+          "source": "DMC/MeteoChile",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "status": "no se recuperó serie diaria completa de las tres localidades"
+        },
+        {
+          "source": "Yr / MET Norway",
+          "url": "https://www.yr.no/",
+          "status": "sin pronóstico diario localizado verificable de las tres ciudades en esta ejecución"
+        },
+        {
+          "source": "Open-Meteo Free API",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.45&longitude=-70.67&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=America%2FSantiago&forecast_days=2",
+          "status": "DNS no resolvió dominio desde entorno de ejecución"
+        },
+        {
+          "source": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+          "status": "pronóstico diario para 20 noviembre verificado mediante web"
+        }
+      ]
+    },
+    {
+      "city": "Concepción",
+      "condition": "Parcialmente nuboso; posibilidad de lluvia débil",
+      "max_min_celsius": "19° / 12°",
+      "provider": "Meteored Chile · pronóstico de modelo",
+      "data_url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "validity": "2026-11-20",
+      "queried_at": "2026-11-20T15:02:09-03:00",
+      "timezone": "America/Santiago",
+      "period": "pronóstico diario del viernes 20 noviembre 2026",
+      "coords": {
+        "lat": -36.83,
+        "long": -73.05
+      },
+      "attempts": [
+        {
+          "source": "DMC/MeteoChile",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "status": "no se recuperó serie diaria completa de las tres localidades"
+        },
+        {
+          "source": "Yr / MET Norway",
+          "url": "https://www.yr.no/",
+          "status": "sin pronóstico diario localizado verificable de las tres ciudades en esta ejecución"
+        },
+        {
+          "source": "Open-Meteo Free API",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-36.83&longitude=-73.05&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=America%2FSantiago&forecast_days=2",
+          "status": "DNS no resolvió dominio desde entorno de ejecución"
+        },
+        {
+          "source": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+          "status": "pronóstico diario para 20 noviembre verificado mediante web"
+        }
+      ]
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "condition": "Nubes y claros",
+      "max_min_celsius": "24° / 11°",
+      "provider": "Meteored Chile · pronóstico de modelo",
+      "data_url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "validity": "2026-11-20",
+      "queried_at": "2026-11-20T15:02:09-03:00",
+      "timezone": "America/Santiago",
+      "period": "pronóstico diario del viernes 20 noviembre 2026",
+      "coords": {
+        "lat": -33.318,
+        "long": -71.41
+      },
+      "attempts": [
+        {
+          "source": "DMC/MeteoChile",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+          "status": "no se recuperó serie diaria completa de las tres localidades"
+        },
+        {
+          "source": "Yr / MET Norway",
+          "url": "https://www.yr.no/",
+          "status": "sin pronóstico diario localizado verificable de las tres ciudades en esta ejecución"
+        },
+        {
+          "source": "Open-Meteo Free API",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.318&longitude=-71.41&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=America%2FSantiago&forecast_days=2",
+          "status": "DNS no resolvió dominio desde entorno de ejecución"
+        },
+        {
+          "source": "Meteored",
+          "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+          "status": "pronóstico diario para 20 noviembre verificado mediante web"
+        }
+      ]
+    }
+  ],
+  "economic": [
+    {
+      "name": "Dólar observado",
+      "value": "$1.008,79",
+      "validity": "20-11-2026 · CLP/USD",
+      "source_url": "https://www.bcentral.cl/inicio/-/details/1442e-01-081024-6",
+      "queried_at": "2026-11-20T15:02:09-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "UF",
+      "value": "$41.371,05",
+      "validity": "20-11-2026 · CLP/UF",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-20T15:02:09-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.107,59",
+      "validity": "20-11-2026 · CLP/EUR",
+      "source_url": "https://www.bcentral.cl/inicio/-/details/1442e-01-081024-6",
+      "queried_at": "2026-11-20T15:02:09-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre de 2026 · CLP/UTM",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-20T15:02:09-03:00",
+      "timezone": "America/Santiago"
+    }
+  ],
+  "photos": [
+    {
+      "file": "COP31 - Mohammad Mustafa 04.jpg",
+      "caption": "Mohammad Mustafa en una intervención de la COP31, Antalya, 12 de noviembre de 2026; archivo documental, no imagen de las negociaciones de hoy.",
+      "author": "Xuthoria",
+      "day": "12-11-2026",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:COP31_-_Mohammad_Mustafa_04.jpg",
+      "alt": "Mohammad Mustafa en la COP31 de Antalya el 12 de noviembre de 2026; fotografía de archivo, no de la sesión de cierre."
+    },
+    {
+      "file": "Palacio de La Moneda. Santiago. Chile.jpg",
+      "caption": "Palacio de La Moneda, fotografía contextual de archivo del 31 de octubre de 2021; no representa la sesión del Presupuesto 2027.",
+      "author": "Rjcastillo",
+      "day": "31-10-2021",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_La_Moneda._Santiago._Chile.jpg",
+      "alt": "Exterior del Palacio de La Moneda de Chile, archivo 2021, no corresponde a votaciones del Senado."
+    },
+    {
+      "file": "Parlamento Europeo, Bruxelles, ingresso.jpg",
+      "caption": "Acceso al Parlamento Europeo en Bruselas, 5 de noviembre de 2013; imagen institucional de archivo, no es el lugar de la cumbre de hoy.",
+      "author": "Archeologo",
+      "day": "05-11-2013",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Parlamento_Europeo,_Bruxelles,_ingresso.jpg",
+      "alt": "Entrada del Parlamento Europeo de Bruselas, foto de archivo de 2013; no corresponde a la cumbre Reino Unido-Unión Europea."
+    }
+  ],
+  "stage2": {
+    "status": "realizada; revisión estática",
+    "checks": [
+      {
+        "control": 1,
+        "name": "Portada: principal, cuatro entradas, editorial y tiempo de lectura",
+        "status": "OK",
+        "detail": ""
+      },
+      {
+        "control": 2,
+        "name": "Foto principal pertinente, atribuida y licencia verificada",
+        "status": "OK",
+        "detail": ""
+      },
+      {
+        "control": 3,
+        "name": "Fotografías interiores ligadas a artículos y no repetidas sin justificación",
+        "status": "corregido con alternativa",
+        "detail": "2 fotos interiores de archivo, más 2 infografías originales, sin fotos de ediciones 19 y 20 matinal repetidas"
+      },
+      {
+        "control": 4,
+        "name": "Créditos 10 px, autor, origen, fecha, licencia y carácter de archivo",
+        "status": "OK",
+        "detail": ""
+      },
+      {
+        "control": 5,
+        "name": "Composición editorial A/B/C sin cortes de manuscrito",
+        "status": "OK",
+        "detail": ""
+      },
+      {
+        "control": 6,
+        "name": "Alturas fluidas y ausencia de blancos accidentales",
+        "status": "pendiente",
+        "detail": "sin posibilidad de inspeccionar blancos y superposiciones en render visual"
+      },
+      {
+        "control": 7,
+        "name": "Tipografía y cuerpo justificado con una columna móvil",
+        "status": "OK",
+        "detail": ""
+      },
+      {
+        "control": 8,
+        "name": "Identidad cromática vespertina marfil, terracota y cobre",
+        "status": "OK",
+        "detail": ""
+      },
+      {
+        "control": 9,
+        "name": "Igualdad de manuscrito y HTML, fuentes, lectores y pie",
+        "status": "OK",
+        "detail": "12 títulos, entradillas, párrafos y enlaces generados desde manuscrito único"
+      },
+      {
+        "control": 10,
+        "name": "Revisión de escritorio/móvil con navegador o estática",
+        "status": "no disponible",
+        "detail": "inspección visual no disponible; revisión estática CSS/media-queries/anclas"
+      }
+    ],
+    "inspection": "inspección visual no disponible",
+    "article_count": 12,
+    "photo_count": 3,
+    "svg_count": 2,
+    "voice_inlined": true,
+    "voice_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "voice_audible_test": false,
+    "broken_anchors": [],
+    "external_anchor_failures": 0,
+    "html_characters": 58004,
+    "images_remote_load_verified": false
+  },
+  "stage3": {
+    "status": "pending record; see GitHub commit",
+    "free_only": true,
+    "netlify_changes": false
+  },
+  "limitations": [
+    "No se pudieron comprobar en navegador las dimensiones y carga de imágenes",
+    "Open-Meteo Free API no resolvió DNS; valores Meteored sí verificados",
+    "Sin vista visual de compaginación ni prueba audible"
+  ]
+}
