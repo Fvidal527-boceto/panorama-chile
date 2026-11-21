@@ -1,0 +1,330 @@
+{
+  "fecha": "2026-11-21",
+  "tipo": "matinal",
+  "timezone": "America/Santiago",
+  "consulted_at": "2026-11-21T07:05:00-03:00",
+  "generated_at": "2026-11-21T07:07:03-03:00",
+  "model": "PANORAMA Edición N.º 2",
+  "stage1": {
+    "status": "OK",
+    "articles": 12,
+    "paragraphs": 71,
+    "editorial": "Los anuncios no son resultados",
+    "front_entries": 4,
+    "prior_compared": [
+      "2026-11-20/matinal",
+      "2026-11-20/vespertina"
+    ],
+    "article_sources": [
+      {
+        "id": "cop-electrificacion",
+        "title": "China y Australia impulsan la electrificación mientras la COP31 continúa sin acuerdo final",
+        "sources": [
+          "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+          "https://apnews.com/article/cop31-un-turkey-climate-change-global-warming-b54eebcade92e5ee4c513b9a5b2192a7",
+          "https://unfccc.int/cop31"
+        ]
+      },
+      {
+        "id": "cop-finanzas",
+        "title": "Adaptación y combustibles fósiles: los dos asuntos que todavía pueden decidir el balance de Antalya",
+        "sources": [
+          "https://apnews.com/article/cop31-un-turkey-climate-change-global-warming-b54eebcade92e5ee4c513b9a5b2192a7",
+          "https://www1.folha.uol.com.br/ambiente/2026/11/sob-protestos-e-atraso-cop31-adota-decisoes-protocolares-e-negociacoes-seguem.shtml",
+          "https://unfccc.int/cop31"
+        ]
+      },
+      {
+        "id": "presupuesto-camara",
+        "title": "El Presupuesto vuelve el lunes a la Cámara con $84 mil millones netos adicionales y Agricultura pendiente",
+        "sources": [
+          "https://www.emol.com/noticias/Nacional/2026/11/20/1217659/senado-presupuesto-2027.html",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/20/senado-despacha-a-la-camara-el-presupuesto-2027-tras-acuerdos-en-educacion-y-rechazo-a-agricultura.shtml",
+          "https://www.senado.cl/comunicaciones/noticias/presupuesto-2027-comision-mixta-conoce-principales-supuestos-y-enfasis-en"
+        ]
+      },
+      {
+        "id": "programas-publicos",
+        "title": "Sitios de memoria y programas de empleo recuperan fondos: el detalle menos visible del acuerdo",
+        "sources": [
+          "https://www.emol.com/noticias/Nacional/2026/11/20/1217659/senado-presupuesto-2027.html",
+          "https://www.biobiochile.cl/noticias/nacional/chile/2026/11/20/senado-despacha-a-la-camara-el-presupuesto-2027-tras-acuerdos-en-educacion-y-rechazo-a-agricultura.shtml"
+        ]
+      },
+      {
+        "id": "trabajo-ia",
+        "title": "El Banco Central cierra su conferencia anual con una alerta: la IA no garantiza por sí sola productividad compartida",
+        "sources": [
+          "https://www.bcentral.cl/web/banco-central/contenido/-/detalle/prensa/nota-de-prensa/concluye-la-xxix-conferencia-anual-del-bcch-con-foco-en-los-cambios-del-mercado-laboral-y-sus-implicancias-macroeconomicas",
+          "https://www.bcentral.cl/web/banco-central/contenido/-/detalle/eventos/conferencias/xxix-annual-conference-of-the-central-bank-of-chile"
+        ]
+      },
+      {
+        "id": "regiones-fin-semana",
+        "title": "Biobío enfrenta chubascos y el litoral sigue bajo advertencias de marejadas durante el fin de semana",
+        "sources": [
+          "https://www.vlnradio.cl/noticias/nacional/region-del-biobio/2026/11/20/asi-estara-el-sabado-21-de-noviembre-en-concepcion/",
+          "https://www.meteored.cl/noticias/prediccion/ultimos-chubascos-antes-del-regreso-del-calor-en-nuble-y-biobio-modelo-preve-hasta-mm-mas-antes-del-domingo.html",
+          "https://www.meteored.cl/noticias/prediccion/chile-tendra-un-fin-de-semana-de-contrastes-chubascos-en-el-centro-sur-y-temperaturas-en-aumento-desde-el-domingo.html"
+        ]
+      },
+      {
+        "id": "brasil-fiscal",
+        "title": "El riesgo fiscal brasileño suma una nueva cuenta: posibles obligaciones de subsidios al diésel en 2027",
+        "sources": [
+          "https://economia.uol.com.br/noticias/redacao/2026/11/19/ifi-ve-risco-fiscal-para-2027-com-heranca-de-r-45-bi-em-combustiveis.ghtm",
+          "https://www1.folha.uol.com.br/mercado/2026/11/governo-ainda-precisa-encontrar-espaco-no-orcamento-para-r-20-bi-de-promessas-de-campanha-diz-ifi.shtml",
+          "https://economia.uol.com.br/noticias/estadao-conteudo/2026/11/19/ifi-alerta-para-desaceleracao-do-crescimento-e-risco-fiscal-citando-cenario-complexo-para-2027.amp.htm"
+        ]
+      },
+      {
+        "id": "mexico-precursores",
+        "title": "Washington cuestiona el origen chino de precursores químicos mientras México presenta sus acuerdos con Pekín",
+        "sources": [
+          "https://www.scmp.com/news/us/article/3375300/us-embassy-steps-attack-china-over-cartel-meth-mexico-signs-deals-beijing",
+          "https://www.jornada.com.mx/2026/11/20/economia/016n1eco",
+          "https://apnews.com/article/6e3012905f3263b796325c03e94d1e40"
+        ]
+      },
+      {
+        "id": "eeuu-consumidores",
+        "title": "Senadores demócratas anuncian que revisarán el debilitamiento del organismo de protección financiera",
+        "sources": [
+          "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau"
+        ]
+      },
+      {
+        "id": "eeuu-iran",
+        "title": "Trump endurece el discurso sobre un eventual acuerdo con Irán mientras los países del Golfo buscan una salida parcial",
+        "sources": [
+          "https://apnews.com/article/iran-war-trump-diplomacy-attacks-8fd6dcd6dc4a1a77437cedc4567fbee8"
+        ]
+      },
+      {
+        "id": "ucrania-seguridad",
+        "title": "Rusia revive exigencias de seguridad de 2021 y plantea una negociación que inquieta a Europa",
+        "sources": [
+          "https://apnews.com/article/russia-ukraine-war-putin-trump-security-europe-60752c921b031be80b1f7a9e83455a0e",
+          "https://apnews.com/article/cde686fba0e452b10ca613b3517e884e"
+        ]
+      },
+      {
+        "id": "espana-sondeos",
+        "title": "Las encuestas privadas dan ventaja al PP, pero el CIS dibuja otra elección: qué puede y qué no puede concluirse",
+        "sources": [
+          "https://pulsoelectoral.es/encuestas-electorales/2026-11-20",
+          "https://elpais.com/espana/2026-11-12/el-cis-se-desmarca-del-resto-de-encuestas-situa-al-psoe-como-ganador-y-deja-al-pp-y-vox-sin-mayoria-absoluta.html?outputType=amp",
+          "https://mapaelectoral.es/encuestas/"
+        ]
+      }
+    ],
+    "note": "Manuscrito cerrado y separado de la maquetación; afirmaciones referidas al estado disponible al cierre"
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "16°–25 °C",
+      "condition": "Mayormente nublado, sin lluvia prevista",
+      "source": "VLN Radio · pronóstico publicado 20/11 23:02",
+      "url": "https://www.vlnradio.cl/noticias/nacional/region-metropolitana/2026/11/20/pronostico-del-tiempo-en-santiago-para-el-sabado-21-de-noviembre-de-2026/",
+      "date": "2026-11-21",
+      "period": "sábado 21, día completo",
+      "verified": true,
+      "attempts": [
+        "DMC estación Quinta Normal consultada: meteograma no entrega máximas/mínimas diarias separadas fácilmente",
+        "Fuente alternativa con fecha explícita VLN Radio: 16/25 y nubosidad"
+      ],
+      "consulted_at": "2026-11-21T07:05:00-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "city": "Concepción",
+      "value": "13°–20 °C",
+      "condition": "Nuboso, lluvia ligera probable en la mañana",
+      "source": "VLN Radio · pronóstico publicado 20/11 23:02",
+      "url": "https://www.vlnradio.cl/noticias/nacional/region-del-biobio/2026/11/20/asi-estara-el-sabado-21-de-noviembre-en-concepcion/",
+      "date": "2026-11-21",
+      "period": "sábado 21, día completo",
+      "verified": true,
+      "attempts": [
+        "DMC Carriel Sur consultada: pronóstico de tabla horaria, marca de generación posterior al inicio del turno; no se reutiliza",
+        "Fuente alternativa con fecha explícita VLN Radio 13/20 y probabilidad de lluvia",
+        "Contraste Meteored de tendencia 19/11"
+      ],
+      "consulted_at": "2026-11-21T07:05:00-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "value": "14°–21 °C",
+      "condition": "Cubierto; baja probabilidad de lluvia según fuente",
+      "source": "Atlas of Seasons · estimación 21/11, 01:04 -03",
+      "url": "https://atlasofseasons.com/es/chile/valparaiso/casablanca/tiempo",
+      "date": "2026-11-21",
+      "period": "sábado 21, día completo",
+      "verified": true,
+      "attempts": [
+        "DMC estación 330221, sin resumen diario comprobable",
+        "Yr/MET Norway acceso web restringido",
+        "Meteored identificador 'casablanca-1-519951' potencial ubicación ambigua; descartado",
+        "Atlas of Seasons identifica explícitamente Casablanca, Valparaíso, 21/11 01:04, 14/21"
+      ],
+      "consulted_at": "2026-11-21T07:05:00-03:00",
+      "timezone": "America/Santiago"
+    }
+  ],
+  "finance": [
+    {
+      "name": "Dólar observado",
+      "value": "$1.008,79",
+      "valid": "20 nov. 2026 · último día hábil",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/details/ot-2964",
+      "unit": "CLP/USD",
+      "consulted_at": "2026-11-21T07:05:00-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "UF",
+      "value": "$41.377,93",
+      "valid": "21 nov. 2026",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "unit": "CLP/UF",
+      "consulted_at": "2026-11-21T07:05:00-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.107,59",
+      "valid": "20 nov. 2026 · último día hábil",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/details/ot-2964",
+      "unit": "CLP/EUR",
+      "consulted_at": "2026-11-21T07:05:00-03:00",
+      "timezone": "America/Santiago"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "valid": "noviembre 2026",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "unit": "CLP/UTM",
+      "consulted_at": "2026-11-21T07:05:00-03:00",
+      "timezone": "America/Santiago"
+    }
+  ],
+  "stage2": {
+    "status": "OK · revisión estática; inspección visual no disponible",
+    "controls": [
+      {
+        "number": 1,
+        "status": "OK",
+        "detail": "Portada dominante, cuatro entradas, editorial y tiempos"
+      },
+      {
+        "number": 2,
+        "status": "OK",
+        "detail": "Fotografía documental de Antalya 2023, ciudad sede, sin atribución falsa del evento"
+      },
+      {
+        "number": 3,
+        "status": "OK",
+        "detail": "Fotografía de Chile, Brasil, México y Capitolio en artículos concretos; sin repetición con dos ediciones previas identificada"
+      },
+      {
+        "number": 4,
+        "status": "OK",
+        "detail": "Créditos bajo fotografías con autor, fecha, origen y licencia enlazada, 10px"
+      },
+      {
+        "number": 5,
+        "status": "OK",
+        "detail": "Patrones A reportaje, B mosaico de portada, C contexto y gráfico de procedimiento"
+      },
+      {
+        "number": 6,
+        "status": "OK · control estático",
+        "detail": "Alturas automáticas y artículos fluidos sin filas rígidas"
+      },
+      {
+        "number": 7,
+        "status": "OK · control estático",
+        "detail": "Cuerpo justificado/guionado en escritorio y alineado izquierda en móvil"
+      },
+      {
+        "number": 8,
+        "status": "OK",
+        "detail": "Paleta matinal marfil, verde y terracota; servicio 3+4"
+      },
+      {
+        "number": 9,
+        "status": "OK",
+        "detail": "12 títulos, 12 bajadas, 71 párrafos, fuentes, anclas, voz inline y pie exacto"
+      },
+      {
+        "number": 10,
+        "status": "no disponible",
+        "detail": "Inspección visual y carga real de fotografías no verificables desde navegador en esta ejecución"
+      }
+    ],
+    "photo_count": 5,
+    "svg_count": 1,
+    "visual_review": "inspección visual no disponible",
+    "audio_audible_verified": false,
+    "photo_loading_verified": false,
+    "photo_sources": {
+      "antalya": {
+        "file": "2023-01-17 Antalya Harbour.jpg",
+        "author": "Maksym Kozlenko",
+        "date": "17-01-2023",
+        "lic": "CC BY-SA 4.0",
+        "what": "Puerto de Antalya, ciudad sede de la COP31; imagen de archivo, no de las negociaciones de hoy"
+      },
+      "chile": {
+        "file": "Edificio del Congreso Nacional, Valparaíso 20230903 01.jpg",
+        "author": "Carlos Figueroa Rojas",
+        "date": "03-09-2023",
+        "lic": "CC BY-SA 4.0",
+        "what": "Sede del Congreso Nacional en Valparaíso; archivo de 2023, no de la votación del Presupuesto"
+      },
+      "brasil": {
+        "file": "Plenário do Senado Federal 4.jpg",
+        "author": "Boaventuravinicius",
+        "date": "25-10-2024",
+        "lic": "CC BY-SA 4.0",
+        "what": "Salón del Senado Federal en Brasilia; archivo 2024, no de la discusión fiscal actual"
+      },
+      "mexico": {
+        "file": "Palacio Nacional -frente.jpg",
+        "author": "Igdfpro",
+        "date": "17-10-2014",
+        "lic": "CC BY-SA 4.0",
+        "what": "Fachada del Palacio Nacional de México; fotografía de archivo, no de la reunión en Shenzhen"
+      },
+      "capitolio": {
+        "file": "The United States Capitol Building, Washington DC, USA (43224908782).jpg",
+        "author": "Romain Pontida",
+        "date": "27-05-2018",
+        "lic": "CC BY-SA 2.0",
+        "what": "Capitolio de Estados Unidos, imagen panorámica de archivo 2018; no muestra sesiones de 2026"
+      }
+    },
+    "integrity": {
+      "all_stories": true,
+      "missing_articles": [],
+      "broken_anchors": [],
+      "invalid_external_links": 0,
+      "characters": 67804
+    }
+  },
+  "stage3": {
+    "status": "preparado para un solo commit atómico",
+    "html_paths": [
+      "ediciones/2026-11-21/matinal.html",
+      "ediciones/actual/matinal.html"
+    ],
+    "service_path": "ediciones/2026-11-21/servicio-matinal.json"
+  }
+}
