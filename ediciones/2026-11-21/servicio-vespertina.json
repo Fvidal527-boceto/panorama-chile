@@ -1,0 +1,261 @@
+{
+  "fecha": "2026-11-21",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "cierre": "2026-11-21T15:09:41-03:00",
+  "comparison": {
+    "matinal": "ediciones/2026-11-21/matinal.html",
+    "sha_matinal": "e7ea9ba580b56ab1d23f23ce04743e89f25ca358",
+    "updates": [
+      "COP31 negocia un tercer texto en jornada extraordinaria",
+      "T13 reporta este sábado ocho noches cálidas en Santiago",
+      "Lula evalúa daños de tormenta en Tupanciretã en declaración del 21",
+      "Lula anuncia fuentes de recaudación estimadas en R$33.000 millones",
+      "Trump dicta orden sobre contratistas y control legislativo",
+      "Se informan intrusiones informáticas en agencias estadounidenses",
+      "Rusia lanza ataque mortífero contra Kryvyi Rih",
+      "Sánchez plantea prórroga del impuesto bancario este sábado"
+    ]
+  },
+  "weather": [
+    {
+      "ciudad": "Santiago",
+      "fecha": "2026-11-21",
+      "vigencia": "pronóstico diario",
+      "hora_consulta": "2026-11-21T15:09:41-03:00",
+      "zona": "America/Santiago",
+      "condicion": "Nubes y claros",
+      "maxima_minima_c": "24° / 14°",
+      "fuente": "Meteored Chile",
+      "url_datos": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "alternativas": [
+        {
+          "fuente": "DMC/MeteoChile",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+          "resultado": "meteograma con datos horarios; no se usó como máxima/mínima diaria"
+        },
+        {
+          "fuente": "Yr/MET Norway",
+          "url": "https://www.yr.no/",
+          "resultado": "página de tabla diaria por ciudad inaccesible desde consulta"
+        },
+        {
+          "fuente": "Open-Meteo API gratuita",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.4489&longitude=-70.6693&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min&timezone=America%2FSantiago&forecast_days=2",
+          "resultado": "consulta directa bloqueada por fallo DNS; URL web no accesible al lector"
+        }
+      ],
+      "limitacion": "Pronóstico de modelo, no observación; fotos y gráficos del proveedor no verificados por navegador"
+    },
+    {
+      "ciudad": "Concepción",
+      "fecha": "2026-11-21",
+      "vigencia": "pronóstico diario",
+      "hora_consulta": "2026-11-21T15:09:41-03:00",
+      "zona": "America/Santiago",
+      "condicion": "Lluvia débil, después claros",
+      "maxima_minima_c": "18° / 13°",
+      "fuente": "Meteored Chile",
+      "url_datos": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "alternativas": [
+        {
+          "fuente": "DMC/MeteoChile",
+          "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+          "resultado": "meteograma con datos horarios; no se usó como máxima/mínima diaria"
+        },
+        {
+          "fuente": "Yr/MET Norway",
+          "url": "https://www.yr.no/",
+          "resultado": "página de tabla diaria por ciudad inaccesible desde consulta"
+        },
+        {
+          "fuente": "Open-Meteo API gratuita",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-36.827&longitude=-73.05&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min&timezone=America%2FSantiago&forecast_days=2",
+          "resultado": "consulta directa bloqueada por fallo DNS; URL web no accesible al lector"
+        }
+      ],
+      "limitacion": "Pronóstico de modelo, no observación; fotos y gráficos del proveedor no verificados por navegador"
+    },
+    {
+      "ciudad": "Casablanca (Valparaíso)",
+      "fecha": "2026-11-21",
+      "vigencia": "pronóstico diario",
+      "hora_consulta": "2026-11-21T15:09:41-03:00",
+      "zona": "America/Santiago",
+      "condicion": "Nubes y claros",
+      "maxima_minima_c": "22° / 13°",
+      "fuente": "Meteored Chile",
+      "url_datos": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "alternativas": [
+        {
+          "fuente": "DMC/MeteoChile",
+          "url": "https://climatologia.meteochile.gob.cl/",
+          "resultado": "sin estación diaria específica comprobada"
+        },
+        {
+          "fuente": "Yr/MET Norway",
+          "url": "https://www.yr.no/",
+          "resultado": "página de tabla diaria por ciudad inaccesible desde consulta"
+        },
+        {
+          "fuente": "Open-Meteo API gratuita",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.3167&longitude=-71.4167&daily=weather_code%2Ctemperature_2m_max%2Ctemperature_2m_min&timezone=America%2FSantiago&forecast_days=2",
+          "resultado": "consulta directa bloqueada por fallo DNS; URL web no accesible al lector"
+        }
+      ],
+      "limitacion": "Pronóstico de modelo, no observación; fotos y gráficos del proveedor no verificados por navegador"
+    }
+  ],
+  "economic": [
+    {
+      "nombre": "Dólar observado",
+      "valor": "$1.008,79",
+      "vigencia": "20 nov. · último día bancario",
+      "fuente": "https://www.bcentral.cl/inicio/-/details/1442e-01-081024-6",
+      "consulta": "2026-11-21T15:09:41-03:00"
+    },
+    {
+      "nombre": "UF",
+      "valor": "$41.377,93",
+      "vigencia": "21 nov. · valor diario",
+      "fuente": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consulta": "2026-11-21T15:09:41-03:00"
+    },
+    {
+      "nombre": "Euro",
+      "valor": "$1.107,59",
+      "vigencia": "20 nov. · último día bancario",
+      "fuente": "https://www.bcentral.cl/inicio/-/details/1442e-01-081024-6",
+      "consulta": "2026-11-21T15:09:41-03:00"
+    },
+    {
+      "nombre": "UTM",
+      "valor": "$72.440",
+      "vigencia": "noviembre 2026 · valor mensual",
+      "fuente": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulta": "2026-11-21T15:09:41-03:00"
+    }
+  ],
+  "photos": [
+    {
+      "id": "cop",
+      "url": "https://commons.wikimedia.org/wiki/File:COP31_-_Closing_Plenary_03.jpg",
+      "autor": "Xuthoria",
+      "licencia": "CC BY-SA 4.0",
+      "contexto": "Primera plenaria de cierre de la COP31, el 20 de noviembre en Antalya; imagen de archivo, no de la continuación del sábado.",
+      "carga_remota_verificada": false
+    },
+    {
+      "id": "costa",
+      "url": "https://commons.wikimedia.org/wiki/File:El_Quisco_Marejadas.JPG",
+      "autor": "Jorge Barrios",
+      "licencia": "CC BY-SA 3.0",
+      "contexto": "Marejadas en Playa Las Conchitas, El Quisco, 3 de febrero de 2010; fotografía de archivo, no del episodio de noviembre de 2026.",
+      "carga_remota_verificada": false
+    },
+    {
+      "id": "ucr",
+      "url": "https://commons.wikimedia.org/wiki/File:Kryvyi_Rih8.jpg",
+      "autor": "Tiia Monto",
+      "licencia": "CC BY-SA 3.0",
+      "contexto": "Vista urbana de Kryvyi Rih, Ucrania, en agosto de 2013; imagen de archivo, no del bombardeo de este sábado.",
+      "carga_remota_verificada": false
+    }
+  ],
+  "editorial": {
+    "articulos": 12,
+    "parrafos": 52,
+    "fuentes": [
+      {
+        "id": "cop",
+        "urls": [
+          "https://apnews.com/article/b54eebcade92e5ee4c513b9a5b2192a7",
+          "https://www.hurriyetdailynews.com/amp/cop31-concludes-in-antalya-after-two-weeks-of-climate-talks-229651",
+          "https://unfccc.int/cop31"
+        ]
+      },
+      {
+        "id": "china",
+        "urls": [
+          "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+          "https://unfccc.int/cop31/about"
+        ]
+      },
+      {
+        "id": "marejadas",
+        "urls": [
+          "https://duplos.cl/actualidad/nacional/marejadas-anormales-arica-golfo-arauco-horarios-noviembre-2026/285503/2026/11/21/",
+          "https://publimicro.cl/marejadas-anormales-comienzan-en-diez-regiones-de-chile-y-mantienen-alerta-costera-hasta-el-23-de-noviembre/"
+        ]
+      },
+      {
+        "id": "calor",
+        "urls": [
+          "https://www.t13.cl/noticia/el-tiempo/marcone-advierte-por-octavo-dia-ola-calor-nocturna-pronostica-hasta-33-zona-cen-21-11-2026",
+          "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html"
+        ]
+      },
+      {
+        "id": "tormenta",
+        "urls": [
+          "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade"
+        ]
+      },
+      {
+        "id": "fiscal",
+        "urls": [
+          "https://www1.folha.uol.com.br/mercado/2026/11/lula-ataca-yuppies-da-faria-lima-e-diz-que-mercado-financeiro-nao-vai-ensina-lo-a-governar.shtml",
+          "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/21/lula-presenca-do-brasil-na-cop31-foi-a-mais-importante-entre-todas-as-cops-de-que-participamos.amp.htm"
+        ]
+      },
+      {
+        "id": "mexico",
+        "urls": [
+          "https://elpais.com/mexico/economia/2026-11-21/de-osos-panda-a-hospitales-inteligentes-sheinbaum-quiere-diversificar-el-comercio-y-la-inversion-en-su-visita-a-china.html?outputType=amp"
+        ]
+      },
+      {
+        "id": "control",
+        "urls": [
+          "https://apnews.com/article/9546e1d7acdf3e65b654d1c5162cb0bd"
+        ]
+      },
+      {
+        "id": "ciber",
+        "urls": [
+          "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+        ]
+      },
+      {
+        "id": "ucrania",
+        "urls": [
+          "https://apnews.com/article/bfdee2ffadc2693e7338d6822e5356ef",
+          "https://www.dailysabah.com/world/europe/russia-strikes-zelenskyys-hometown-as-airstrike-burns-cargo-ship"
+        ]
+      },
+      {
+        "id": "baltico",
+        "urls": [
+          "https://apnews.com/article/bfdee2ffadc2693e7338d6822e5356ef"
+        ]
+      },
+      {
+        "id": "espana",
+        "urls": [
+          "https://elpais.com/espana/elecciones-generales/2026-11-21/campana-electoral-29-n-y-actualidad-politica-en-directo.html"
+        ]
+      }
+    ],
+    "lector_voz": true,
+    "lector_voz_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "fotos": 3,
+    "graficos_svg": 2,
+    "anclas_rotas": [],
+    "links_externos_sin_seguridad": 0,
+    "html_caracteres": 58394,
+    "revision_estatica": true,
+    "revision_visual_disponible": false
+  },
+  "modelo": "PANORAMA N2 2.3; sin alterar la infraestructura ni las tareas",
+  "costos": 0
+}
