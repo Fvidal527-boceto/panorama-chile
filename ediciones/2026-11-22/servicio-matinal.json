@@ -1,0 +1,226 @@
+{
+  "fecha": "2026-11-22",
+  "tipo": "matinal",
+  "zona_horaria": "America/Santiago",
+  "cierre": "2026-11-22T07:07:16-03:00",
+  "stage1": {
+    "status": "OK",
+    "articles": 12,
+    "paragraphs": 60,
+    "editorial": true,
+    "source_urls": [
+      "https://www.internazionale.it/ultime-notizie-reuters/2026/11/22/cop31-climate-talks-close-to-final-deal-says-summit-president",
+      "https://apnews.com/article/f6e36c4caf13ec6fed57c9f077cbd067",
+      "https://unfccc.int/cop31",
+      "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+      "https://apnews.com/article/f6e36c4caf13ec6fed57c9f077cbd067",
+      "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+      "https://www.t13.cl/amp/noticia/nacional/gobierno-declaro-emergencia-preventiva-atacama-coquimbo-implica-hasta-cuando-es-21-11-2026",
+      "https://www.meganoticias.cl/amp/nacional/536990-declaran-emergencia-preventiva-por-riesgo-de-deshielos-21-11-2026.html",
+      "https://legislativo.lsvt.cl/proyecto/18702-05?votacion=11228",
+      "https://www.emol.com/noticias/Nacional/2026/11/09/1216571/presupuesto-debate-camara.html",
+      "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/gendarmes-descubrieron-una-antena-de-internet-en-la-carcel-de-valparaiso/2026-11-20/133830.html",
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/o-sistema-financeiro-nao-vai-me-ensinar-dirigir-o-brasil-diz-lula",
+      "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sobe-para-4-o-numero-de-mortos-em-tupancireta-no-sul",
+      "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-no-rio-grande-do-sul-afeta-196-mil-pessoas-em-33-cidades",
+      "https://apnews.com/article/7301b67a1b1b974bc6bd20c9d030ce07",
+      "https://apnews.com/article/ef859ae1345d776d7ea0e13bb68528b9",
+      "https://apnews.com/article/409db97006c3d6e37f47da66aa8ccf05",
+      "https://apnews.com/article/d066cff87a64a564db0a00172c124972",
+      "https://apnews.com/article/098a69b520e520e535eebe595cd0c64a",
+      "https://apnews.com/article/a392abbba5c2f1bccbbb372e3d38769d"
+    ],
+    "last_reviewed": [
+      "2026-11-21/matinal",
+      "2026-11-21/vespertina"
+    ],
+    "notes": "La COP31 tiene nuevo borrador al cierre pero no decisión final; la cuarta víctima brasileña es actualización verificable."
+  },
+  "weather": [
+    {
+      "city": "Santiago",
+      "value": "10°–22 °C",
+      "condition": "Meteograma: sin lluvia; rango 06–23 h",
+      "period": "2026-11-22 06:00–23:00",
+      "provider": "DMC / Quinta Normal; pronóstico horario modelo",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+      "verified": true,
+      "notes": "Rango de temperaturas horarias reportadas entre 06 y 23 h, redondeado. El sitio presenta hora de generación 09:00, posterior a la consulta; la serie horaria se informa con esta limitación y no como extrema diaria.",
+      "consulted_at": "2026-11-22T07:07:16-03:00",
+      "timezone": "America/Santiago",
+      "attempts": [
+        "DMC MeteoChile; reporte horario 06–23 del 22 de noviembre"
+      ]
+    },
+    {
+      "city": "Concepción",
+      "value": "8°–17 °C",
+      "condition": "Meteograma: sin lluvia en horario 06–23 h",
+      "period": "2026-11-22 06:00–23:00",
+      "provider": "DMC / Carriel Sur; pronóstico horario modelo",
+      "url": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+      "verified": true,
+      "notes": "Serie de 06 a 23 h; mínimo y máximo de horas de ese período, no extrema diaria. Hora de generación 09:00 mostrada en el sitio posterior a la consulta.",
+      "consulted_at": "2026-11-22T07:07:16-03:00",
+      "timezone": "America/Santiago",
+      "attempts": [
+        "DMC MeteoChile; reporte horario 06–23 del 22 de noviembre"
+      ]
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "value": "10°–25 °C",
+      "condition": "Despejado según pronóstico diario",
+      "period": "2026-11-22; mínima nocturna y máxima de mediodía",
+      "provider": "Tiempo.es (respaldo independiente)",
+      "url": "https://www.tiempo.es/el-tiempo/para-7-dias/chile-casablanca-cl3896410.html",
+      "verified": true,
+      "notes": "Máxima diurna 25°C y mínima 10°C indicada en bloque nocturno del pronóstico; extremos no necesariamente corresponden a un mismo día civil. DMC Casablanca sin meteograma utilizable. Yr acceso restringido; Open-Meteo Free API no accesible por DNS del runtime. Otros proveedores muestran discrepancias; se atribuye esta estimación a tiempo.es.",
+      "consulted_at": "2026-11-22T07:07:16-03:00",
+      "timezone": "America/Santiago",
+      "attempts": [
+        "DMC estación Casablanca sin tabla utilizable",
+        "Yr/MET Norway restringido por herramienta",
+        "Open-Meteo Free API: DNS inaccesible desde runtime",
+        "Consultado respaldo tiempo.es para Casablanca, comuna de la Región de Valparaíso"
+      ]
+    }
+  ],
+  "finance": [
+    {
+      "name": "Dólar observado",
+      "value": "$1.008,79",
+      "period": "20 nov. 2026 · último hábil",
+      "provider": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/details/1442e-01-081024-6",
+      "verified": true,
+      "consulted_at": "2026-11-22T07:07:16-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.384,81",
+      "period": "22 nov. 2026",
+      "provider": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "verified": true,
+      "consulted_at": "2026-11-22T07:07:16-03:00"
+    },
+    {
+      "name": "Euro · CLP/EUR",
+      "value": "$1.107,59",
+      "period": "20 nov. 2026 · último hábil",
+      "provider": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/details/1442e-01-081024-6",
+      "verified": true,
+      "consulted_at": "2026-11-22T07:07:16-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "period": "noviembre 2026",
+      "provider": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "verified": true,
+      "consulted_at": "2026-11-22T07:07:16-03:00"
+    }
+  ],
+  "stage2": {
+    "status": "OK (revisión estática, sin inspección visual en navegador)",
+    "controls": [
+      {
+        "n": 1,
+        "status": "OK",
+        "detail": "Portada principal, cuatro entradas, editorial, tiempos"
+      },
+      {
+        "n": 2,
+        "status": "OK",
+        "detail": "Foto documental de Antalya en portada, archivo explícito y CC BY-SA 4.0"
+      },
+      {
+        "n": 3,
+        "status": "OK",
+        "detail": "Tres fotografías adicionales de Elqui, Brasil y sede FBI; sin reutilizar de las dos últimas ediciones"
+      },
+      {
+        "n": 4,
+        "status": "OK",
+        "detail": "Autor, fecha, origen, licencia, rótulo archivo y alt de cada foto"
+      },
+      {
+        "n": 5,
+        "status": "OK",
+        "detail": "Portada, cuerpo en dos columnas, composición de bloques y recuadros"
+      },
+      {
+        "n": 6,
+        "status": "OK revisión estática",
+        "detail": "Altura automática, sin rejilla rígida en interiores"
+      },
+      {
+        "n": 7,
+        "status": "OK revisión estática",
+        "detail": "Justificación de texto en escritorio, a izquierda en móvil"
+      },
+      {
+        "n": 8,
+        "status": "OK",
+        "detail": "Paleta y estructura matinal 2.3; franja de 3 + 4 servicios"
+      },
+      {
+        "n": 9,
+        "status": "OK",
+        "detail": "Integridad manuscrito/HTML, enlaces específicos, anclas y lector nativo inline"
+      },
+      {
+        "n": 10,
+        "status": "no disponible",
+        "detail": "No hay inspección visual ni prueba audible en navegador; solo QA estructural"
+      }
+    ],
+    "visual_inspection": "no disponible",
+    "photo_loading_verified": false,
+    "audio_tested": false,
+    "photo_count": 4,
+    "svg_count": 1,
+    "html_chars": 60364,
+    "bad_anchors": [],
+    "photos": {
+      "antalya": {
+        "file": "Antalya._View_of_city_center.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Antalya._View_of_city_center.jpg",
+        "author": "Bestalex",
+        "date": "20-09-2018",
+        "license": "CC BY-SA 4.0",
+        "description": "Vista general de Antalya, ciudad sede de la COP31; fotografía de archivo, no de la reunión de 2026"
+      },
+      "elqui": {
+        "file": "Rio_Elqui.JPG",
+        "page": "https://commons.wikimedia.org/wiki/File:Rio_Elqui.JPG",
+        "author": "SHK2501",
+        "date": "29-01-2015",
+        "license": "CC BY-SA 4.0",
+        "description": "Paisaje del valle del río Elqui, imagen contextual de archivo; no registra los deshielos actuales"
+      },
+      "brazil": {
+        "file": "Chamber_of_Deputies_of_Brazil_2.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:Chamber_of_Deputies_of_Brazil_2.jpg",
+        "author": "José Cruz / Agência Brasil",
+        "date": "09-05-2007",
+        "license": "CC BY 3.0 BR",
+        "description": "Cámara de Diputados de Brasil, fotografía de archivo; no muestra el debate fiscal de noviembre"
+      },
+      "fbi": {
+        "file": "FBI_Headquarters%2C_Washington.jpg",
+        "page": "https://commons.wikimedia.org/wiki/File:FBI_Headquarters,_Washington.jpg",
+        "author": "dconvertini (Domenico Convertini)",
+        "date": "07-09-2019",
+        "license": "CC BY-SA 2.0",
+        "description": "Sede del FBI en Washington, fotografía de archivo ajena al incidente informático de 2026"
+      }
+    }
+  },
+  "stage3": {
+    "status": "preparado para commit atómico"
+  }
+}
