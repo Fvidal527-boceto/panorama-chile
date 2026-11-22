@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-11-22",
+  "tipo": "vespertina",
+  "timezone": "America/Santiago",
+  "consulted_at": "2026-11-22T15:05:59-03:00",
+  "previous_morning_sha": "48c1943e0d75d7d70739fcde07ea7c1e84c6ce58",
+  "previous_evening_sha": "eec9605c8907bafca853c7211d77fc7f625d5159",
+  "morning_comparison": "La matinal informaba propuesta COP31 sin acuerdo y cuatro muertos en Rio Grande do Sul; esta edición informa el cierre sin pacto central y cinco muertos, además de nuevos análisis y fuentes dominicales.",
+  "weather": [
+    {
+      "city": "Santiago",
+      "maximum_c": 27,
+      "minimum_c": 12,
+      "condition": "Nubes y claros",
+      "provider": "Meteored Chile",
+      "source_url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "validity": "2026-11-22",
+      "queried_at": "2026-11-22T15:05:59-03:00",
+      "timezone": "America/Santiago",
+      "type": "pronóstico diario de modelo",
+      "attempts": [
+        {
+          "source": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330020",
+          "result": "Consultado, datos horarios no usados como extremos diarios"
+        },
+        {
+          "source": "https://www.yr.no/",
+          "result": "No se recuperaron máximas/mínimas diarias atribuibles a este corte"
+        },
+        {
+          "source": "https://api.open-meteo.com/v1/forecast?latitude=-33.45&longitude=-70.65&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=America%2FSantiago&forecast_days=2",
+          "result": "Fallo de DNS en entorno local; no se reutilizaron datos antiguos"
+        },
+        {
+          "source": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+          "result": "Máximas, mínimas y condición fechadas verificadas el 22 de noviembre"
+        }
+      ]
+    },
+    {
+      "city": "Concepción",
+      "maximum_c": 19,
+      "minimum_c": 9,
+      "condition": "Nubes y claros",
+      "provider": "Meteored Chile",
+      "source_url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "validity": "2026-11-22",
+      "queried_at": "2026-11-22T15:05:59-03:00",
+      "timezone": "America/Santiago",
+      "type": "pronóstico diario de modelo",
+      "attempts": [
+        {
+          "source": "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+          "result": "Consultado, datos horarios no usados como extremos diarios"
+        },
+        {
+          "source": "https://www.yr.no/",
+          "result": "No se recuperaron máximas/mínimas diarias atribuibles a este corte"
+        },
+        {
+          "source": "https://api.open-meteo.com/v1/forecast?latitude=-36.827&longitude=-73.05&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=America%2FSantiago&forecast_days=2",
+          "result": "Fallo de DNS en entorno local; no se reutilizaron datos antiguos"
+        },
+        {
+          "source": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+          "result": "Máximas, mínimas y condición fechadas verificadas el 22 de noviembre"
+        }
+      ]
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "maximum_c": 23,
+      "minimum_c": 10,
+      "condition": "Nubes y claros",
+      "provider": "Meteored Chile",
+      "source_url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "validity": "2026-11-22",
+      "queried_at": "2026-11-22T15:05:59-03:00",
+      "timezone": "America/Santiago",
+      "type": "pronóstico diario de modelo",
+      "attempts": [
+        {
+          "source": "https://www.yr.no/",
+          "result": "No se recuperaron máximas/mínimas diarias atribuibles a este corte"
+        },
+        {
+          "source": "https://api.open-meteo.com/v1/forecast?latitude=-33.318&longitude=-71.407&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=America%2FSantiago&forecast_days=2",
+          "result": "Fallo de DNS en entorno local; no se reutilizaron datos antiguos"
+        },
+        {
+          "source": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+          "result": "Máximas, mínimas y condición fechadas verificadas el 22 de noviembre"
+        }
+      ]
+    }
+  ],
+  "economic": [
+    {
+      "name": "Dólar observado",
+      "value": "$1.008,79",
+      "validity": "20 nov. · último hábil",
+      "provider": "Banco Central de Chile",
+      "source_url": "https://www.bcentral.cl/inicio/-/detalle/ot-2964",
+      "queried_at": "2026-11-22T15:05:59-03:00",
+      "note": "Último día hábil viernes 20"
+    },
+    {
+      "name": "UF",
+      "value": "$41.384,81",
+      "validity": "domingo 22 nov.",
+      "provider": "Servicio de Impuestos Internos",
+      "source_url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "queried_at": "2026-11-22T15:05:59-03:00",
+      "note": "Vigencia indicada"
+    },
+    {
+      "name": "Euro CLP/EUR",
+      "value": "$1.107,59",
+      "validity": "20 nov. · último hábil",
+      "provider": "Banco Central de Chile",
+      "source_url": "https://www.bcentral.cl/inicio/-/detalle/ot-2964",
+      "queried_at": "2026-11-22T15:05:59-03:00",
+      "note": "Último día hábil viernes 20"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "validity": "noviembre 2026",
+      "provider": "Servicio de Impuestos Internos",
+      "source_url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "queried_at": "2026-11-22T15:05:59-03:00",
+      "note": "Vigencia indicada"
+    }
+  ],
+  "photos": {
+    "cop": {
+      "file": "COP31 - Closing Plenary 06.jpg",
+      "who": "Xuthoria",
+      "date": "20 nov. 2026",
+      "caption": "Primera plenaria de cierre de la COP31, el viernes 20; no corresponde al cierre definitivo del domingo.",
+      "lic": "CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "src": "https://commons.wikimedia.org/wiki/File:COP31_-_Closing_Plenary_06.jpg"
+    },
+    "rs": {
+      "file": "Rio Taquari, Rio Grande do Sul.jpg",
+      "who": "Paulo Hopper",
+      "date": "17 ene. 2015",
+      "caption": "Paisaje del río Taquari, Rio Grande do Sul. Archivo regional, no muestra daños del temporal actual en Tupanciretã.",
+      "lic": "CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "src": "https://commons.wikimedia.org/wiki/File:Rio_Taquari,_Rio_Grande_do_Sul.jpg"
+    },
+    "guasave": {
+      "file": "Guasave.jpg",
+      "who": "Daniel Ramirez",
+      "date": "11 abr. 2022",
+      "caption": "Vista de Guasave, Sinaloa. Imagen de archivo; no documenta la detención ni la violencia de noviembre de 2026.",
+      "lic": "CC BY 2.0",
+      "license": "https://creativecommons.org/licenses/by/2.0/",
+      "src": "https://commons.wikimedia.org/wiki/File:Guasave.jpg"
+    }
+  },
+  "quality": {
+    "article_count": 12,
+    "story_paragraphs": 51,
+    "editorial_paragraphs": 4,
+    "photo_count": 3,
+    "svg_count": 2,
+    "html_characters": 54452,
+    "internal_broken_anchors": [],
+    "external_links_missing_security": 0,
+    "reader_source_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "reader_inlined": true,
+    "static_validation": "OK",
+    "visual_validation": "no disponible",
+    "photo_remote_load": "sin verificación",
+    "checks": [
+      "Portada con cuatro titulares",
+      "12 notas desarrolladas y un editorial",
+      "Citas originales específicas",
+      "Fotografías con crédito y archivo",
+      "Infografías originales separadas de fotos",
+      "Columnas adaptables desde CSS aprobado",
+      "Justificación solo en escritorio",
+      "Franja siete servicios",
+      "Lector por voz íntegro",
+      "Inspección visual pendiente"
+    ]
+  },
+  "free_services_only": true,
+  "netlify_changes": false,
+  "task_changes": false
+}
