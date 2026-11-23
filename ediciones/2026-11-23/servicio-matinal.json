@@ -1,0 +1,202 @@
+{
+  "fecha": "2026-11-23",
+  "tipo": "matinal",
+  "timezone": "America/Santiago",
+  "cierre": "2026-11-23T07:07:00.876-03:00",
+  "source_consultation": "2026-11-23T07:07:00.876-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "max_C": 25,
+      "min_C": 14,
+      "condition": "Llovizna débil / nubosidad",
+      "valid_date": "2026-11-23",
+      "period": "Día completo 23 noviembre 2026",
+      "source": "Consulta Chile · visualización de pronóstico de modelo Open-Meteo",
+      "source_url": "https://www.consultachile.cl/clima/santiago",
+      "data_origin": "Modelo Open-Meteo vía proveedor secundario",
+      "license": "CC BY 4.0, https://open-meteo.com/en/terms",
+      "attempts": [
+        "DMC/MeteoChile: se buscó pronóstico diario; no se recuperó tabla fechada",
+        "Yr/MET Norway: acceso web restringido",
+        "Open-Meteo API directa: falla de DNS (no se presume consulta exitosa)",
+        "Consulta Chile (modelo Open-Meteo): pronóstico diario actualizado lunes 23 verificado"
+      ],
+      "timezone": "America/Santiago",
+      "consulted_at": "2026-11-23T07:07:00.876-03:00"
+    },
+    {
+      "city": "Concepción",
+      "max_C": 19,
+      "min_C": 13,
+      "condition": "Mayormente despejado",
+      "valid_date": "2026-11-23",
+      "period": "Día completo 23 noviembre 2026",
+      "source": "Consulta Chile · visualización de pronóstico de modelo Open-Meteo",
+      "source_url": "https://www.consultachile.cl/clima/concepcion",
+      "data_origin": "Modelo Open-Meteo vía proveedor secundario",
+      "license": "CC BY 4.0, https://open-meteo.com/en/terms",
+      "attempts": [
+        "DMC/MeteoChile: sin tabla diaria directa recuperable",
+        "Yr/MET Norway: lectura web restringida",
+        "Open-Meteo API directa: falla DNS",
+        "Consulta Chile (modelo Open-Meteo): pronóstico 19/13 del lunes 23 verificado"
+      ],
+      "limitation": "Difiere de previsión previa de VLN publicada el 21 (22/12) para el 23; se prioriza actualización del día",
+      "timezone": "America/Santiago",
+      "consulted_at": "2026-11-23T07:07:00.876-03:00"
+    },
+    {
+      "city": "Casablanca",
+      "max_C": 24,
+      "min_C": 11,
+      "condition": "Niebla matinal",
+      "valid_date": "2026-11-23",
+      "period": "Día completo 23 noviembre 2026",
+      "source": "Meteored · localidad Casablanca, Región de Valparaíso, Chile",
+      "source_url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "attempts": [
+        "DMC/MeteoChile: extrema diaria no localizada",
+        "Yr/MET Norway: lectura web restringida",
+        "Open-Meteo API directa: DNS fallido",
+        "Meteored identificando inequívocamente Valparaíso: pronóstico 24/11 para lunes 23",
+        "MeteoNavigator: referencia horaria alternativa con discrepancia"
+      ],
+      "limitation": "Otra página homónima de Meteored sin desambiguación de comuna mostraba 15/6, por lo que no se utilizó; revisar geolocalización si cambia",
+      "timezone": "America/Santiago",
+      "consulted_at": "2026-11-23T07:07:00.876-03:00"
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$1.008,79",
+      "unit": "CLP/USD",
+      "valid_date": "2026-11-20",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/detalle/ot-2964",
+      "limitation": "Último dato explícito verificable al cierre; 23 nov. todavía sin verificación",
+      "consulted_at": "2026-11-23T07:07:00.876-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.391,69",
+      "unit": "CLP/UF",
+      "valid_date": "2026-11-23",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consulted_at": "2026-11-23T07:07:00.876-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.107,59",
+      "unit": "CLP/EUR",
+      "valid_date": "2026-11-20",
+      "source": "Banco Central de Chile",
+      "url": "https://www.bcentral.cl/inicio/-/detalle/ot-2964",
+      "limitation": "Último dato oficial verificable al cierre; no cambio spot del lunes",
+      "consulted_at": "2026-11-23T07:07:00.876-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "unit": "CLP/UTM",
+      "valid_date": "2026-11",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consulted_at": "2026-11-23T07:07:00.876-03:00"
+    }
+  ],
+  "stage1": {
+    "status": "OK",
+    "articles": 13,
+    "paragraphs": 68,
+    "source_links": [
+      "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+      "https://www.wri.org/news/statement-hollow-outcome-cop31-failure-political-leadership",
+      "https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/112226-cop31-antalya-talks-unravel-over-fossil-fuels-carbon-capture",
+      "https://cooperativa.cl/noticias/economia/presupuesto/no-los-podemos-dejar-sin-plata-presupuesto-de-agricultura-enfrenta/2026-11-22/151247.html",
+      "https://www.biobiochile.cl/noticias/nacional/region-de-atacama/2026/11/21/gobierno-declara-emergencia-preventiva-en-atacama-y-coquimbo-por-riesgo-de-crecidas.shtml",
+      "https://www.bcentral.cl/inicio/-/detalle/ot-2964",
+      "https://apnews.com/article/5fe209c6b39c317e7106abde2bf35c3f",
+      "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/22/camara-deve-votar-projeto-de-ajuste-fiscal-do-governo-nesta-segunda-feira.ghtm",
+      "https://elpais.com/mexico/economia/2026-11-18/sheinbaum-busca-estrechar-lazos-con-xi-en-medio-del-deficit-comercial-record-de-mexico-con-china.html",
+      "https://apnews.com/article/721096a4d9ba2cd68683692361798cdb",
+      "https://apnews.com/article/14fecc1c55d601bb9f5b5fc8c9fb0b94",
+      "https://apnews.com/article/60752c921b031be80b1f7a9e83455a0e",
+      "https://elpais.com/espana/elecciones-generales/2026-11-22/campana-electoral-29n-y-actualidad-politica-en-directo.html",
+      "https://acceso.mineduc.cl/portal-inscripcion/",
+      "https://iite.unesco.org/news/unesco-iite-co-organises-the-2026-global-mooc-and-online-education-conference-in-hanoi/",
+      "https://www.cnachile.cl/noticias/paginas/CNA-Chile-publica-orientaciones-para-autoevaluaci%C3%B3n-Institucional-de-IES-que-imparten-formaci%C3%B3n-a-distancia-o-semipresencia.aspx"
+    ],
+    "editorial": true,
+    "headline": "COP31 termina sin pacto general el 22 de noviembre",
+    "monday_supplement": {
+      "status": "OK",
+      "articles": 3,
+      "themes": [
+        "PAES 30 de noviembre",
+        "UNESCO MOOCs Hanoi noviembre 2026",
+        "CNA evidencias para 2027"
+      ]
+    }
+  },
+  "stage2": {
+    "status": "OK estática",
+    "html_character_count": 69512,
+    "article_count": 13,
+    "paragraph_count": 68,
+    "source_blocks": 13,
+    "photo_count": 5,
+    "photo_license_count": 5,
+    "voice": "panorama-lectura-voz inline",
+    "footer": "exacto",
+    "mobile_css": true,
+    "visual_review": "No disponible en navegador del entorno",
+    "audio_playback_verified": false,
+    "photo_load_verified": false,
+    "photos": [
+      {
+        "file": "Antalya._View_from_Karaalioglu_Park_to_the_sea.jpg",
+        "author": "Bestalex",
+        "license": "CC BY-SA 4.0",
+        "type": "archivo, 2018"
+      },
+      {
+        "file": "Edificio_del_Congreso_Nacional,_Valparaíso_20230903_01.jpg",
+        "author": "Carlos Figueroa Rojas",
+        "license": "CC BY-SA 4.0",
+        "type": "archivo, 2023"
+      },
+      {
+        "file": "Brasília_-_Congresso_nacional.jpg",
+        "author": "Sintegrity",
+        "license": "CC BY-SA 4.0",
+        "type": "archivo, 2023"
+      },
+      {
+        "file": "United_States_Capitol_-_west_front_edit.jpg",
+        "author": "Architect of the Capitol; O.J.",
+        "license": "dominio público EE. UU.",
+        "type": "archivo, 2011"
+      },
+      {
+        "file": "Casa_Central._Universidad_de_Chile.jpg",
+        "author": "Rjcastillo",
+        "license": "CC BY-SA 4.0",
+        "type": "archivo, 2022"
+      }
+    ]
+  },
+  "stage3": {
+    "status": "blobs/tree/commit",
+    "base_head": "569b0d0fd2a300fea618970f11c7dcb408d4f3bd"
+  },
+  "limitations": [
+    "API directa Open-Meteo: conexión DNS fallida; se usaron modelos vía tercero y pronóstico Meteored",
+    "Concepción y Casablanca tienen variación entre diferentes fuentes/modelos; se registra elección",
+    "No se comprobó carga visual individual de las fotos ni voz audible"
+  ],
+  "other_turn_preserved": "2026-11-22",
+  "current_money_no_future_data": true
+}
