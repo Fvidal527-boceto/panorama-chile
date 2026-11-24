@@ -1,0 +1,332 @@
+{
+  "fecha": "2026-11-24",
+  "tipo": "vespertina",
+  "consultado_en": "2026-11-24T15:01:33-03:00",
+  "zona_horaria": "America/Santiago",
+  "matinal": {
+    "fecha": "2026-11-24",
+    "sha": "aaed1f7bc3a5dc09a7835b4aa57366100871983d",
+    "revision": "2026-11-24T08:55:00-03:00"
+  },
+  "meteorologia": [
+    {
+      "ciudad": "Santiago",
+      "fecha": "2026-11-24",
+      "periodo": "día completo",
+      "max_c": 29,
+      "min_c": 13,
+      "condicion": "Soleado; nubes y claros por la tarde",
+      "proveedor": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "consultado_en": "2026-11-24T15:01:33-03:00"
+    },
+    {
+      "ciudad": "Concepción",
+      "fecha": "2026-11-24",
+      "periodo": "día completo",
+      "max_c": 22,
+      "min_c": 9,
+      "condicion": "Soleado; viento del suroeste",
+      "proveedor": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "consultado_en": "2026-11-24T15:01:33-03:00"
+    },
+    {
+      "ciudad": "Casablanca (Valparaíso)",
+      "fecha": "2026-11-24",
+      "periodo": "día completo",
+      "max_c": 26,
+      "min_c": 11,
+      "condicion": "Soleado",
+      "proveedor": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "consultado_en": "2026-11-24T15:01:33-03:00"
+    }
+  ],
+  "intentos": [
+    {
+      "proveedor": "DMC",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+      "resultado": "interfaz dinámica sin datos de ciudades en extracción"
+    },
+    {
+      "proveedor": "Yr",
+      "url": "https://www.yr.no/",
+      "resultado": "bloqueado por robots.txt"
+    },
+    {
+      "proveedor": "Open-Meteo",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.45,-36.83,-33.32&longitude=-70.67,-73.05,-71.41&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=1",
+      "resultado": "URL no accesible mediante consulta web"
+    },
+    {
+      "proveedor": "Meteored",
+      "resultado": "3 pronósticos diarios fechados recuperados"
+    }
+  ],
+  "indicadores": [
+    {
+      "nombre": "Dólar observado",
+      "valor_clp": 1017.66,
+      "vigencia": "2026-11-24",
+      "url": "https://www.bcentral.cl/inicio/-/details/master-revistas-en-li-11",
+      "fuente": "Banco Central",
+      "consultado_en": "2026-11-24T15:01:33-03:00"
+    },
+    {
+      "nombre": "UF",
+      "valor_clp": 41398.57,
+      "vigencia": "2026-11-24",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "fuente": "SII",
+      "consultado_en": "2026-11-24T15:01:33-03:00"
+    },
+    {
+      "nombre": "Euro",
+      "valor_clp": 1107.84,
+      "vigencia": "2026-11-24",
+      "url": "https://www.bcentral.cl/inicio/-/details/master-revistas-en-li-11",
+      "fuente": "Banco Central",
+      "consultado_en": "2026-11-24T15:01:33-03:00"
+    },
+    {
+      "nombre": "UTM",
+      "valor_clp": 72440,
+      "vigencia": "2026-11",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "fuente": "SII",
+      "consultado_en": "2026-11-24T15:01:33-03:00"
+    }
+  ],
+  "fotografias": [
+    {
+      "archivo": "J25 303 Santiago, Plaza Baquedano.jpg",
+      "autor": "Falk2 (Falk Arnhold)",
+      "url": "https://commons.wikimedia.org/wiki/File:J25_303_Santiago,_Plaza_Baquedano.jpg",
+      "licencia": "CC BY-SA 4.0",
+      "url_licencia": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "carga": "no comprobada"
+    },
+    {
+      "archivo": "Congresso Nacional (39856414471).jpg",
+      "autor": "Pedro França / Agência Senado",
+      "url": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_(39856414471).jpg",
+      "licencia": "CC BY 2.0",
+      "url_licencia": "https://creativecommons.org/licenses/by/2.0/",
+      "carga": "no comprobada"
+    },
+    {
+      "archivo": "Detalle de Fachada X.jpg",
+      "autor": "J Mndz",
+      "url": "https://commons.wikimedia.org/wiki/File:Detalle_de_Fachada_X.jpg",
+      "licencia": "CC BY-SA 2.0",
+      "url_licencia": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "carga": "no comprobada"
+    }
+  ],
+  "etapa2": {
+    "portada": "4 titulares y principal",
+    "foto_portada": "ficha de licencia comprobada; carga no probada",
+    "fotos_interiores": "2 fichas verificadas",
+    "creditos": "autor, origen, fecha, licencia",
+    "compaginacion": "CSS vespertino precedente íntegro; artículos ancho completo, cuerpo de dos columnas",
+    "espacios": "sin alturas fijas; revisión estática",
+    "movil": "media queries existentes",
+    "color": "paleta anterior",
+    "integridad": "12 artículos, editorial, anclas válidas, lector íntegro",
+    "revision_visual": "no realizada; sin navegador"
+  },
+  "articulos": 12,
+  "parrafos": 54,
+  "html_caracteres": 56084,
+  "fuentes": [
+    {
+      "id": "docentes",
+      "fuentes": [
+        [
+          "Cooperativa · 24 nov., 13:05",
+          "https://www.cooperativa.cl/noticias/pais/educacion/profesores/profesores-marcharon-por-la-alameda-contra-los-recortes-en-educacion/2026-11-24/130523.html"
+        ],
+        [
+          "24 Horas · marcha",
+          "https://www.24horas.cl/actualidad/nacional/marcha-del-colegio-de-profesores-registra-incidentes-en-la-alameda"
+        ],
+        [
+          "Radio Universidad de Chile · convocatoria del 19 nov.",
+          "https://radio.uchile.cl/2026/11/19/colegio-de-profesores-convoca-a-marcha-nacional-contra-recortes-a-la-educacion-publica-en-el-presupuesto-2027/"
+        ],
+        [
+          "El Mostrador · 24 nov.",
+          "https://www.elmostrador.cl/noticias/pais/2026/11/24/paro-nacional-docente-marcha-contra-recortes-en-educacion-registra-incidentes-en-la-alameda/"
+        ]
+      ]
+    },
+    {
+      "id": "biobio",
+      "fuentes": [
+        [
+          "Cooperativa · PDI y Fiscalía, 24 nov.",
+          "https://www.cooperativa.cl/noticias/pais/region-del-biobio/pdi-detuvo-a-cuatro-sujetos-vinculados-a-homicidios-en-el-biobio/2026-11-24/111910.html"
+        ]
+      ]
+    },
+    {
+      "id": "calor",
+      "fuentes": [
+        [
+          "Meteored · actualización DMC, 24 nov., 10:20",
+          "https://www.meteored.cl/noticias/prediccion/hasta-c-en-regiones-la-dmc-mantiene-aviso-por-altas-temperaturas-de-coquimbo-a-biobio-desde-el-martes.html"
+        ],
+        [
+          "Meteored · Santiago",
+          "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html"
+        ]
+      ]
+    },
+    {
+      "id": "brasil",
+      "fuentes": [
+        [
+          "Cámara · despacho",
+          "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial"
+        ],
+        [
+          "Cámara · votación",
+          "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe"
+        ],
+        [
+          "Agência Brasil · 24 nov., 11:30",
+          "https://agenciabrasil.ebc.com.br/es/politica/noticia/2026-11/diputados-aprueban-ajuste-fiscal-de-2027-y-texto-va-sancion-de-lula"
+        ],
+        [
+          "UOL · Motta",
+          "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/24/motta-pede-novas-medidas-economicas-apos-aprovacao-do-ajuste-fiscal-de-lula.ghtm"
+        ],
+        [
+          "Radio Nacional · reglas",
+          "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/pacote-de-ajuste-fiscal-veja-o-que-muda-nos-gastos-e-supersalarios"
+        ]
+      ]
+    },
+    {
+      "id": "confianza-br",
+      "fuentes": [
+        [
+          "FGV IBRE · publicación original",
+          "https://portalibre.fgv.br/noticias/confianca-do-consumidor-voltou-cair-em-novembro"
+        ],
+        [
+          "UOL · componentes",
+          "https://economia.uol.com.br/noticias/redacao/2026/11/24/indice-de-confianca-do-consumidor-novembro-2026.ghtm"
+        ]
+      ]
+    },
+    {
+      "id": "mexico",
+      "fuentes": [
+        [
+          "La Jornada · nuevo corte",
+          "https://www.jornada.com.mx/noticia/2026/11/24/economia/mexico-alcanza-ied-record-al-cierre-del-tercer-trimestre-sumo-43-mil-90-millones-de-dolares"
+        ],
+        [
+          "El CEO · 24 nov.",
+          "https://elceo.com/economia/inversion-extranjera-directa-maximo-historico-suma-43090-mdd/"
+        ],
+        [
+          "Secretaría de Economía · informe previo",
+          "https://www.gob.mx/se/prensa/mexico-registra-un-maximo-historico-de-inversion-extranjera-directa-ied-para-un-primer-semestre-34-mil-968-millones-de-dolares-en-2026?idiom=es"
+        ]
+      ]
+    },
+    {
+      "id": "openfinance",
+      "fuentes": [
+        [
+          "Agência Brasil · lanzamiento, 24 nov., 09:02",
+          "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/nova-ferramenta-do-open-finance-automatizara-repasses-entre-bancos"
+        ]
+      ]
+    },
+    {
+      "id": "eeuu-confianza",
+      "fuentes": [
+        [
+          "The Conference Board · comunicado",
+          "https://www.conference-board.org/topics/consumer-confidence/"
+        ],
+        [
+          "AP · contexto",
+          "https://apnews.com/article/9d13d96cc3e4bac8f334f9145c718e42"
+        ],
+        [
+          "Reuters · 24 nov.",
+          "https://www.investing.com/news/economic-indicators/us-consumer-confidence-surges-to-highest-level-in-nearly-two-years-5048641"
+        ]
+      ]
+    },
+    {
+      "id": "viajes",
+      "fuentes": [
+        [
+          "Departamento de Transporte · FAA",
+          "https://www.transportation.gov/briefing-room/trumps-transportation-department-announces-record-breaking-thanksgiving-air-travel"
+        ],
+        [
+          "AP · riesgo costero",
+          "https://apnews.com/article/a770ac04481a2d7fae4838add07ef61a"
+        ],
+        [
+          "The Guardian · 24 nov.",
+          "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel"
+        ]
+      ]
+    },
+    {
+      "id": "italia",
+      "fuentes": [
+        [
+          "Euronews · 24 nov., 17:05 CET",
+          "https://www.euronews.com/2026/11/24/italy-watches-worryingly-as-ukraine-strikes-russian-boats-in-libya"
+        ],
+        [
+          "Anadolu · comunicado italiano",
+          "https://www.aa.com.tr/en/europe/italy-voices-concern-over-ukrainian-military-operations-in-eastern-libya/4136037"
+        ]
+      ]
+    },
+    {
+      "id": "espana",
+      "fuentes": [
+        [
+          "LaSexta · convocatoria",
+          "https://www.lasexta.com/elecciones/generales/debate-colau-albiol-cara-cara-lasexta-directo-vivienda-centra-cara-cara-este-martes_202611246b0538095cb1082f89b36ef9.html"
+        ],
+        [
+          "Redacción Médica · entrevista",
+          "https://www.redaccionmedica.com/politica/20261124/colau-frente-amplio-las-guardias-de-horas-van-desaparecer-por-insalubres-para-pacientes-profesionales/366469_0.html"
+        ],
+        [
+          "El Cronista · recta final",
+          "https://www.cronista.com/espana/politica-es/sanchez-feijoo-abascal-y-colau-encaran-la-recta-final-de-la-campana-tras-las-ultimas-encuestas-del-29n/"
+        ]
+      ]
+    },
+    {
+      "id": "ayuda",
+      "fuentes": [
+        [
+          "Reuters · Japan Times, 24 nov.",
+          "https://www.japantimes.co.jp/news/2026/11/24/world/politics/un-wars-food-aid-7-million-people/"
+        ],
+        [
+          "Al Jazeera · Consejo de Seguridad",
+          "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns"
+        ]
+      ]
+    }
+  ],
+  "limitaciones": [
+    "Sin comprobación de carga o peso de imágenes ni renderizado en navegador.",
+    "El comunicado mexicano del tercer trimestre fue reproducido por medios enlazados."
+  ]
+}
