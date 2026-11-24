@@ -1,0 +1,143 @@
+{
+  "fecha": "2026-11-24",
+  "tipo": "matinal",
+  "timezone": "America/Santiago",
+  "cierre": "2026-11-24T07:04:32.961-03:00",
+  "recuperacion": "2026-11-24T08:55:00-03:00",
+  "weather": [
+    {
+      "city": "Santiago",
+      "max_C": 29,
+      "min_C": 14,
+      "condition": "Mayormente despejado",
+      "source": "Consulta Chile · modelo Open-Meteo",
+      "source_url": "https://www.consultachile.cl/clima/santiago",
+      "valid_date": "2026-11-24",
+      "consulted_at": "2026-11-24T07:04:32.961-03:00",
+      "attempts": [
+        "DMC: comprobación de navegador",
+        "Yr: URL restringida",
+        "Open-Meteo API: acceso directo no disponible",
+        "Fuente alternativa recuperada en producción original"
+      ]
+    },
+    {
+      "city": "Concepción",
+      "max_C": 21,
+      "min_C": 10,
+      "condition": "Parcialmente nublado",
+      "source": "Consulta Chile · modelo Open-Meteo",
+      "source_url": "https://www.consultachile.cl/clima/concepcion",
+      "valid_date": "2026-11-24",
+      "consulted_at": "2026-11-24T07:04:32.961-03:00",
+      "attempts": [
+        "DMC: comprobación de navegador",
+        "Yr: URL restringida",
+        "Open-Meteo API: acceso directo no disponible",
+        "Fuente alternativa recuperada en producción original"
+      ]
+    },
+    {
+      "city": "Casablanca",
+      "max_C": 24,
+      "min_C": 14,
+      "condition": "Despejado, viento moderado a fuerte",
+      "source": "WindBorne Systems",
+      "source_url": "https://weather.windbornesystems.com/weather/chile/casablanca/",
+      "valid_date": "2026-11-24",
+      "consulted_at": "2026-11-24T07:04:32.961-03:00",
+      "attempts": [
+        "DMC: comprobación de navegador",
+        "Yr: URL restringida",
+        "Open-Meteo API: acceso directo no disponible",
+        "Fuente alternativa recuperada en producción original"
+      ]
+    }
+  ],
+  "indicators": [
+    {
+      "name": "Dólar observado",
+      "value": "$1.017,66",
+      "source": "Banco Central",
+      "url": "https://www.bcentral.cl/inicio",
+      "valid_date": "2026-11-24",
+      "consulted_at": "2026-11-24T07:04:32.961-03:00"
+    },
+    {
+      "name": "UF",
+      "value": "$41.398,57",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "valid_date": "2026-11-24",
+      "consulted_at": "2026-11-24T07:04:32.961-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": "$1.107,84",
+      "source": "Banco Central",
+      "url": "https://www.bcentral.cl/inicio",
+      "valid_date": "2026-11-24",
+      "consulted_at": "2026-11-24T07:04:32.961-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": "$72.440",
+      "source": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "valid_date": "2026-11",
+      "consulted_at": "2026-11-24T07:04:32.961-03:00"
+    }
+  ],
+  "stage1": {
+    "status": "OK según producción original",
+    "articles": 12,
+    "paragraphs": 62,
+    "source_links": [
+      "https://www.consultachile.cl/clima/santiago",
+      "https://www.consultachile.cl/clima/concepcion",
+      "https://weather.windbornesystems.com/weather/chile/casablanca/",
+      "https://www.bcentral.cl/inicio",
+      "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "https://open-meteo.com/en/terms",
+      "https://creativecommons.org/licenses/by-sa/4.0/",
+      "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional_de_Chile_(Valpara%C3%ADso).jpg",
+      "https://www.camara.cl/cms/2026/11/23/presupuesto-2027-camara-envia-a-mixta-diez-temas/",
+      "https://www.df.cl/economia-y-politica/congreso/claves-del-congreso-presupuesto-entra-a-tierra-derecha",
+      "https://commons.wikimedia.org/wiki/File:HumedalRioCopiapo1.jpg",
+      "https://www.subinterior.gob.cl/noticias/2026/11/23/gobierno-declara-emergencia-preventiva-en-atacama-y-coquimbo/",
+      "https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/boletim-macrofiscal/2026/2026-11-23_boletim_macrofiscal_vf4.pdf/view",
+      "https://www1.folha.uol.com.br/mercado/2026/11/fazenda-reduz-projecao-de-crescimento-para-o-ano-e-ve-alta-do-dolar-e-inflacao.shtml",
+      "https://en.www.inegi.org.mx/app/saladeprensa/noticia/11361",
+      "https://en.www.inegi.org.mx/app/saladeprensa/noticia/11362",
+      "https://expansion.mx/economia/2026/11/23/pib-de-mexico-crece-0-9-tercer-trimestre-pierde-ritmo-inegi",
+      "https://en.www.inegi.org.mx/",
+      "https://apnews.com/article/912af4eaae5e476a102adc2eca11abee",
+      "https://www.youtube.com/watch?v=gBluSJ_-snc",
+      "https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-against-federal-efforts-strip-housing",
+      "https://www.hud.gov/hud-partners/verification-of-eligible-status",
+      "https://apnews.com/article/1b46d31d12f5201883247cac1a3ce198",
+      "https://apnews.com/article/3fe6eeb38c7dd8b77c84733f898163ef",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "https://commons.wikimedia.org/wiki/File:Berlaymont_EU_Building-Brussels.jpg",
+      "https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/pressemitteilungen/eu-kommission-schlagt-22-sanktionspaket-gegen-russland-vor-2026-11-23_de?prefLang=fi",
+      "https://apnews.com/article/ecad86868390f6602b346c70d1fa5757",
+      "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "https://www.theguardian.com/environment/2026/nov/23/arctic-air-colder-temperatures-europe-this-week",
+      "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+      "https://commons.wikimedia.org/wiki/File:Destruction_in_Al-Maqousi_quarter%2C_Gaza_Strip.jpg",
+      "https://www.oxfam.org/en/press-releases/more-than-99-per-cent-gaza-environmental-contamination-from-israel-military-assault",
+      "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+      "https://palestine.un.org/en/326500-west-bank-record-settler-attacks-mar-olive-harvest-un-urges-israel-protect-farmers"
+    ]
+  },
+  "stage2": {
+    "status": "OK estructural según producción original",
+    "photos": 4,
+    "svg": 1,
+    "visual_inspection": "No realizada",
+    "voice": "Integrada; audio no probado",
+    "html_length": 68116
+  },
+  "limitation": "Respaldo recuperado del registro de producción y HTML original; no constituye una nueva consulta de fuentes."
+}
