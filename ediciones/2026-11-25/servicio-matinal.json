@@ -1,0 +1,109 @@
+{
+  "fecha": "2026-11-25",
+  "tipo": "matinal",
+  "consultado_en": "2026-11-25T07:02:08-03:00",
+  "timezone": "America/Santiago",
+  "meteorologia": [
+    {
+      "name": "Santiago",
+      "max": 32,
+      "min": 17,
+      "condition": "Mayormente despejado",
+      "source": "Consulta Chile / Open-Meteo",
+      "url": "https://www.consultachile.cl/clima/santiago",
+      "fecha": "2026-11-25",
+      "unidad": "°C",
+      "intentos": [
+        "DMC: portal sin valores diarios legibles",
+        "Yr/MET Norway: acceso restringido",
+        "Proveedor alternativo: valores diarios recuperados"
+      ]
+    },
+    {
+      "name": "Concepción",
+      "max": 22,
+      "min": 13,
+      "condition": "Despejado",
+      "source": "Consulta Chile / Open-Meteo",
+      "url": "https://www.consultachile.cl/clima/concepcion",
+      "fecha": "2026-11-25",
+      "unidad": "°C",
+      "intentos": [
+        "DMC: portal sin valores diarios legibles",
+        "Yr/MET Norway: acceso restringido",
+        "Proveedor alternativo: valores diarios recuperados"
+      ]
+    },
+    {
+      "name": "Casablanca",
+      "max": 27,
+      "min": 12,
+      "condition": "Despejado",
+      "source": "Eltiempoen / Open-Meteo",
+      "url": "https://eltiempoen.net/chile/el-tiempo-en-casablanca",
+      "fecha": "2026-11-25",
+      "unidad": "°C",
+      "intentos": [
+        "DMC: portal sin valores diarios legibles",
+        "Yr/MET Norway: acceso restringido",
+        "Proveedor alternativo: valores diarios recuperados"
+      ]
+    }
+  ],
+  "indicadores": [
+    {
+      "name": "Dólar observado",
+      "value": 1025.06,
+      "display": "$1.025,06",
+      "date": "2026-11-25",
+      "source": "Banco Central",
+      "url": "https://www.gslb.cndp.cl/web/banco-central/"
+    },
+    {
+      "name": "UF",
+      "value": 41405.45,
+      "display": "$41.405,45",
+      "date": "2026-11-25",
+      "source": "Banco Central",
+      "url": "https://www.gslb.cndp.cl/web/banco-central/"
+    },
+    {
+      "name": "Euro",
+      "value": 1124.46,
+      "display": "$1.124,46",
+      "date": "2026-11-25",
+      "source": "Banco Central",
+      "url": "https://www.gslb.cndp.cl/web/banco-central/"
+    },
+    {
+      "name": "UTM",
+      "value": 72440,
+      "display": "$72.440",
+      "date": "2026-11",
+      "source": "Banco Central / SII",
+      "url": "https://www.gslb.cndp.cl/web/banco-central/"
+    }
+  ],
+  "notas": [
+    "Evidencia recuperada de la ejecución original de las 07:00; no se efectuó nueva consulta de valores.",
+    "Pronósticos de modelo vía intermediarios; API directa no utilizada."
+  ],
+  "calidad_visual": {
+    "fotografias": [
+      {
+        "file": "Edificio del Congreso Nacional, Valparaíso 20230903 01.jpg",
+        "author": "Carlos Figueroa Rojas",
+        "license": "CC BY-SA 4.0",
+        "origen": "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional%2C_Valpara%C3%ADso_20230903_01.jpg"
+      },
+      {
+        "file": "Cacahuacintle en el mercado de Jamaica, México DF (14836888974).jpg",
+        "author": "Hernán García Crespo",
+        "license": "CC BY 2.0",
+        "origen": "https://commons.wikimedia.org/wiki/File:Cacahuacintle_en_el_mercado_de_Jamaica%2C_M%C3%A9xico_DF_(14836888974).jpg"
+      }
+    ],
+    "render": "Inspección estructural; revisión visual no efectuada"
+  },
+  "recuperacion": "2026-11-25T10:40:50.275Z"
+}
