@@ -1,0 +1,123 @@
+{
+  "fecha": "2026-11-25",
+  "tipo": "vespertina",
+  "consultado_en": "2026-11-25T15:01:11-03:00",
+  "zona_horaria": "America/Santiago",
+  "meteorologia": [
+    {
+      "ciudad": "Santiago",
+      "valor": "32° / 16°",
+      "condicion": "Mayormente despejado",
+      "url": "https://www.consultachile.cl/clima/santiago",
+      "proveedor": "Consulta Chile / Open-Meteo",
+      "vigencia": "2026-11-25",
+      "periodo": "día completo; modelo",
+      "limitacion": null
+    },
+    {
+      "ciudad": "Concepción",
+      "valor": "22° / 13°",
+      "condicion": "Despejado",
+      "url": "https://www.consultachile.cl/clima/concepcion",
+      "proveedor": "Consulta Chile / Open-Meteo",
+      "vigencia": "2026-11-25",
+      "periodo": "día completo; modelo",
+      "limitacion": null
+    },
+    {
+      "ciudad": "Casablanca (Valparaíso)",
+      "valor": "27° / 12°",
+      "condicion": "Despejado",
+      "url": "https://eltiempoen.net/chile/el-tiempo-en-casablanca",
+      "proveedor": "Eltiempoen / Open-Meteo",
+      "vigencia": "2026-11-25",
+      "periodo": "día completo; modelo",
+      "limitacion": "Fuente fechada hoy 02:55; no se verificó actualización de tarde"
+    }
+  ],
+  "intentos_meteorologicos": [
+    {
+      "proveedor": "DMC",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/",
+      "resultado": "comprobando navegador; sin datos recuperables"
+    },
+    {
+      "proveedor": "Yr",
+      "url": "https://www.yr.no/",
+      "resultado": "robots.txt bloquea acceso"
+    },
+    {
+      "proveedor": "Open-Meteo Free API",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.45,-36.83,-33.32&longitude=-70.67,-73.05,-71.41&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=America%2FSantiago&forecast_days=1",
+      "resultado": "URL no accesible desde herramienta; alternativas con datos Open-Meteo fechados hoy"
+    }
+  ],
+  "indicadores": [
+    {
+      "nombre": "Dólar observado",
+      "valor": "$1.025,06",
+      "vigencia": "2026-11-25",
+      "url": "https://www.bcentral.cl/inicio/-/details/720-9",
+      "fuente": "Banco Central de Chile"
+    },
+    {
+      "nombre": "UF",
+      "valor": "$41.405,45",
+      "vigencia": "2026-11-25",
+      "url": "https://www.bcentral.cl/inicio/-/details/720-9",
+      "fuente": "Banco Central de Chile"
+    },
+    {
+      "nombre": "Euro CLP/EUR",
+      "valor": "$1.124,46",
+      "vigencia": "2026-11-25",
+      "url": "https://www.bcentral.cl/inicio/-/details/720-9",
+      "fuente": "Banco Central de Chile"
+    },
+    {
+      "nombre": "UTM",
+      "valor": "$72.440",
+      "vigencia": "noviembre 2026",
+      "url": "https://www.bcentral.cl/inicio/-/details/720-9",
+      "fuente": "Banco Central de Chile"
+    }
+  ],
+  "comparacion": {
+    "matinal": "ediciones/2026-11-25/matinal.html",
+    "sha": "f3185872f6c843ab30f156e0604cb5470141ee2a",
+    "novedades": "Votación Cámara 13:17, parte CONAF 11:45, declaraciones México y Europa, nuevas consultas USTR, BEA y estudios brasileños; PMA contextualizado por propuesta de hoy."
+  },
+  "control_etapa2": {
+    "portada": 4,
+    "articulos": 12,
+    "parrafos": 50,
+    "editorial": true,
+    "fotos": [
+      {
+        "archivo": "Cámara de Diputados de Chile.jpg",
+        "autor": "B1mbo",
+        "fecha": "24 julio 2008",
+        "licencia": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        "archivo": "Port of Shanghai, 2004.jpg",
+        "autor": "Tibor Végh",
+        "fecha": "31 octubre 2004",
+        "licencia": "https://creativecommons.org/licenses/by/3.0/"
+      },
+      {
+        "archivo": "European Parliament Strasbourg 03.jpg",
+        "autor": "FrDr",
+        "fecha": "17 julio 2024",
+        "licencia": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "svg": 2,
+    "css": "estilos de vespertina anterior conservados íntegros",
+    "anclas": "OK",
+    "voz_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "visual": "no realizada; carga y peso de imágenes remotas no comprobados",
+    "revision": "estática",
+    "bytes_utf8_aprox": 56331
+  }
+}
