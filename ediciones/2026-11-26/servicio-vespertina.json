@@ -1,0 +1,350 @@
+{
+  "fecha": "2026-11-26",
+  "tipo": "vespertina",
+  "consultado": "2026-11-26T15:01:12-03:00",
+  "zona_horaria": "America/Santiago",
+  "meteorologia": [
+    {
+      "city": "Santiago",
+      "max": 32,
+      "min": 18,
+      "condition": "Nublado",
+      "provider": "Open-Meteo vía Consulta Chile",
+      "url": "https://www.consultachile.cl/clima/santiago",
+      "fecha": "2026-11-26",
+      "periodo": "día completo",
+      "unidad": "°C",
+      "tipo": "pronóstico",
+      "intentos": [
+        {
+          "provider": "DMC",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/",
+          "resultado": "comprobando navegador, sin tabla accesible"
+        },
+        {
+          "provider": "Yr",
+          "url": "https://www.yr.no/",
+          "resultado": "dominio bloqueado por robots.txt"
+        },
+        {
+          "provider": "Open-Meteo API",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.45,-36.83,-33.3174&longitude=-70.66,-73.05,-71.4067&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=1",
+          "resultado": "URL inaccesible en herramienta web"
+        },
+        {
+          "provider": "Open-Meteo vía Consulta Chile",
+          "url": "https://www.consultachile.cl/clima/santiago",
+          "resultado": "pronóstico con fecha verificada"
+        }
+      ]
+    },
+    {
+      "city": "Concepción",
+      "max": 26,
+      "min": 16,
+      "condition": "Despejado",
+      "provider": "Open-Meteo vía Consulta Chile",
+      "url": "https://www.consultachile.cl/clima/concepcion",
+      "fecha": "2026-11-26",
+      "periodo": "día completo",
+      "unidad": "°C",
+      "tipo": "pronóstico",
+      "intentos": [
+        {
+          "provider": "DMC",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/",
+          "resultado": "comprobando navegador, sin tabla accesible"
+        },
+        {
+          "provider": "Yr",
+          "url": "https://www.yr.no/",
+          "resultado": "dominio bloqueado por robots.txt"
+        },
+        {
+          "provider": "Open-Meteo API",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.45,-36.83,-33.3174&longitude=-70.66,-73.05,-71.4067&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=1",
+          "resultado": "URL inaccesible en herramienta web"
+        },
+        {
+          "provider": "Open-Meteo vía Consulta Chile",
+          "url": "https://www.consultachile.cl/clima/concepcion",
+          "resultado": "pronóstico con fecha verificada"
+        }
+      ]
+    },
+    {
+      "city": "Casablanca (Valparaíso)",
+      "max": 27,
+      "min": 10,
+      "condition": "Despejado; nubosidad parcial nocturna",
+      "provider": "DMC vía Weather Chile",
+      "url": "https://weatherchile.app/ciudad/casablanca",
+      "fecha": "2026-11-26",
+      "periodo": "día completo",
+      "unidad": "°C",
+      "tipo": "pronóstico",
+      "intentos": [
+        {
+          "provider": "DMC",
+          "url": "https://www.meteochile.gob.cl/PortalDMC-web/",
+          "resultado": "comprobando navegador, sin tabla accesible"
+        },
+        {
+          "provider": "Yr",
+          "url": "https://www.yr.no/",
+          "resultado": "dominio bloqueado por robots.txt"
+        },
+        {
+          "provider": "Open-Meteo API",
+          "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.45,-36.83,-33.3174&longitude=-70.66,-73.05,-71.4067&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=1",
+          "resultado": "URL inaccesible en herramienta web"
+        },
+        {
+          "provider": "DMC vía Weather Chile",
+          "url": "https://weatherchile.app/ciudad/casablanca",
+          "resultado": "pronóstico con fecha verificada"
+        }
+      ]
+    }
+  ],
+  "indicadores": [
+    {
+      "name": "Dólar observado",
+      "value": 1044.08,
+      "display": "$1.044,08",
+      "validity": "2026-11-26",
+      "provider": "Banco Central",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UF",
+      "value": 41412.34,
+      "display": "$41.412,34",
+      "validity": "2026-11-26",
+      "provider": "Banco Central",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "Euro CLP/EUR",
+      "value": 1146.84,
+      "display": "$1.146,84",
+      "validity": "2026-11-26",
+      "provider": "Banco Central",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UTM",
+      "value": 72440,
+      "display": "$72.440",
+      "validity": "2026-11",
+      "provider": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm"
+    }
+  ],
+  "fuentes_editoriales": [
+    {
+      "id": "bce",
+      "fuentes": [
+        [
+          "https://apnews.com/article/d308b6cfbe6399b131255f2a678b10e4",
+          "Associated Press · 26 nov."
+        ],
+        [
+          "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+          "The Guardian · 26 nov."
+        ],
+        [
+          "https://www.marketscreener.com/news/pablo-hernandez-de-cos-the-man-eu-leaders-are-set-to-pick-as-ecb-president-ce7851d9d98df422",
+          "Reuters · perfil"
+        ]
+      ]
+    },
+    {
+      "id": "iansa",
+      "fuentes": [
+        [
+          "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/26/sociedad-agricola-del-bio-bio-y-decision-de-iansa-lo-mas-grave-es-dejar-de-sembrar-remolacha.shtml",
+          "BioBioChile · 12:14, 26 nov."
+        ],
+        [
+          "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/25/cierre-de-produccion-de-azucar-de-remolacha-de-iansa-provoca-alarma-por-golpe-a-la-agricultura.shtml",
+          "Antecedentes · 25 nov."
+        ]
+      ]
+    },
+    {
+      "id": "contratas",
+      "fuentes": [
+        [
+          "https://www.biobiochile.cl/noticias/economia/tu-bolsillo/2026/11/26/cut-rechaza-circular-por-renovacion-de-contratas-y-acusa-al-gobierno-de-debilitar-el-empleo-publico.shtml",
+          "BioBioChile · declaración gremial 26 nov."
+        ]
+      ]
+    },
+    {
+      "id": "incendios",
+      "fuentes": [
+        [
+          "https://www.conaf.cl/mapas-incendios-forestales/ocurrencia-nacional.htm",
+          "CONAF · corte 10:30"
+        ],
+        [
+          "https://minagri.gob.cl/noticia/prohiben-el-uso-del-fuego-para-quemas-agricolas-y-forestales-en-toda-la-region-de-nuble-ante-alza-de-temperaturas-y-viento/",
+          "Ministerio de Agricultura · resolución Ñuble"
+        ],
+        [
+          "https://www.diariofruticola.cl/noticia/noticias-agricolas/2026/11/altas-temperaturas-y-viento-puelche-obligan-a-suspender-quemas-agricolas-entre-el-maule-y-la-araucania",
+          "Diario Frutícola · 26 nov."
+        ]
+      ]
+    },
+    {
+      "id": "brasil-pix",
+      "fuentes": [
+        [
+          "https://agenciabrasil.ebc.com.br/en/economia/noticia/2026-11/brazil-criticizes-possible-new-us-tariffs-says-it-will-not-back-down",
+          "Agência Brasil · 26 nov."
+        ]
+      ]
+    },
+    {
+      "id": "brasil-ipca",
+      "fuentes": [
+        [
+          "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
+          "Agência Brasil · cifras IBGE"
+        ],
+        [
+          "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-11/previa-da-inflacao-ipca-15-fica-em-022-em-novembro",
+          "Rádio Nacional · 13:14, 26 nov."
+        ]
+      ]
+    },
+    {
+      "id": "brasil-fiscal",
+      "fuentes": [
+        [
+          "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/contas-publicas-demanda-por-financiamento-cresceu-271-em-2025",
+          "Agência Brasil · IBGE, 11:17"
+        ],
+        [
+          "https://agenciabrasil.ebc.com.br/es/politica/noticia/2026-11/presidente-brasileno-sanciona-ley-de-ajuste-fiscal-para-2027",
+          "Antecedente · sanción fiscal"
+        ]
+      ]
+    },
+    {
+      "id": "brasil-inversion",
+      "fuentes": [
+        [
+          "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/investimento-estrangeiro-no-pais-chega-us-1416-trilhao-em-2025",
+          "Agência Brasil · informe BCB 12:50"
+        ],
+        [
+          "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/contas-externas-tem-deficit-de-us-4-bilhoes-em-outubro",
+          "Agência Brasil · cuentas externas 10:33"
+        ]
+      ]
+    },
+    {
+      "id": "mexico",
+      "fuentes": [
+        [
+          "https://www.milenio.com/politica/claudia-sheinbaum-la-mananera-hoy-26-de-noviembre-2026-en-vivo-atm",
+          "Milenio · conferencia del 26 nov."
+        ],
+        [
+          "https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-26-noviembre-2026",
+          "Excélsior · conferencia completa"
+        ]
+      ]
+    },
+    {
+      "id": "thanksgiving",
+      "fuentes": [
+        [
+          "https://www.nyc.gov/site/em/about/press-releases/20261125_pr-Mayor-Mamdani-Issues-Travel-Advisory-For-Thanksgiving.page",
+          "Alcaldía de Nueva York · aviso oficial"
+        ],
+        [
+          "https://apnews.com/article/e8bc9bc454c933dacffe89b1139c4d3c",
+          "AP · balance 26 nov."
+        ],
+        [
+          "https://weather.com/2026/11/26/holiday/thanksgiving/macys-thanksgiving-day-parade-weather-forecast-winds-rain",
+          "Weather.com · actualización"
+        ]
+      ]
+    },
+    {
+      "id": "eu-ukraine",
+      "fuentes": [
+        [
+          "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+          "The Guardian · 26 nov."
+        ],
+        [
+          "https://www.ft.com/content/3f577839-deed-40f4-af9f-bf8fb54890e3",
+          "Financial Times · 26 nov."
+        ]
+      ]
+    },
+    {
+      "id": "congo",
+      "fuentes": [
+        [
+          "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-26",
+          "ECDC · actualización 26 nov."
+        ],
+        [
+          "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+          "OMS · antecedente 20 nov."
+        ],
+        [
+          "https://apnews.com/article/0a0bc05d76d3278319472178a16be14b",
+          "AP · dificultades de respuesta 26 nov."
+        ]
+      ]
+    }
+  ],
+  "fotos": [
+    {
+      "id": "bce",
+      "archivo": "Pablo Hernandez de Cos - official portrait 2025.jpg",
+      "autor": "Chospo",
+      "licencia": "CC0 1.0",
+      "origen": "https://commons.wikimedia.org/wiki/File:Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg"
+    },
+    {
+      "id": "brasil-inversion",
+      "archivo": "Edifício sede do Banco Central do Brasil (16607833736).jpg",
+      "autor": "Senado Federal",
+      "licencia": "CC BY 2.0",
+      "origen": "https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_sede_do_Banco_Central_do_Brasil_(16607833736).jpg"
+    },
+    {
+      "id": "thanksgiving",
+      "archivo": "Macys Thanksgiving Parade (38622151691).jpg",
+      "autor": "TomH2323",
+      "licencia": "CC BY 2.0",
+      "origen": "https://commons.wikimedia.org/wiki/File:Macys_Thanksgiving_Parade_(38622151691).jpg"
+    }
+  ],
+  "control_etapa2": {
+    "articles": 12,
+    "paragraphs": 53,
+    "photos": 3,
+    "diagrams": 2,
+    "front_teasers": 4,
+    "anchors_ok": true,
+    "unique_ids": true,
+    "external_links_ok": true,
+    "voice_exact": true,
+    "responsive_css": true,
+    "css_reused_exactly": true,
+    "visual_review": "No realizado: sin navegador de renderización en esta ejecución",
+    "photo_load": "Fichas Commons consultadas, carga y peso de miniaturas no comprobados",
+    "comparison": "Matinal 26 nov. SHA a861ae9091840e801309bedb4adfe4e3a824f25a: noticias diferentes o avances específicos de la negociación UE y temporal; cifras de servicio actualizadas/reconfirmadas.",
+    "bytes_utf8": 58138
+  }
+}
