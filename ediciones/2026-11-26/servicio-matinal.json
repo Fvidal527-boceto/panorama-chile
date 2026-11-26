@@ -1,0 +1,130 @@
+{
+  "fecha": "2026-11-26",
+  "tipo": "matinal",
+  "consultado_en": "2026-11-26T06:58:02-03:00",
+  "timezone": "America/Santiago",
+  "meteorologia": [
+    {
+      "name": "Santiago",
+      "max": 31,
+      "min": 17,
+      "condition": "Sin precipitaciones",
+      "source": "Clarín · pronóstico local",
+      "url": "https://www.clarin.com/informacion-general/clima-hoy-santiago-chile-pronostico-tiempo-jueves-26-noviembre-2026_0_8CD741n6wT.amp.html",
+      "fecha": "2026-11-26",
+      "unidad": "°C",
+      "intentos": [
+        "DMC: portal devuelve componente sin tabla diaria",
+        "Yr/MET Norway: acceso restringido por robots o URL",
+        "Open-Meteo Free API: URL no accesible en herramienta",
+        "Fuente alternativa fechada: valores recuperados"
+      ],
+      "periodo": "2026-11-26"
+    },
+    {
+      "name": "Concepción",
+      "max": 24,
+      "min": 14,
+      "condition": "Despejado",
+      "source": "VLN Radio · pronóstico extendido",
+      "url": "https://www.vlnradio.cl/noticias/nacional/region-del-biobio/2026/11/24/el-tiempo-en-concepcion-este-miercoles-25-de-noviembre-de-2026/",
+      "fecha": "2026-11-26",
+      "unidad": "°C",
+      "intentos": [
+        "DMC: portal devuelve componente sin tabla diaria",
+        "Yr/MET Norway: acceso restringido por robots o URL",
+        "Open-Meteo Free API: URL no accesible en herramienta",
+        "Fuente alternativa fechada: valores recuperados"
+      ],
+      "periodo": "2026-11-26"
+    },
+    {
+      "name": "Casablanca",
+      "max": 29,
+      "min": 13,
+      "condition": "Despejado",
+      "source": "Tiempo.es · pronóstico diario",
+      "url": "https://www.tiempo.es/el-tiempo/para-7-dias/chile-casablanca-cl3896410.html",
+      "fecha": "2026-11-26",
+      "unidad": "°C",
+      "intentos": [
+        "DMC: portal devuelve componente sin tabla diaria",
+        "Yr/MET Norway: acceso restringido por robots o URL",
+        "Open-Meteo Free API: URL no accesible en herramienta",
+        "Fuente alternativa fechada: valores recuperados"
+      ],
+      "periodo": "2026-11-26"
+    }
+  ],
+  "intentos_meteorologia": {
+    "dmc": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+    "yr": [
+      "https://www.yr.no/en/forecast/daily-table/2-3871336/Chile/Santiago%20Metropolitan/Provincia%20de%20Santiago/Santiago",
+      "https://www.yr.no/en/forecast/daily-table/2-3893894/Chile/Biobio/Provincia%20de%20Concepción/Concepción",
+      "https://www.yr.no/en/forecast/daily-table/2-3896410/Chile/Región%20de%20Valparaíso/Provincia%20de%20Valparaíso/Casablanca"
+    ],
+    "open_meteo": "https://api.open-meteo.com/v1/forecast?latitude=-33.45,-36.83,-33.32&longitude=-70.67,-73.05,-71.41&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=1"
+  },
+  "indicadores": [
+    {
+      "name": "Dólar observado",
+      "value": 1044.08,
+      "display": "$1.044,08",
+      "date": "2026-11-26",
+      "source": "Banco Central",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UF",
+      "value": 41412.34,
+      "display": "$41.412,34",
+      "date": "2026-11-26",
+      "source": "Banco Central",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "Euro",
+      "value": 1146.84,
+      "display": "$1.146,84",
+      "date": "2026-11-26",
+      "source": "Banco Central",
+      "url": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios"
+    },
+    {
+      "name": "UTM",
+      "value": 72440,
+      "display": "$72.440",
+      "date": "2026-11",
+      "source": "Banco Central / SII",
+      "url": "https://www.gslb.cndp.cl/web/banco-central/"
+    }
+  ],
+  "notas": [
+    "Concepción: previsión extendida publicada el 24 de noviembre para el 26; otras fuentes difieren en máximas. Se presenta un pronóstico atribuido, no una observación.",
+    "No se atribuye a DMC, Yr ni Open-Meteo una cifra que no se recuperó directamente.",
+    "Fuentes alternativas verificadas con fecha explícita."
+  ],
+  "calidad_visual": {
+    "fotografias": [
+      {
+        "file": "Europa building European Union Brussels 01.jpg",
+        "author": "FrDr",
+        "license": "CC BY-SA 4.0",
+        "origen": "https://commons.wikimedia.org/wiki/File:Europa_building_European_Union_Brussels_01.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Europa_building_European_Union_Brussels_01.jpg/960px-Europa_building_European_Union_Brussels_01.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "carga": "Vista previa comprobada en consulta web; no render de edición"
+      },
+      {
+        "file": "Popocatépetl e Iztaccíhuatl.JPG",
+        "author": "Omar David Sandoval Sida",
+        "license": "CC BY-SA 3.0",
+        "origen": "https://commons.wikimedia.org/wiki/File:Popocat%C3%A9petl_e_Iztacc%C3%ADhuatl.JPG",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Popocat%C3%A9petl_e_Iztacc%C3%ADhuatl.JPG/960px-Popocat%C3%A9petl_e_Iztacc%C3%ADhuatl.JPG?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+        "carga": "Vista previa comprobada en consulta web; no render de edición"
+      }
+    ],
+    "ilustraciones": 0,
+    "repeticion": "No repetidas en las cuatro ediciones previas consultadas",
+    "render": "Inspección estructural; revisión visual de la edición no efectuada. Peso de cada imagen no comprobado."
+  }
+}

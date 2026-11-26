@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T15:01:11-03:00",
+  "updated_at": "2026-11-26T06:58:02-03:00",
   "latest": {
     "matinal": {
-      "fecha": "2026-11-25",
+      "fecha": "2026-11-26",
       "tipo": "matinal",
-      "url": "ediciones/2026-11-25/matinal.html",
-      "titulo": "Matinal · 25 de noviembre de 2026",
-      "revision": "2026-11-25T10:40:50.275Z"
+      "url": "ediciones/2026-11-26/matinal.html",
+      "titulo": "Matinal · 26 de noviembre de 2026",
+      "revision": "2026-11-26T06:58:02-03:00"
     },
     "vespertina": {
       "fecha": "2026-11-25",
@@ -18,6 +18,13 @@
     }
   },
   "archivo": [
+    {
+      "fecha": "2026-11-26",
+      "tipo": "matinal",
+      "url": "ediciones/2026-11-26/matinal.html",
+      "titulo": "Matinal · 26 de noviembre de 2026",
+      "revision": "2026-11-26T06:58:02-03:00"
+    },
     {
       "fecha": "2026-11-25",
       "tipo": "vespertina",
