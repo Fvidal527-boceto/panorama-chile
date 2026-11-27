@@ -1,9 +1,14 @@
 'use strict';
-const assert=require('node:assert/strict');
 const fs=require('node:fs');
 const path=require('node:path');
 const root=path.resolve(__dirname,'..');
 const index=JSON.parse(fs.readFileSync(path.join(root,'ediciones/indice.json'),'utf8'));
+const weatherCities=['santiago','concepcion','casablanca'];
+function cityKey(value){
+  return typeof value==='string'
+    ? value.normalize('NFD').replace(/\p{M}/gu,'').replace(/\s*\([^)]*\)\s*$/u,'').trim().toLowerCase()
+    : '';
+}
 let fails=0;
 function check(condition,message){if(!condition){console.error('ERROR: '+message);fails++;}else{console.log('OK: '+message);}}
 for(const type of ['matinal','vespertina']){
@@ -26,7 +31,7 @@ for(const type of ['matinal','vespertina']){
   check(count>=target,type+': cobertura suficiente ('+count+' articulos, umbral '+target+')');
   check(paragraphs>=minPara,type+': profundidad de texto ('+paragraphs+' parrafos, umbral '+minPara+')');
   check(citations>=Math.floor(count*.8),type+': notas con bloque de fuentes ('+citations+'/'+count+')');
-  check(body.includes('lang="es"')&&body.includes('</html>'),type+': HTML en espanol completo');
+  check(/<html\b[^>]*\s+lang\s*=\s*["']es(?:-[a-z0-9]+)*["']/i.test(body)&&/<\/html>\s*$/i.test(body),type+': HTML en espanol completo');
   check(body.includes('panorama-lectura-voz'),type+': lector de voz incorporado');
   const statement='Edición elaborada con asistencia de inteligencia artificial. PANORAMA cuenta con la supervisión general de Felipe Vidal Rojas. Las fuentes originales están enlazadas en cada nota.';
   check(body.includes(statement),type+': transparencia editorial');
@@ -58,12 +63,15 @@ for(const type of ['matinal','vespertina']){
   }else{
     try{
       const evidence=JSON.parse(fs.readFileSync(evidencePath,'utf8'));
-      const weather=Array.isArray(evidence.weather)?evidence.weather:[];
-      const unavailable=weather.filter(row=>/sin dato verificado/i.test(String(row.value||'')));
-      if(weather.length===3&&unavailable.length===3){
+      const weather=[evidence.weather,evidence.meteorologia].find(Array.isArray)??[];
+      const cities=new Set(weather.map(row=>cityKey(row?.city)));
+      const complete=weather.length===weatherCities.length&&weatherCities.every(city=>cities.has(city));
+      const unavailable=weather.filter(row=>[row?.value,row?.condition,row?.summary].some(
+        field=>typeof field==='string'&&/sin dato verificado/i.test(field)));
+      if(complete&&unavailable.length===weatherCities.length){
         console.log('::warning title=PANORAMA pronostico::'+type+': tres ciudades sin datos verificados. Registrar fuentes alternativas y sus resultados; conservar datos ausentes sin inventar.');
       }
-      if(weather.length!==3){
+      if(!complete){
         console.log('::warning title=PANORAMA servicio::'+type+': respaldo meteorologico sin tres ciudades normalizadas.');
       }
     }catch(error){

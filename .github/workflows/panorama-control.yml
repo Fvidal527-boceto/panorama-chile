@@ -18,8 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: '24'
       - name: Verificar portada y lector
@@ -36,7 +36,7 @@ jobs:
         run: node tests/panorama-visual.cjs
       - name: Guardar capturas de inspeccion
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: panorama-capturas
           path: ${{ runner.temp }}/panorama-capturas/*.png
