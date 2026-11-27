@@ -1,0 +1,158 @@
+{
+  "fecha": "2026-11-27",
+  "tipo": "matinal",
+  "zona_horaria": "America/Santiago",
+  "meteorologia": [
+    {
+      "city": "Santiago",
+      "max": 31,
+      "condition": "Despejado en la tarde",
+      "provider": "DMC vía Weather Chile",
+      "url": "https://weatherchile.app/ciudad/stgoc",
+      "fecha": "2026-11-27",
+      "periodo": "Máxima diaria · tarde de 12:00 a 18:00",
+      "unidad": "°C",
+      "emision": "2026-11-27T05:43:00-03:00",
+      "tipo": "pronóstico",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    },
+    {
+      "city": "Concepción",
+      "max": 22,
+      "condition": "Nubosidad parcial al mediodía",
+      "provider": "Meteored / TiempoChile",
+      "url": "https://duplos.cl/actualidad/tiempo-chile-viernes-27-noviembre-2026-temperaturas-15-ciudades/287375/2026/11/27/",
+      "fuente_condicion": "https://tiempochile.cl/tiempo/concepcion/",
+      "fecha": "2026-11-27",
+      "periodo": "Máxima diaria · cielo a las 12:00",
+      "unidad": "°C",
+      "tipo": "pronóstico",
+      "evidencia": "Duplos registra 22 °C de máxima con referencia a Meteored/ECMWF. TiempoChile registra nubosidad parcial a las 12:00. Weather Chile devolvió una ficha del 24 al abrirla y se descartó.",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    },
+    {
+      "city": "Casablanca",
+      "max": 27,
+      "min": 15,
+      "condition": "Nubes y claros",
+      "provider": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "fecha": "2026-11-27",
+      "periodo": "Día completo · Región de Valparaíso",
+      "unidad": "°C",
+      "tipo": "pronóstico",
+      "contraste": "https://www.tiempo.com/casablanca_chile-l18194.htm",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    }
+  ],
+  "intentos_meteorologicos": [
+    {
+      "provider": "DMC",
+      "url": "https://www.meteochile.gob.cl/PortalDMC-web/index.xhtml",
+      "resultado": "La portada consultada no expuso la tabla local. Se verificó Santiago con su pronóstico redactado vía Weather Chile.",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    },
+    {
+      "provider": "Yr/MET Norway",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-3871336/Chile/Santiago%20Metropolitan/Provincia%20de%20Santiago/Santiago",
+      "resultado": "Acceso de consulta bloqueado.",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    },
+    {
+      "provider": "Yr/MET Norway",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-3893894/Chile/Biobio/Provincia%20de%20Concepci%C3%B3n/Concepci%C3%B3n",
+      "resultado": "Consulta restringida.",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    },
+    {
+      "provider": "Yr/MET Norway",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-3896410/Chile/Regi%C3%B3n%20de%20Valpara%C3%ADso/Provincia%20de%20Valpara%C3%ADso/Casablanca",
+      "resultado": "Consulta restringida.",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    }
+  ],
+  "economia": [
+    {
+      "name": "Dólar observado",
+      "value": 1037.91,
+      "shown": "$1.037,91",
+      "unidad": "CLP/USD",
+      "vigencia": "2026-11-27",
+      "provider": "Tesorería / SII",
+      "url": "https://www.sii.cl/valores_y_fechas/dolar/dolar2026.htm",
+      "contraste": "https://tesoreria.cl/ValorCambio/ValorMonedaCambio?DV=0&RUT=0",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    },
+    {
+      "name": "UF",
+      "value": 41419.22,
+      "shown": "$41.419,22",
+      "unidad": "CLP/UF",
+      "vigencia": "2026-11-27",
+      "provider": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    },
+    {
+      "name": "Euro",
+      "value": 1138.56,
+      "shown": "$1.138,56",
+      "unidad": "CLP/EUR",
+      "vigencia": "2026-11-27",
+      "provider": "Banco Central vía Indicadores.cl",
+      "url": "https://indicadores.cl/euro/",
+      "contraste": "https://valorpeso.cl/euro",
+      "fuente_primaria": "https://si3.bcentral.cl/Bdemovil/BDE/IndicadoresDiarios",
+      "observacion": "El tablero del Banco Central devolvió HTTP 500; valor fechado coincidente en dos republicaciones.",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    },
+    {
+      "name": "UTM",
+      "value": 72440,
+      "shown": "$72.440",
+      "unidad": "CLP/UTM",
+      "vigencia": "2026-11",
+      "provider": "SII",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "consultado": "2026-11-27T10:17:14-03:00"
+    }
+  ],
+  "consultado": "2026-11-27T10:17:14-03:00",
+  "fotografias": [
+    {
+      "autor": "ShootingStarMax",
+      "origen": "https://commons.wikimedia.org/wiki/File:Edificio_del_Congreso_Nacional_de_Chile_(Valpara%C3%ADso).jpg",
+      "licencia": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "uso": "archivo",
+      "ubicacion": "portada",
+      "transformacion": "recorte y reducción",
+      "bytes_webp": 157596,
+      "ancho": 900,
+      "alto": 630
+    },
+    {
+      "autor": "W. Bulach",
+      "origen": "https://commons.wikimedia.org/wiki/File:00_125_2524_Punta_Arenas_-_S%C3%BCdamerika_Chile.jpg",
+      "licencia": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "uso": "archivo",
+      "ubicacion": "interior",
+      "transformacion": "reducción",
+      "bytes_webp": 71802,
+      "ancho": 900,
+      "alto": 598
+    }
+  ],
+  "control_visual": {
+    "navegador": "Chromium",
+    "anchos_px": [
+      1440,
+      390,
+      320
+    ],
+    "fotografias_visibles": 2,
+    "ilustraciones": 0,
+    "cronologias_html": 1,
+    "portada_y_noticias_revisadas": true,
+    "controles_voz_verificados": true
+  }
+}
