@@ -1,0 +1,143 @@
+{
+  "fecha": "2026-11-27",
+  "tipo": "vespertina",
+  "consulta": "2026-11-27T15:00:18.819-03:00",
+  "zona": "America/Santiago",
+  "comparacion_matinal": {
+    "fecha": "2026-11-27",
+    "revision": "2026-11-27T14:06:57-03:00",
+    "url": "ediciones/2026-11-27/matinal.html",
+    "novedad_posterior": "CONAF 14:30 vs actualización matinal 14:06",
+    "limitacion": "Otras notas nuevas respecto del contenido matinal; no todas tienen hora de publicación posterior comprobada."
+  },
+  "weather": [
+    {
+      "ciudad": "Santiago",
+      "extremos": "32° / 14°",
+      "condicion": "Nubes y claros",
+      "fecha": "2026-11-27",
+      "proveedor": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Santiago%2Bde%2BChile-America%2BSur-Chile-Region%2BMetropolitana%2Bde%2BSantiago-SCEL-1-18578.html",
+      "periodo": "día completo, modelo",
+      "consulta": "2026-11-27T15:00:18.819-03:00"
+    },
+    {
+      "ciudad": "Concepción",
+      "extremos": "22° / 13°",
+      "condicion": "Niebla matinal; nubes y claros en la tarde",
+      "fecha": "2026-11-27",
+      "proveedor": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Concepcion-America%2BSur-Chile-Biobio-SCIE-1-18576.html",
+      "periodo": "día completo, modelo",
+      "consulta": "2026-11-27T15:00:18.819-03:00"
+    },
+    {
+      "ciudad": "Casablanca (Valparaíso)",
+      "extremos": "27° / 15°",
+      "condicion": "Nubes y claros",
+      "fecha": "2026-11-27",
+      "proveedor": "Meteored",
+      "url": "https://www.meteored.cl/tiempo-en_Casablanca-America%2BSur-Chile-Valparaiso--1-18194.html",
+      "periodo": "día completo, modelo",
+      "consulta": "2026-11-27T15:00:18.819-03:00"
+    }
+  ],
+  "intentos_meteo": [
+    {
+      "proveedor": "DMC",
+      "urls": [
+        "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/330021",
+        "https://climatologia.meteochile.gob.cl/application/diarioe/graficoMeteogramaEstacion/360019",
+        "https://weatherchile.app/ciudad/stgoc",
+        "https://weatherchile.app/ciudad/casablanca"
+      ],
+      "resultado": "Meteogramas disponibles y máximo de Santiago vía DMC; Casablanca sin fecha vigente. Se eligió fuente alternativa con máximas y mínimas diarias fechadas."
+    },
+    {
+      "proveedor": "Yr/MET Norway",
+      "resultado": "Búsqueda bloqueada por robots.txt"
+    },
+    {
+      "proveedor": "Open-Meteo",
+      "url": "https://api.open-meteo.com/v1/forecast?latitude=-33.45,-36.82,-33.32&longitude=-70.67,-73.05,-71.41&daily=weather_code,temperature_2m_max,temperature_2m_min&timezone=America%2FSantiago&forecast_days=1",
+      "resultado": "URL no accesible mediante búsqueda web"
+    },
+    {
+      "proveedor": "Meteored",
+      "resultado": "Tres pronósticos del 27 verificados"
+    }
+  ],
+  "indicators": [
+    {
+      "indicador": "Dólar observado",
+      "valor": "$1.037,91",
+      "vigencia": "27 nov. · CLP/USD",
+      "url": "https://www.bcentral.cl/inicio",
+      "proveedor": "BCCh",
+      "consulta": "2026-11-27T15:00:18.819-03:00"
+    },
+    {
+      "indicador": "UF",
+      "valor": "$41.419,22",
+      "vigencia": "27 nov. · CLP/UF",
+      "url": "https://www.sii.cl/valores_y_fechas/uf/uf2026.htm",
+      "proveedor": "SII",
+      "consulta": "2026-11-27T15:00:18.819-03:00"
+    },
+    {
+      "indicador": "Euro",
+      "valor": "$1.138,56",
+      "vigencia": "27 nov. · CLP/EUR",
+      "url": "https://www.bcentral.cl/inicio",
+      "proveedor": "BCCh",
+      "consulta": "2026-11-27T15:00:18.819-03:00"
+    },
+    {
+      "indicador": "UTM",
+      "valor": "$72.440",
+      "vigencia": "Noviembre 2026",
+      "url": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+      "proveedor": "SII",
+      "consulta": "2026-11-27T15:00:18.819-03:00"
+    }
+  ],
+  "nota_indicadores": "BCCh fecha 27 confirma dólar y euro. SII tabla dólar recuperada no presenta datos posteriores al 18; se privilegia BCCh. UF y UTM SII confirmados.",
+  "controles": {
+    "articulos": 12,
+    "parrafos": 53,
+    "portada": 4,
+    "fotografias": 3,
+    "infografias": 3,
+    "anclas": "OK",
+    "css": "extraído de vespertina anterior",
+    "voz_sha": "0195d79e3d84106d9bc1d07bbd388db7fd0fa7cf",
+    "creditos": "fichas de Commons verificadas; carga y peso de imágenes remotas no comprobados",
+    "movil": "reglas CSS heredadas",
+    "visual": "no revisado en navegador",
+    "fuentes": "consultas web fechadas; Black Friday EE.UU. proyección previa, no resultado",
+    "limites": "Sin inspección visual ni prueba audible; imágenes de archivo identificadas."
+  },
+  "fotos": [
+    {
+      "archivo": "Brigadista Conaf.jpg",
+      "descripcion": "Brigadista de CONAF en Villa Alemana, enero de 2010. Archivo; no retrata los focos de hoy.",
+      "autor": "Рафаэль",
+      "licencia": "https://creativecommons.org/licenses/by/2.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Brigadista_Conaf.jpg"
+    },
+    {
+      "archivo": "Las Ventanas 20171108 Codelco fRF01.jpg",
+      "descripcion": "Instalaciones de Ventanas, región de Valparaíso, 8 de noviembre de 2017. Archivo; no muestra los nombramientos actuales.",
+      "autor": "Rodrigo Fernández",
+      "licencia": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:Las_Ventanas_20171108_Codelco_fRF01.jpg"
+    },
+    {
+      "archivo": "New Zealand House of Representatives debating chamber.jpg",
+      "descripcion": "Sala de la Cámara de Representantes de Nueva Zelanda, 13 de octubre de 2016. Archivo; no muestra la composición de 2026.",
+      "autor": "Office of the Clerk of the House of Representatives of New Zealand",
+      "licencia": "https://creativecommons.org/licenses/by/4.0/",
+      "url": "https://commons.wikimedia.org/wiki/File:New_Zealand_House_of_Representatives_debating_chamber.jpg"
+    }
+  ]
+}
